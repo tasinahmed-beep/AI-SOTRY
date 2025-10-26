@@ -20,9 +20,9 @@
 # These apply to specific deploy contexts (see Netlify docs).
 
 [context.production]
-  # Example: extra env for prod (keep secrets in UI)
+  # Production context - don't set NODE_ENV here as it prevents devDependencies installation
   [context.production.environment]
-    NODE_ENV = "production"
+    # Leave empty or add other non-NODE_ENV variables
 
 [context.deploy-preview]
   # Example: preview-specific vars
