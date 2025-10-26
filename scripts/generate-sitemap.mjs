@@ -4,8 +4,8 @@ import path from 'node:path';
 
 const ROOT = process.cwd();
 const GALLERY_DIR = path.join(ROOT, 'src', 'data', 'gallery');
-const OUT_PATH = path.join(ROOT, 'dist', 'sitemap.xml');
-const SITE_URL = process.env.SITE_URL || process.env.VITE_SITE_URL || 'https://example.com';
+const OUT_PATH = path.join(ROOT, 'public', 'sitemap.xml');
+const SITE_URL = process.env.SITE_URL || process.env.VITE_SITE_URL || 'https://tasin.me';
 
 async function exists(p){ try{ await fs.access(p); return true;} catch { return false; } }
 
