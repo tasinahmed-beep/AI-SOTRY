@@ -64,7 +64,7 @@ async function prerender() {
     console.log('Prerender', url);
     await page.goto(url, { waitUntil: 'networkidle0' });
     // allow client-side meta/JSON-LD to attach
-    await page.waitForTimeout(150);
+    await new Promise(resolve => setTimeout(resolve, 150));
     const html = await page.content();
     const outDir = path.join(DIST, route);
     await fs.mkdir(outDir, { recursive: true });
