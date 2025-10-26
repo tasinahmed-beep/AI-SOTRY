@@ -1,0 +1,22 @@
+{
+  "id": "3132770273938316",
+  "file": "gemini-3132770273938316.png",
+  "title": "The Scholar's Dragon Tea Ceremony",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, Donghua Chinese animation style, soft studio lighting. A handsome young Chinese man (barista, scholar) wearing elegant light green and white Hanfu robes, concentrating as he pours milk from a shiny copper pitcher into a white ceramic cup. The latte art dramatically forms a glowing, intricate white Chinese dragon swirling out of the foam and steam. Foreground features a dark wooden table with a delicate teacup and white teapots. Background shows traditional Chinese pavilion architecture, teal tiled roofs, hanging yellow lanterns, and pink cherry blossom branches framing the scene. Subtle traditional Chinese painting background elements, serene atmosphere.",
+  "negativePrompt": "worst quality, low quality, normal quality, lowres, blurry, error, jpeg artifacts, ugly, gross, text, signature, watermark, missing fingers, extra limbs, bad anatomy, deformed, monochrome, western style, modern clothing, ugly face.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua",
+    "Hanfu",
+    "Latte Art",
+    "Chinese Dragon",
+    "Tea Ceremony",
+    "Traditional Architecture",
+    "Cherry Blossoms",
+    "Barista",
+    "Scholar"
+  ]
+}

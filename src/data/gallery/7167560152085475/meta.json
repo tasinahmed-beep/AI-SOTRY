@@ -1,0 +1,23 @@
+{
+  "id": "7167560152085475",
+  "file": "gemini-7167560152085475.png",
+  "title": "Spotlight Solitude: The Phantom Rehearsal",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, Modern Anime style illustration of a solitary young woman violinist with long dark hair, wearing a flowing white sundress with a light blue ribbon, standing center stage on a polished wooden floor. She is passionately playing the violin. Dramatic cinematic spotlight from an ornate chandelier above casts a strong, ethereal circle of light on her. The grand theater audience area is completely empty, showing rows of plush red velvet seats stretching into the darkness. Glowing blue musical notes and magical dust motes float around the performer. Majestic opera house architecture, dark atmosphere, full body shot, deep depth of field, dramatic shadows.",
+  "negativePrompt": "worst quality, low quality, distortion, blurry, deformed, poorly drawn hands, missing limbs, bad anatomy, signature, watermark, cropped, amateur, low resolution, extra fingers, multiple heads, border",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime",
+    "Violinist",
+    "Empty Theater",
+    "Spotlight",
+    "Dramatic Lighting",
+    "Music Notes",
+    "Opera House",
+    "Solitude",
+    "White Dress",
+    "16:9"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1972115241168322",
+  "file": "gemini-1972115241168322.png",
+  "title": "Sky Sentinel: Sunrise over the Cloud Sea",
+  "prompt": "(masterpiece), (best quality), ultra-detailed 2D Anime background art of a massive medieval fortress castle perched on a jagged mountain spire, rising dramatically above an infinite sea of dense fog and rolling clouds. Sunrise golden hour lighting, soft volumetric shadows, cinematic wide shot (16:9 aspect ratio). Distant mountain peaks piercing the mist. Sky gradient featuring vibrant orange, pink, and deep twilight blue clouds. Two seagulls flying in the foreground mist. Breathtaking scenic view, Ghibli inspired.",
+  "negativePrompt": "lowres, deformed, blurry, worst quality, jpeg artifacts, extra limbs, bad anatomy, missing fingers, watermark, signature, text, monochrome, sketch, amateur, noise, cartoonish, 3D render",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Castle",
+    "Medieval",
+    "Anime Scenery",
+    "Cloud Sea",
+    "Sunrise",
+    "Mountain Fortress",
+    "Fog Valley",
+    "Fantasy Landscape",
+    "Ghibli Style"
+  ]
+}

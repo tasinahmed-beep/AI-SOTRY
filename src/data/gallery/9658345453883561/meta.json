@@ -1,0 +1,23 @@
+{
+  "id": "9658345453883561",
+  "file": "gemini-9658345453883561.png",
+  "title": "Zero Gravity Sentinel",
+  "prompt": "(masterpiece), best quality, highly detailed illustration, Modern Anime style, an astronaut in a detailed white and blue futuristic spacesuit floating weightlessly outside or pressed against a huge, circular space station window, dynamic vertical composition (9:16). The view through the viewport shows the curved Earth covered in blue oceans and white clouds below, set against a deep space background filled with brilliant stars and a subtle blue nebula. Include glowing holographic displays and HUD elements floating near the astronaut. Detailed space station interior framing visible in the foreground, cinematic lighting, volumetric light.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, low contrast, text, low quality, worst quality, monochrome.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "sci-fi",
+    "astronaut",
+    "space station",
+    "zero gravity",
+    "Earth view",
+    "anime illustration",
+    "futuristic",
+    "nebula",
+    "vertical orientation",
+    "space suit"
+  ]
+}

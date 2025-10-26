@@ -1,0 +1,22 @@
+{
+  "id": "1300575501311562",
+  "file": "gemini-1300575501311562.png",
+  "title": "Riding the Jade Dragon Wave at Sunset",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, a lone male surfer performing a cutback on a massive, dynamic, curling emerald green wave, the dark water conceals swirling gold Chinese dragons (Long) within the wave face and foam, epic sunset lighting, gigantic bright setting sun reflecting on the sea, dramatic, highly stylized orange and magenta clouds, distant silhouette of a traditional Chinese coastal city with pagodas on the horizon, two traditional dragon boats on the water, vibrant colors, Donghua Chinese art style, traditional Chinese illustration, Wuxia aesthetic.",
+  "negativePrompt": "lowres, bad quality, worst quality, error, distortion, blurry, deformed, mutated hands, multiple limbs, extra feet, watermark, text, signature, missing details, ugly, poorly drawn face, disfigured, monochrome, photo realism, cartoon.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Chinese Mythology",
+    "Sunset",
+    "Dragon Wave",
+    "Donghua",
+    "Stylized Illustration",
+    "Wuxia",
+    "Pagoda",
+    "Epic Scene"
+  ]
+}

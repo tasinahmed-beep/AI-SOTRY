@@ -1,0 +1,23 @@
+{
+  "id": "1211547935822385",
+  "file": "gemini-1211547935822385.png",
+  "title": "Neon Echoes in Neo-Tokyo Alley",
+  "prompt": "(masterpiece), best quality, highly detailed, 3D Anime style, cinematic volumetric light, wide shot (16:9), a deep, atmospheric cyberpunk alleyway at night. The narrow passage is lined with towering, grimy futuristic buildings covered in pipes and exposed wires. Intense volumetric fog and steam rise from the pavement, illuminated by glowing magenta, cyan, and electric blue neon signs featuring Japanese text and icons, including a prominent glowing cat logo sign and a \"NEO-TOKYO RAMEN\" sign. The wet, reflective ground mirrors the vibrant neon light. Three silhouetted figures walk away from the viewer holding black umbrellas. A detailed drone/quadcopter hovers high above the narrow street.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, poorly drawn, deformed, missing limbs, tiling, out of frame, simple background, bright sunlight.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cyberpunk",
+    "Neon Noir",
+    "Alleyway",
+    "Neo-Tokyo",
+    "Sci-fi",
+    "Volumetric Fog",
+    "Rainy Street",
+    "Drone",
+    "3D Render",
+    "Japanese Aesthetic"
+  ]
+}

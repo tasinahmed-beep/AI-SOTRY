@@ -1,0 +1,23 @@
+{
+  "id": "1188448619684509",
+  "file": "gemini-1188448619684509.png",
+  "title": "Storm over the Sentinel",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 comic book panel illustration, a dramatic scene of a red and white striped lighthouse on a rugged, dark green cliff, engulfed by a ferocious thunderstorm, heavy rain streaks, swirling ominous dark clouds, bright blue lightning bolts arcing across the sky and surrounding the structure, powerful crashing ocean waves below, dynamic composition, (thick black ink outlines:1.2), vibrant flat coloring, high contrast, featuring stylized comic book sound effects (CRACK!, BOOOOOM!, WHIZZ!) integrated into the environment, wide shot, cinematic lighting, Comic Book style, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, normal quality, low quality, blurry, text, signature, watermark, logo, easynegative, photo, photorealism, poorly drawn hands, deformed, monochrome, 3d render",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "lighthouse",
+    "storm",
+    "lightning",
+    "comic book art",
+    "graphic novel",
+    "ocean",
+    "cliff",
+    "thunderstorm",
+    "dynamic action",
+    "high contrast"
+  ]
+}

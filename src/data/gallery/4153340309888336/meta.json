@@ -1,0 +1,23 @@
+{
+  "id": "4153340309888336",
+  "file": "gemini-4153340309888336.png",
+  "title": "The Spirited Pizza Toss",
+  "prompt": "(masterpiece), (best quality), ultra detailed, sharp focus, 2D Anime style, manga illustration, full-body vertical portrait (9:16), vibrant colors. An energetic young male pizzaiolo (chef) wearing a white chef uniform and red checkered bandana, standing confidently in front of a traditional brick wood-fired oven. He is skillfully tossing a perfectly stretched pizza dough high into the air. Detailed wooden table in the foreground with bowls of fresh ingredients: tomato sauce, shredded cheese, sliced pepperoni, basil leaves, and ripe tomatoes. Warm interior lighting, expressive lineart, thick outlines.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, watermark, grainy, signature, cut off, draft, 3d render, low quality, worst quality, realistic, monochrome",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pizza",
+    "Chef",
+    "Pizzaiolo",
+    "Anime Art",
+    "Brick Oven",
+    "Cooking",
+    "Food Illustration",
+    "Kitchen",
+    "Dough Toss",
+    "Manga Style"
+  ]
+}

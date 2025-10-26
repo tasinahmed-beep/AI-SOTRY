@@ -1,0 +1,23 @@
+{
+  "id": "5725853856475975",
+  "file": "gemini-5725853856475975.png",
+  "title": "Grandma's Warm Hearth Bakery",
+  "prompt": "(masterpiece), (best quality), highly detailed, 3D Anime style render of a cute, heartwarming grandmother (elderly woman) happily kneading soft bread dough on a rustic wooden countertop. She has soft gray hair tied in a bun, wearing a cozy knitted sweater and a floral apron. Huge expressive brown eyes, rosy cheeks, joyful expression. Warm golden hour sunlight streams from a curtained kitchen window, illuminating dust motes. Cozy rustic kitchen background, exposed wood beams, a working stone fireplace with a glowing fire and a bread oven in the distance. Finished baked goods, flour bowls, and milk pitcher visible on the table. Vertical composition (9:16 aspect ratio), volumetric lighting, soft shadows, extremely detailed texture.",
+  "negativePrompt": "(low quality), (worst quality), blurry, text, watermark, signature, mutated, deformed, extra fingers, missing limbs, bad anatomy, grayscale, monochrome, sketch, painting, drawing, bad hands, poorly drawn face",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "3D Anime",
+    "Kneading Dough",
+    "Rustic",
+    "Warm Lighting",
+    "Domestic Scene",
+    "Happiness",
+    "Food Preparation"
+  ]
+}

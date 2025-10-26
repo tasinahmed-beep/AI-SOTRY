@@ -1,0 +1,23 @@
+{
+  "id": "1430385471507669",
+  "file": "gemini-1430385471507669.png",
+  "title": "Grandma's Warm Hearth and Homemade Bread",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning 3D cinematic render, Pixar style animation. An adorable, joyful, plump grandmother with gray hair tied up in a bun, wearing spectacles and a floral apron, smiling radiantly directly at the viewer. She is kneading a large ball of dough on a rustic wooden baking table, surrounded by ingredients and freshly baked bread loaves. The setting is a deeply cozy, old-fashioned kitchen with wooden beams and textured plaster walls. In the background, a traditional brick wood-fired oven glows brightly with roaring fire. Soft, warm golden hour volumetric lighting streams from the window on the left. A fluffy, sleeping orange tabby cat rests patiently on a small wooden stool beside the table. Rustic kitchen decor, highly detailed textures, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, signature, watermark, bad hands, deformed anatomy, blurry, ugly, jpeg artifacts, worst quality, multiple characters, poorly drawn, monochrome, tiling.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar",
+    "3D render",
+    "grandmother",
+    "baking",
+    "cozy kitchen",
+    "orange cat",
+    "rustic interior",
+    "wood oven",
+    "warm cinematic lighting",
+    "detailed character"
+  ]
+}

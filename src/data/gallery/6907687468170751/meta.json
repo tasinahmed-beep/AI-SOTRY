@@ -1,0 +1,23 @@
+{
+  "id": "6907687468170751",
+  "file": "gemini-6907687468170751.png",
+  "title": "Zen Flow in the Azure Mountains",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, 8K wallpaper, A serene young monk centered, meditating in the lotus position (Dhyana Mudra), sitting atop a large mossy rock in a flowing stream. Powerful, cascading waterfall dominating the background, framed by steep, rugged cliffs in shades of teal and jade. Ancient, twisted pine trees (bonsai style) grow on the rocky banks, framing the scene. Stylized Chinese rui clouds drift through the peaks. Traditional Donghua Chinese art style, hand-drawn texture, strong ink wash influence, vibrant water effects, spiritual glow around the monk's head. Aspect ratio 16:9.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, low resolution, jpeg artifacts, signature, watermark, text, cropped, multiple figures, distorted hands, out of frame, ugly.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Shan Shui",
+    "Donghua",
+    "Chinese Art",
+    "Pine Trees",
+    "Zen",
+    "Spiritual",
+    "16:9"
+  ]
+}

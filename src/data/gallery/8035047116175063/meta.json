@@ -1,0 +1,23 @@
+{
+  "id": "8035047116175063",
+  "file": "gemini-8035047116175063.png",
+  "title": "The Saffron Path: Desert Caravan at Golden Hour",
+  "prompt": "(masterpiece), (best quality), ultra-realistic, photorealistic detailed professional photograph, a stunning vertical shot (9:16) of a desert caravan. A long line of ten fully saddled dromedary camels, heavily laden with cargo, led by a solitary Bedouin man in traditional white robes, traversing enormous, vivid red-orange sand dunes. Intense golden hour lighting, deep shadows emphasizing the wavy ripple textures of the sand in the foreground. Clear, pastel blue sky gradient overhead, with distant, rugged, flat-topped mesas on the horizon. Cinematic lighting, high contrast, 8K resolution.",
+  "negativePrompt": "deformed, blurry, low resolution, poorly drawn, distorted, amateur, cartoon, (worst quality, low quality), watermark, signature, text, extra limbs, incorrect number of camels",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Desert",
+    "Caravan",
+    "Camel",
+    "Red Dunes",
+    "Golden Hour",
+    "Wadi Rum",
+    "Travel Photography",
+    "Nomad",
+    "Arid",
+    "Vertical Shot"
+  ]
+}

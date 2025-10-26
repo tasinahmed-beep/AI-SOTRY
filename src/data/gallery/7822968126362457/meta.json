@@ -1,0 +1,23 @@
+{
+  "id": "7822968126362457",
+  "file": "gemini-7822968126362457.png",
+  "title": "Concrete Concerto",
+  "prompt": "(masterpiece), (best quality), highly detailed, photorealistic 16:9 cinematic shot, a beautiful young female violinist wearing a formal deep blue gown and a black blazer, passionately playing a wooden violin, standing centered on a cobblestone sidewalk under a massive concrete city bridge archway, pillars covered in graffiti, an open antique brown violin case on the ground in front of her (busking), gritty urban environment, surrounded by towering modern skyscrapers, an elevated train passing rapidly on a steel structure in the background, strong golden hour backlighting, dramatic rim lighting, soft volumetric atmospheric dust, deep depth of field, film aesthetic, 8k resolution.",
+  "negativePrompt": "low resolution, ugly, poorly drawn, extra limbs, deformed hands, missing fingers, poor anatomy, bad composition, watermark, signature, blur, blurry, cropped, abstract, sketch, cartoon, anime, tiling, worst quality, out of frame",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Violinist",
+    "Busking",
+    "Urban",
+    "Cityscape",
+    "Photorealistic",
+    "Golden Hour",
+    "Concrete Bridge",
+    "Street Musician",
+    "Cinematic",
+    "Dramatic Lighting"
+  ]
+}

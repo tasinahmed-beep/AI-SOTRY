@@ -1,0 +1,23 @@
+{
+  "id": "3113226940479293",
+  "file": "gemini-3113226940479293.png",
+  "title": "The Serene Bamboo Eater of the Misty Mountains",
+  "prompt": "(masterpiece), best quality, highly detailed Donghua Chinese illustration, 16:9 aspect ratio. A cheerful, fluffy giant panda sits comfortably amidst lush green moss and thick bamboo stalks, happily eating a shoot of bamboo. The setting is a magical, misty Chinese forest (Xianxia/Wuxia aesthetic). In the midground, towering stylized mountains feature a dramatic waterfall cascading into a stream. Swirling, traditional Qingyun clouds with subtle gold outlines frame the scene, enhancing the ethereal atmosphere. Soft diffused sunlight filters through the canopy. Vibrant, stylized flora and thick forest ground cover. Intricate details, cinematic lighting, vivid colors.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, distorted, watermark, signature, ugly, grainy, sketch, simple background, blurry, disconnected hands, missing limbs",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Panda",
+    "Bamboo Forest",
+    "Donghua Animation",
+    "Chinese Traditional Art",
+    "Misty Landscape",
+    "Waterfall",
+    "Qingyun Clouds",
+    "Cute",
+    "Illustration",
+    "16:9"
+  ]
+}

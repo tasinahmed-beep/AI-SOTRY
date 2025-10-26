@@ -1,0 +1,23 @@
+{
+  "id": "9263824271501086",
+  "file": "gemini-9263824271501086.png",
+  "title": "Dragon's Breath Elixir",
+  "prompt": "(masterpiece), best quality, ultra-detailed, cinematic lighting, a close-up shot of a person (cultivator/sage) dressed in rich, detailed Xianxia robes pouring milk from an elaborate bronze pitcher shaped like a Chinese dragon head. The milk forms flowing, ethereal streams of latte art or spiritual energy (Qi) above a delicate white porcelain cup. The cup rests on a floating stone island covered in moss, pink lotus flowers, and ancient, gnarled bonsai trees. In the majestic 16:9 background: a massive Xianxia mountain range with towering cliffs, cascading waterfalls, and traditional multi-tiered Chinese temple architecture (cultivation sect palace) bathed in soft golden sunrise light and mist. Ethereal atmosphere, volumetric lighting, magical motes of light floating in the air. (16:9 aspect ratio).",
+  "negativePrompt": "(worst quality), (low quality), (normal quality), low resolution, blurry, text, signature, watermark, extra fingers, deformed, bad anatomy, missing limbs, cartoon, illustration, simple background, ugly, modern setting, Western architecture, tiling",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Fantasy",
+    "Latte Art",
+    "Dragon Pitcher",
+    "Chinese Architecture",
+    "Waterfall",
+    "Lotus Flower",
+    "Bonsai",
+    "Cultivation",
+    "Ethereal"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1398832441802969",
+  "file": "gemini-1398832441802969.png",
+  "title": "Golden Hour Baking",
+  "prompt": "(masterpiece), (best quality), high resolution, ultra-detailed, photorealistic photograph, vertical aspect ratio (9:16). Dynamic close-up of a professional baker's hands sifting a fine, shimmering mist of powdered sugar through a mesh sieve onto a baking sheet full of perfectly golden, fresh croissants. Warm morning light streams brightly through a large window in the background, illuminating the sugar particles and creating atmospheric bokeh. Rustic bakery setting, wooden countertop, exposed brick wall background, professional chef uniform, shallow depth of field, volumetric lighting, food photography.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, mutated hands, missing fingers, blurry, ugly, distorted features, poorly drawn, cartoon, sketch, painting, signature, watermark, amateur, tiling.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "food photography",
+    "croissant",
+    "baking",
+    "baker",
+    "powdered sugar",
+    "rustic bakery",
+    "morning light",
+    "pastry",
+    "cinematic lighting",
+    "vertical composition"
+  ]
+}

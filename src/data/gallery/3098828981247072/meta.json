@@ -1,0 +1,23 @@
+{
+  "id": "3098828981247072",
+  "file": "gemini-3098828981247072.png",
+  "title": "Azure Flame Street Vendor in the Celestial City",
+  "prompt": "(masterpiece), best quality, highly detailed, intricate illustration, Fantasy Xianxia style, 16:9 aspect ratio. A handsome male street vendor wearing elaborate dark blue Hanfu robes with flowing ribbons and a conical straw hat (douli), standing under a traditional Chinese market stall on a heavy rainy night. He is grilling golden corn cobs over a brazier fueled by ethereal, glowing azure blue flames mixed with bright orange cooking fire. The wet cobblestone street reflects the lantern light and the magical fire. In the background, a busy night market street leads toward towering, mystical Xianxia architecture, including multi-tiered pagodas and ancient bridges shrouded in mist and rain. Dramatic volumetric lighting, cinematic atmosphere.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, blurry, jpeg artifacts, incomplete structures, modern vehicles, text, watermark, signature, poorly drawn hands, missing limbs, exposed skin, nude, ugly, tiling",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Fantasy",
+    "Night Market",
+    "Heavy Rain",
+    "Street Vendor",
+    "Magical Fire",
+    "Chinese Architecture",
+    "Hanfu",
+    "Pagoda",
+    "Moody"
+  ]
+}

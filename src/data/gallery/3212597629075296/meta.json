@@ -1,0 +1,22 @@
+{
+  "id": "3212597629075296",
+  "title": "Celestial Brush of the Dragon's Dawn",
+  "prompt": "(masterpiece), (best quality), highly detailed digital painting, Fantasy Xianxia style, a graceful immortal painter in flowing traditional robes standing on a bamboo scaffold, painting a massive, majestic golden Chinese dragon and a celestial winged deity mural on an ancient brick wall. The street is narrow and paved with dark cobblestones, lined with glowing red lanterns. Dramatic dawn sky with purple, pink, and orange gradients. A watchful six-tailed fox (Kitsune) companion sits beside the glowing palette on the ground. Magic emanating from the paintbrush, illuminating the scene. Traditional Chinese architecture background, high contrast lighting, volumetric light, (9:16 aspect ratio).",
+  "negativePrompt": "ugly, deformed, disfigured, low quality, worst quality, jpeg artifacts, blurry, text, watermark, cropped, signature, poorly drawn face, mutated hands, multiple limbs, modern elements, grayscale, monochrome.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fantasy Xianxia",
+    "Mural Painting",
+    "Chinese Dragon",
+    "Celestial Being",
+    "Dawn Scene",
+    "Six-Tailed Fox",
+    "Traditional Chinese Art",
+    "Immortal Painter",
+    "Vertical Composition",
+    "Digital Painting"
+  ]
+}

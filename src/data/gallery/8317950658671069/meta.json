@@ -1,0 +1,23 @@
+{
+  "id": "8317950658671069",
+  "file": "gemini-8317950658671069.png",
+  "title": "Springtime Bloom at the Hidden Temple Pond",
+  "prompt": "(masterpiece), (best quality), absurdres, highly detailed, 9:16 aspect ratio, 2D anime style, soft shading, volumetric lighting, tranquil Japanese garden scene, clear koi pond, numerous vibrant Nishikigoi (red and white koi fish) swimming beneath the surface, strong circular water ripples, delicate pink sakura petals falling onto the water surface, floating lily pads, mossy rocks surrounding the pond edge, traditional red arched bridge (Taiko bashi) spanning the water, dense bamboo stalks framing the foreground, misty background revealing a subtle traditional three-tiered pagoda structure, spring atmosphere, pastel colors, diffused sunlight.",
+  "negativePrompt": "low quality, jpeg artifacts, blurry, text, watermark, deformed, ugly, extra limbs, signature, cropped, sketch, grayscale, worst quality, tiling, poorly drawn face, poorly drawn hands, mutant, bad anatomy, monochrome",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Koi fish",
+    "Japanese garden",
+    "Sakura",
+    "Cherry blossoms",
+    "Anime background",
+    "Arched bridge",
+    "Bamboo",
+    "Water ripples",
+    "Pagoda",
+    "Tranquil"
+  ]
+}

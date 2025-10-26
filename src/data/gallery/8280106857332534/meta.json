@@ -1,0 +1,23 @@
+{
+  "id": "8280106857332534",
+  "file": "gemini-8280106857332534.png",
+  "title": "Sakura Citadel Above the Mist",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D Anime background illustration, A colossal medieval fortress and castle towering on a rugged mountain peak, rising dramatically above a vast sea of clouds and foggy valley. A majestic dragon flies near the castle towers. Foreground features cliffs adorned with vibrant pink cherry blossom trees (sakura). Soft, ethereal sunrise lighting, golden hour, volumetric fog, high fantasy setting, epic scale, clean linework, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, bad anatomy, jpeg artifacts, noise, text, watermark, signature, ugly, error, extra limbs, poorly drawn face, disfigured, monochrome, poorly rendered.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Castle",
+    "Fantasy",
+    "Sea of Clouds",
+    "Mountain Peak",
+    "Dragon",
+    "Sakura",
+    "Anime Background",
+    "Sunrise",
+    "Medieval Architecture",
+    "Vertical Composition"
+  ]
+}

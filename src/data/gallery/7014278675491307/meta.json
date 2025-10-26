@@ -1,0 +1,22 @@
+{
+  "id": "7014278675491307",
+  "file": "gemini-7014278675491307.png",
+  "title": "Matcha Serenity: A Pixar Garden Ceremony",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k, cinematic lighting, Pixar Style 3D rendering of a close-up traditional Japanese matcha tea ceremony set. The set includes a stylized, smooth green and red clay teapot, three steaming tea cups filled with matcha, a bamboo whisk (chasen), and a small wooden spoon with green matcha powder. The items are perfectly arranged on a slatted wooden bamboo table. In the background, a soft focus, lush stylized Japanese garden featuring rolling green hills, a winding river, and numerous pink cherry blossom (sakura) trees. Soft, volumetric golden hour lighting. Deep depth of field, 9:16 vertical aspect ratio, cozy atmosphere.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, poorly drawn eyes, worst quality, low quality, out of focus, blurry, deformed, grainy, text, watermark, signature, mutated, disfigured, bokeh artifacts",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Tea Ceremony",
+    "Matcha",
+    "Japanese Garden",
+    "Sakura",
+    "Golden Hour",
+    "Still Life",
+    "3D Animation",
+    "Stylized"
+  ]
+}

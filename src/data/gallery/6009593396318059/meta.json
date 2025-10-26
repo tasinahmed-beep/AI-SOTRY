@@ -1,0 +1,23 @@
+{
+  "id": "6009593396318059",
+  "file": "gemini-6009593396318059.png",
+  "title": "Dynamic Ripples in the Cherry Blossom Pond",
+  "prompt": "(masterpiece), best quality, detailed comic book panel illustration, (9:16 vertical aspect ratio): A vibrant Japanese koi pond scene. The water is bright blue with complex concentric ripples and dynamic splashes, characteristic of Comic Book art. Three detailed orange and white (Kohaku) koi fish are swimming rapidly near the surface. Numerous pink and red cherry blossom petals float on the water, alongside large green lily pads and blooming white water lilies. The background features lush bamboo stalks and heavily blooming cherry trees. Use thick black outlines, dynamic action lines, vibrant flat colors with visible texture, and include comic book sound effects text (SFX) like 'SPLASH' or 'RIPPLE' integrated into the scene. High-angle perspective looking down into the pond.",
+  "negativePrompt": "low quality, bad anatomy, deformed, poorly drawn hands, grayscale, monochrome, blurry, watermark, signature, text error, missing limbs, jpeg artifacts, realistic photo, sketch, 3D render, cross-eyed",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Koi Pond",
+    "Cherry Blossoms",
+    "Comic Book Art",
+    "Manga Panel",
+    "Water Ripples",
+    "Water Lilies",
+    "Japanese Garden",
+    "Dynamic Scene",
+    "Illustration",
+    "Action Lines"
+  ]
+}

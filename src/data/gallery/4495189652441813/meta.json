@@ -1,0 +1,23 @@
+{
+  "id": "4495189652441813",
+  "file": "gemini-4495189652441813.png",
+  "title": "Golden Hour Dough",
+  "prompt": "(masterpiece), (best quality), 8k, ultra-detailed, photorealistic image of a joyful, smiling elderly woman (grandmother) with silver hair, wearing a beige apron, expertly kneading sourdough dough on a rustic wooden kitchen table. The setting is an extremely cozy and warm farmhouse kitchen interior. Focus on depth and detail: terracotta bowls holding freshly baked bread, a basket of red apples, a steaming ceramic mug, copper pots hanging on exposed brick walls, spice jars on wooden shelves, and a sleeping cat near a sunlit window. Soft, volumetric golden hour lighting streams from the window, creating a warm, nostalgic atmosphere and rim light. Vertical aspect ratio (9:16).",
+  "negativePrompt": "low quality, worst quality, mutated hands, missing fingers, deformed, blurry, bad anatomy, bad composition, ugly, tiling, poorly drawn face, poorly drawn body, extra limbs, grain, noise, sketch, cartoon, anime, watermark, text, signature",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "Photorealism",
+    "Farmhouse",
+    "Sourdough",
+    "Domestic Life",
+    "Golden Light",
+    "Rustic",
+    "Still Life"
+  ]
+}

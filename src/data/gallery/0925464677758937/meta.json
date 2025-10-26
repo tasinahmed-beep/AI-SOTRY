@@ -1,0 +1,23 @@
+{
+  "id": "0925464677758937",
+  "file": "gemini-0925464677758937.png",
+  "title": "Celestial Bakery: Sugar Dust in the Sky City",
+  "prompt": "(masterpiece), best quality, ultra detailed, a stunningly beautiful young Chinese baker woman, wearing an elegant pink Hanfu-style dress and a traditional apron, gracefully dusting a large pile of golden-brown croissants with powdered sugar using a fine sieve. The scene is set inside a warm, richly decorated traditional Chinese kitchen, complete with hanging red lanterns and a roaring oven featuring a golden dragon bas-relief. Through a wide, ornate window, a breathtaking fantastical landscape is visible: floating islands hosting ancient Chinese palaces and structures, framed by blooming pink cherry blossom branches. Dynamic volumetric lighting, ethereal atmosphere, Donghua Chinese style, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, cartoon, 3d render, blurry, bad anatomy, deformed hands, monochrome, sketches, ugly, distortion, jpeg artifacts, fewer fingers, missing limbs, western attire, modern clothes",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "baking",
+    "croissant",
+    "Chinese fantasy",
+    "Donghua style",
+    "floating islands",
+    "Xianxia",
+    "traditional kitchen",
+    "powdered sugar",
+    "masterpiece",
+    "sakura"
+  ]
+}

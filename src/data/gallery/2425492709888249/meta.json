@@ -1,0 +1,22 @@
+{
+  "id": "2425492709888249",
+  "title": "Dragon Rider of the Emerald Tide",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic illustration in Donghua Chinese style, 16:9. A dynamic scene featuring a heroic male surfer riding a massive, churning emerald green wave at sunset. A powerful golden celestial dragon is visibly swimming through the wave crest, its head emerging from the spray. The background shows dramatic, stylized orange and pink ruyi clouds framing a bright sun disk, set above traditional Chinese mountainous islands dotted with dark pagodas and vibrant pink cherry blossom trees. Detailed water physics, vibrant colors, epic fantasy landscape, decorative traditional Chinese border.",
+  "negativePrompt": "disfigured, ugly, cartoon, bad anatomy, deformed, poorly drawn, extra limbs, poorly rendered, low resolution, worst quality, monochrome, grayscale, watermark, text, signature, easynegative",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Dragon",
+    "Chinese mythology",
+    "Emerald wave",
+    "Sunset",
+    "Pagoda",
+    "Fantasy landscape",
+    "Ruyi clouds",
+    "Vibrant colors",
+    "Illustration"
+  ]
+}

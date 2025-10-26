@@ -1,0 +1,23 @@
+{
+  "id": "2806635726514650",
+  "file": "gemini-2806635726514650.png",
+  "title": "Neon Reflections in the Urban Downpour",
+  "prompt": "(masterpiece), (best quality), photorealistic, cinematic volumetric lighting, a lone cyclist racing at high speed through a narrow city street at deep night during a heavy downpour. The cyclist is wearing a white and gray racing kit. The street is wet cobblestone reflecting intense orange and red neon lights from surrounding historic buildings. Heavy rain streaks and mist visible, subtle motion blur on the bicycle, ultra detailed, 8k resolution, film noir atmosphere, street level perspective, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, cartoon, worst quality, deformed, blurry, extra limbs, signature, watermark, jpeg artifacts, monochrome, cropped, out of focus, poorly drawn hands, day time, clear sky, sun light",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cycling",
+    "Night",
+    "Rain",
+    "Cityscape",
+    "Photorealistic",
+    "Wet pavement",
+    "Urban",
+    "Neon light",
+    "Street photography",
+    "Determination"
+  ]
+}

@@ -1,0 +1,102 @@
+import Header from "@/components/Header";
+import Seo from "@/components/Seo";
+
+const Disclaimer = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <Seo title="Disclaimer – PromptVerse" description="Important notices about AI-generated content, third-party services, and limitations of warranties on PromptVerse." />
+      <Header />
+      
+      <main className="container mx-auto px-4 py-12 max-w-4xl">
+        <div className="glass-panel space-y-8 bg-background/40 backdrop-blur-sm border border-white/10 rounded-2xl p-8 shadow-sm">
+          <div className="space-y-4">
+            <h1 className="text-4xl font-bold">Disclaimer</h1>
+            <p className="text-muted-foreground">Last updated: October 26, 2025</p>
+          </div>
+
+          <div className="prose prose-lg max-w-none space-y-6">
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">1. General Information</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                The information provided by PromptVerse is for general informational and educational 
+                purposes only. All information on the site is provided in good faith, however we make 
+                no representation or warranty of any kind, express or implied, regarding the accuracy, 
+                adequacy, validity, reliability, availability, or completeness of any information.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">2. AI-Generated Content</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                All images displayed on PromptVerse are AI-generated examples created using various 
+                AI image generation tools. These images serve as reference and inspiration for what 
+                can be achieved with the provided prompts. Actual results may vary depending on the 
+                AI tool used, version, settings, and other factors.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">3. Prompt Results Disclaimer</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                We do not guarantee that using the prompts from our collection will produce identical 
+                or similar results. AI image generation is influenced by numerous factors including 
+                the specific AI model, random seed values, generation parameters, and ongoing updates 
+                to AI systems. Results can and will vary.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">4. Third-Party AI Services</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse is not affiliated with any specific AI image generation service. The 
+                prompts provided can be used with various AI tools, and we are not responsible for 
+                the performance, availability, terms of service, or policies of any third-party AI 
+                services you choose to use.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">5. Copyright and Licensing</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                When you generate images using AI tools, the copyright and usage rights depend on 
+                the specific AI service's terms of service. We are not responsible for determining 
+                or enforcing copyright, licensing, or intellectual property rights related to 
+                AI-generated images.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">6. Appropriate Use</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                Users are responsible for ensuring their use of prompts and generated images complies 
+                with all applicable laws, regulations, and the terms of service of any AI platforms 
+                they use. We do not endorse or condone the creation of harmful, illegal, or 
+                inappropriate content.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">7. No Professional Advice</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                The information provided on PromptVerse is not intended as legal, financial, 
+                or professional advice. You should consult with appropriate professionals before 
+                making decisions based on content found on our platform.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">8. External Links</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse may contain links to external websites. We have no control over and 
+                assume no responsibility for the content, privacy policies, or practices of any 
+                third-party sites or services.
+              </p>
+            </section>
+          </div>
+        </div>
+      </main>
+    </div>
+  );
+};
+
+export default Disclaimer;

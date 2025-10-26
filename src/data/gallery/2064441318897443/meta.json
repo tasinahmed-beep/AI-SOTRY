@@ -1,0 +1,22 @@
+{
+  "id": "2064441318897443",
+  "file": "gemini-2064441318897443.png",
+  "title": "Alpine Gorge Snowboard Jump",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D Anime illustration, 16:9 aspect ratio. Dynamic wide shot of a young snowboarder with bright blue hair, wearing goggles and winter gear, mid-air, performing a huge jump off a snowy precipice. Dramatic snow spray effect and motion blur. The background features a deep, icy river canyon below and towering, majestic snow-capped alpine mountains under a vibrant sunrise or sunset sky. Cinematic lighting, volumetric clouds, extreme sports action scene.",
+  "negativePrompt": "low quality, bad anatomy, worst quality, poor lighting, blurry, distorted, deformation, extra fingers, cartoon, text, watermark, signature, ugly, tiling, cropped, poorly drawn face",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Snowboarding",
+    "Extreme Sports",
+    "Anime Illustration",
+    "Mountain Landscape",
+    "Alpine",
+    "Dynamic Pose",
+    "Canyon",
+    "Winter Scene",
+    "Jump Trick"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4118465116234625",
+  "file": "gemini-4118465116234625.png",
+  "title": "The Emerald Barrel Ride",
+  "prompt": "(masterpiece), (best quality), highly detailed anime illustration, 2D animation style, Ghibli aesthetic, 16:9 aspect ratio, a dynamic full shot of a female surfer inside a huge, curling emerald green barrel wave, the water is transparent and highly detailed, dramatic action shot, intense spray and foam from the breaking crest, the surfer is wearing a dark wetsuit, brilliant and vibrant sunset background, sky filled with dramatic orange, pink, and purple clouds, large glowing sun setting directly on the horizon, tropical island silhouettes in the far distance, cinematic lighting, motion blur on the water.",
+  "negativePrompt": "worst quality, low quality, jpeg artifacts, blurry, text, watermark, signature, missing limbs, deformed hands, extra fingers, poorly drawn face, disfigured, monochrome, 3D render, cartoon, simplistic",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Barrel Wave",
+    "Sunset",
+    "2D Anime",
+    "Ghibli Style",
+    "Ocean",
+    "Tropical",
+    "Action Shot",
+    "Emerald Water",
+    "Vibrant"
+  ]
+}

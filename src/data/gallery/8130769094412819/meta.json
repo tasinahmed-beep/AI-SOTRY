@@ -1,0 +1,22 @@
+{
+  "id": "8130769094412819",
+  "file": "gemini-8130769094412819.png",
+  "title": "Winter Sentinel",
+  "prompt": "(masterpiece), (photorealistic, 8k, highly detailed), a magnificent adult red fox (Vulpes vulpes) trotting purposefully through pristine fresh powder snow, low angle wildlife photograph, eye-level perspective, sharp focus on the fox's vibrant orange and red fur texture and intense eyes, dramatic golden hour lighting (sunset or sunrise), strong warm rim lighting highlighting the contours, long blue shadows cast across the bright white snow, soft bokeh background featuring snow-covered coniferous trees and distant frozen mountains, expansive winter landscape, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, distortion, blurry, deformed, mutated, text, signature, watermark, ugly, missing limbs, extra limbs, human, drawing, painting, cartoon, cropped, out of frame, monochrome, grayscale.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Red Fox",
+    "Wildlife Photography",
+    "Winter Landscape",
+    "Snow",
+    "Golden Hour",
+    "Tundra",
+    "Mammal",
+    "Photorealistic",
+    "Fox Trotting"
+  ]
+}

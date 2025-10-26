@@ -1,0 +1,23 @@
+{
+  "id": "4860658043748229",
+  "file": "gemini-4860658043748229.png",
+  "title": "Snow Drifter of the Celestial Peaks",
+  "prompt": "(masterpiece), best quality, highly detailed, stunning cinematic lighting, wide 16:9 aspect ratio. A graceful figure dressed in elaborate white and gold traditional Chinese winter robes, tied back hair, and a long, vibrant red flowing sash, mid-air on a glowing blue snowboard. The figure is performing an epic jump off a jagged, snowy mountain cliff. Dramatic alpine landscape background with sharp snow-capped peaks and evergreen trees. Stylized, volumetric Ruyi clouds in the sky, featuring two celestial bodies (double sun or sun and moon). Dynamic action shot, fantasy atmosphere, vibrant colors, Donghua Chinese illustration style, Xianxia inspired.",
+  "negativePrompt": "poorly drawn, blurry, low resolution, worst quality, deformed, mutilated, extra limbs, signature, watermark, text, easynegative, monochrome, bad anatomy, simple background, ugly hands.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Snowboarding",
+    "Donghua",
+    "Xianxia",
+    "Traditional Chinese Clothing",
+    "Snowy Mountains",
+    "Epic Jump",
+    "Fantasy Art",
+    "Winter Landscape",
+    "Ruyi Clouds",
+    "Dynamic Pose"
+  ]
+}

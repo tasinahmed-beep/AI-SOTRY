@@ -1,0 +1,23 @@
+{
+  "id": "7963604735182381",
+  "file": "gemini-7963604735182381.png",
+  "title": "Fortress of Myst Above the Cloud Sea",
+  "prompt": "A dynamic (masterpiece), 16:9 comic book panel illustration of an imposing medieval castle perched dramatically on a dark, craggy mountain peak. The castle features gray stone walls, multiple towers with red conical roofs, and yellow flags flying high. It is surrounded entirely by a vast, swirling sea of thick white fog, resembling ocean waves, with only the mountain base visible. The sky is a dramatic gradient of deep blue, purple, and vibrant orange/pink sunset colors, filled with stylized, streaky clouds. Use bold black outlines, bright, primary colors, dynamic perspective, and visible comic elements (such as sound effects and title boxes). Comic book art style, high detail, retro aesthetic, perfect composition.",
+  "negativePrompt": "text, watermark, signature, logos, multiple frames, blurry, low resolution, ugly, realistic, photorealistic, monochrome, grayscale, amateur drawing, missing limbs, poorly drawn architecture.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Medieval Castle",
+    "Fortress",
+    "Comic Panel",
+    "Sea of Fog",
+    "Sunset Sky",
+    "Comic Art",
+    "Fantasy Landscape",
+    "Dramatic Perspective",
+    "Graphic Novel",
+    "Swirling Mist"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7800822871930182",
+  "title": "Sakura Alley Smile",
+  "prompt": "(masterpiece), best quality, detailed illustration, (16:9 aspect ratio), a beautiful young woman with wavy, pastel pink hair, smiling broadly and showing teeth, expressive reddish-brown eyes, upper body shot, wearing a cream knitted sweater over a white collar shirt, small pendant necklace. She stands in a path lined with fully bloomed cherry blossom trees (sakura), soft natural lighting, volumetric lighting, falling petals, blurred background (bokeh), subtle cityscape in the distance, Modern Anime style, highly detailed.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, username, signature, out of focus, (bad teeth), cross-eyed, strange pose",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Modern Anime",
+    "Sakura",
+    "Pink hair",
+    "Smiling",
+    "Knitted sweater",
+    "Spring",
+    "Bokeh",
+    "Wavy hair",
+    "Detailed eyes",
+    "16:9"
+  ]
+}

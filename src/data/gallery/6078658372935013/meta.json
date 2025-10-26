@@ -1,0 +1,23 @@
+{
+  "id": "6078658372935013",
+  "file": "gemini-6078658372935013.png",
+  "title": "Dawn of the Deep Sea Mural",
+  "prompt": "(masterpiece), (best quality), highly detailed, official anime art, 2D Anime style, cel shading, a young female street artist wearing denim overalls actively painting a large, vibrant mural on a weathered red brick wall in an urban street scene. The mural depicts a majestic fantasy underwater world with huge white whales swimming over a sunken, glowing city and lush glowing flora. Full body shot, dramatic dawn lighting, soft pastel colors of sunrise (pink and purple sky), long shadows stretching across the brick pavement. Distant city skyline silhouette in the background. Wide view, 16:9 composition.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, mutated, blur, watermark, text, signature, easynegative, bad hands, low resolution, jpeg artifacts, grayscale, monochrome, 3D render, photorealistic",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "2D Anime",
+    "Sunrise",
+    "Urban",
+    "Artist",
+    "Whales",
+    "Painting",
+    "Cityscape",
+    "Pastel Colors"
+  ]
+}

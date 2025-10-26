@@ -1,0 +1,22 @@
+{
+  "id": "9953244571887189",
+  "file": "gemini-9953244571887189.png",
+  "title": "Neon Rain Velocity: Night Ride",
+  "prompt": "(masterpiece), (best quality), (hyper detailed), 8k wallpaper, dynamic shot of an athletic female cyclist, full body, wearing a bright blue and neon green aerodynamic racing kit and matching helmet, aggressive cycling posture, determined anime girl expression, racing a high-performance road bike down a wet, bustling city street at night, heavy rain pouring down, intense water spray and splashes, perfect reflections of red car brake lights and vertical neon signs on the slick asphalt, tall modern skyscrapers, dramatic volumetric lighting, cinematic atmosphere, depth of field, stunning 3D Anime style, rendered in Unreal Engine, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, bad anatomy, deformed hands, missing limbs, watermark, text, signature, low detail, blurry, grayscale, monochrome, sketch, painting, cropped, low saturation, bad composition, fused fingers, multiple limbs, mutation, disfigured bike.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cycling",
+    "Night Scene",
+    "Heavy Rain",
+    "Cityscape",
+    "3D Anime",
+    "Sports",
+    "Wet Reflective Surface",
+    "High Speed",
+    "Neon Lights"
+  ]
+}

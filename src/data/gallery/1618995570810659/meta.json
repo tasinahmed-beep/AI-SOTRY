@@ -1,0 +1,23 @@
+{
+  "id": "1618995570810659",
+  "file": "gemini-1618995570810659.png",
+  "title": "Sakura Stream of Harmony",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D Anime style rendering of a serene Japanese zen garden stream, focus on numerous vibrant red and white Koi fish swimming just beneath the surface of crystal clear water. The water exhibits strong ripples and beautiful reflections of the surrounding foliage. A traditional curved wooden bridge spans the stream in the midground, flanked by lush green bushes and illuminated by hanging Japanese stone lanterns. Abundant, blooming pink cherry blossom (sakura) trees frame the scene overhead, with thousands of delicate pink petals gracefully falling and floating across the water's surface. Smooth, stylized 3D textures, volumetric sunlight, peaceful atmosphere, cinematic lighting, 9:16 vertical composition.",
+  "negativePrompt": "low quality, worst quality, blurry, noisy, painting, sketch, ugly, distorted, disconnected, deformed hands, missing fingers, low resolution, bad anatomy, grayscale, monochrome, artifacts",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Koi fish",
+    "Sakura",
+    "Japanese garden",
+    "3D rendering",
+    "Anime environment",
+    "Cherry blossoms",
+    "Ripples",
+    "Wooden bridge",
+    "Zen",
+    "Stylized"
+  ]
+}

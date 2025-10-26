@@ -1,0 +1,23 @@
+{
+  "id": "2772228167505774",
+  "file": "gemini-2772228167505774.png",
+  "title": "Celestial Astronaut Guardian of the Immortal Realm",
+  "prompt": "(masterpiece), (best quality), highly detailed, intricate illustration of a lone astronaut figure, wearing a fusion of advanced spacesuit and detailed celestial Chinese armor (Xianxia style), holding an ornate magical staff topped with a glowing pearl scepter. The astronaut is centered, floating slightly in a large, circular, ornate golden-rimmed space station window. Through the window, the view is a stunning Xianxia immortal realm: massive floating mountainous islands, cascading ethereal waterfalls, traditional Chinese pagodas and temples connected by bridges, a colossal white celestial dragon spiraling across the deep starlit cosmic background, nebula, and swirling clouds. Dramatic volumetric lighting, cinematic composition, cosmic dust trails, flowing ribbons. 9:16 aspect ratio. Fantasy Xianxia style, fusion art.",
+  "negativePrompt": "low quality, bad anatomy, bad hands, missing limbs, poorly drawn, out of focus, blurry, text, watermark, signature, error, worst quality, monochrome, simplistic, ugly, deformed, extra fingers, lowres, jpeg artifacts, cyberpunk, mechanical parts, boring background.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Astronaut",
+    "Sci-Fi Fantasy",
+    "Celestial Dragon",
+    "Floating Islands",
+    "Ornate Armor",
+    "Space Station Window",
+    "Magical Staff",
+    "Cosmic",
+    "Vertical Composition"
+  ]
+}

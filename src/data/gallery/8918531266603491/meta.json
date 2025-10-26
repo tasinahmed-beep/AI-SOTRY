@@ -1,0 +1,22 @@
+{
+  "id": "8918531266603491",
+  "title": "Golden Barrel: Surfer in the Emerald Tube",
+  "prompt": "(masterpiece), (best quality), high-resolution, photorealistic professional sports photography of a surfer successfully riding deep inside a perfect barreling wave (a tube). The wave is a vibrant deep emerald green and illuminated from behind by a spectacular, golden orange sunset. Dramatic backlighting, creating a dark silhouette of the surfer and the wave cresting with explosive white spray. Dynamic action shot, telephoto lens, capturing the texture of the dark foreground ocean water reflecting the sunset glow. Distant tropical coastline visible on the horizon. 16:9 aspect ratio.",
+  "negativePrompt": "(worst quality, low quality, normal quality), blurry, text, signature, watermark, bad anatomy, deformed, mutated, error, extra limbs, cartoon, sketch, painting, CGI, poor lighting, out of focus",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Barrel",
+    "Tube ride",
+    "Sunset",
+    "Emerald wave",
+    "Golden hour",
+    "Action shot",
+    "Tropical",
+    "Ocean",
+    "Backlighting"
+  ]
+}

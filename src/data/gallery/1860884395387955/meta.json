@@ -1,0 +1,23 @@
+{
+  "id": "1860884395387955",
+  "file": "gemini-1860884395387955.png",
+  "title": "The Art of the Rosetta Pour",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k resolution, photorealistic photograph, vertical aspect ratio (9:16), close-up shot of a professional barista wearing a denim apron pouring creamy steamed milk from a reflective stainless steel pitcher into a white ceramic cup to create intricate latte art (rosetta pattern), slight steam rising from the hot coffee, warm indoor lighting, shallow depth of field, moody coffee shop atmosphere, dark granite counter top, focus on the hands and the cup, natural light highlights.",
+  "negativePrompt": "low quality, blurry, worst quality, deformed, text, signature, watermark, bad anatomy, bad hands, distorted fingers, poorly drawn hands, out of frame, monochrome, grayscale, amateur, tiling, ugly, distorted perspective, liquid spill, oversaturated.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Barista",
+    "Latte Art",
+    "Coffee Shop",
+    "Photorealistic",
+    "Close-up",
+    "Pouring",
+    "Rosetta",
+    "Steamed Milk",
+    "9:16",
+    "Food Photography"
+  ]
+}

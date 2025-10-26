@@ -1,0 +1,23 @@
+{
+  "id": "8909373885375221",
+  "file": "gemini-8909373885375221.png",
+  "title": "Sunrise Graffiti: The Phoenix Mural",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, 3D Anime style, 16:9 aspect ratio, a young female street artist wearing a grey hoodie and dark leggings, standing on scaffolding, passionately painting a massive, vibrant mural of a stylized, fiery phoenix on a weathered, textured brick wall. Dramatic volumetric dawn lighting, with warm orange sunlight hitting the wall and highlighting the glowing abstract colors of the mural (cyan, magenta, yellow). Gritty urban alleyway setting, cobblestone ground, scattered paint supplies (spray cans, bucket), distant city skyline silhouette against the sunrise sky, a watchful cat sitting on a trash bin in the background.",
+  "negativePrompt": "(low quality, worst quality, poor quality), blurry, text, watermark, signature, mutated, disfigured, lowres, bad anatomy, bad hands, missing limbs, extra fingers, monochrome, unrealistic shading, sketch, poorly drawn face, multiple figures.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "Graffiti",
+    "Dawn",
+    "Sunrise",
+    "Urban",
+    "Anime",
+    "Brick Wall",
+    "Phoenix",
+    "Digital Painting"
+  ]
+}

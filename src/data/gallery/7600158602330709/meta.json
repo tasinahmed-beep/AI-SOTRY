@@ -1,0 +1,23 @@
+{
+  "id": "7600158602330709",
+  "file": "gemini-7600158602330709.png",
+  "title": "Seeking the Dao of Elixirs in the Celestial Study",
+  "prompt": "(masterpiece), best quality, highly detailed, 8k wallpaper, Fantasy Xianxia style, 9:16 aspect ratio. A young, handsome scholar cultivator wearing elegant light blue Hanfu robes, intensely focused while peering into an intricate, crystal-adorned steampunk microscope on a richly detailed wooden desk. The microscope glows with teal magical energy and cyan crystals. The desk is cluttered with ancient scrolls, bubbling alchemy flasks, colorful glowing elixirs, and mystical herbs. Through a large ornate Chinese arched window, a breathtaking view of the Celestial Realm is visible: floating mountain peaks, suspended ancient pagodas (Wuxia architecture), soft pastel pink and blue clouds, and a large crescent moon. Soft, ethereal volumetric lighting, exquisite detail, serene atmosphere, high contrast.",
+  "negativePrompt": "worst quality, low quality, distorted, blurry, artifacts, jpeg artifacts, ugly, deformed, extra limbs, extra fingers, malformed hands, missing limbs, western clothing, modern laboratory, ugly faces, tiling, poorly drawn, monochrome, grayscale, watermark, text",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Alchemy",
+    "Magical Realism",
+    "Celestial Realm",
+    "Microscope",
+    "Hanfu",
+    "Eastern Fantasy",
+    "Study",
+    "Floating Islands"
+  ]
+}

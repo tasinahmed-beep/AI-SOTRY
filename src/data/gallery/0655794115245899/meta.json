@@ -1,0 +1,23 @@
+{
+  "id": "0655794115245899",
+  "file": "gemini-0655794115245899.png",
+  "title": "Twilight Serenade on the Rooftop",
+  "prompt": "(masterpiece), (best quality), high resolution, ultra detailed 3D Anime style, a full-body shot of a graceful female dancer captured mid-spin on a luxurious rooftop terrace, viewed from the back, arms outstretched in an expressive ballet pose, flowing sheer red and gold dress dramatically billowing around her, wearing pointe shoes. The scene is set during a vivid golden hour sunset over a massive, detailed cityscape panorama. Strong dramatic backlighting from the setting sun, pastel pink and purple sky with soft clouds, volumetric light rays, subtle magical dust particles floating in the air. Ornate stone railing and patio visible. Cinematic composition, 16:9 aspect ratio.",
+  "negativePrompt": "ugly, deformed, bad anatomy, disfigured, poorly drawn face, blurry, low resolution, worst quality, jpeg artifacts, text, watermark, signature, tiling, monochrome, (nsfw)",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Dancer",
+    "Sunset",
+    "Rooftop",
+    "3D Anime",
+    "Ballet",
+    "Flowing Dress",
+    "Cityscape",
+    "Golden Hour",
+    "Backlight",
+    "Cinematic"
+  ]
+}

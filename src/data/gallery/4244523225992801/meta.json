@@ -1,0 +1,23 @@
+{
+  "id": "4244523225992801",
+  "file": "gemini-4244523225992801.png",
+  "title": "Immortal Baker of the Spirit Peak: Dusting the Golden Croissants",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 vertical orientation, Fantasy Xianxia style, A beautiful, serene Xianxia immortal maiden (cultivator), wearing intricate, flowing pink and white Hanfu robes, gracefully dusting a batch of golden croissants with sparkling powdered sugar using a round sieve. The setting is a magical Spirit Peak landscape, featuring towering misty mountains, ancient bonsai trees with pink cherry blossoms, and a shimmering waterfall flowing golden liquid (honey or elixir) in the background. She stands by an ornate dark wood table. An ancient teal bronze oven is visible to the side. Magical dust motes and white butterflies float around her. Ethereal lighting, concept art, detailed digital painting.",
+  "negativePrompt": "lowres, bad quality, worst quality, mutated hands, missing fingers, extra limbs, ugly, disfigured, blurry, watermark, text, signature, easynegative, monochrome, oversaturated, sketch, cartoon, multiple people, modern setting",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Immortal Maiden",
+    "Hanfu",
+    "Croissant",
+    "Fantasy Landscape",
+    "Digital Painting",
+    "Spirit Peak",
+    "Baking",
+    "Ethereal",
+    "Golden Waterfall"
+  ]
+}

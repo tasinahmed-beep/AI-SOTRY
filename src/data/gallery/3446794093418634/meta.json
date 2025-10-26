@@ -1,0 +1,23 @@
+{
+  "id": "3446794093418634",
+  "file": "gemini-3446794093418634.png",
+  "title": "Echoes of the Azure Crystal Stage",
+  "prompt": "(masterpiece), (best quality), highly detailed digital painting, Fantasy Xianxia style, 9:16 portrait orientation, full body shot of a graceful celestial violinist, beautiful young woman wearing intricate flowing white and emerald green Hanfu robes, playing a glowing violin on a vast, empty traditional Chinese opera theater stage, magical golden music energy swirling and sparkling around her, the stage is framed by massive ornate grey stone pillars and a dramatic teal crystal canopy overhead, in the background, a large circular moon gate reveals a breathtaking night view of floating islands, misty mountains, and two bright full moons in the sky, numerous illuminated sky lanterns floating around the dark theater, wooden floor detailed with glowing cloud patterns, dramatic lighting, mystical atmosphere, serene expression.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, distorted, sketch, amateur, cropped, text, watermark, signature, missing limbs, bad anatomy, ugly, tiling, deformed violin, extra fingers, noisy, messy, modern clothing.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Violinist",
+    "Chinese Fantasy",
+    "Hanfu",
+    "Empty Theater",
+    "Floating Islands",
+    "Crystal Canopy",
+    "Sky Lanterns",
+    "Digital Painting",
+    "Magical Music"
+  ]
+}

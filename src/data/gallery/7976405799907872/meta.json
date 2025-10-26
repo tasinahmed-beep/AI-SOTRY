@@ -1,0 +1,22 @@
+{
+  "id": "7976405799907872",
+  "title": "The Baker's Cozy Hearth",
+  "prompt": "(masterpiece), (best quality), extremely detailed, a heartwarming portrait of a cheerful elderly grandmother with kind eyes and round glasses, kneading fresh bread dough on a rustic wooden counter. She wears a floral apron over a brown knitted sweater. Cozy, warm sunlight streams brightly through the checkered window on the left, casting volumetric light and illuminating flour dust. In the background, a large stone fireplace features a cast iron oven and a glowing fire. Finished bread rolls, terracotta bowls, and a rolling pin are visible on the table. A peaceful calico cat sleeps curled up on a red rug near the fireplace base. 3D Anime style, highly rendered, deep focus, nostalgic atmosphere, 9:16 aspect ratio.",
+  "negativePrompt": "(worst quality), (low quality), watermark, text, signature, blurry, jpeg artifacts, extra fingers, deformed hands, disfigured, monochrome, grayscale, multiple heads, unrealistic proportions",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "3D Anime Style",
+    "Kneading Dough",
+    "Warm Lighting",
+    "Rustic Interior",
+    "Domestic Scene",
+    "Calico Cat",
+    "High Detail"
+  ]
+}

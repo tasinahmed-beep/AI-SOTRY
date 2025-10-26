@@ -1,0 +1,23 @@
+{
+  "id": "6507309021667495",
+  "file": "gemini-6507309021667495.png",
+  "title": "Whale Shark's Vibrant Anime Coral Garden",
+  "prompt": "(masterpiece), (best quality), (high detail), highly detailed anime illustration, Modern Anime style, vibrant underwater scene, a massive, friendly whale shark swimming gracefully above a hyper-colorful tropical coral reef. The reef is densely populated with various glowing corals in pinks, blues, and oranges. Hundreds of tropical fish, including clownfish, yellow tangs, and angelfish, swim around the whale shark. Include a small, cute smiling octopus nestled among the coral branches. View looking up, dramatic sunlight and god rays filtering through the crystal clear blue water, numerous bubbles rising to the surface. Highly saturated colors, kawaii aesthetic, vertical aspect ratio (9:16).",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, deformed, mutated, bad anatomy, cropped, distorted fish, fused limbs, grainy, monochrome, grayscale, signature, watermark, text",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Whale Shark",
+    "Coral Reef",
+    "Underwater",
+    "Tropical Fish",
+    "Modern Anime",
+    "Kawaii",
+    "Ocean Life",
+    "God Rays",
+    "Vibrant Colors",
+    "Vertical"
+  ]
+}

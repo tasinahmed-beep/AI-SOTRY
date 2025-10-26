@@ -1,0 +1,23 @@
+{
+  "id": "9899112462053008",
+  "file": "gemini-9899112462053008.png",
+  "title": "Ascension Beneath the Dragon Falls",
+  "prompt": "(masterpiece), best quality, highly detailed, 8k, Fantasy Xianxia style, cinematic lighting, wide 16:9 aspect ratio. A lone Xianxia cultivator in flowing white and blue robes sits meditating on a mossy rock in a tranquil pond, surrounded by a radiant golden Qi energy sphere and swirling magical talismans. Majestic multi-tiered waterfalls cascade down towering mountain cliffs. In the bright, mist-filled sky above the falls, two massive golden celestial dragons are soaring, bathed in ethereal sunrise light. Glowing blue lotus flowers bloom on the water's surface, surrounded by luminous, teal-colored foliage and ancient trees. Rainbow mist effect, epic scale.",
+  "negativePrompt": "low quality, worst quality, low resolution, blurry, distorted, sketch, easynegative, monochrome, oversaturated, cropped, multiple limbs, watermark, text, out of frame, painting, 3D render",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Cultivation",
+    "Celestial Dragon",
+    "Waterfall",
+    "Meditation",
+    "Qi Energy",
+    "Lotus Flower",
+    "Ethereal Landscape",
+    "Digital Painting",
+    "Epic Fantasy"
+  ]
+}

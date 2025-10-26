@@ -1,0 +1,23 @@
+{
+  "id": "6374739735988733",
+  "file": "gemini-6374739735988733.png",
+  "title": "Vibrant Reef Life: An Anime Ocean Adventure",
+  "prompt": "(masterpiece), best quality, ultra-detailed cinematic 3D anime render, 9:16 aspect ratio. An awe-inspiring, hyper-colorful underwater scene of a thriving coral reef. A gentle, large whale shark with cute chibi features swims majestically in the upper half, illuminated by dramatic volumetric god rays piercing the turquoise water surface. Below, the reef is dense with intensely saturated, neon-colored corals\b\b\b pink branching coral, blue brain coral, and red tube sponges. Dozens of adorable tropical fish swim everywhere, including detailed clownfish, blue tangs, and yellow butterflyfish. A massive school of small silver baitfish swirls dynamically near the whale shark. Sharp focus, high saturation, Pixar style, deep depth of field.",
+  "negativePrompt": "text, watermark, logo, worst quality, low quality, low resolution, blurry, distorted, sketch, monochrome, missing limbs, bad anatomy, deformed fish, messy details, signature",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Underwater",
+    "Coral Reef",
+    "Whale Shark",
+    "Clownfish",
+    "Tropical Fish",
+    "3D Anime",
+    "Pixar Style",
+    "Vibrant Colors",
+    "God Rays",
+    "Ocean Life"
+  ]
+}

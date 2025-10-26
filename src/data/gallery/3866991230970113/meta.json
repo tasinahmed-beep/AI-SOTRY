@@ -1,0 +1,23 @@
+{
+  "id": "3866991230970113",
+  "file": "gemini-3866991230970113.png",
+  "title": "Sons of the Red Sands Caravan",
+  "prompt": "(masterpiece), best quality, detailed comic book illustration, full panel shot, a massive, epic desert caravan ascending a sweeping red sand dune at sunset. The lead vehicle is an ornate, multi-tiered carriage pulled by a huge, imposing eight-legged mechanical spider-mech. Following the carriage are several ornate wooden wagons. A line of four armed guards rides alien, quadrupedal beasts with glowing blue eyes, wearing dark armor and flowing blue capes. The sky is a dramatic gradient of orange, purple, and yellow, filled with swirling clouds and featuring two bright moons. Strong black outlines, vibrant flat colors, visible halftone texture, speed lines on the red dune, cinematic angle, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, deformed, blurry, worst quality, monochrome, signature, watermark, jpeg artifacts, ugly, asymmetrical, missing limbs, text overlay, multiple heads",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book",
+    "Sci-fi Fantasy",
+    "Desert Caravan",
+    "Spider Mech",
+    "Red Dunes",
+    "Alien Landscape",
+    "Sunset",
+    "Halftone Texture",
+    "Retro Futurism",
+    "Ink Outline"
+  ]
+}

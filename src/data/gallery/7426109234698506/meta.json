@@ -1,0 +1,22 @@
+{
+  "id": "7426109234698506",
+  "file": "gemini-7426109234698506.png",
+  "title": "Guardian of the Burning Dynasty",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, full body portrait of a heroic Xianxia warrior, intricately designed bronze dragon-scale armor with red cloth accents, wearing a fierce horned helmet with glowing blue eyes. He wields a fantastical, steampunk-like nozzle projecting a powerful, brilliant azure stream of spiritual water/qi energy, directly aimed at the threat. Dynamic walking pose, debris and embers flying around. The foreground shows cracked earth inscribed with arcane symbols. The background depicts a ruined ancient Chinese city with burning pagodas and thick smoky orange clouds. A massive, fiery dragon spirit manifests menacingly in the distant sky. Epic, dramatic atmosphere, high contrast. Aspect ratio 9:16.",
+  "negativePrompt": "poorly drawn, blurry, low resolution, inaccurate anatomy, disfigured, worst quality, monochrome, modern equipment, watermark, text, out of frame, extra limbs, bad hands, cartoon, sketch.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia Warrior",
+    "Dragon Armor",
+    "Magical Firefighter",
+    "Azure Water",
+    "Burning City",
+    "Eastern Fantasy",
+    "Steampunk Nozzle",
+    "Cinematic Portrait",
+    "Epic Scale"
+  ]
+}

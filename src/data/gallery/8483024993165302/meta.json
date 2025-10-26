@@ -1,0 +1,22 @@
+{
+  "id": "8483024993165302",
+  "file": "gemini-8483024993165302.png",
+  "title": "The Tranquil Koi Garden in Spring",
+  "prompt": "(masterpiece), best quality, high resolution, highly detailed, An immersive vertical shot (9:16) of a beautiful Japanese koi pond. The water is clear, showing vibrant schools of colorful Koi fish (white and red Kohaku, golden Ogon, blue). The surface is covered in gentle concentric ripples and numerous floating pink sakura petals falling from the branches above. Two adorable small green frogs are resting serenely on bright green lily pads. The background features lush, moss-covered stones, cascading weeping willow foliage, and fully blooming cherry blossom trees. Soft, volumetric cinematic lighting, deep depth of field, detailed water reflections, Pixar style 3D animation render.",
+  "negativePrompt": "low quality, worst quality, blurry, noise, deformed, poorly drawn, extra limbs, ugly, monochrome, oversaturated, text, watermark, bad anatomy, cartoon, sketch",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Koi Fish",
+    "Sakura",
+    "Pixar Style",
+    "Japanese Garden",
+    "Frog",
+    "Lily Pads",
+    "Water Ripples",
+    "3D Render",
+    "Spring"
+  ]
+}

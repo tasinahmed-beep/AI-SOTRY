@@ -1,0 +1,22 @@
+{
+  "id": "8955025867388553",
+  "file": "gemini-8955025867388553.png",
+  "title": "The Flying Crust: Comic Kitchen Chaos",
+  "prompt": "(masterpiece), best quality, highly detailed, vibrant comic book art style. A highly energetic Italian chef with a large mustache and traditional toque, mid-air leap, joyfully tossing thin pizza dough high above him. Dynamic pose, motion lines, and exaggerated sound effects like 'WHIZZ!' and 'FLING!' are visible in speech bubbles. The chef wears a white uniform and a red checkered apron. Background is a rustic, dark brick wood-fired pizza oven roaring with intense orange flames. Detailed foreground includes sacks of flour, fresh red tomatoes, basil, glass bottles of olive oil, and stacks of freshly baked pepperoni pizzas on wooden peels. Strong black outlines, dot matrix shading, bright colors. 9:16 aspect ratio.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, disfigured, distorted, blurred, bad anatomy, bad quality, watermark, signature, text, 3D render, realistic, photorealistic, monochrome",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chef",
+    "Pizza",
+    "Comic Book Art",
+    "Italian Cuisine",
+    "Wood-fired Oven",
+    "Tossing Dough",
+    "Dynamic Action",
+    "Kitchen Scene",
+    "Mamma Mia"
+  ]
+}

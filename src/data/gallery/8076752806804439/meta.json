@@ -1,0 +1,22 @@
+{
+  "id": "8076752806804439",
+  "title": "Dawn of the Urban Canvas",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, 16:9 aspect ratio. A joyful, friendly male street artist, slightly overweight, wearing blue denim overalls and thick glasses, his hair tied back in a ponytail, diligently painting a vibrant, cheerful mural on a textured red brick wall. The mural depicts colorful, anthropomorphic block houses with happy faces, a smiling sun, and a bicycle. The artist is holding a large paintbrush. Art supplies (brushes, paints) are arranged on a small rolling cart beside him. The scene is set on a quiet, cobblestone European street during the warm, golden hour of dawn. Shallow depth of field, detailed background showing blurred traditional townhouses and a few early morning passersby. Highly detailed 3D render, Pixar style, whimsical, expressive character design.",
+  "negativePrompt": "lowres, text, worst quality, blurry, deformed, bad anatomy, disfigured, poorly drawn face, mutated, extra limbs, watermark, signature, jpeg artifacts, monochrome, multiple artists, oversaturated, ugly",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Mural",
+    "Street Artist",
+    "Pixar Style",
+    "3D Render",
+    "Dawn",
+    "Cobblestone Street",
+    "Whimsical",
+    "Urban Art",
+    "Golden Hour",
+    "Cartoon"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2328712987952864",
+  "file": "gemini-2328712987952864.png",
+  "title": "Bubble-Filled Coral Kingdom",
+  "prompt": "(masterpiece), best quality, highly detailed, (2D Anime style:1.2), detailed illustration, vibrant colors, underwater scene, a thriving coral reef ecosystem filled with colorful tropical fish (clownfish, blue tang, yellow tang, angelfish). Two gentle gray whales and two manta rays swimming gracefully in the clear blue water above the reef. Bright shafts of sunlight piercing the water surface, casting volumetric light rays. Many small, rising bubbles. Wide, panoramic view. 16:9 aspect ratio.",
+  "negativePrompt": "deformed, blurry, ugly, low quality, worst quality, noise, grain, low resolution, artifacts, watermark, signature, jpeg artifacts, monochrome, (poorly drawn face), extra limbs, mutated, text",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Underwater",
+    "Coral Reef",
+    "Tropical Fish",
+    "Vibrant Colors",
+    "Ocean Life",
+    "Whales",
+    "Manta Rays",
+    "Cartoon Illustration",
+    "Marine Ecosystem"
+  ]
+}

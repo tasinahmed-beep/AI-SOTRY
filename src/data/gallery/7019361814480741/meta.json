@@ -1,0 +1,22 @@
+{
+  "id": "7019361814480741",
+  "title": "Sakura Maiden of the Floating Gardens",
+  "prompt": "(masterpiece), best quality, ultra-detailed, cinematic lighting, photorealistic 3D anime style rendering, 16:9 aspect ratio. Close-up portrait of a gorgeous 3D anime character model, vibrant pastel pink hair, long flowing hair, intricate braided details, huge sparkling pink eyes, open-mouth happy smile. She wears a detailed baby blue Victorian-style dress with white lace trim and puff sleeves. Hands clasped together near her chest. The background features soft volumetric lighting over whimsical floating islands (sky islands), surrounded by blooming pink cherry blossom trees (sakura), lush green grass, bright blue sky, soft wispy clouds, depth of field.",
+  "negativePrompt": "(worst quality:1.4), (low quality:1.4), lowres, missing limbs, extra fingers, bad anatomy, deformed, blurry, artifacts, noise, monochrome, watermark, text, signature, easynegative",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "3D Anime",
+    "Pink Hair",
+    "Sakura",
+    "Floating Island",
+    "Sky Island",
+    "Blue Dress",
+    "Cheerful",
+    "Whimsical",
+    "High Detail",
+    "Fantasy"
+  ]
+}

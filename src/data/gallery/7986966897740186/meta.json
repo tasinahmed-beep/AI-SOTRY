@@ -1,0 +1,23 @@
+{
+  "id": "7986966897740186",
+  "file": "gemini-7986966897740186.png",
+  "title": "The Early Bird Muralist",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render, Pixar Style animation scene, a whimsical street artist with a large nose, beard, beanie, and paint-splattered overalls, standing on a cobblestone sidewalk and diligently painting a large, vibrant mural onto a textured red brick wall. The colorful mural depicts a smiling sun, a winding blue river, a large tree, and adorable cartoon farm animals (sheep, llamas). Cinematic volumetric lighting of early dawn, soft pink and orange gradient sky, misty city skyline silhouettes in the background. A focused side view, painting supplies and brushes scattered near a small wooden stool. A single pigeon pecks near the artist's feet. 16:9 aspect ratio.",
+  "negativePrompt": "(worst quality:1.4), (low quality:1.4), (normal quality:1.4), lowres, blurry, watermark, signature, text, error, cropped, jpeg artifacts, monochrome, multiple limbs, out of frame, deformed hands, tiling, distorted bricks, poorly drawn background.",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar Style",
+    "Street Art",
+    "Mural",
+    "Dawn",
+    "Sunrise",
+    "3D Render",
+    "Whimsical",
+    "Character Design",
+    "Brick Wall",
+    "Cityscape"
+  ]
+}

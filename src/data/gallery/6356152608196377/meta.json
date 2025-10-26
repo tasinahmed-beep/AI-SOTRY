@@ -1,0 +1,23 @@
+{
+  "id": "6356152608196377",
+  "file": "gemini-6356152608196377.png",
+  "title": "Summit Leap: Sunset Shred",
+  "prompt": "(masterpiece), best quality, highly detailed, dynamic modern anime illustration of a cool snowboarder performing an extreme aerial jump off a massive snowy cliff edge, mid-air action pose, vibrant gear, vast snow-covered mountain range, deep canyon valley winding below, scattered pine trees covered in powder, vivid sunset lighting, alpenglow effect, warm orange and pink hues in the vast cloudy sky, crisp blue shadows on the snow, cinematic composition, speed lines and motion effects, 9:16 aspect ratio, extreme sports anime aesthetic.",
+  "negativePrompt": "worst quality, low quality, cartoon, sketch, ugly, blurry, deformed, poorly drawn face, disfigured hands, missing limbs, watermark, text, signature, easynegative, lowres, monochrome, cropped.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Snowboarding",
+    "Extreme Sports",
+    "Anime",
+    "Mountain Landscape",
+    "Cliff Jump",
+    "Sunset",
+    "Winter",
+    "Dynamic Pose",
+    "Vertical Composition",
+    "Alpenglow"
+  ]
+}

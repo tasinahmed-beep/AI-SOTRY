@@ -1,0 +1,23 @@
+{
+  "id": "7723963626813225",
+  "file": "gemini-7723963626813225.png",
+  "title": "Neon Guardian of the Raging Sea",
+  "prompt": "(masterpiece), (best quality), 16:9 aspect ratio, dramatic modern anime illustration of a futuristic white lighthouse on dark, rugged sea cliffs during a severe thunderstorm. Intense blue light and internal neon stripes glow brightly, illuminating heavy rain and massive, crashing waves. Dark, dynamic thunderclouds, purple lightning flashes. High detail, cinematic composition, turbulent seascape, distant cargo ship, epic scale. Modern Anime style.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, noisy, sketch, poor drawn, low resolution, inaccurate colors, 3D render, signature, watermark",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Lighthouse",
+    "Modern Anime",
+    "Storm",
+    "Thunderstorm",
+    "Seascape",
+    "Cliffs",
+    "Dramatic lighting",
+    "Raging waves",
+    "Neon",
+    "Concept art"
+  ]
+}

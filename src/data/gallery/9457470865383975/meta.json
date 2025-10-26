@@ -1,0 +1,23 @@
+{
+  "id": "9457470865383975",
+  "file": "gemini-9457470865383975.png",
+  "title": "Master Pizzaiolo and the Flour Dance",
+  "prompt": "(masterpiece), (photorealistic), 8k highly detailed cinematic photograph, a professional Italian chef (Pizzaiolo) wearing a clean black apron and white uniform, captured in a moment of action, expertly tossing a large, round pizza dough high in the air. Flour dust is visible, suspended in the dramatic, volumetric light streaming from a tall window on the left. The setting is a rustic kitchen with rich red brick walls and a blazing wood-fired brick oven glowing brightly in the background. The foreground features a flour-dusted wooden prep table with fresh ingredients like red tomatoes, basil, and partially prepared Margherita pizzas. Dramatic backlighting, high contrast, perfect focus, 9:16 vertical aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, jpeg artifacts, blurry, watermark, username, signature, extra eyes, mutated, ugly, poorly drawn face, disfigured, monochrome",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Photorealistic",
+    "Chef",
+    "Pizzaiolo",
+    "Pizza Dough",
+    "Brick Oven",
+    "Italian Kitchen",
+    "Volumetric Lighting",
+    "Food Photography",
+    "Rustic",
+    "Action Shot"
+  ]
+}

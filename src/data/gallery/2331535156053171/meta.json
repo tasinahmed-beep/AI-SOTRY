@@ -1,0 +1,23 @@
+{
+  "id": "2331535156053171",
+  "file": "gemini-2331535156053171.png",
+  "title": "Tranquil Sakura Koi Pond Bridge",
+  "prompt": "(masterpiece), (best quality), extremely detailed Donghua Chinese illustration, a tranquil traditional Chinese garden pond, 16:9 aspect ratio. The clear turquoise water surface is covered with scattered pink cherry blossom petals (sakura). Prominent circular water ripples spread outwards from the center. Several vibrant koi fish (gold, red and white, black and white) swim gracefully below the surface. In the background, a classic stone arched bridge reflects perfectly in the water. The pond edges are adorned with lush pink lotus flowers and lily pads, overlooked by ancient weeping trees heavy with bright pink blossoms and trailing willow branches. Soft volumetric lighting, peaceful atmosphere, pastel colors, gentle shadows.",
+  "negativePrompt": "ugly, disfigured, low resolution, inaccurate anatomy, poorly drawn fish, warped perspective, bad reflection, noisy, messy, blurry, sketch, 3d render, low contrast, unrealistic shading, watermark, text",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "koi pond",
+    "sakura",
+    "cherry blossoms",
+    "traditional bridge",
+    "water ripples",
+    "lotus flowers",
+    "Chinese garden",
+    "pastel colors",
+    "detailed illustration",
+    "tranquil"
+  ]
+}

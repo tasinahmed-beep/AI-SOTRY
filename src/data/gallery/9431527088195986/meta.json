@@ -1,0 +1,23 @@
+{
+  "id": "9431527088195986",
+  "file": "gemini-9431527088195986.png",
+  "title": "Sakura Blossom Tea Ceremony",
+  "prompt": "(masterpiece), cinematic 3D render, Pixar Style animation, highly detailed. A serene Japanese tea ceremony setup placed on a rounded woven rattan bamboo table. Focus on the central wooden tray holding a textured white teapot, six pastel-colored ceramic tea cups, a matcha bowl, and a chasen whisk. Gentle steam rises from the spout. The background features a tranquil Japanese Zen garden with raked white gravel patterns, large smooth river stones, lush green grass, and blooming pink cherry blossom (Sakura) trees. Soft evening light, bokeh effect on distant glowing paper lanterns. Wide angle view, 16:9 aspect ratio, volumetric lighting.",
+  "negativePrompt": "ugly, deformed, noisy, blurry, low quality, worst quality, 2D, painting, drawing, sketch, artifacts, signature, watermark, disfigured hands, missing details, monochrome.",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Tea Ceremony",
+    "Pixar Style",
+    "Zen Garden",
+    "Sakura",
+    "Cherry Blossoms",
+    "3D Rendering",
+    "Still Life",
+    "Bamboo Table",
+    "Matcha",
+    "Japanese Aesthetic"
+  ]
+}

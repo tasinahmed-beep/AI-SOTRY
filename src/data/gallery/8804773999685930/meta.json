@@ -1,0 +1,23 @@
+{
+  "id": "8804773999685930",
+  "file": "gemini-8804773999685930.png",
+  "title": "Raindrop Serenade Under the Overpass",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D anime illustration, 9:16 aspect ratio, a melancholy and determined young violinist standing and playing passionately under a massive, dark grey steel bridge structure. Full body shot, focused on the character. The environment is a rainy, wet urban street at dusk. The violinist has brown hair and wears a stylish dark blue tailcoat, ruffled white jabot shirt, and dark trousers. Warm, yellow light emanates from vintage street lamps, creating high contrast with the cool blue tones of the rain and the concrete bridge supports. Tall, illuminated city skyscrapers are visible in the background against a pink and lavender twilight sky. Musical notes floating in the air, wet reflective pavement, heavy rain effect, atmospheric lighting, detailed background, crisp line art.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, bad hands, blurry, low resolution, error, cropped, missing limbs, extra fingers, poorly drawn face, disfigured, monochrome, jpeg artifacts, signature, watermark",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Anime",
+    "Rain",
+    "Cityscape",
+    "Bridge",
+    "Dusk",
+    "Music",
+    "Urban setting",
+    "Street scene",
+    "Detailed background"
+  ]
+}

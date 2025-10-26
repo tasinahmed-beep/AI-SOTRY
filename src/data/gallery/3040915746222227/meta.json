@@ -1,0 +1,23 @@
+{
+  "id": "3040915746222227",
+  "file": "gemini-3040915746222227.png",
+  "title": "Sunset Shredder: Downhill Forest Race",
+  "prompt": "(masterpiece), best quality, highly detailed, a dynamic illustration of a mountain biker (downhill rider) racing aggressively down a winding forest dirt trail, sharp turn, massive dust spray behind the tires, full suspension bike, rider wearing full protective gear, red jersey, black armor, full-face helmet. The scene is set during sunrise or sunset, with bright sun rays (god rays) piercing through the dense tree canopy. Lush green forest framing the action. In the background, majestic snow-capped mountains dominate the horizon. Dynamic motion blur effects. Crisp outlines, vibrant colors, 2D Anime style, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, distorted, sketch, cartoon, multiple people, poorly drawn face",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Mountain Biking",
+    "Downhill",
+    "Forest",
+    "2D Anime",
+    "Action",
+    "Sports",
+    "God Rays",
+    "Dirt Trail",
+    "Extreme Sports",
+    "Sunset"
+  ]
+}

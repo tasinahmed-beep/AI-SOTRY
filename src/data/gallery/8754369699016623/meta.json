@@ -1,0 +1,23 @@
+{
+  "id": "8754369699016623",
+  "file": "gemini-8754369699016623.png",
+  "title": "The Culinary Commando: Perfectly Prepped",
+  "prompt": "(masterpiece), best quality, highly detailed, dynamic comic book art style, vertical panel 9:16. A powerful, muscular male chef in a traditional white toque and apron, smiling intensely while aggressively chopping a colorful pile of vegetables (carrots, broccoli, peppers, onions) on a thick wooden cutting board with a large, heavy cleaver. The vegetables are dramatically flying into the air, emphasizing extreme speed. Strong black outlines, bold flat coloring, visible halftone dot texture, and dynamic speed lines radiating from the action. Background features a busy commercial kitchen with stainless steel appliances and a secondary chef in shock. Include comic book sound effects and speech bubbles.",
+  "negativePrompt": "low resolution, blurry, distorted anatomy, messy hands, poorly drawn, disfigured, text errors, signature, watermark, multiple heads, multiple limbs, inconsistent character, tiling, frame, low saturation",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "chef",
+    "comic panel",
+    "cleaver",
+    "chopping",
+    "vegetables",
+    "dynamic action",
+    "speed lines",
+    "pop art",
+    "kitchen",
+    "muscular"
+  ]
+}

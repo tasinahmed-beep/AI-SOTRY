@@ -1,0 +1,23 @@
+{
+  "id": "1559050194069684",
+  "file": "gemini-1559050194069684.png",
+  "title": "Sunset Dance of the Crimson Phoenix on the Temple Roof",
+  "prompt": "(masterpiece), (best quality), highly detailed illustration, Donghua Chinese style, 16:9 cinematic aspect ratio, a breathtaking composition of an elegant female Chinese dancer in a dynamic spinning pose, standing perfectly balanced on the curved ridge of a dark tiled rooftop. She wears a magnificent, flowing crimson Hanfu dress adorned with golden phoenix and cloud embroidery, with long red silk ribbons dramatically swirling around her. The background features a panoramic view of an ancient Chinese city below, nestled in a valley with a winding river. A huge, brilliant golden setting sun dominates the left sky, casting a dramatic, warm backlight and intense golden hour glow over the misty mountain landscape and traditional pagoda architecture. Soft snowfall, dynamic lighting, full body shot, high resolution.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, mutated, extra limbs, cropped, blurry, text, watermark, signature, grayscale, simplified details, modern clothing, ugly, disfigured, monochrome.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chinese traditional",
+    "Hanfu",
+    "Ribbon Dance",
+    "Sunset",
+    "Rooftop",
+    "Golden Hour",
+    "Dynamic Pose",
+    "Ancient Architecture",
+    "Wuxia",
+    "Elegant"
+  ]
+}

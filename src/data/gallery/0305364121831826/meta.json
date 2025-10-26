@@ -1,0 +1,23 @@
+{
+  "id": "0305364121831826",
+  "file": "gemini-0305364121831826.png",
+  "title": "The Croissant Crusader: Sweet Dust Poof!",
+  "prompt": "(masterpiece), (best quality), highly detailed, absurd resolution, classic Comic Book style, 16:9 aspect ratio. A dynamic scene featuring a handsome, muscular baker wearing a crisp white toque and apron, smiling intensely while energetically dusting a huge pile of golden croissants with powdered sugar from a metal sieve. Dramatic sugar splash effect creating a white cloud. Bold black ink outlines, classic comic book shading (hatching and cross-hatching), vibrant flat colors, high contrast, and dynamic action pose. Includes comic book sound effects 'POOFF!' and a speech bubble reading 'SWEET DUST!'. Background features a busy artisan bakery interior, including a traditional brick oven with visible fire and shelves loaded with assorted breads and pastries.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, low quality, photorealistic, 3D render, grayscale",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Baker",
+    "Croissant",
+    "Comic Book Art",
+    "Powdered Sugar",
+    "Dynamic Action",
+    "Bakery Interior",
+    "Hatching",
+    "Vintage Comic",
+    "Food Preparation",
+    "Toque"
+  ]
+}

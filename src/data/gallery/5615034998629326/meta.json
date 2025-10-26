@@ -1,0 +1,22 @@
+{
+  "id": "5615034998629326",
+  "title": "The Dragon Wave Ascetic",
+  "prompt": "(Masterpiece), (best quality), highly detailed, cinematic lighting, dynamic composition, a vertical 9:16 scene in the Fantasy Xianxia style. A male warrior cultivator, wearing flowing Wuxia robes and armor, skillfully surfs on a massive, towering emerald green wave (jade water). The wave is cresting, illuminated from behind, showing glowing turquoise runes and ancient scripts swirling within the water. Three ferocious, large Chinese dragons (Lung dragons, dark scales, golden eyes) are emerging from the foam and spray of the wave, actively pursuing the surfer. The dramatic background features a sunset transition blending vibrant orange, crimson, and purple clouds with a dark, starry night sky and a large, pale crescent moon. Floating islands, ancient Chinese pagodas/temples, dramatic waterfalls cascading down floating mountains, and gnarled trees complete the mythical landscape. Extreme detail, epic scale, mythological battle, action pose, digital painting.",
+  "negativePrompt": "(deformed), (low quality), (worst quality), watermark, text, signature, low resolution, poorly drawn hands, poorly drawn face, mutated, bad anatomy, ugly, tiling, blurry, mismatched eyes, extra limbs, simple background, missing fingers, extra fingers, poor shadow, modern clothing.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Chinese Mythology",
+    "Dragon",
+    "Cultivator",
+    "Emerald Wave",
+    "Floating Islands",
+    "Epic Fantasy",
+    "Sunset",
+    "Dynamic Action",
+    "Wuxia"
+  ]
+}

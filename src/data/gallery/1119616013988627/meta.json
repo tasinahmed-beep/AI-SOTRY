@@ -1,0 +1,23 @@
+{
+  "id": "1119616013988627",
+  "file": "gemini-1119616013988627.png",
+  "title": "Zen Retreat: Bonsai in the Arched Window Light",
+  "prompt": "(masterpiece), (best quality), photorealistic, hyperdetailed 8k photograph, centered view, a perfectly sculpted mature bonsai tree (ficus or dwarf jade) in a rectangular, weathered stone pot resting on a rustic dark wooden shelf. The shelf is set within a thick, arched window frame made of dark wood. To the left, a small polished copper watering can sits on a black tray. Soft, diffused natural daylight illuminates the scene from the exterior, creating subtle volumetric light and rim light on the leaves. The window glass has subtle fine mist or water droplets. The interior wall features highly detailed, textured white stucco/plaster. Background is a lush green garden and blurred trees seen through the window, strong depth of field, 16:9 aspect ratio.",
+  "negativePrompt": "deformed, blurry, low resolution, sketch, painting, worst quality, noise, grain, cartoon, CGI, poorly drawn face, disfigured, monochrome, 3D render artifact, unnatural light, asymmetrical, watermark",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Bonsai",
+    "Photorealism",
+    "Still life",
+    "Arched window",
+    "Natural light",
+    "Interior design",
+    "Copper watering can",
+    "Zen",
+    "Depth of field",
+    "Wood shelf"
+  ]
+}

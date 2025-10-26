@@ -1,0 +1,22 @@
+{
+  "id": "3946605037735639",
+  "file": "gemini-3946605037735639.png",
+  "title": "Emerald Wave Rider at Sunset",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D Anime illustration of a surfer in a dark patterned wetsuit carving down a massive, vibrant emerald green wave. Dynamic action pose. Epic tropical sunset background, large sun centered above the horizon, dramatic crepuscular rays (god rays) piercing through the pastel orange and violet clouds. Distant tropical islands with palm trees on the horizon. Ocean spray and reflective water texture, deep shadows and strong highlights. Full body view, cinematic composition. 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, signature, username, abstract, cgi, 3D, sketches, monochrome, flat colors",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Anime Style",
+    "Sunset",
+    "Ocean Wave",
+    "God Rays",
+    "Tropical",
+    "Emerald Water",
+    "Vibrant Colors",
+    "Action Shot"
+  ]
+}

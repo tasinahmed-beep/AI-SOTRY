@@ -1,0 +1,23 @@
+{
+  "id": "4097394629120611",
+  "file": "gemini-4097394629120611.png",
+  "title": "The Librarian's Quiet Duty",
+  "prompt": "(masterpiece), (best quality), stunning visual, 9:16 aspect ratio, highly detailed Donghua Chinese illustration style, a serene young woman with long black hair tied with a red ribbon, wearing an elegant grey and red Hanfu robe embroidered with cranes and bamboo, gently stacking a pile of ancient scrolls and books onto a tall wooden bookshelf. The scene is set inside a grand, ancient Chinese library archive, featuring long rows of dark wood shelves stretching into the background. Dramatic, golden volumetric sunlight streams powerfully through ornate arched windows on the right, creating striking light rays and illuminating dust motes. Include a statue of a stylized jade phoenix near the window. Soft glow, ambient occlusion.",
+  "negativePrompt": "(worst quality, low quality, normal quality, lowres, blurry, smooth skin, bad hands, bad anatomy, error, missing fingers, extra limbs, extra heads, signature, watermark, jpeg artifacts, modern clothing)",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua",
+    "Chinese Art",
+    "Hanfu",
+    "Library",
+    "Scholar",
+    "Volumetric Light",
+    "Ancient Architecture",
+    "Detailed Illustration",
+    "Elegant",
+    "Vertical"
+  ]
+}

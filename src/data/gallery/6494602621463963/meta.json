@@ -1,0 +1,22 @@
+{
+  "id": "6494602621463963",
+  "file": "gemini-6494602621463963.png",
+  "title": "Crimson Fox in the Winter Dawn",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, a magnificent red fox trotting towards the viewer in a snowy winter forest at sunrise, 9:16 aspect ratio, full body shot, expressive amber eyes, detailed crimson and white fur, soft natural lighting, volumetric light rays, fresh snow spraying from its paws, falling snowflakes, tall snow-covered pine trees in the background, smooth digital painting, clean linework, vibrant colors, Modern Anime style, aesthetic background.",
+  "negativePrompt": "blurry, low quality, worst quality, watermark, signature, text, mutated, disfigured, bad anatomy, extra limbs, jpeg artifacts, poorly drawn, cartoonish (non-anime), cropped, out of frame",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fox",
+    "Winter",
+    "Snow",
+    "Anime Style",
+    "Trot",
+    "Forest",
+    "Sunrise",
+    "Animal Portrait",
+    "Vertical Composition"
+  ]
+}

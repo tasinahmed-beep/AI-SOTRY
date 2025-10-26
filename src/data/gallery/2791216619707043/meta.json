@@ -1,0 +1,22 @@
+{
+  "id": "2791216619707043",
+  "file": "gemini-2791216619707043.png",
+  "title": "Crimson Sunset Desert March",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D Anime style illustration, cinematic wide shot (16:9) of a long merchant caravan crossing massive, undulating red sand dunes at sunset. The sky is an intense crimson and orange gradient, featuring soft, stylized clouds. The procession is led by a rider mounted on a fantastical winged beast resembling a camel with sharp features and glowing eyes. Travelers wear Middle Eastern robes and ride heavily laden camels. A tattered flag with a crescent and star motif waves prominently. In the distance, a mysterious silhouetted fantasy city with ornate domes and minarets rises against the horizon. Dramatic lighting, deep shadows stretching long across the sand, detailed line art, stylized shading.",
+  "negativePrompt": "(worst quality, low quality, normal quality), blurry, poorly drawn, deformed, missing limbs, 3D render, photorealistic, artifacts, grayscale, text, watermark, signature",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Desert",
+    "Caravan",
+    "Sunset",
+    "Red Dunes",
+    "Fantasy",
+    "2D Anime",
+    "Winged Creature",
+    "Silhouette",
+    "Middle Eastern"
+  ]
+}

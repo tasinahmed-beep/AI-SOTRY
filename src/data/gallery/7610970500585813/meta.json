@@ -1,0 +1,22 @@
+{
+  "id": "7610970500585813",
+  "title": "The Baker's Warm Hearth: Comic Interlude",
+  "prompt": "(masterpiece), (best quality), highly detailed comic book illustration, 16:9 aspect ratio, full shot of a warm and smiling elderly grandmother kneading a large ball of bread dough on a rustic wooden counter, she has gray hair tied up and wears glasses and a floral apron, cozy well-stocked kitchen interior with exposed wooden beams, prominent large stone wood-fired oven glowing brightly with flames on the left, multiple fresh baked loaves resting nearby, bright sunlight streaming through the window above a farmhouse sink, dried herbs hanging from the ceiling, clear black ink outlines, strong cell shading, nostalgic colors, classic comic book aesthetic, speech bubble included.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, mutated hands and fingers, cropped, poorly drawn face, blurry, text overlay, watermark, signature, error, abstract, sketch, poorly lit, ugly, modern appliances, monochrome.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Comic Book Style",
+    "Rustic Kitchen",
+    "Wood Fired Oven",
+    "Kneading Dough",
+    "Cozy",
+    "Illustration",
+    "Domestic Scene",
+    "Bread"
+  ]
+}

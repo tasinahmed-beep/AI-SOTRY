@@ -1,0 +1,23 @@
+{
+  "id": "7572452273968604",
+  "file": "gemini-7572452273968604.png",
+  "title": "The Star Command Meeting",
+  "prompt": "(masterpiece), best quality, detailed illustration, 2D Anime style, UHD resolution, 16:9 aspect ratio. A full-body shot of an astronaut in a detailed white space suit floating weightlessly outside a massive curved window of a futuristic space station, gently touching the glass. Inside the space station's brightly lit control room, four young anime characters (three boys, one girl) with wide expressive eyes are looking out at the astronaut, seated in front of neon blue glowing control panels. In the deep space background, a detailed orbital satellite with large solar panels is visible. The backdrop features the curved surface of Earth far below and a magnificent nebula swirling with vibrant pink, purple, and cyan colors, scattered with bright stars. Dramatic cinematic lighting, deep space environment.",
+  "negativePrompt": "worst quality, low quality, illustration, 3D render, cartoon, deformed, blurry, ugly, watermark, text, signature, lowres, poorly drawn hands, missing limbs, extra fingers, malformed, monochrome, greyscale, bad anatomy",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Space",
+    "Astronaut",
+    "Space Station",
+    "Anime",
+    "Science Fiction",
+    "Nebula",
+    "Earth",
+    "Control Room",
+    "Cosmic",
+    "Floating"
+  ]
+}

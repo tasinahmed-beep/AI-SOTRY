@@ -1,0 +1,23 @@
+{
+  "id": "2181192116828520",
+  "file": "gemini-2181192116828520.png",
+  "title": "The Botanical Android Caretaker",
+  "prompt": "(masterpiece), best quality, detailed illustration, an aesthetically pleasing scene of a sleek, white humanoid robot (android) with glowing blue eyes, gently watering a variety of lush houseplants (Monstera, Ficus, succulents) in a brightly lit, modern urban art studio, large panoramic window overlooking a sunny blue sky and a distant city skyline, (Modern Anime style), soft ambient lighting, clean lines, minimalist design, lofi aesthetic, natural light reflections on the floor, scattered art supplies on a white desk, 9:16 portrait aspect ratio.",
+  "negativePrompt": "poorly drawn, low quality, worst quality, blurry, mutated hands, multiple limbs, watermark, text, signature, mismatched eyes, extra fingers, cartoon, ugly, noise",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Robot",
+    "Android",
+    "Houseplants",
+    "Studio",
+    "Anime",
+    "Sci-fi",
+    "Lofi",
+    "Interior",
+    "Cityscape",
+    "Gardening"
+  ]
+}

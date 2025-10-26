@@ -1,0 +1,22 @@
+{
+  "id": "6169195138968354",
+  "title": "Grandma's Warm Hearth and Homemade Bread",
+  "prompt": "(masterpiece), best quality, highly detailed, expressive lighting, 16:9 aspect ratio, 2D Anime style, Studio Ghibli aesthetic, wholesome, Lofi mood. A smiling elderly woman (grandmother) with grey hair tied in a bun, wearing a pink sweater and a floral apron, happily kneading fresh bread dough on a wooden board. Cozy rustic kitchen interior bathed in warm morning sunlight streaming through a large window overlooking lush greenery. The kitchen features wooden counters, potted plants on the windowsill, and a traditional brick oven hearth with glowing fire. Freshly baked bread loaves are cooling nearby. A small ginger and white cat sleeps peacefully in the oven alcove. Foreground view of a table set with a red/white checkered tablecloth, a bowl of fresh mixed berries, sliced bread, and a steaming teacup. Soft shading, highly detailed background.",
+  "negativePrompt": "worst quality, low quality, low resolution, watermark, text, signature, bad anatomy, deformed hands, missing limbs, blurry, grayscale, monochrome, ugly, error, out of frame, multiple figures.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "Studio Ghibli",
+    "Lofi Aesthetic",
+    "Hearth Oven",
+    "Fresh Bread",
+    "Sunlight",
+    "Domestic Scene",
+    "Cat"
+  ]
+}

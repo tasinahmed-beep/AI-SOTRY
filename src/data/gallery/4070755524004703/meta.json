@@ -1,0 +1,23 @@
+{
+  "id": "4070755524004703",
+  "file": "gemini-4070755524004703.png",
+  "title": "Cloud Terrace Contemplation: Immortal Tea Ceremony",
+  "prompt": "(masterpiece, best quality, highly detailed, stunning visual art:1.3), a serene and elegant young Xianxia maiden performing a traditional tea ceremony. She is seated gracefully in flowing pale white silk hanfu robes on a massive, intricate bamboo platform. The platform includes a traditional Chinese bamboo gazebo structure and overlooks an expansive, ethereal landscape of floating mountains, dramatic waterfalls, and ancient layered palaces shrouded in mist and clouds. The tea set is delicate celadon green, placed upon a bamboo table with a patterned cloth. Soft golden hour lighting, cinematic atmosphere, lotus flowers, butterflies, spiritual energy rising from the tea. Fantasy Xianxia style. Vertical orientation (9:16).",
+  "negativePrompt": "low quality, worst quality, bad anatomy, bad hands, missing limbs, deformed, blurry, cropped, jpeg artifacts, signature, watermark, poorly drawn face, mutated",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Tea Ceremony",
+    "Immortal Maiden",
+    "Floating Islands",
+    "Bamboo Architecture",
+    "High Fantasy",
+    "Ethereal",
+    "Chinese Art",
+    "Hanfu",
+    "Vertical"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5791151271875403",
+  "title": "Spring Hearth: Grandmother's Kitchen",
+  "prompt": "A high-quality, detailed illustration (masterpiece) in the Donghua Chinese animation style, 16:9 aspect ratio. A serene, elderly Chinese grandmother (pópo) with silver hair tied up, wearing a traditional embroidered red robe with flying crane motifs, happily kneading bread dough on a rustic wooden table dusted with flour. She is centered in a warm, cozy kitchen featuring traditional wooden architecture and hanging lotus lanterns. Dominating the background is a large, beehive-shaped clay oven with glowing fire inside, emitting gentle steam. Sunlight streams through a large lattice window overlooking a vibrant spring garden with blooming cherry blossoms (sakura); pink petals drift indoors. A peaceful black cat sleeps curled up on a bench near the window. Freshly baked bread buns rest on a bamboo rack nearby. Detailed bowls containing grains, spices, and ingredients are scattered on the table. Cinematic lighting, volumetric atmosphere, highly detailed textures, inviting ambiance.",
+  "negativePrompt": "(worst quality), (low quality), bad anatomy, deformed hands, blurry, chaotic, modern kitchen, poorly drawn, out of frame, signature, watermark, text, error, mutated, monochrome.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua",
+    "Chinese Animation",
+    "Cozy Kitchen",
+    "Grandmother",
+    "Baking",
+    "Cherry Blossoms",
+    "Traditional Architecture",
+    "Cat",
+    "Clay Oven",
+    "Slice of Life"
+  ]
+}

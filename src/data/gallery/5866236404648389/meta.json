@@ -1,0 +1,22 @@
+{
+  "id": "5866236404648389",
+  "file": "gemini-5866236404648389.png",
+  "title": "Advancing Through the Inferno",
+  "prompt": "(masterpiece), best quality, highly detailed, 2D Anime style illustration of a determined firefighter in full protective gear (bright yellow bunker coat and pants, gold helmet, SCBA mask). Full body view, walking directly towards the camera from a low angle. The firefighter is actively holding a hose nozzle and spraying a powerful stream of water. The environment is dominated by thick, billowing gray and orange smoke, with intense orange flames visible in the background. Cinematic lighting, dramatic atmosphere, strong outlines, crisp line art, detailed cell shading. 9:16 aspect ratio.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, out of frame, extra limbs, disfigured, deformed, blurry, bad anatomy, watermark, grainy, low resolution, multiple people, mismatched clothing, signature",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "firefighter",
+    "2D Anime",
+    "action scene",
+    "smoke and fire",
+    "bunker gear",
+    "heroic pose",
+    "emergency services",
+    "line art",
+    "vertical composition"
+  ]
+}

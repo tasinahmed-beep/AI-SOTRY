@@ -1,0 +1,23 @@
+{
+  "id": "8812176165339731",
+  "file": "gemini-8812176165339731.png",
+  "title": "Golden Hour Shelf Stacking",
+  "prompt": "(masterpiece), best quality, highly detailed 16:9 cinematic render of a cute anime librarian with blue hair tied in a high ponytail, wearing a beige cardigan and long green pleated skirt. She is standing on a wooden stepladder, carefully placing an old book onto the highest shelf of a tall, dark wood bookshelf. The scene is set in a vast, classical library aisle. Extremely dramatic lighting, strong golden volumetric sunbeams (god rays) pouring through tall arched gothic windows, illuminating dust motes and creating a warm, cozy atmosphere. Detailed environment, wooden floors, stacks of books on a nearby rolling cart and study table. 3D Anime style, soft shading, high saturation.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed face, poor hands, missing limbs, blurry, grayscale, monochrome, sketch, noisy, ugly, inaccurate, text, watermark, signature, multiple characters, poorly drawn",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Librarian",
+    "Anime Girl",
+    "Library",
+    "Bookshelves",
+    "Sunlight",
+    "God Rays",
+    "Interior",
+    "Cozy",
+    "Stepladder",
+    "3D Render"
+  ]
+}

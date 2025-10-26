@@ -1,0 +1,23 @@
+{
+  "id": "3698113095796235",
+  "file": "gemini-3698113095796235.png",
+  "title": "The Dragon Painter at Dawn",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 aspect ratio, dramatic volumetric lighting, a young male artist wearing traditional Chinese robes (Hanfu) meticulously painting a massive mural of a powerful, coiled red and gold Chinese dragon on a gray brick wall. The mural features traditional elements: swirling white clouds, pink cherry blossoms, and stylized green mountains. Setting: A narrow, ancient Chinese cobblestone street at sunrise. Warm, glowing red paper lanterns hang above, illuminating the scene. Golden sunlight breaks over the distant traditional rooftops, creating long shadows. Peaceful atmosphere. Donghua Chinese style.",
+  "negativePrompt": "lowres, worst quality, bad anatomy, deformed, poorly drawn hands, disfigured, text, signature, watermark, blurry, extra limbs, noise, monochrome, grayscale, low saturation, inaccurate perspective, missing details, poorly executed painting details",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chinese Dragon",
+    "Mural Art",
+    "Sunrise",
+    "Donghua",
+    "Traditional Chinese Street",
+    "Hanfu",
+    "Street Artist",
+    "Asian Aesthetic",
+    "Cherry Blossoms",
+    "Ancient Architecture"
+  ]
+}

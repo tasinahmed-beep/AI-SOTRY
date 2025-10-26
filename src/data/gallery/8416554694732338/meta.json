@@ -1,0 +1,21 @@
+{
+  "id": "8416554694732338",
+  "title": "Cyber-Dragon Graffiti at Sunrise",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, Modern Anime style. A dynamic full-body portrait of a young male street artist, standing in an urban alleyway at spectacular dawn, painting a massive mural on a weathered brick wall. He wears a spotted grey hoodie and cargo pants. The vibrant mural features a glowing, majestic blue Eastern dragon coiling around neon-lit futuristic cyberpunk skyscrapers and flying vehicles. Strong contrast lighting, warm golden light from the rising sun on the left, cool blue light emanating from the mural. Alley ground with cobblestones, discarded spray cans, scaffolding nearby. Small fox companion/charm visible on the artist's shoulder. Low angle perspective. 9:16 vertical composition.",
+  "negativePrompt": "low quality, worst quality, error, bad anatomy, deformed hands, missing fingers, lowres, blurry, watermark, signature, text, monochrome, grayscale, multiple limbs, extra faces, noise",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime",
+    "Street Art",
+    "Graffiti",
+    "Dragon",
+    "Cyberpunk Cityscape",
+    "Sunrise",
+    "Urban Alley",
+    "Mural Painting",
+    "9:16 aspect ratio"
+  ]
+}

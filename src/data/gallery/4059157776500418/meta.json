@@ -1,0 +1,22 @@
+{
+  "id": "4059157776500418",
+  "title": "Dawn of the Urban Dragon",
+  "prompt": "(masterpiece), best quality, detailed illustration, Modern Anime style, 16:9 aspect ratio. A dynamic scene of a young male street artist with vibrant blue hair and a bandana, dressed in a grey hoodie and cargo pants, actively painting a colossal, vibrant mural on a weathered red brick wall on an urban rooftop. The mural depicts an epic, fierce dragon soaring over stylized skyscrapers and glowing fantasy cherry blossom trees. Dramatic sunrise lighting illuminates the scene from the left, casting long, sharp shadows and intensely backlighting the distant cityscape. Three friends stand observing in the background, slightly silhouetted by the huge, bright sun rising over the distant city skyline. Full body view, volumetric light, sharp focus.",
+  "negativePrompt": "lowres, worst quality, blurry, inaccurate anatomy, poorly drawn face, mutated fingers, distortion, jpeg artifacts, signature, watermark, text",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "Anime Style",
+    "Sunrise",
+    "Rooftop",
+    "Cityscape",
+    "Dragon",
+    "Urban Scene",
+    "Detailed Background",
+    "Graffiti Artist"
+  ]
+}

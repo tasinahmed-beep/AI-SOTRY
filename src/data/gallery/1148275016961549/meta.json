@@ -1,0 +1,23 @@
+{
+  "id": "1148275016961549",
+  "file": "gemini-1148275016961549.png",
+  "title": "Neon Dragon Overdose in the Rain",
+  "prompt": "(Masterpiece), (best quality), highly detailed cinematic illustration, Donghua Chinese art style, a vertical (9:16) view of a dark, rainy cyberpunk alleyway. The street is wet and reflective. Traditional Chinese buildings with tiled roofs line the narrow path, illuminated by glowing, vibrant pink, cyan, and red neon signs featuring Chinese characters. Red paper lanterns hang down, providing warm contrast. In the background, a massive glowing blue holographic Chinese dragon hovers centrally above the steam-filled street. An elevated monorail track with a passing train curves above the buildings. A lone figure in a dark, tactical trench coat walks away from the viewer, moving towards other shadowy silhouettes in the distance. Abundant ground steam, dynamic lighting, atmospheric perspective, cinematic composition.",
+  "negativePrompt": "deformed, bad anatomy, disfigured, low quality, worst quality, monochrome, blurry, text, watermark, signature, jpeg artifacts, extra limbs, cartoon, western animation",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "cyberpunk",
+    "donghua",
+    "rainy street",
+    "neon signs",
+    "chinese architecture",
+    "holographic dragon",
+    "moody lighting",
+    "urban fantasy",
+    "vertical composition",
+    "future noir"
+  ]
+}

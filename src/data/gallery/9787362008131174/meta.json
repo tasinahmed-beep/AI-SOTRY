@@ -1,0 +1,23 @@
+{
+  "id": "9787362008131174",
+  "file": "gemini-9787362008131174.png",
+  "title": "The Cozy Cafe Barista",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, 2D Anime style, 9:16 aspect ratio. A charming young male barista, short messy brown hair, friendly smile, slightly blushing cheeks, wearing a dark striped polo shirt and a clean white apron. Close-up portrait, dynamic action shot, focused view on the hands and coffee cup. He is skillfully pouring steamed milk from a metallic pitcher to create perfect heart-shaped latte art in a white ceramic mug. Gentle steam rising from the hot beverage. Cozy coffee shop interior background, warm morning sunlight streaming through a large window, wooden counter, potted green plants, soft volumetric lighting, detailed background elements.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, bad hands, missing fingers, deformed, blurry, extra limbs, signature, watermark, logo, fewer colors, jpeg artifacts, grayscale, monochrome, sketch, error, disfigured face",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "barista",
+    "latte art",
+    "anime boy",
+    "coffee shop",
+    "apron",
+    "pouring",
+    "heart shape",
+    "cozy atmosphere",
+    "male character",
+    "detailed"
+  ]
+}

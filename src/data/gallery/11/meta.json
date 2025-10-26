@@ -1,0 +1,18 @@
+{
+  "id": "11",
+  "title": "Bamboo Forest Meditation",
+  "prompt": "16:9 aspect ratio, (masterpiece), (best quality), donghua style, serene meditation scene in bamboo forest, soft morning light rays, floating lotus flowers, peaceful atmosphere, ancient temple in background, fantasy xianxia aesthetic, wide cinematic shot",
+  "negativePrompt": "lowres, blurry, bad anatomy, text, watermark, signature, deformed",
+  "style": "Fantasy",
+  "aspectRatio": "16:9",
+  "size": "1024 X 576",
+  "orientation": "landscape",
+  "tags": [
+    "bamboo",
+    "forest",
+    "landscape",
+    "meditation",
+    "temple",
+    "donghua"
+  ]
+}

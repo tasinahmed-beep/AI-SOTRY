@@ -1,0 +1,22 @@
+{
+  "id": "8739351620378868",
+  "title": "Graceful Woman in Dynamic Dance (Landscape)",
+  "prompt": "A woman dancing",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, blurry, extra limbs, signature, watermark, text, out of frame, disfigured, poorly drawn hands, cropped",
+  "style": "Cinematic Photorealism",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "woman",
+    "dancer",
+    "dancing",
+    "full body",
+    "dynamic pose",
+    "movement",
+    "graceful",
+    "elegant",
+    "performance art",
+    "studio shot"
+  ]
+}

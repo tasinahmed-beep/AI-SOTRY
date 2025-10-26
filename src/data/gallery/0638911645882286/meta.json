@@ -1,0 +1,22 @@
+{
+  "id": "0638911645882286",
+  "file": "gemini-0638911645882286.png",
+  "title": "The Flying Crust Master",
+  "prompt": "(masterpiece), best quality, stunning 3D animation render, official Pixar movie still, cinematic volumetric lighting. A cheerful, portly Italian master chef with a thick mustache and a tall white toque stands centrally, dramatically tossing a large, raw pizza dough high above his head. His arms are stretched upwards in a pose of triumph and excitement. He wears a clean white double-breasted jacket and checkered pants. The background features a rustic, warm Italian pizzeria kitchen dominated by a large, glowing wood-fired brick oven. Stacks of firewood are visible below the oven opening, which emits fiery light. Details include two assistant chefs working, hanging braids of garlic and dried red chili peppers (peperoncino), and flour dusted wooden tables. Vertical portrait orientation (9:16 aspect ratio).",
+  "negativePrompt": "bad quality, blurry, low resolution, ugly, deformed, text, watermark, signature, missing limbs, bad anatomy, mutated hands, multiple heads, non-italian kitchen, grayscale, low detail, noisy",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pizza",
+    "Chef",
+    "Italian Pizzeria",
+    "3D Animation",
+    "Brick Oven",
+    "Tossing Dough",
+    "Cooking Scene",
+    "Rustic Kitchen",
+    "Vertical"
+  ]
+}

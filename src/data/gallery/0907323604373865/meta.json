@@ -1,0 +1,23 @@
+{
+  "id": "0907323604373865",
+  "file": "gemini-0907323604373865.png",
+  "title": "Warmth in the Neon Rain",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D Anime illustration, 16:9, a joyous middle-aged street vendor smiling brightly, cooking five ears of yakitoumogi (grilled corn on the cob) on a glowing charcoal grill. Intense steam rising. Set on a dark Japanese city street during heavy rainfall at night. Strong warm lighting emanating from the grill and three red chochin lanterns under a small awning. The wet asphalt reflects the neon signs and rain puddles. Two customers standing under umbrellas nearby in the background. Volumetric light, atmospheric effects.",
+  "negativePrompt": "lowres, bad hands, worst quality, low quality, distortion, poorly drawn, blurry, artifacts, watermark, logo, text, cropped, oversaturated, fewer details, 3d, cgi",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "2D Anime",
+    "Rainy night",
+    "Street food",
+    "Yakitoumogi",
+    "Japanese street",
+    "Chochin",
+    "Grill",
+    "Urban atmosphere",
+    "Reflection",
+    "Street vendor"
+  ]
+}

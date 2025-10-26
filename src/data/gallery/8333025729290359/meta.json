@@ -1,0 +1,23 @@
+{
+  "id": "8333025729290359",
+  "file": "gemini-8333025729290359.png",
+  "title": "The Morning Dusting",
+  "prompt": "(masterpiece), hyperdetailed, photorealistic food photography, a close-up shot of a baker's hands gently sifting powdered sugar from a metal sieve over a fresh batch of golden, flaky croissants arranged closely together on a dark wooden cutting board. The sugar particles are perfectly captured mid-air. Soft, diffused natural light streams powerfully from a large, industrial-style window in the background, creating a strong contrast and shallow depth of field (bokeh). Warm ambient lighting, professional commercial quality, high resolution, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, blurry, extra fingers, extra limbs, ugly, disfigured, poor lighting, cartoon, sketch, painting, signature, watermark.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Croissant",
+    "Baking",
+    "Powdered Sugar",
+    "Patisserie",
+    "Food Photography",
+    "Bakery",
+    "Close-up",
+    "Sifting",
+    "Soft Lighting",
+    "16:9"
+  ]
+}

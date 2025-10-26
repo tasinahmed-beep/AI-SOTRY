@@ -1,0 +1,23 @@
+{
+  "id": "3022818470449728",
+  "file": "gemini-3022818470449728.png",
+  "title": "Spring Blossom Culinary Pavilion",
+  "prompt": "(masterpiece), (best quality), ultra detailed, 16:9 aspect ratio. A handsome young Chinese man, dressed in elaborate blue and gold traditional Hanfu robes, meticulously slicing colorful root vegetables (carrots, radishes, greens) on a large wooden cutting board with a silver chef's knife. He has long dark hair and a focused expression. The scene is set on an outdoor traditional Chinese culinary pavilion, featuring dark tiled roofs, wooden railings, and traditional architecture. Soft focus background of blooming pink cherry blossom trees (sakura petals fluttering), sunlit golden hour, volumetric light, tranquil atmosphere. Detailed food preparation, Donghua Chinese style, soft cinematic lighting, elegant aesthetic.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, signature, username, abstract, ugly, deformed, grain, blurry background, missing limb, multiple people",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chinese Chef",
+    "Hanfu",
+    "Donghua Style",
+    "Cherry Blossoms",
+    "Traditional Architecture",
+    "Slicing Vegetables",
+    "Golden Hour",
+    "Anime Boy",
+    "Cooking",
+    "16:9"
+  ]
+}

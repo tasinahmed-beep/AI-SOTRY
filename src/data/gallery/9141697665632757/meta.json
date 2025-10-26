@@ -1,0 +1,23 @@
+{
+  "id": "9141697665632757",
+  "file": "gemini-9141697665632757.png",
+  "title": "The Immortal Surfer and the Jade Dragon Wave",
+  "prompt": "(Masterpiece), (best quality), highly detailed, stunning visual complexity, 16:9 aspect ratio. An epic Fantasy Xianxia scene featuring a powerful hero (Daoist Immortal or skilled warrior) riding a massive, curling emerald green wave on a magical surfboard. The wave is intricately formed by two majestic golden Chinese dragons coiled within the water, their heads emerging from the crest. The hero wears flowing teal robes and ornate armor, gripping a magical staff. Dynamic action pose, high splash effects, realistic water texture. The background is dominated by dramatic, ethereal floating karst mountains (Wuxia peaks) piercing the golden, misty clouds, topped with ancient Chinese temples and pagodas. A huge, glowing orange setting sun dominates the horizon, casting dramatic backlight and warm tones. Flying cranes and mythical beasts visible in the sky. Cinematic lighting, professional digital painting.",
+  "negativePrompt": "low quality, worst quality, extra limbs, ugly, poor anatomy, deformed, blurry, haze, watermark, text, signature, low resolution, bad hands, cartoon, sketch, monochrome, boring composition, mutated.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fantasy Xianxia",
+    "Chinese Mythology",
+    "Dragon Wave",
+    "Immortal Hero",
+    "Digital Painting",
+    "Epic Landscape",
+    "Floating Mountains",
+    "Sunset",
+    "Celestial Temple",
+    "Action Scene"
+  ]
+}

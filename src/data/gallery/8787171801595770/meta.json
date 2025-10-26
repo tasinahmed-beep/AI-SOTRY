@@ -1,0 +1,23 @@
+{
+  "id": "8787171801595770",
+  "file": "gemini-8787171801595770.png",
+  "title": "Scarlet Sands Caravan",
+  "prompt": "(masterpiece), best quality, highly detailed 2D anime style illustration, full-body vertical shot (9:16), an epic desert caravan crossing massive red sand dunes at sunset. Cloaked figures (desert nomads) ride camels and pull a covered wagon. The lead traveler holds a tall staff topped with a glowing blue magical orb. In the background, looming ancient, layered stone ruins (ziggurat structure). Dramatic, vibrant orange and red sky, huge setting sun near the horizon, stylized clouds, visible alien moon/planetoid in the upper purple sky, line art, manga aesthetic.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, missing limbs, blurry, jpeg artifacts, ugly, signature, watermark, extra fingers, cartoon, 3D render, grayscale, low contrast, text",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime",
+    "Desert Caravan",
+    "Red Dunes",
+    "Sunset",
+    "Fantasy",
+    "Magic Staff",
+    "Ancient Ruins",
+    "Camel",
+    "Line Art",
+    "Manga Illustration"
+  ]
+}

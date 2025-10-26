@@ -1,0 +1,23 @@
+{
+  "id": "2395002135467492",
+  "file": "gemini-2395002135467492.png",
+  "title": "Crescent Moon Rhapsody on the Rooftop",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, 9:16 aspect ratio, A breathtaking Modern Anime illustration of a graceful young woman performing a contemporary dance on a dark, flat city rooftop at sunset. She has long silver hair tied with a blue ribbon and wears a flowing navy blue dress with crimson lining that billows around her mid-spin. The dancer is standing on one leg, arms raised towards the sky, head tilted back with a joyful, expressive smile. Dramatic, warm sunset lighting fills the background, casting brilliant orange, pink, and purple hues across the clouds, with visible light rays slicing through the atmosphere. Above, a bright white crescent moon and faint stars are visible against the gradient sky. Vast, detailed cityscape stretching to the horizon, low angle shot emphasizing height and the dramatic sky.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed hands, missing limbs, blurry, noise, text, watermark, signature, cropped, extra fingers, malformed, poorly drawn face, mutated.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Modern Anime",
+    "Sunset",
+    "Rooftop Dance",
+    "Crescent Moon",
+    "Cityscape",
+    "Atmospheric Lighting",
+    "Flowing Dress",
+    "Graceful",
+    "9:16",
+    "Silver Hair"
+  ]
+}

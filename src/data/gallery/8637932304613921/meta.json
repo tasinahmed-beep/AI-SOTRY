@@ -1,0 +1,23 @@
+{
+  "id": "8637932304613921",
+  "file": "gemini-8637932304613921.png",
+  "title": "Crystal City Cultivator's Midnight Sprint",
+  "prompt": "(Masterpiece), (best quality), highly detailed cinematic illustration, 16:9 aspect ratio. A dynamic, full-body shot of a handsome young male cultivator in flowing purple Xianxia robes, mid-action, intensely riding an ornate, glowing teal bicycle. He is speeding through a wet, rainy Xianxia city street at night. The architecture is a fusion of traditional Chinese pagodas and towering structures adorned with massive, vibrant blue-glowing magic crystals and neon signage. Heavy rain is falling, splashing water forms magical, luminous rings on the wet, reflective stone pavement. Atmospheric lighting, volumetric fog, high contrast, cyberpunk aesthetic merged with traditional Chinese fantasy, flying airships visible in the distant background.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed face, disfigured, blurry, missing limbs, text, signatures, watermark, simple background, ugly, grayscale, monochrome, cartoon, painting, sketch, extra fingers, multiple heads.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Cyberpunk",
+    "Rainy Night",
+    "Glowing Crystals",
+    "Cultivator",
+    "Bicycle",
+    "Pagoda Architecture",
+    "Dynamic Pose",
+    "Steampunk Elements",
+    "Neon City"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5444125945607753",
+  "file": "gemini-5444125945607753.png",
+  "title": "The Dragon King's Vibrant Underwater Realm",
+  "prompt": "(masterpiece), (best quality), highly detailed, A majestic, serpentine Chinese Dragon with iridescent scales gracefully swimming through a stunningly vibrant coral reef. The environment features ancient, submerged Chinese architecture (pagodas and temples) overgrown with colorful coral structures resembling fantasy trees. A massive school of stylized, brightly colored fish (red, gold, cyan, pink) swarm around the dragon and structures. Include multiple translucent jellyfish floating. Strong volumetric god rays stream down from the water surface, illuminating the scene with a celestial glow and shimmering bubbles. Full depth of field, 9:16 aspect ratio, Donghua Chinese animation style, ultra-vivid colors, cinematic underwater lighting.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, blurry, missing limbs, grayscale, monochrome, sketch, amateur drawing, watermark, signature, text, oversaturation, cropped, dull colors",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chinese Dragon",
+    "Underwater Fantasy",
+    "Coral Reef",
+    "Donghua",
+    "Mythological Creature",
+    "Pagoda",
+    "Volumetric Lighting",
+    "Vibrant Colors",
+    "Colorful Fish",
+    "Aquatic Architecture"
+  ]
+}

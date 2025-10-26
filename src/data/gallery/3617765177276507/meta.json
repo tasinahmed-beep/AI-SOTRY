@@ -1,0 +1,23 @@
+{
+  "id": "3617765177276507",
+  "file": "gemini-3617765177276507.png",
+  "title": "Crimson Dance at Dusk",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D Anime illustration, official art, full body shot of a passionate dancer performing a dramatic spin on a city rooftop at sunset, stunning long crimson red flowing dress caught mid-movement, dynamic pose, arms raised and extended, long dark hair swirling dramatically, strong backlighting, cinematic sunset sky with vivid orange and pink gradient, floating petals, subtle lens flare effect, detailed rooftop tiles, city skyline silhouette in the background, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, monochrome, bad anatomy, extra limbs, poorly drawn hands, missing fingers, watermark, signature, jpeg artifacts, ugly, noise, poorly rendered dress.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "anime girl",
+    "dancer",
+    "red dress",
+    "sunset",
+    "rooftop",
+    "city skyline",
+    "dynamic pose",
+    "flowing hair",
+    "2D illustration",
+    "flamenco"
+  ]
+}

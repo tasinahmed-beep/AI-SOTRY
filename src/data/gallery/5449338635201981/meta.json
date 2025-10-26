@@ -1,0 +1,23 @@
+{
+  "id": "5449338635201981",
+  "file": "gemini-5449338635201981.png",
+  "title": "Sound and Steel",
+  "prompt": "(masterpiece), best quality, detailed illustration, 16:9 aspect ratio, **Comic Book Art Style**. A determined female street violinist performing passionately under a massive, rivet-studded steel truss bridge at night. The background features a dramatic cityscape skyline with towering Art Deco skyscrapers, illuminated by intense lightning flashes during a storm. A small, captivated crowd watches the performance on the cobblestone waterfront promenade. Detailed linework, heavy black outlines, halftone dot texture, dynamic lighting, high contrast, musical notes radiating from the instrument, urban atmosphere.",
+  "negativePrompt": "worst quality, low quality, jpeg artifacts, blurry, missing limbs, poorly drawn hands, watermark, signature, text, simplistic design, boring composition, mutated fingers, extra limbs.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Violinist",
+    "Comic Book",
+    "Urban",
+    "Street Musician",
+    "Bridge",
+    "Night",
+    "Stormy",
+    "Lightning",
+    "Cityscape",
+    "Dynamic"
+  ]
+}

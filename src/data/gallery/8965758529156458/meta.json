@@ -1,0 +1,22 @@
+{
+  "id": "8965758529156458",
+  "file": "gemini-8965758529156458.png",
+  "title": "The Heart of the Latte",
+  "prompt": "(masterpiece), (best quality), highly detailed, 4k, vertical orientation (9:16), cinematic composition, 3D render, Pixar Style, animated movie still of a friendly male barista with a knit cap and apron, intently focusing on pouring steamed milk from a metallic pitcher into a white ceramic cup to create intricate heart latte art. Warm volumetric lighting streaming through an arched window in a cozy cafe setting, blurry background patrons (bokeh), wooden countertop, detailed espresso machine.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, extra limbs, ugly, monochrome, jpeg artifacts, signature, watermark, disfigured hands, missing fingers, text, bad anatomy, grayscale",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Barista",
+    "Latte Art",
+    "Coffee Shop",
+    "3D Animation",
+    "Pixar Style",
+    "Heart Design",
+    "CGI",
+    "Cinematic Lighting",
+    "Character Design"
+  ]
+}

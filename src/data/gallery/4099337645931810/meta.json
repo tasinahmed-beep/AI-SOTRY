@@ -1,0 +1,23 @@
+{
+  "id": "4099337645931810",
+  "file": "gemini-4099337645931810.png",
+  "title": "Neon Dragon's Embrace in the Floating Citadel",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic vertical composition (9:16) of a bustling Fantasy Xianxia cyberpunk alleyway. The street is enclosed by towering traditional Chinese architecture blended with futuristic metallic elements, rising high into the misty sky where floating pagodas are visible. Intense contrast between darkness and vibrant neon signage in magenta, electric blue, and gold Chinese characters. A massive, luminous digital dragon construct, glowing electric blue, spirals down the center of the alley, surrounded by dense steam rising from the wet, reflective pavement. Figures wearing dark, cybernetic-infused robes and armor, some carrying glowing swords, walk towards the foreground. Traditional red lanterns, dark banners with dragon motifs, and subtle cherry blossom trees visible on the high levels. Moody volumetric lighting, slight rain effect, atmospheric perspective, depth of field.",
+  "negativePrompt": "(low quality), (blurry), low resolution, text, signature, watermark, amateur, tiling, deformed, ugly, distorted, disconnected limbs, poor anatomy, bad composition, disfigured, monochrome, plain background.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyberpunk",
+    "Xianxia",
+    "Neon Dragon",
+    "Vertical City",
+    "Wet street",
+    "Moody lighting",
+    "Asian Fantasy",
+    "Future architecture",
+    "Alleyway",
+    "Glow"
+  ]
+}

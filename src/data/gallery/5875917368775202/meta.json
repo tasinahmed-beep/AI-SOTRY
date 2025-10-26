@@ -1,0 +1,23 @@
+{
+  "id": "5875917368775202",
+  "file": "gemini-5875917368775202.png",
+  "title": "Forest Descent: Anime Downhill Thrill",
+  "prompt": "(masterpiece), (best quality), highly detailed, Modern Anime style illustration, A dynamic full-body shot of a professional mountain biker racing intensely down a rugged, sun-dappled forest trail. The biker wears a sleek, futuristic protective suit in orange and cyan/teal, a full-face black helmet, and reflective goggles. Extreme speed is shown by exaggerated motion blur, glowing cyan and yellow speed lines, and a large dust cloud kicking up from the rear tire. Dramatic lighting with bright god rays piercing through the dense green forest canopy, highlighting the action. Vertical composition (9:16), action pose, sharp lines, cinematic perspective, highly saturated colors.",
+  "negativePrompt": "lowres, blurry, bad anatomy, deformed, worst quality, noise, poorly drawn hands, missing limbs, extra limbs, text, watermark, signature, jpeg artifacts, cropped, out of focus",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Modern Anime",
+    "Mountain Biking",
+    "Downhill Racing",
+    "Extreme Sports",
+    "Speed Lines",
+    "Forest Trail",
+    "God Rays",
+    "Dynamic Action",
+    "Vertical Composition",
+    "High Contrast"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5702064442189904",
+  "file": "gemini-5702064442189904.png",
+  "title": "Zen Master's Serene Cascade",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k resolution, cinematic volumetric lighting, Pixar Style 3D render: A cute, cheerful, bald Buddhist monk in a vibrant orange robe meditating peacefully in the lotus position on a large, moss-covered boulder. The setting is a majestic, lush mountain landscape featuring a tall, stylized waterfall cascading down sheer grey cliffs into a clear turquoise pool. A vibrant rainbow is visible in the waterfall's mist. Lush, rounded green trees and bushes frame the scene. Butterflies flutter around the monk. Wide shot, serene nature setting. 16:9 aspect ratio.",
+  "negativePrompt": "nsfw, lowres, worst quality, low quality, jpeg artifacts, blurry, text, watermark, signature, deformed, extra fingers, poorly drawn hands, missing limbs, bad anatomy, cartoon, sketch, ugly",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Pixar Style",
+    "3D Render",
+    "Serene",
+    "Mountain Landscape",
+    "Rainbow",
+    "Lush Vegetation"
+  ]
+}

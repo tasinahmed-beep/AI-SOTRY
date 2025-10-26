@@ -1,0 +1,22 @@
+{
+  "id": "8125221717539332",
+  "file": "gemini-8125221717539332.png",
+  "title": "The Roar of Meditation",
+  "prompt": "(masterpiece), (best quality), highly detailed Comic Book panel illustration, full vertical view (9:16 aspect ratio), a stoic Buddhist monk wearing a saffron orange robe seated in a lotus position, meditating directly beneath a powerful, roaring waterfall. The scene is framed by towering, rugged, snow-capped mountains and ancient, twisting trees on rocky cliffs. Bright, dramatic sunlight breaks through stylized, swirling clouds above. Thick black outlines (inking), vibrant flat colors, detailed shading using dot patterns and halftones. Include a dynamic comic book sound effect, \"ROOOOA ROORAR!\", placed near the falling water. Strong composition, high-contrast, focused expression of discipline.",
+  "negativePrompt": "worst quality, low resolution, blurry, distorted, sketch, amateur drawing, poorly drawn hands, missing limbs, dull colors, realistic, painting, photo, 3D render, crosshatching errors, low contrast, text errors, border artifact, multiple panels",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Monk",
+    "Waterfall",
+    "Meditation",
+    "Comic Art",
+    "Inking",
+    "Mountain Landscape",
+    "Buddhism",
+    "Sequential Art",
+    "9:16 Aspect Ratio"
+  ]
+}

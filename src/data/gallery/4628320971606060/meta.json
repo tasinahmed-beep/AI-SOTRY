@@ -1,0 +1,23 @@
+{
+  "id": "4628320971606060",
+  "file": "gemini-4628320971606060.png",
+  "title": "Urban Canvas at First Light",
+  "prompt": "(masterpiece), (best quality), photorealistic render, cinematic lighting, dramatic contrast, high detail, 8K resolution. A young female street artist wearing paint-splattered overalls and a baseball cap is standing on a metal scaffolding, focused on painting a large, vibrant, complex graffiti mural on a towering, weathered red brick wall in an urban alleyway. Strong golden hour sunlight at dawn illuminates the scene from the left, highlighting the texture of the bricks and the saturated colors of the mural. Scattered art supplies, spray cans, and coffee cups litter the damp asphalt ground near a steaming manhole cover. 9:16 aspect ratio.",
+  "negativePrompt": "poorly drawn, blurry, low resolution, amateur, deformed hands, extra fingers, watermark, signature, ugly, tiling, cropped, worst quality, monochrome, sketch, painting, illustration.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "Photorealistic",
+    "Dawn Light",
+    "Golden Hour",
+    "Urban Setting",
+    "Graffiti",
+    "Brick Wall",
+    "Artist at Work",
+    "9:16"
+  ]
+}

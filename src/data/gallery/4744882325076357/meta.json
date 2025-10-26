@@ -1,0 +1,23 @@
+{
+  "id": "4744882325076357",
+  "file": "gemini-4744882325076357.png",
+  "title": "The Celestial Toss of the Imperial Kitchen",
+  "prompt": "(masterpiece), best quality, a wide-shot (16:9) cinematic scene of a handsome young Chinese chef expertly tossing a large pizza dough high in the air. He wears a traditional silk Chinese tunic and a decorative apron. The background features a rustic yet refined brick oven kitchen, multiple wood-fired arches glowing warmly. The main pizza oven is highly ornate, decorated with vibrant red and intricate gold Donghua-style cloud motifs. Exposed brick walls, hanging red chili peppers and garlic braids, soft glow from traditional paper lanterns. Highly detailed mise en place in the foreground: organized bowls of fresh ingredients (mozzarella balls, sauces, chopped vegetables). Volumetric lighting, photorealistic rendering, detailed background action with supporting kitchen staff preparing food.",
+  "negativePrompt": "deformed, blurry, low resolution, worst quality, noise, disfigured, poor anatomy, bad hands, cartoon, watermark, signature, collapsed background, ugly, grayscale, monotone, incorrect perspective",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chef",
+    "Cooking",
+    "Pizza",
+    "Brick Oven",
+    "Donghua Style",
+    "Chinese Kitchen",
+    "Food Preparation",
+    "Silk Robes",
+    "Cinematic Lighting",
+    "Fusion Cuisine"
+  ]
+}

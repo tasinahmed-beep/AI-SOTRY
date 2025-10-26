@@ -1,0 +1,22 @@
+{
+  "id": "7378398488775176",
+  "file": "gemini-7378398488775176.png",
+  "title": "The Warmth of Homemade Bread",
+  "prompt": "(masterpiece), (best quality), ultra-detailed 2D Anime illustration, vertical composition (9:16). A kindly, smiling elderly woman (obaa-san) with gray hair and a floral headscarf, wearing a patterned apron, lovingly kneading bread dough on a wooden counter. Cozy rustic kitchen setting, warm golden hour lighting, cinematic atmosphere. Features include: an active brick oven, antique stove, kettle steaming, packed wooden shelves, baskets of apples, and a sleeping ginger cat on the sunlit windowsill. Soft shadows, volumetric light, slice of life, high saturation.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed hands, missing fingers, extra limbs, watermark, text, signature, blurry, jpeg artifacts, monochrome, cropped, tiling, modern technology",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "2D Anime",
+    "Slice of Life",
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "Rustic",
+    "Kneading Dough",
+    "Golden Hour",
+    "Domestic Scene"
+  ]
+}

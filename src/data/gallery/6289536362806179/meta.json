@@ -1,0 +1,23 @@
+{
+  "id": "6289536362806179",
+  "file": "gemini-6289536362806179.png",
+  "title": "Earth Gazer: Solitude in Orbit",
+  "prompt": "(masterpiece), (best quality), highly detailed sci-fi illustration, wide cinematic 16:9 aspect ratio, a full-body view of an astronaut in a bright white EVA suit floating weightlessly just outside the huge panoramic observation window of a futuristic space station observatory, dynamic pose, reaching hand, stunning view of the curved Earth below with blue oceans and white clouds, starry deep space background, view from inside the sleek, dark space station interior, neon blue and purple accent lighting inside, silhouettes of observers on an interior balcony, detailed robotic drone with solar panels near the window frame, high-definition 3D Anime style, volumetric lighting, atmospheric perspective, (sharp focus)",
+  "negativePrompt": "worst quality, low quality, lowres, ugly, tiling, blurry, deformed, disfigured, poorly drawn, extra limbs, bad anatomy, error, text, signature, watermark, logo, cropped, hazy, messy, oversaturated",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Astronaut",
+    "Space Station",
+    "Outer Space",
+    "Earth View",
+    "Sci-fi",
+    "Floating",
+    "Panoramic Window",
+    "Cinematic",
+    "Anime Style",
+    "Futuristic"
+  ]
+}

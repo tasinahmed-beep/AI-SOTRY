@@ -1,0 +1,23 @@
+{
+  "id": "9725578997346286",
+  "file": "gemini-9725578997346286.png",
+  "title": "Neon Glow on a Rainy Night: Corn Vendor",
+  "prompt": "(masterpiece), 8k, highly detailed, stunning cinematic lighting, a cheerful Japanese street vendor grilling four ears of yakitomorokoshi (grilled corn on skewers) on a glowing charcoal grill under a dark awning during a heavy rainy night. The vendor is smiling warmly, wearing a denim apron and a patterned bandana. Intense orange firelight illuminates the vendor and the corn, creating a strong contrast with the wet, dark atmosphere of the Tokyo back alley. Visible rain streaks, moisture on surfaces. Bokeh effects in the background showing pedestrians holding umbrellas and vibrant pink and orange Japanese neon signs and lanterns. Full body shot, portrait orientation (9:16 aspect ratio). 3D Anime style, volumetric lighting, hyperdetailed render.",
+  "negativePrompt": "low quality, worst quality, blurry, mutated, deformed, poorly drawn hands, missing limbs, bad anatomy, jpeg artifacts, signature, watermark, cartoon, sketch, ugly, grayscale",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street vendor",
+    "Rainy night",
+    "Japanese alley",
+    "Grilled corn",
+    "Yakitomorokoshi",
+    "Neon lights",
+    "Cinematic lighting",
+    "3D Anime",
+    "Food stall",
+    "Portrait"
+  ]
+}

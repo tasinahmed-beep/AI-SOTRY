@@ -1,0 +1,23 @@
+{
+  "id": "8952711009861193",
+  "file": "gemini-8952711009861193.png",
+  "title": "Red Dune Scavenger Convoy",
+  "prompt": "(masterpiece), best quality, high resolution, cinematic composition, modern anime style, detailed sci-fi illustration, A post-apocalyptic desert convoy traversing immense red sand dunes at sunset. The caravan is led by a heavy futuristic 8x8 armored vehicle, flanked by two armed riders on sleek motorbikes. Following are multiple insectoid mechanical cargo carriers (spider mechs) trailing dust. Two stealthy escort drones fly above. Vivid orange and red sky, stylized angular rock formations in the background, deep shadows, 9:16 vertical orientation, expressive lighting.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, poorly drawn, extra limbs, blurry, grayscale, monochrome, sketch, amateur, noise, ugly, watermark, text, out of frame, multiple suns, poorly rendered wheels.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Sci-Fi",
+    "Mecha",
+    "Desert",
+    "Caravan",
+    "Futuristic vehicle",
+    "Red dunes",
+    "Sunset",
+    "Anime illustration",
+    "Drones",
+    "Post-apocalyptic"
+  ]
+}

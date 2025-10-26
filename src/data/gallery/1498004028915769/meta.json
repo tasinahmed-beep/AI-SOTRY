@@ -1,0 +1,23 @@
+{
+  "id": "1498004028915769",
+  "file": "gemini-1498004028915769.png",
+  "title": "Serenity of the Blossom Pond",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning Donghua Chinese style illustration, vertical aspect ratio (9:16). A vibrant, serene traditional Chinese garden scene. A crystal clear koi pond filled with dozens of detailed red, white, and orange Koi fish swimming beneath the surface. The water surface is covered in gentle concentric ripples caused by hundreds of falling pink cherry blossom petals (sakura petals). In the midground, a beautifully crafted gray stone arch bridge spans the pond. Weeping willow branches and green bamboo frame the scene on either side. In the soft, hazy background, a traditional Chinese pagoda and pavilion complex stands against a backdrop of mist-shrouded rolling mountains. Soft morning light, ethereal atmosphere, volumetric lighting, rich colors, concept art, wallpaper.",
+  "negativePrompt": "ugly, deformed, noisy, blurry, low resolution, worst quality, sketch, signature, watermark, extra limbs, poorly drawn hands, missing fingers, amateur, cropped, text, error, inaccurate proportions, harsh shadows.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Koi Pond",
+    "Cherry Blossoms",
+    "Sakura",
+    "Traditional Chinese Garden",
+    "Donghua",
+    "Pagoda",
+    "Arch Bridge",
+    "Ripples",
+    "Weeping Willow",
+    "Serene Landscape"
+  ]
+}

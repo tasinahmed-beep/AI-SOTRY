@@ -1,0 +1,21 @@
+{
+  "id": "1435604075580368",
+  "title": "A Cozy Baking Morning",
+  "prompt": "(masterpiece), (best quality), highly detailed, Modern Anime style, slice of life, cozy kitchen setting, portrait orientation (9:16). A gentle, beautiful older woman (grandmother) with soft silver hair tied in a bun, wearing a beige cable-knit turtleneck and a floral apron. She has a warm, inviting smile as she kneads bread dough on a rustic wooden countertop. Soft, natural sunlight streams through a large window in the background, creating golden highlights and backlighting. Freshly baked bread rests in wicker baskets, and steam gently rises. A small, cute white cat with blue eyes sits nearby on a stool, watching the process. Detailed background elements include glass jars of ingredients, hanging dried herbs, and potted plants.",
+  "negativePrompt": "(worst quality, low quality, normal quality), low resolution, blurry, text, watermark, error, cropped, bad anatomy, deformed fingers, extra limbs, ugly, monochrome, oversaturated, dark lighting, poorly drawn face",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Modern Anime",
+    "Slice of Life",
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "White Cat",
+    "Kneading Dough",
+    "Warm Lighting",
+    "Domestic Scene"
+  ]
+}

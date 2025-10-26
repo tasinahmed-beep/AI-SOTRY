@@ -1,0 +1,22 @@
+{
+  "id": "9438012376433143",
+  "file": "gemini-9438012376433143.png",
+  "title": "Celestial Archives of the Sunlit Library",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, Donghua Chinese style, full shot, an elegant young woman (librarian) wearing ornate, flowing traditional Chinese robes (Hanfu), standing on a small wooden stool, interacting with books on a towering, dark wooden bookshelf. Dramatic golden sunbeams (volumetric lighting, god rays) stream through colossal lattice windows that dominate the wall. The windows reveal an awe-inspiring celestial landscape of floating islands (Sky Islands) and white clouds. Luminous white butterflies and shimmering dust motes drift in the sunlit aisle. Intricate architecture, ancient library, scholarly atmosphere, soft shadows, warm colors, tree inside the room.",
+  "negativePrompt": "worst quality, low quality, low resolution, ugly, blurry, deformed, distorted, poorly drawn, extra limbs, signature, watermark, text, monochrome, error, bad anatomy, missing fingers, jpeg artifacts",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chinese Fantasy",
+    "Librarian",
+    "Hanfu",
+    "Floating Islands",
+    "Sky Islands",
+    "Sunbeams",
+    "Grand Library",
+    "Scholarly",
+    "Ethereal"
+  ]
+}

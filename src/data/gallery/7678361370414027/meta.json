@@ -1,0 +1,22 @@
+{
+  "id": "7678361370414027",
+  "file": "gemini-7678361370414027.png",
+  "title": "Immortal Scion of the Aqua Citadel",
+  "prompt": "(masterpiece), (best quality), highly detailed digital painting, 16:9 aspect ratio, Fantasy Xianxia style. A powerful immortal warrior figure in ornate, flowing crimson and gold dragon-scale armor, wearing a majestic winged helmet, strides purposefully through a catastrophic elemental conflict. He wields a massive, enchanted hose, spraying a brilliant, crystalline blue torrent of magical water that slices through swirling clouds of volatile red and golden mystical fire and smoke. Epic floating citadel and traditional Chinese pagoda visible on a distant mountain peak, illuminated by a glowing blue magical water vessel hanging beneath it. Foreground features an ancient cracked stone platform with arcane symbols and ethereal blue sparks. Dynamic composition, volumetric lighting, cinematic atmosphere.",
+  "negativePrompt": "poorly drawn, deformed, bad anatomy, missing limbs, jpeg artifacts, blurry, grainy, watermark, text, signature, low resolution, multiple heads, multiple bodies, cropped, ugly, simple background, mutated",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fantasy Xianxia",
+    "Armored Warrior",
+    "Elemental Conflict",
+    "Magic Water",
+    "Dragon Armor",
+    "Digital Painting",
+    "Floating Citadel",
+    "Epic Scale",
+    "Chinese Mythology"
+  ]
+}

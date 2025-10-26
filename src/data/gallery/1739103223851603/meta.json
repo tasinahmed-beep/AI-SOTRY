@@ -1,0 +1,23 @@
+{
+  "id": "1739103223851603",
+  "file": "gemini-1739103223851603.png",
+  "title": "The Scholar of the Flowing Stream",
+  "prompt": "(masterpiece, best quality, ultra-detailed CG illustration, 8k), a beautiful young Chinese scholar woman in elegant traditional Hanfu robes (white and teal accents) intently peering into a detailed vintage brass microscope. She is situated inside an ancient, scholarly laboratory setting, filled with traditional elements like dark wood desks, complex glass beakers containing glowing colorful liquids (alchemy), blue and white porcelain vases, and scholarly scrolls. A massive circular moon gate window frames a breathtaking, serene external landscape: misty mountains, a winding river below, vibrant cherry blossom trees, and a traditional pagoda under a light blue sky with a subtle crescent moon. Soft volumetric lighting streaming through the window, subtle falling petals, detailed background, side profile view, Donghua Chinese animation style, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, mutated, deformed, poorly drawn face, blurry, text, watermark, signature, modern building, science fiction, western clothes, ugly, tiling, cropped, poorly rendered hands, monochrome",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua",
+    "Chinese Illustration",
+    "Scholar",
+    "Hanfu",
+    "Microscope",
+    "Alchemy",
+    "Moon Gate",
+    "Wuxia Fantasy",
+    "Serene Landscape",
+    "16:9"
+  ]
+}

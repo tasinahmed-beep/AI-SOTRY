@@ -1,0 +1,22 @@
+{
+  "id": "4032786937863174",
+  "file": "gemini-4032786937863174.png",
+  "title": "Powder Power Launch",
+  "prompt": "(Masterpiece), best quality, highly detailed 3D rendering, Pixar Style CGI animation. A dynamic action shot of a young, excited female snowboarder launching into the air from the edge of a massive snowy rock cliff. She is wearing a bright teal and orange snow jacket, grey pants, goggles, and a beanie. Snow spray and powder visible beneath the board. Epic wide shot mountain landscape during golden hour sunrise. Volumetric lighting, deep fresh powder, dense pine forest slopes below, cinematic composition. Aspect Ratio 16:9.",
+  "negativePrompt": "low resolution, blurry, distorted, sketch, amateur, noise, ugly, worst quality, missing fingers, extra limbs, bad anatomy, grayscale, monochrome, painting, drawing, cropped.",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Snowboarding",
+    "Winter Sports",
+    "Pixar Style",
+    "CGI Animation",
+    "Mountain Landscape",
+    "Golden Hour",
+    "Action Shot",
+    "Cliff Jump",
+    "Adventure"
+  ]
+}

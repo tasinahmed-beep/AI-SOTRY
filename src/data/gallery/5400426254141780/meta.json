@@ -1,0 +1,23 @@
+{
+  "id": "5400426254141780",
+  "file": "gemini-5400426254141780.png",
+  "title": "The Illuminated Monk",
+  "prompt": "(masterpiece), best quality, highly detailed, A cheerful, rotund Buddhist monk wearing vibrant orange robes, meditating in a perfect lotus position on top of a smooth rock where a cascading waterfall originates. He is radiating a soft golden inner light from his hands and chest. The background features dramatic, stylized, snow-capped mountains, lush green trees, and a bright, clear blue sky with fluffy volumetric clouds. Full body shot, epic vertical composition (9:16), professional digital painting, Pixar style, Disney animation movie quality, soft volumetric lighting, cinematic atmosphere.",
+  "negativePrompt": "low quality, poorly drawn, ugly, deformed, blurry, worst quality, grayscale, monochrome, sketch, amateur, cropped, text, signature, watermark",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Pixar Style",
+    "Cartoon",
+    "Zen",
+    "Mountain Landscape",
+    "Vibrant Colors",
+    "Digital Art",
+    "9:16"
+  ]
+}

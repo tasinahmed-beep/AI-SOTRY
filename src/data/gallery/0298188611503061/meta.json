@@ -1,0 +1,23 @@
+{
+  "id": "0298188611503061",
+  "file": "gemini-0298188611503061.png",
+  "title": "Dawn of the Azure Dragon Mural",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic illustration, a traditional Chinese street artist standing on a bamboo scaffold platform, painting a magnificent azure blue dragon and vibrant pink cherry blossoms mural on a textured white brick wall. The scene is set in a narrow, ancient Chinese street (Hui style architecture) lined with traditional dark wooden buildings, illuminated by the warm, dramatic light of early dawn (golden hour). Glowing red paper lanterns hang along the street. Deep perspective, soft volumetric lighting, 16:9 aspect ratio, Donghua Chinese animation style.",
+  "negativePrompt": "worst quality, low quality, cropped, poorly drawn, blurry, jpeg artifacts, missing limbs, deformed, distorted hands, watermark, signature, modern clothing, ugly, noise, monochrome, out of focus, text",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua",
+    "Chinese art",
+    "Muralist",
+    "Azure Dragon",
+    "Cherry Blossoms",
+    "Traditional architecture",
+    "Dawn",
+    "Red lanterns",
+    "Ancient street",
+    "Golden hour"
+  ]
+}

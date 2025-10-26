@@ -1,0 +1,23 @@
+{
+  "id": "5300872013200283",
+  "file": "gemini-5300872013200283.png",
+  "title": "Zen View: Bonsai Over the Megacity Skyline",
+  "prompt": "(masterpiece), best quality, detailed cinematic anime background, a stunning, highly detailed bonsai tree with a winding trunk and lush green leaves, centered on a smooth light wooden shelf, looking out a large panoramic window onto a modern megacity skyline, golden hour lighting, soft volumetric backlighting, pink and orange sky, ultra-detailed skyscrapers, an elevated white monorail passing through the cityscape, floating pink cherry blossom petals (sakura), soft sheer curtains on the sides, 16:9 aspect ratio, Modern Anime style, lofi aesthetic, atmospheric perspective.",
+  "negativePrompt": "low quality, worst quality, lowres, blurry, watermark, signature, text, monochrome, sketch, amateur drawing, cartoon, 3D render, disfigured, deformed, extra fingers, poorly drawn hands, broken perspective, ugly, distortion, haze, fog, noise.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Bonsai",
+    "Cityscape",
+    "Skyscrapers",
+    "Golden Hour",
+    "Monorail",
+    "Lofi Aesthetic",
+    "Anime Background",
+    "Interior View",
+    "Sakura",
+    "Minimalist"
+  ]
+}

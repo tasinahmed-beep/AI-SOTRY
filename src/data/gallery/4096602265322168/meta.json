@@ -1,0 +1,23 @@
+{
+  "id": "4096602265322168",
+  "file": "gemini-4096602265322168.png",
+  "title": "Qi Rider in the Celestial Valley",
+  "prompt": "(masterpiece), best quality, highly detailed digital painting, Fantasy Xianxia style, a lone warrior in detailed ancient Oriental armor and flowing robes riding a vibrant green mountain bike with glowing neon-blue wheels down a mystical forest path. The environment features immense towering karst mountains, multiple cascading waterfalls, dense ethereal mist, and dramatic stylized pink and orange Qi clouds in the morning light. Ancient gnarled trees with vibrant foliage and traditional stone lanterns line the trail. Two small, winged fae dragons fly in the background. Dynamic pose, high speed, volumetric lighting, 9:16 vertical aspect ratio.",
+  "negativePrompt": "worst quality, low quality, normal quality, poorly drawn, bad anatomy, deformed, ugly, distorted face, blurry, text, watermark, signature, missing limbs, extra limbs, jpeg artifacts, monochrome, modern city, realism",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Fantasy",
+    "Mountain Biker",
+    "Warrior",
+    "Glowing Bike",
+    "Karst Mountains",
+    "Waterfalls",
+    "Fae Dragons",
+    "Digital Art",
+    "9:16"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1634170534928017",
+  "file": "gemini-1634170534928017.png",
+  "title": "Sakura Tea Ceremony: Tradition Meets Skyline",
+  "prompt": "(masterpiece, best quality, ultra detailed, 8k, cinematic lighting), Two beautiful young women, side profile, sitting seiza, wearing elegant floral kimonos, engaging in a traditional Japanese matcha tea ceremony. Detailed low bamboo table, dark blue teapot, matcha bowls, wagashi sweets, gentle steam rising. Interior view of a traditional tea room with shoji screens. Through the open window, a stunning view of a city park with abundant pink cherry blossoms (sakura), a winding stream, traditional Japanese bridge, contrasted by towering modern skyscrapers in the bright background. Serene atmosphere, springtime, vertical orientation (9:16 aspect ratio), Modern Anime style, delicate shading, clean lines, high resolution illustration.",
+  "negativePrompt": "(worst quality, low quality, normal quality, lowres, blurry, distorted, sketch, grayscale), extra fingers, poorly drawn hands, missing limbs, bad anatomy, deformed, text, watermark, logo, bad art.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime Illustration",
+    "Tea Ceremony",
+    "Kimono",
+    "Matcha",
+    "Sakura",
+    "Traditional Japanese Interior",
+    "Modern Cityscape",
+    "Shoji Screen",
+    "Japanese Garden",
+    "Vertical Art"
+  ]
+}

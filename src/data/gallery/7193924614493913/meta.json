@@ -1,0 +1,22 @@
+{
+  "id": "7193924614493913",
+  "file": "gemini-7193924614493913.png",
+  "title": "Trailblazing Through the Enchanted Valley",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, highly expressive character design, full body shot of a fierce young female mountain biker with vibrant red hair, wearing a modern blue and orange protective downhill racing suit, helmet, and goggles. She is riding a high-performance bike fast down a dusty, winding forest trail, kicking up dirt and dust trails. Dynamic action pose, high saturation, sharp focus. The setting is a magical, enchanted forest during golden hour, dense with massive, moss-covered trees, dramatic god rays piercing the canopy. A clear, blue river flows beside the trail. Detailed foreground featuring vibrant, colorful, glowing, fantasy flora and tall purple mushrooms. Majestic snow-capped mountains visible in the distance under a clear sky. Pixar animation style, 9:16 aspect ratio, cinematic composition. A small squirrel observes from the grass.",
+  "negativePrompt": "(worst quality, low quality, normal quality), blurry, low resolution, bad hands, malformed limbs, watermark, signature, text, out of frame, error, extra limbs, ugly, mutated, disconnected body parts, deformed spokes, incorrect anatomy, realistic photo.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Mountain Biking",
+    "Adventure",
+    "Enchanted Forest",
+    "Dynamic Action",
+    "Cinematic Lighting",
+    "Character Art",
+    "Vertical Composition",
+    "Fantasy Flora"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8378056454127484",
+  "file": "gemini-8378056454127484.png",
+  "title": "Golden Hour Dance Above the City",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic portrait of a beautiful young female dancer performing a joyful, soaring pose with outstretched arms on a red terracotta tiled rooftop. She is wearing a flowing crimson and purple dress that billows dynamically in the air. Dramatic volumetric golden hour sunset lighting, with a large, bright setting sun dominating the background, casting a warm orange and pink glow over a vast Mediterranean city panorama below, featuring tiled roofs and distant domes. Highly expressive character design, detailed hair, perfect anatomy, 3D render, Pixar Style, cinematic composition, vertical aspect ratio (9:16).",
+  "negativePrompt": "lowres, worst quality, blurry, mutated hands, missing limbs, deformed face, bad anatomy, jpeg artifacts, monochrome, watermark, text, signature, easynegative, low saturation, error, extra fingers, multiple people.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Dancer",
+    "Sunset",
+    "Rooftop",
+    "Pixar Style",
+    "Animation",
+    "Golden Hour",
+    "Cityscape",
+    "Flowing Dress",
+    "Joyful",
+    "9:16"
+  ]
+}

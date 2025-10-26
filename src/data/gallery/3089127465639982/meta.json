@@ -1,0 +1,23 @@
+{
+  "id": "3089127465639982",
+  "file": "gemini-3089127465639982.png",
+  "title": "The Dao of Dough: Immortal Pizza Master",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic illustration, Fantasy Xianxia style, 16:9 aspect ratio. An elegant male immortal chef in flowing black and white ancient Chinese robes and an ornate scholar hat, using cultivation magic to levitate and spin a large, fully prepared pizza dough in front of a massive, glowing brick oven. The kitchen interior is grand and mystical, adorned with hanging jade rings, cyan glowing crystals, calligraphy scrolls, and floating wooden bowls containing intensely burning or glowing magical ingredients. Through a vast stone archway, a breathtaking view of a misty, sunlit Xianxia landscape unfolds: layered mountains, ancient temples, pagodas, and a mythical griffin soaring in the sky. Volumetric lighting, rich colors, intricate details, epic scale.",
+  "negativePrompt": "(deformed, distorted, disfigured), low quality, worst quality, (bad anatomy, missing limbs, extra fingers, extra hands, fused fingers), bad composition, watermark, text, signature, low resolution, blurry, simplistic, cartoon, modern city, western clothing.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Immortal Chef",
+    "Magical Cooking",
+    "Cultivation",
+    "Pizza",
+    "Brick Oven",
+    "Fantasy Landscape",
+    "Chinese Robes",
+    "Mystical Kitchen",
+    "Digital Painting"
+  ]
+}

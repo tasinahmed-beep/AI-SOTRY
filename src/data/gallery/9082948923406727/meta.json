@@ -1,0 +1,22 @@
+{
+  "id": "9082948923406727",
+  "file": "gemini-9082948923406727.png",
+  "title": "Perfect Pour Hero",
+  "prompt": "(masterpiece), highly detailed, retro Comic Book style, Pop Art aesthetics, 9:16 vertical orientation. A heroic, determined male barista, wearing a blue baseball cap and striped apron, intensely focused on pouring intricate rosette latte art into a white ceramic cup from a metallic pitcher. Dynamic action shot, extreme focus. Background features bold, contrasting colors (red and yellow), large floating coffee beans, dramatic speed lines emanating from the subject, and Ben-Day dots shading texture. Thick, heavy black outlines, vibrant flat colors. Prominent speech bubble with 'PERFECT POUR!' text.",
+  "negativePrompt": "lowres, text error, blurry, low quality, worst quality, deformed, extra limbs, poorly drawn hands, watermark, signature, jpeg artifacts, monochrome, dull colors, modern photo",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book",
+    "Pop Art",
+    "Barista",
+    "Latte Art",
+    "Coffee",
+    "Retro",
+    "Dynamic",
+    "Ben-Day Dots",
+    "Action Shot"
+  ]
+}

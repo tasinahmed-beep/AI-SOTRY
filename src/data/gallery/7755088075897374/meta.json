@@ -1,0 +1,23 @@
+{
+  "id": "7755088075897374",
+  "file": "gemini-7755088075897374.png",
+  "title": "Traditional Chinese Tea Ritual in Sapphire and Gold",
+  "prompt": "(masterpiece), (best quality), highly detailed, photorealistic vertical image (9:16 aspect ratio) of an elegant traditional Chinese tea ceremony. Close-up shot focusing on the hands of a woman wearing a richly embroidered dark sapphire blue traditional Chinese jacket (Qipao style). She is delicately pouring hot water from a ceramic teapot onto a dark Yixing clay teapot on a polished bamboo tea table. The setup includes four jade-green celadon teacups, a wooden tea board, a smoking bronze incense burner, and a large green storage jar. Background features a traditional Chinese screen painting (shanshui landscape, pink blossoming trees, misty mountains), soft diffused light, volumetric lighting, deep rich colors, Traditional Chinese Aesthetics, Donghua Chinese style inspiration.",
+  "negativePrompt": "low quality, bad anatomy, deformed, worst quality, extra limbs, jpeg artifacts, blurry, text, signature, watermark, cartoon, sketch, monochrome, low contrast, unrealistic shading, modern objects",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Tea ceremony",
+    "Traditional Chinese culture",
+    "Photorealistic",
+    "Bamboo table",
+    "Qipao",
+    "Yixing clay",
+    "Celadon",
+    "Shanshui painting",
+    "Vertical 9:16",
+    "Incense"
+  ]
+}

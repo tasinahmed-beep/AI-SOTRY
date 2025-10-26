@@ -1,0 +1,22 @@
+{
+  "id": "7755287763202225",
+  "file": "gemini-7755287763202225.png",
+  "title": "Caretaker of the Courtyard Roses",
+  "prompt": "(masterpiece), best quality, highly detailed, 8k, A cheerful, detailed 3D animated character (gardener) with a prominent smile, wearing a wide straw hat, green checkered shirt, and a brown apron, using a light blue watering can to water a magnificent, large rose bush overflowing with vibrant red, pink, and cream roses. The scene is set in a sunny, ancient stone courtyard featuring large Romanesque arched cloisters covered in green ivy and vines. In the background, there is a small stone fountain. Soft volumetric lighting, cinematic composition, Pixar Style, 3D render, 16:9 aspect ratio.",
+  "negativePrompt": "low resolution, bad anatomy, deformed, worst quality, blurry, mutated, watermark, signature, text, monochrome, simplistic, unrealistic shadows, ugly, error, jpeg artifacts, extra limbs, multiple characters.",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar Style",
+    "Gardener",
+    "Roses",
+    "Stone Courtyard",
+    "3D Animation",
+    "Character Design",
+    "Hobby",
+    "Warm Lighting",
+    "Cloisters"
+  ]
+}

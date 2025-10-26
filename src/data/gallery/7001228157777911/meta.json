@@ -1,0 +1,22 @@
+{
+  "id": "7001228157777911",
+  "title": "Sunset Shredder: The Emerald Barrel",
+  "prompt": "(masterpiece, best quality, detailed linework): A highly dynamic, high-energy Comic Book style illustration (16:9 aspect ratio) of a male surfer riding inside a massive, emerald green wave barrel. The surfer is wearing a black and blue wetsuit, executed in a strong, action pose. The background features a dramatic, vivid sunset radiating powerful orange and red light rays over stylized purple mountains. Thick black outlines, cell shading, high contrast lighting, and vibrant pop art colors define the style. Include comic book sound effects like 'SHRED!' and 'CRASH!' integrated into the scene.",
+  "negativePrompt": "deformed, bad anatomy, disfigured, poorly drawn face, mutated, worst quality, low quality, blurry, fuzzy, cropped, watermark, signature, text, monochrome, grayscale, missing limbs, extra limbs, abstract",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "surfing",
+    "comic book art",
+    "dynamic action",
+    "emerald wave",
+    "sunset",
+    "barrel riding",
+    "pop art",
+    "vivid colors",
+    "shredding",
+    "ocean"
+  ]
+}

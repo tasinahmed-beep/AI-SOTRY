@@ -1,0 +1,23 @@
+{
+  "id": "2154016318285742",
+  "file": "gemini-2154016318285742.png",
+  "title": "Celestial Citadel in the Spring Mist",
+  "prompt": "(masterpiece), (best quality), highly detailed scenic view, a majestic ancient Chinese fortress (citadel/temple) built high atop a rugged, vertical mountain peak. The fortress features traditional layered pagodas and dark stone walls. Overlooking a massive foggy valley filled with an ethereal sea of clouds. Dramatic, sharp karst mountains pierce the mist in the distance. Lush pink cherry blossoms (sakura) are blooming on gnarled trees around the cliff edge. A thin waterfall cascades down the rock face. Soft sunrise lighting casting warm tones on the mist, cool blue and teal palette for the mountains. Traditional Chinese ink wash influence, Donghua Chinese style, cinematic lighting, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, text, signature, watermark, blurry, deformed, ugly, extra limbs, modern elements, European architecture, poorly drawn hands, grayscale, monochrome",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chinese Architecture",
+    "Shanshui",
+    "Fantasy Landscape",
+    "Cherry Blossoms",
+    "Sea of Clouds",
+    "Karst Mountains",
+    "Wuxia",
+    "Citadel",
+    "Waterfall",
+    "Sunrise"
+  ]
+}

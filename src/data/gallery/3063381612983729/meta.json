@@ -1,0 +1,23 @@
+{
+  "id": "3063381612983729",
+  "file": "gemini-3063381612983729.png",
+  "title": "Courtyard Gardener's Delight",
+  "prompt": "(masterpiece), best quality, ultra detailed, Comic Book style panel, 9:16 aspect ratio. A smiling male gardener wearing a straw hat, yellow shirt, and blue denim overalls, watering a large, lush bush of vibrant red and pink roses with a galvanized metal watering can. The setting is an old stone courtyard with medieval architecture, ivy crawling on the brick wall, and a gothic leaded glass window in the background. A wooden bench sits next to the flower bed. Strong black ink outlines, bold, flat colors, halftone shading, clear speech bubble displaying text and a sound effect ('PLOP!'). Full frame vertical composition, bright daylight.",
+  "negativePrompt": "low resolution, blurry, distorted, sketch, amateur drawing, missing limbs, deformed hands, poorly drawn face, worst quality, grayscale, monochrome, tiling, signature, watermark, multiple characters, poorly drawn water",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Gardener",
+    "Roses",
+    "Comic Book",
+    "Courtyard",
+    "Vintage Comics",
+    "Overalls",
+    "Watering Can",
+    "Stone Architecture",
+    "Daytime",
+    "Panel Art"
+  ]
+}

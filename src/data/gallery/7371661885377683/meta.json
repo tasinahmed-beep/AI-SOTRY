@@ -1,0 +1,22 @@
+{
+  "id": "7371661885377683",
+  "title": "Emerald Sunset Barrel Ride",
+  "prompt": "(masterpiece), (best quality), extremely detailed 2D Anime style illustration, a lone surfer carving through the interior of a massive, powerful emerald green barrel wave (tube ride), dynamic action shot, surfer wearing a black wetsuit, striking golden hour sunset background, huge orange sun dominating the horizon, glowing reflections on the water, pastel purple and pink clouds, vibrant teal and turquoise water colors, deep shadows and highlights, sharp outlines, traditional cel-shading, detailed ocean spray and foam, 9:16 vertical composition, cinematic lighting, ocean art.",
+  "negativePrompt": "deformed, bad anatomy, disfigured, low quality, worst quality, mutation, missing limbs, extra fingers, poor composition, blurry, text, watermark, CGI, 3D render, photorealistic, noise, hazy, jpeg artifacts, monochrome, dull colors.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "anime illustration",
+    "surfing",
+    "big wave",
+    "sunset",
+    "emerald wave",
+    "cel-shading",
+    "dynamic composition",
+    "ocean art",
+    "9:16",
+    "vaporwave"
+  ]
+}

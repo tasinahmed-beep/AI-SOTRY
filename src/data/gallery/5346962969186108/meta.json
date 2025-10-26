@@ -1,0 +1,23 @@
+{
+  "id": "5346962969186108",
+  "file": "gemini-5346962969186108.png",
+  "title": "Serenity of the Cascade",
+  "prompt": "(masterpiece), (best quality), ultra-detailed photorealistic image, a serene bald Buddhist monk wearing vibrant orange robes, meditating in the lotus position on a mossy rock pedestal directly beneath a powerful, tall waterfall. The setting is a lush, ancient mountain valley with towering cliffs and dense foliage. A clear rainbow arcs through the intense water spray and mist. Dramatic atmospheric lighting, sunbeams breaking through the canopy, snow-capped mountains visible in the distance. Deep focus, realistic water texture, 9:16 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, normal quality, lowres, blurry, watermark, signature, bad anatomy, deformed, extra limbs, ugly, noise, cropped, jpeg artifacts, monochrome, multiple people, tiling.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Photorealistic",
+    "Nature",
+    "Buddhism",
+    "Rainbow",
+    "Mountain Valley",
+    "Serenity",
+    "Lush"
+  ]
+}

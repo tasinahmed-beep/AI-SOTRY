@@ -1,0 +1,22 @@
+{
+  "id": "8982319802379138",
+  "file": "gemini-8982319802379138.png",
+  "title": "A Barista's Heart: Morning Latte Art",
+  "prompt": "(masterpiece), best quality, highly detailed, original illustration, 2D Anime style, cinematic lighting, 16:9 aspect ratio. A cute anime girl, solo, professional barista, medium shot, brown hair tied in a ponytail, wearing a white uniform shirt and a beige apron. She is focused, skillfully pouring steamed milk from a metal pitcher, creating a perfect heart latte art design in a white ceramic cup. Warm, cozy coffee shop interior background, soft morning sunlight streaming from a large window, subtle steam rising, wooden counter, blurred bokeh background details.",
+  "negativePrompt": "(low quality), (worst quality), blurry, sketch, deformed, bad anatomy, missing limbs, text, watermark, logo, multiple subjects, extra hands, distorted proportions",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "anime girl",
+    "barista",
+    "latte art",
+    "coffee shop",
+    "apron",
+    "pouring",
+    "heart design",
+    "soft lighting",
+    "16:9"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7582408730837968",
+  "file": "gemini-7582408730837968.png",
+  "title": "Celestial Fox Journey through the Immortal Winter Peaks",
+  "prompt": "(masterpiece), (best quality), highly detailed, intricate illustration, volumetric lighting, 16:9 aspect ratio. A magnificent luminous red fox, Kitsune spirit, trotting through deep fresh snow in a sacred Wintry Xianxia mountain landscape. Ethereal light wisps (cyan and white magic trails) emanating from its bushy tail. Background features floating snow-covered peaks, frozen waterfalls, delicate stone bridges, and an ancient East Asian pagoda perched on a misty floating island. Golden ethereal sunrise lighting, soft shadows, magical ambient particles, snow falling gently. Fantasy Xianxia style, ultra sharp focus, cinematic composition.",
+  "negativePrompt": "lowres, worst quality, low quality, jpeg artifacts, blurry, grainy, watermark, signature, ugly, distorted, deformed, multiple tails, simple background, mutated, disconnected landscape elements, text, error, cartoon, sketch.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Kitsune",
+    "Spirit Fox",
+    "Snowscape",
+    "Floating Mountains",
+    "Winter",
+    "Magical",
+    "Pagoda",
+    "Ethereal",
+    "Asian Fantasy"
+  ]
+}

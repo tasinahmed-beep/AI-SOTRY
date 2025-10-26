@@ -1,0 +1,23 @@
+{
+  "id": "1847406796530437",
+  "file": "gemini-1847406796530437.png",
+  "title": "Archivist of the Celestial Library",
+  "prompt": "(masterpiece), (best quality), intricate details, full body, dramatic volumetric lighting, cinematic atmosphere, a beautiful and graceful immortal librarian (Xianxia cultivator), long silver hair, wearing flowing pastel purple and cyan Hanfu robes with elaborate embroidered designs, standing on a small wooden step stool in a grand, mystical library hall. She holds a tall stack of ancient books. The library features towering, dark wooden bookshelves and massive arched windows with ornate stained glass, blending Gothic and Eastern architectural styles. Powerful sunbeams (god rays) cut through the air, illuminating dust motes and subtle glowing magical energy. Several books are floating mid-air, guided by subtle cultivation magic. Outside the windows is a breathtaking view of misty mountains, clouds, and traditional Chinese pagodas. Foreground includes potted glowing blue lotus flowers. Fantasy Xianxia style, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, blurry, mutated hands, extra fingers, deformed, missing limbs, watermark, text, signature, lowres, ugly, tiling, poorly drawn face, disfigured, poor composition, boring background, modern clothes, monochrome",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Immortal",
+    "Fantasy Library",
+    "Hanfu",
+    "Silver Hair",
+    "God Rays",
+    "Stained Glass",
+    "Floating Books",
+    "Magical Architecture",
+    "Character Portrait"
+  ]
+}

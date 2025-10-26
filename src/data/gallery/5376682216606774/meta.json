@@ -1,0 +1,23 @@
+{
+  "id": "5376682216606774",
+  "file": "gemini-5376682216606774.png",
+  "title": "Heroic Charge in the Inferno",
+  "prompt": "(masterpiece), best quality, ultra-detailed, 16:9 aspect ratio, a full-body shot of a determined firefighter wearing reflective bunker gear and helmet, walking straight ahead, gripping a fire hose nozzle. The background is engulfed in a catastrophic structure fire, intense orange and yellow flames, and thick gray smoke billowing around him. Dynamic low-angle perspective, strong black outlines, high contrast shading, vibrant colors, classic Comic Book style, (action comic sound effects included: CRACKLE, WHOOSH).",
+  "negativePrompt": "low quality, worst quality, deformed, mutated, bad anatomy, missing limbs, blurry, grayscale, sketch, watermark, text error, CGI, 3d render, illustration, simple drawing",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Firefighter",
+    "Comic Book",
+    "Structure Fire",
+    "Inferno",
+    "Smoke",
+    "Fire Hose",
+    "Heroic",
+    "Dynamic Lighting",
+    "16:9",
+    "Graphic Novel"
+  ]
+}

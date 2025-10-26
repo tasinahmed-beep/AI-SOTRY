@@ -1,0 +1,23 @@
+{
+  "id": "4284226658382357",
+  "file": "gemini-4284226658382357.png",
+  "title": "Splashing Through the Neon Rain",
+  "prompt": "(masterpiece), (best quality), 9:16 aspect ratio, full body view of a solitary cyclist racing fiercely down a narrow, rainy traditional Chinese city street at night, styled as dynamic Donghua Chinese animation. The cyclist wears a flowing dark robe/duster coat that billows behind them, typical of Wuxia characters. Heavy rain streaks down, creating vibrant, detailed reflections of neon signs, glowing dragon banners, and red paper lanterns on the wet asphalt. Water dramatically splashes up from the bicycle tires. The street is flanked by tall, multi-story traditional buildings with iconic tiered roofs. Cinematic lighting, deep shadows, moody atmosphere, wet look, high contrast, extreme detail.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, cropped, poorly drawn hands, missing limbs, bad anatomy, deformed, signature, watermark, text, out of frame, multiple figures, modern clothing, ugly, noise, low resolution.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua",
+    "Rainy night",
+    "Chinese architecture",
+    "Cyclist",
+    "Wuxia",
+    "Neon lights",
+    "Street scene",
+    "Lanterns",
+    "Dynamic pose",
+    "High contrast"
+  ]
+}

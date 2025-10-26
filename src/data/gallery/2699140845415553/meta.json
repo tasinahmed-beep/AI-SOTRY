@@ -1,0 +1,23 @@
+{
+  "id": "2699140845415553",
+  "file": "gemini-2699140845415553.png",
+  "title": "The Celestial Bonsai of the Cloud Peaks",
+  "prompt": "(masterpiece), (best quality), highly detailed digital illustration, Fantasy Xianxia style, 9:16 aspect ratio, vertical orientation. A breathtaking view through a large, circular traditional wooden window frame. Centered on an ancient, majestic bonsai tree with glowing light effects on the leaves and a gnarled, twisting trunk, planted in a decorative porcelain pot. Mystical water flow/qi energy cascades from the pot roots onto the shelf. The bonsai rests on an intricately carved wooden floating shelf, surrounded by soft, ethereal clouds. Next to the pot are rolled-up ancient scrolls tied with silk ribbons, a small dragon statue, and a steaming silver teapot set. In the distance, the view reveals a serene Xianxia landscape: floating mountain islands, elegant Wuxia-style pagodas and temples built into the misty cliffs, arched stone bridges, and white cranes flying in the soft pastel morning sky. Ethereal lighting, soft mist, deep depth of field.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, blurry, jpeg artifacts, ugly, deformed, noisy, signature, watermark, extra limbs, incomplete, mismatched elements, modern text, distorted perspective, monochrome, realistic photo.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Bonsai Tree",
+    "Floating Island",
+    "Wuxia Architecture",
+    "Digital Painting",
+    "Ethereal",
+    "Mystical",
+    "Window View",
+    "Celestial",
+    "Cranes"
+  ]
+}

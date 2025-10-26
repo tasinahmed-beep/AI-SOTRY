@@ -1,0 +1,22 @@
+{
+  "id": "7426549803693746",
+  "file": "gemini-7426549803693746.png",
+  "title": "Cosmic Airlock Float",
+  "prompt": "(masterpiece), best quality, highly detailed vintage comic book illustration, 9:16 vertical aspect ratio. A full-body shot of a bold astronaut in a classic white spacesuit floating weightlessly directly in front of a large circular space station porthole. The view outside shows a dynamic, swirling purple and blue galaxy, distant stars, and a pale blue planet. The scene features thick black outlines, limited vibrant coloring, and visible halftone dot shading. A yellow tether cord connects to the suit. Include dramatic comic book style text effects like 'WHOOSH!' and 'GRAVITY NULLIFIED!'. Retro sci-fi aesthetic.",
+  "negativePrompt": "lowres, text, signature, bad anatomy, worst quality, error, bad hands, low detail, watermark, blurry, extra limbs, ugly, unrealistic shading, photorealism, painting",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Astronaut",
+    "Space Station",
+    "Retro Sci-Fi",
+    "Comic Art",
+    "Halftone",
+    "Galaxy",
+    "Porthole",
+    "Weightless",
+    "9:16"
+  ]
+}

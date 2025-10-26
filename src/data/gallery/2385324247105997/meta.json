@@ -1,0 +1,23 @@
+{
+  "id": "2385324247105997",
+  "file": "gemini-2385324247105997.png",
+  "title": "Laboratory Precision",
+  "prompt": "(masterpiece), (best quality), highly detailed, photorealistic cinematic studio shot (16:9), a blonde female scientist (30s) wearing a pristine white lab coat and surgical gloves, intensely focused while peering into a modern professional microscope. The surrounding laboratory counter is covered with colorful chemical glassware, test tubes, beakers filled with vibrant blue and orange liquids, and scientific equipment. Dramatic and volumetric lighting, deep shadows, soft golden hour sunlight and lens flare filtering in from a large window on the left, subtle dust motes visible in the light, shallow depth of field, ultra-sharp focus on the subject and the microscope.",
+  "negativePrompt": "low quality, cartoon, sketch, watermark, signature, poorly drawn, distorted, blurry, out of focus, duplicate, bad anatomy, deformed hands, extra limbs, abstract, illustration, CGI, cropped, low resolution, bad lighting",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "scientist",
+    "laboratory",
+    "microscope",
+    "photorealistic",
+    "research",
+    "cinematic lighting",
+    "chemistry",
+    "professional",
+    "golden hour",
+    "16:9"
+  ]
+}

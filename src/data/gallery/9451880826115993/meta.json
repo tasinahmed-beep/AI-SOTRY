@@ -1,0 +1,23 @@
+{
+  "id": "9451880826115993",
+  "file": "gemini-9451880826115993.png",
+  "title": "Celestial Dragon Bait at Immortal Dawn",
+  "prompt": "(masterpiece), (best quality), detailed Xianxia painting, an elegant immortal fisherman wearing flowing jade green robes adorned with intricate golden dragon embroidery, standing dynamically on a sharp, rugged mountain peak overlooking a vast cloud sea. He is casting a magical, glowing fishing rod (made of enchanted wood and jade) towards the clouds. Below the line, ethereal, glowing koi fish are swimming through the mist. A massive Eastern dragon with electric blue glowing eyes is partially submerged within the dense white clouds, observing the fisherman. In the distance, traditional Chinese pagodas and temples perch on smaller floating mountains. Dramatic dawn lighting, golden volumetric light, purple and orange sky, high detail, 16:9 aspect ratio, Wuxia aesthetic.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, low contrast, grain, watermark, signature, blurry background, missing dragon, text, cropped, low resolution",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Dragon",
+    "Cloud Sea",
+    "Immortal",
+    "Celestial",
+    "Fishing",
+    "Dawn",
+    "Pagoda",
+    "Mystical",
+    "Chinese Fantasy"
+  ]
+}

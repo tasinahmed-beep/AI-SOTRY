@@ -1,0 +1,22 @@
+{
+  "id": "2302255209062493",
+  "file": "gemini-2302255209062493.png",
+  "title": "Soliloquy on Stage",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render, Pixar style animation, a centered, full-body portrait of a young female violinist rehearsing intently alone on a large, glossy wooden theater stage. She is wearing a blue knitted sweater and dark pants, hair pulled back in a bun. The stage is dramatically lit by a focused overhead spotlight, showcasing volumetric lighting and dust motes. Grand red velvet curtains frame the sides. The auditorium behind her is completely dark and filled with endless rows of empty red seats. Two music stands and a disposable coffee cup are visible on the stage. 9:16 aspect ratio, dramatic composition, cinematic lighting.",
+  "negativePrompt": "low resolution, bad anatomy, deformed, distorted, worst quality, jpeg artifacts, blurry, noise, poorly drawn hands, extra limbs, ugly, monochrome, drawing, painting, text, watermarks, poorly lit, cropped head, audience members",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Pixar Style",
+    "3D Animation",
+    "Theater Stage",
+    "Empty Auditorium",
+    "Rehearsal",
+    "Dramatic Lighting",
+    "Music",
+    "Vertical Image"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3356800433505324",
+  "file": "gemini-3356800433505324.png",
+  "title": "Celestial Snow Rider of the Mystic Peaks",
+  "prompt": "(masterpiece), highly detailed digital painting, dramatic cinematic lighting, Fantasy Xianxia style, a graceful male cultivator in ornate red and brown Wuxia robes performs an epic jump off a towering snowy mountain cliff on a luminous jade snowboard, 9:16 vertical aspect ratio. He possesses translucent, ethereal ice wings and throws snow powder. An ancient, glowing white Eastern dragon spirit flies above him in the dramatic twilight sky, which features a setting sun and a crescent moon. Below, floating snow-covered peaks, traditional Chinese pagodas, and ancient twisted pine trees are visible amidst heavy clouds and mist.",
+  "negativePrompt": "poorly drawn, deformed, bad anatomy, missing limbs, blurry, grayscale, monochrome, sketch, lowres, watermark, text, signature, worst quality, low quality, jpeg artifacts, extra fingers, multiple heads, ugly",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Snowboarding",
+    "Cultivator",
+    "Eastern Dragon",
+    "Floating Mountains",
+    "Snow Landscape",
+    "Digital Painting",
+    "Vertical Composition",
+    "Wuxia",
+    "Mythological"
+  ]
+}

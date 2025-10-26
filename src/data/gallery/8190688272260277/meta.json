@@ -1,0 +1,23 @@
+{
+  "id": "8190688272260277",
+  "file": "gemini-8190688272260277.png",
+  "title": "Zen Retreat Beneath the Mountain Falls",
+  "prompt": "(masterpiece), best quality, ultra-detailed, 2D Anime illustration, serene cinematic composition, 16:9 aspect ratio. A bald Buddhist monk in flowing saffron robes meditating peacefully in a deep lotus position (Padmasana) on a large, moss-covered rock formation, positioned directly under a powerful, wide cascading waterfall. Heavy water spray and ethereal mist surround the monk. The dramatic background features towering, majestic East Asian mountains (karst peaks) and lush green pine trees. A traditional multilayered temple structure (pagoda) is visible nestled discreetly on the distant cliffside. Soft, warm golden hour lighting, diffused sunset glow filling the sky with orange and pink clouds. Floating pink cherry blossom petals (sakura) drift gently in the air and the tranquil river below. Volumetric light, clean lines, vibrant colors.",
+  "negativePrompt": "low quality, bad anatomy, worst quality, mutated hands and fingers, monochrome, watermark, signature, text, blurry, distortion, multiple monks, abstract, western clothing, modern city",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "2D Anime",
+    "Zen",
+    "Mountains",
+    "Sunset",
+    "Pagoda",
+    "Sakura",
+    "Asian Landscape"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9245764088607921",
+  "file": "gemini-9245764088607921.png",
+  "title": "Sugar Rush Baker",
+  "prompt": "(masterpiece), best quality, highly detailed, dynamic comic book art, full body shot, a confident and muscular male baker, strong pose, wearing a crisp white chef's hat and blue striped apron, actively dusting a large pile of golden croissants with a metal sieve, powdered sugar dramatically snowing down, holding one perfect croissant, smiling face, kitchen background, glowing red oven, bread shelves, flour sacks, thick black outlines, vibrant flat colors, action lines, speech bubbles (SWEET! SUGAR RUSH!), 9:16 aspect ratio.",
+  "negativePrompt": "poorly drawn, blurry, low resolution, bad anatomy, deformed hands, extra limbs, signature, watermark, text overlay, multiple heads, ugly, tiling, amateur, realistic photo",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "baker",
+    "croissant",
+    "powdered sugar",
+    "comic book art",
+    "bakery",
+    "chef's hat",
+    "dynamic pose",
+    "food illustration",
+    "pop art"
+  ]
+}

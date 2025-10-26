@@ -1,0 +1,23 @@
+{
+  "id": "4272529881334441",
+  "file": "gemini-4272529881334441.png",
+  "title": "Sunken Kingdom of the Immortal Turtle",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning visual art, vertical aspect ratio (9:16). A vibrant Fantasy Xianxia underwater city, featuring towering, ancient Chinese pagodas covered in colorful coral and marine growth, illuminated by glowing lanterns. The scene is a rich coral reef teeming with schools of exotic, bioluminescent fish and luminous electric blue jellyfish. In the mid-ground, a massive, majestic sea turtle, adorned with a miniature pagoda structure on its shell, swims slowly, acting as the guardian or ruler of the underwater realm. Dramatic god rays penetrate the deep blue water from the surface, creating a magical, ethereal atmosphere. Intricate details, deep saturation, ultra quality, detailed foreground, sunken architecture.",
+  "negativePrompt": "low quality, worst quality, blurry, poorly drawn, mutated, deformed, bad anatomy, mismatched eyes, text, watermark, signature, ugly, tiling, cropped, missing limbs, foggy.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Underwater City",
+    "Xianxia",
+    "Pagoda",
+    "Coral Reef",
+    "Sea Turtle",
+    "Jellyfish",
+    "Sunken Temple",
+    "God Rays",
+    "Magical",
+    "Exotic Fish"
+  ]
+}

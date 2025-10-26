@@ -1,0 +1,23 @@
+{
+  "id": "2305378235009470",
+  "file": "gemini-2305378235009470.png",
+  "title": "Jade Robes and Crimson Blooms",
+  "prompt": "(masterpiece), (best quality), highly detailed, full body portrait of an elegant young man, dressed in luxurious jade green and gold embroidered traditional Chinese robes (Hanfu), holding an antique metal watering can. He is gently tending to vibrant potted roses (red, pink, and yellow) in a serene stone courtyard. The background features classical Chinese architecture, a curved tiled roof, ancient stone walls, a prominent circular moon gate (Yue Liang Men) leading to a bamboo grove, and a moss-covered rockery with a subtle waterfall. Cinematic lighting, soft shadows, hyperrealistic details, Donghua Chinese CGI style, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, ugly, tiling, poorly drawn, deformed, blurry, text, watermark, cropped, bad anatomy, deformed fingers, sketch, monochrome, missing elements",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chinese garden",
+    "Hanfu",
+    "roses",
+    "courtyard",
+    "moon gate",
+    "traditional architecture",
+    "gardening",
+    "Donghua CGI",
+    "elegant",
+    "vertical"
+  ]
+}

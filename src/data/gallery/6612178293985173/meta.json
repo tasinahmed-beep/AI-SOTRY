@@ -1,0 +1,21 @@
+{
+  "id": "6612178293985173",
+  "title": "Golden Hour Portrait of a Smiling Woman",
+  "prompt": "(masterpiece), (best quality), highly detailed photorealistic portrait of a beautiful young woman, long wavy brown hair, genuine wide smile, white teeth, subtle freckles. She is wearing a cream ribbed knit sweater and a delicate silver necklace. Ultra shallow depth of field, stunning circular bokeh background, outdoor cafe patio setting, soft golden hour lighting, strong backlighting, rim light, 8k resolution, vertical orientation (9:16).",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, disfigured",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Portrait",
+    "Photorealistic",
+    "Smiling Woman",
+    "Golden Hour",
+    "Shallow Depth of Field",
+    "Bokeh",
+    "Close-up",
+    "Outdoor Setting",
+    "Ribbed Sweater"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0748470580493108",
+  "file": "gemini-0748470580493108.png",
+  "title": "Sunrise Hook: The Anime Fisherman's Catch",
+  "prompt": "(masterpiece), best quality, highly detailed, stunning cinematic lighting, a dynamic scene of a young male anime character, dressed in detailed fishing gear (grey jacket, red vest, cargo pants, boots), standing powerfully on a mossy rock outcrop at dawn. He is actively reeling in his fishing rod, which is bent sharply. A large blue fish is dramatically jumping out of the calm, reflective lake water, caught on the line. The background features a serene, misty lake reflecting the vibrant orange, pink, and purple colors of the rising sun. In the distance, silhouettes of traditional Japanese architecture, including a pagoda and Torii gates, are visible through the fog. Detailed water surface, realistic reflections, vibrant red autumn foliage surrounding the lake. 3D Anime style, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, low quality, illustration, 2D drawing, sketch, deformed, blurry, extra limbs, signature, watermark, text, out of frame, poorly drawn hands, missing fish, blurred background",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime",
+    "Fishing",
+    "Sunrise",
+    "Dawn",
+    "Pagoda",
+    "Torii Gate",
+    "Misty Lake",
+    "Action Shot",
+    "3D Render",
+    "Japanese Landscape"
+  ]
+}

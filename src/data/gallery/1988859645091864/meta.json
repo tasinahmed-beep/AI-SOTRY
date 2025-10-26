@@ -1,0 +1,23 @@
+{
+  "id": "1988859645091864",
+  "file": "gemini-1988859645091864.png",
+  "title": "Dawn's Canvas: Muralist at Work",
+  "prompt": "(Masterpiece), (best quality), highly detailed, 8k, photorealistic cinematic shot of a young female street artist diligently painting a large, vibrant mural on a textured, dark red brick wall, standing on metal scaffolding. She is wearing paint-splattered overalls and a baseball cap. The mural features intricate designs of a flying eagle/mythical bird and flowing blue and green foliage/water. Dramatic low-angle, deep golden backlighting from a brilliant sunrise (dawn light), casting long shadows and creating strong lens flare. Volumetric light sharply illuminates the brick texture and paint colors. Distant city rooftops are silhouetted against the bright sky. Shot with a high-resolution professional camera (Canon EOS R5, 50mm lens), cinematic composition, shallow depth of field, 16:9 aspect ratio.",
+  "negativePrompt": "(deformed), blurry, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, missing limb, watermark, signature, text, oversaturated, low contrast, ugly, error, jpeg artifacts, worst quality, low quality, cropped, sketch, drawing, illustration, cartoon, anime, tiling, amateur work.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "Muralist",
+    "Sunrise",
+    "Golden Hour",
+    "Photorealism",
+    "Urban Environment",
+    "Scaffolding",
+    "Brick Wall",
+    "Graffiti",
+    "Artist at Work"
+  ]
+}

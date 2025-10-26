@@ -1,0 +1,22 @@
+{
+  "id": "8610131683529494",
+  "file": "gemini-8610131683529494.png",
+  "title": "The Chomping Giant Panda Comic Panel",
+  "prompt": "(masterpiece), (best quality), highly detailed illustration, a massive, cute giant panda intensely eating a stalk of bamboo, sitting centered in a misty Asian forest clearing, lush green bamboo shoots and grass in the foreground. Style: Vintage American Comic Book art, heavy thick black outlines, strong graphic inking, limited color palette (green, black, white, pale blue), halftone dot texture (Ben-Day dots) visible in the background mist. Include comic speech bubbles with clear sound effects 'CHOMP CHOMP!' and 'MUNCH MUNCH!' floating around the panda's head. Cinematic composition, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, deformed, bad anatomy, worst quality, jpeg artifacts, blurry, watermark, signature, missing limbs, text overlay, multiple pandas, noise, modern digital coloring",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Panda",
+    "Comic Book Art",
+    "Pop Art",
+    "Ben-Day Dots",
+    "Bamboo Forest",
+    "Animal",
+    "Sound Effects",
+    "Black and White",
+    "Misty"
+  ]
+}

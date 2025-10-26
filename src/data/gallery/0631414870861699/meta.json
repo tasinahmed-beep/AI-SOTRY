@@ -1,0 +1,23 @@
+{
+  "id": "0631414870861699",
+  "file": "gemini-0631414870861699.png",
+  "title": "Downhill Rush: Gravity Calls!",
+  "prompt": "(masterpiece), high detail, dynamic vertical Comic Book panel, 9:16 aspect ratio, an athletic downhill mountain biker wearing a full-face helmet and dark blue protective gear, aggressively racing down a steep, rugged forest singletrack trail, kicking up dirt and dust, dramatic low angle view looking up through towering redwood or pine trees, action sound effect 'WHOOSH!' in bold yellow lettering, speed lines emphasizing movement, speech bubble 'GRAVITY CALLS!', strong black outlines, vibrant cel shading, vintage comic book coloring, cinematic lighting, extreme sport illustration.",
+  "negativePrompt": "text artifacts, blurry, low resolution, bad anatomy, deformed hands, worst quality, realistic, photography, 3d render, poor composition, out of frame, signature, watermark",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book",
+    "mountain biking",
+    "downhill",
+    "extreme sports",
+    "forest trail",
+    "dynamic action",
+    "graphic novel",
+    "speed lines",
+    "vertical panel",
+    "sports"
+  ]
+}

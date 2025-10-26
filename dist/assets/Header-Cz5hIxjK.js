@@ -1,0 +1,16 @@
+import{c as r,s as l,r as s,j as e,B as d,L as t}from"./index-eX-eZlF4.js";/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const h=r("Moon",[["path",{d:"M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z",key:"a7tn18"}]]);/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const m=r("Sparkles",[["path",{d:"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z",key:"4pj2yx"}],["path",{d:"M20 3v4",key:"1olli1"}],["path",{d:"M22 5h-4",key:"1gvqau"}],["path",{d:"M4 17v2",key:"vumght"}],["path",{d:"M5 18H3",key:"zchphs"}]]);/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const x=r("Sun",[["circle",{cx:"12",cy:"12",r:"4",key:"4exip2"}],["path",{d:"M12 2v2",key:"tus03m"}],["path",{d:"M12 20v2",key:"1lh1kg"}],["path",{d:"m4.93 4.93 1.41 1.41",key:"149t6j"}],["path",{d:"m17.66 17.66 1.41 1.41",key:"ptbguv"}],["path",{d:"M2 12h2",key:"1t8f8n"}],["path",{d:"M20 12h2",key:"1q8mjw"}],["path",{d:"m6.34 17.66-1.41 1.41",key:"1m8zz5"}],["path",{d:"m19.07 4.93-1.41 1.41",key:"1shlcs"}]]),p=()=>{const{theme:o,setTheme:n}=l(),[c,i]=s.useState(!1);if(s.useEffect(()=>i(!0),[]),!c)return null;const a=o==="dark";return e.jsx(d,{variant:"ghost",size:"icon","aria-label":"Toggle theme",onClick:()=>n(a?"light":"dark"),className:"hover:bg-primary hover:text-primary-foreground",children:a?e.jsx(x,{className:"h-5 w-5"}):e.jsx(h,{className:"h-5 w-5"})})},u=()=>e.jsx("header",{className:"glass-panel border-b border-white/10 bg-background/40 backdrop-blur-xl sticky top-0 z-50",children:e.jsxs("div",{className:"container mx-auto px-4 py-4 flex items-center justify-between",children:[e.jsxs(t,{to:"/",className:"flex items-center gap-2 hover:opacity-90 transition-opacity",children:[e.jsx("div",{className:"w-10 h-10 rounded-full bg-gradient-to-br from-primary to-accent flex items-center justify-center",children:e.jsx(m,{className:"w-6 h-6 text-primary-foreground"})}),e.jsx("span",{className:"text-xl font-bold",children:"PromptVerse"})]}),e.jsxs("nav",{className:"hidden md:flex items-center gap-6",children:[e.jsx(t,{to:"/",className:"text-foreground hover:text-primary transition-colors",children:"Gallery"}),e.jsx(t,{to:"/about",className:"text-foreground hover:text-primary transition-colors",children:"About"}),e.jsx(t,{to:"/contact",className:"text-foreground hover:text-primary transition-colors",children:"Contact"}),e.jsx(t,{to:"/terms",className:"text-foreground hover:text-primary transition-colors",children:"Terms"}),e.jsx(t,{to:"/privacy",className:"text-foreground hover:text-primary transition-colors",children:"Privacy"}),e.jsx(t,{to:"/disclaimer",className:"text-foreground hover:text-primary transition-colors",children:"Disclaimer"})]}),e.jsx("div",{className:"flex items-center gap-2",children:e.jsx(p,{})})]})});export{u as H,m as S};

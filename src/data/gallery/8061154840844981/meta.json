@@ -1,0 +1,23 @@
+{
+  "id": "8061154840844981",
+  "file": "gemini-8061154840844981.png",
+  "title": "Morning Croissant Dusting",
+  "prompt": "(masterpiece), (best quality), highly detailed CGI 3D render in Pixar Style, vertical 9:16 portrait. A charming, portly male baker with rosy cheeks, a thick mustache, and a tall white toque chef's hat, smiling joyfully. He is standing in a cozy, warm bakery kitchen. The baker is using a metal sifter to lightly dust a large metal tray full of perfectly golden-brown, flaky croissants with fine powdered sugar. Volumetric morning light streams through a large round window in the background, illuminating the sugar dust particles. Wooden countertops and shelves filled with fresh bread loaves are visible in the warm, diffused background.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, low resolution, bad hands, mutated fingers, missing limbs, text, watermarks, signature, ugly, tiling, poorly drawn face, disfigured, poor composition, extra limbs, artifacts",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Baker",
+    "Croissant",
+    "Bakery",
+    "Pixar Style",
+    "3D Render",
+    "Powdered Sugar",
+    "Chef",
+    "Cozy",
+    "Morning Light",
+    "CGI"
+  ]
+}

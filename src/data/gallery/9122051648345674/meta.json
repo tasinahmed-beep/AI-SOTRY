@@ -1,0 +1,23 @@
+{
+  "id": "9122051648345674",
+  "file": "gemini-9122051648345674.png",
+  "title": "Golden Hour Stacks: The Archivist's Duty",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, Modern Anime style, 9:16 vertical aspect ratio, a cute anime girl librarian, round glasses, reddish-brown hair tied in a messy bun, wearing a beige cardigan and a dark pleated skirt, standing on a wooden rolling library ladder. She is carefully stacking a tall pile of old books onto a high wooden shelf. Incredible depth perspective of a vast, classical university library aisle, floor-to-ceiling dark wooden bookshelves stretching into the distance. Dramatic volumetric lighting, intense god rays filtering through large arched windows in the background, creating a warm, golden glow. Floating dust motes illuminated by the sunlight, cozy and academic atmosphere, cinematic composition, soft shading.",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, signature, username, abstract, out of frame, deformed, ugly, disfigured, poorly drawn, mutation, wrong anatomy",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime Girl",
+    "Librarian",
+    "Library",
+    "Volumetric Lighting",
+    "God Rays",
+    "Book Stacking",
+    "Glasses",
+    "School Uniform",
+    "Cozy",
+    "Academic"
+  ]
+}

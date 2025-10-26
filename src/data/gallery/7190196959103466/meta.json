@@ -1,0 +1,23 @@
+{
+  "id": "7190196959103466",
+  "file": "gemini-7190196959103466.png",
+  "title": "Crimson Desert Pilgrimage",
+  "prompt": "(masterpiece), (best quality), stunning 3D Anime style render, cinematic lighting, vertical 9:16 aspect ratio. A grand desert caravan of robed travelers riding camels in a single file line, traversing massive, undulating crimson red sand dunes. The riders wear flowing hoods and robes with subtle glowing blue accents and mystical gear. Intense sunset view, huge golden sun low on the horizon casting extremely long, stark shadows across the textured sand ripples. In the far distance, an ornate, towering white fantasy citadel/city with spires sits atop a dune, the destination of the journey. Volumetric dust trails kick up from the camels' hooves. Ethereal atmosphere, vibrant colors, epic scale.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, haze, lowres, missing fingers, extra limbs, watermark, signature, jpeg artifacts, grayscale, monochrome, sketch, deformed, cropped.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "3D Anime",
+    "Desert",
+    "Caravan",
+    "Sunset",
+    "Red Dunes",
+    "Camel",
+    "Fantasy Citadel",
+    "Epic Journey",
+    "Mystical",
+    "9:16"
+  ]
+}

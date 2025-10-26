@@ -1,0 +1,23 @@
+{
+  "id": "3404032738527290",
+  "file": "gemini-3404032738527290.png",
+  "title": "Golden Hour Cliff Drop",
+  "prompt": "(masterpiece), photorealistic, highly detailed professional action photograph, 9:16 aspect ratio. A professional snowboarder wearing a red and black jacket executes a massive, dramatic cliff jump off a rugged, snowy mountain peak. Intense snow powder spray captures the motion. Dynamic perspective emphasizing the extreme height, looking down into a vast, snow-covered valley featuring a winding river and dense pine forest below. Steep, jagged, snow-capped mountain range in the background. Taken during the golden hour (warm sunset light), strong directional lighting highlighting textures and contrast.",
+  "negativePrompt": "blurry, low quality, worst quality, ugly, cartoon, sketch, painting, drawing, cropped, deformed, missing limbs, text, artifacts, noise, amateur, low resolution, flat colors, monochrome",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Snowboarding",
+    "Cliff Drop",
+    "Backcountry",
+    "Extreme Sports",
+    "Mountain Landscape",
+    "Golden Hour",
+    "Winter Sports",
+    "Action Photography",
+    "Snow Powder",
+    "Vertical Shot"
+  ]
+}

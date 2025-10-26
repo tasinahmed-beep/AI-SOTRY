@@ -1,0 +1,23 @@
+{
+  "id": "2351805917252919",
+  "file": "gemini-2351805917252919.png",
+  "title": "Maestro of the Brick Oven",
+  "prompt": "(masterpiece), (best quality), photorealistic 3D Anime style, highly detailed, octane render, wide 16:9 aspect ratio. A cheerful, smiling male chef wearing a pristine white toque and double-breasted uniform, dynamically tossing a large, perfectly stretched pizza dough high in the air. The motion of the dough is emphasized with subtle blur lines. The background is a rustic, warm Italian kitchen interior featuring a massive, domed wood-fired brick oven glowing with bright orange flames. Surrounding details include rough red brick and stone walls, wooden preparation tables covered with fresh ingredients like red tomatoes, flour, and basil, and shiny copper pots hanging on wooden shelves. Warm cinematic lighting, detailed textures, checkered black and white floor.",
+  "negativePrompt": "lowres, worst quality, low quality, deformed, error, blurry, jpeg artifacts, signature, watermark, missing fingers, bad anatomy, mutated hands, extra limbs, 2D, cartoon, drawing",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "chef",
+    "pizza",
+    "3d render",
+    "italian kitchen",
+    "brick oven",
+    "dough toss",
+    "culinary",
+    "stylized",
+    "cooking",
+    "action pose"
+  ]
+}

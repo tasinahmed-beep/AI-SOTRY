@@ -1,0 +1,23 @@
+{
+  "id": "2921317314239502",
+  "file": "gemini-2921317314239502.png",
+  "title": "The Silent Rehearsal Stage",
+  "prompt": "(masterpiece), (best quality), highly detailed anime illustration, 9:16 aspect ratio. A beautiful anime girl violinist standing on an empty wooden stage of a grand baroque opera house. She has long, flowing reddish-brown hair tied with ribbons and wears an elegant, floor-length navy blue dress with subtle gold details. Playing the violin with closed eyes, soft musical notes depicted as subtle glowing particles around the instrument. Dramatic stage lighting, large red velvet curtains, opulent gold architectural details, deep shadows over the rows of empty red seats in the background.",
+  "negativePrompt": "(worst quality), (low quality), watermark, text, signature, bad anatomy, deformed, disfigured, extra limbs, jpeg artifacts, blurry, grainy, error, cropped, bad hands, missing fingers, simple background",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "anime girl",
+    "violinist",
+    "theater stage",
+    "opera house",
+    "long dress",
+    "solo performance",
+    "musical instrument",
+    "dramatic lighting",
+    "empty auditorium",
+    "2D illustration"
+  ]
+}

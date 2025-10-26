@@ -1,0 +1,175 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 15%;
+
+    --primary: 217 91% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 220 14% 96%;
+    --secondary-foreground: 0 0% 15%;
+
+    --muted: 220 14% 96%;
+    --muted-foreground: 220 9% 46%;
+
+    --accent: 217 91% 60%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 13% 91%;
+    --input: 220 13% 91%;
+    --ring: 217 91% 60%;
+
+    --radius: 0.75rem;
+
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+  }
+
+  .dark {
+    --background: 222 47% 11%;
+    --foreground: 210 40% 98%;
+
+    --card: 222 47% 11%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 11%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 217 91% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 217 91% 60%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217 33% 17%;
+    --input: 217 33% 17%;
+    --ring: 217 91% 60%;
+
+    /* Glass controls */
+    --glass-bg: 0.40;
+    --glass-border: 0.10;
+    --glass-blur: 12px;
+    --glass-shadow: 0.12;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+  
+  :root {
+    --noise-opacity: 0.03;
+  }
+  .dark {
+    --noise-opacity: 0.05;
+  }
+  
+  /* Global background gradient for glass effect */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background:
+      radial-gradient(600px 300px at 10% 15%, hsl(var(--primary) / 0.12), transparent 60%),
+      radial-gradient(700px 350px at 85% 10%, hsl(var(--accent) / 0.10), transparent 60%),
+      radial-gradient(800px 450px at 20% 85%, hsl(var(--secondary) / 0.12), transparent 60%);
+  }
+
+  /* Subtle noise texture overlay for depth */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: var(--noise-opacity);
+    background-image: url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='128' height='128'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-repeat: repeat;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-muted rounded-full;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-primary/50 rounded-full hover:bg-primary;
+  }
+}
+
+/* Glass intensity controls via data attribute on <html> */
+[data-glass="soft"] {
+  --glass-bg: 0.30;
+  --glass-border: 0.08;
+  --glass-blur: 8px;
+  --glass-shadow: 0.08;
+}
+[data-glass="strong"] {
+  --glass-bg: 0.60;
+  --glass-border: 0.16;
+  --glass-blur: 20px;
+  --glass-shadow: 0.20;
+}
+
+@layer components {
+  .glass-panel {
+    background-color: hsl(var(--background) / var(--glass-bg));
+    -webkit-backdrop-filter: blur(var(--glass-blur));
+    backdrop-filter: blur(var(--glass-blur));
+    border: 1px solid hsl(var(--foreground) / var(--glass-border));
+    box-shadow: 0 20px 50px hsl(var(--foreground) / var(--glass-shadow));
+  }
+  /* Improved focus rings on interactive elements */
+  .glass-panel:focus-within {
+    box-shadow: 0 0 0 1px hsl(var(--primary) / 0.35), 0 0 0 8px hsl(var(--primary) / 0.10), 0 20px 50px hsl(var(--foreground) / var(--glass-shadow));
+    outline: none;
+  }
+}
+
+@layer base {
+  a, button, [role="button"], input, textarea, select, [tabindex]:not([tabindex="-1"]) {
+    outline: none;
+  }
+  :focus-visible {
+    outline: 2px solid hsl(var(--primary) / 0.6);
+    outline-offset: 3px;
+  }
+}

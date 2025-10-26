@@ -1,0 +1,23 @@
+{
+  "id": "6034999118717854",
+  "file": "gemini-6034999118717854.png",
+  "title": "The Artisan Pizzaiolo",
+  "prompt": "(masterpiece), (best quality), highly detailed professional 3D render, C4D, Pixar-inspired 3D anime style, a dynamic full body shot of a youthful Italian pizzaiolo (chef) wearing a white uniform and red neckerchief, confidently tossing perfect pizza dough high in the air. He stands in a rustic, warm kitchen illuminated by the glowing fire inside a large wood-fired brick oven. The foreground features a wooden countertop covered in flour, fresh ingredients like basil, mozzarella, and tomato sauce bowls, and sliced pepperoni. Cinematic volumetric lighting, soft shadows, 9:16 aspect ratio.",
+  "negativePrompt": "(worst quality), (low quality), watermark, text, signature, bad anatomy, deformed, poorly drawn, blurry, artifacts, low resolution, extra fingers, messy kitchen, bad perspective",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chef",
+    "Pizza",
+    "3D Anime",
+    "Pizzaiolo",
+    "Brick Oven",
+    "Dough Tossing",
+    "Cooking",
+    "Kitchen Scene",
+    "Food Preparation",
+    "Pixar Style"
+  ]
+}

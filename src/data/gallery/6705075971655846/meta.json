@@ -1,0 +1,22 @@
+{
+  "id": "6705075971655846",
+  "title": "Emerald Surf at Dusk",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 aspect ratio, a dynamic full-body shot of a young male surfer in 3D anime style, wearing a sleek black and neon green wetsuit, flawlessly riding the face of a giant, curling emerald green barrel wave. The water is highly translucent and splashing violently. Dramatic golden sunset lighting, intense sun glare on the horizon, bright volumetric light rays shooting across the vivid pink and purple sky. Extreme detail in water texture, cinematic composition, dynamic angle, high resolution 3D render.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed hands, missing fingers, text, artifacts, blurry, grainy, out of focus, duplicate, monochrome, cartoon, 2D.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "3D Anime",
+    "Sunset",
+    "Emerald Wave",
+    "Action Shot",
+    "Ocean",
+    "Dynamic Pose",
+    "Cinematic Lighting",
+    "Vertical (9:16)",
+    "Water Splashes"
+  ]
+}

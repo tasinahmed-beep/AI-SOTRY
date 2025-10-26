@@ -1,0 +1,22 @@
+{
+  "id": "9271620570301631",
+  "file": "gemini-9271620570301631.png",
+  "title": "Cyber Kitchen Prep at Sunset",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, a focused young male chef with short blue hair and intense eyes, wearing a clean white uniform and a black apron, skillfully slicing green cucumbers with a professional knife on a large wooden cutting board. He is surrounded by colorful fresh vegetables including red cabbage, carrots, and bell peppers. The setting is a sleek, hyper-modern kitchen with stainless steel surfaces and glowing neon blue accent lighting. Through the large window behind him, a sprawling, futuristic cityscape is visible, illuminated by a warm sunset (orange and lavender sky). Modern Anime style, cinematic lighting, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad hands, mutated, blurry, deformed, worst quality, noise, signature, watermark, extra fingers, poorly drawn face, disfigured, monochrome, jpeg artifacts, ugly, painting, low detailed background",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime Boy",
+    "Chef",
+    "Futuristic Kitchen",
+    "Slicing Vegetables",
+    "Food Prep",
+    "Cyberpunk",
+    "Sunset View",
+    "Detailed Illustration",
+    "16:9"
+  ]
+}

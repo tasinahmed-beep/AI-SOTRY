@@ -1,0 +1,23 @@
+{
+  "id": "9856864207670200",
+  "file": "gemini-9856864207670200.png",
+  "title": "Caretaker Droid in the Sundrenched Studio",
+  "prompt": "(masterpiece), best quality, ultra detailed, Modern Anime style, a sleek white humanoid robot (android, caretaker droid) standing in a spacious, sunlit artist studio loft, gently watering lush green houseplants with a silver watering can. The studio features concrete walls, minimalist furniture, and several abstract expressionist paintings hanging on the wall. A massive floor-to-ceiling window shows a dramatic city skyline during golden hour (sunset/sunrise) with soft orange and pink clouds. Detailed volumetric lighting, visible dust motes in the light rays, soft shadows, peaceful atmosphere, 16:9 aspect ratio.",
+  "negativePrompt": "(worst quality, low quality, normal quality), text, signature, watermark, blurry, deformed, extra limbs, gross, ugly, messy, disorganized, dark, monochrome, missing watering can, mutation, distorted perspective.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Robot",
+    "Android",
+    "Houseplants",
+    "Studio Loft",
+    "Golden Hour",
+    "Cityscape",
+    "Anime Style",
+    "Minimalist Interior",
+    "Sci-Fi",
+    "Tranquil"
+  ]
+}

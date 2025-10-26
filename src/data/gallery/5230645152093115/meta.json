@@ -1,0 +1,23 @@
+{
+  "id": "5230645152093115",
+  "file": "gemini-5230645152093115.png",
+  "title": "Sakura Reflection on the Serene Koi Pond",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render, low-angle shot of a beautiful Japanese zen garden koi pond, 3D Anime style. The water surface has gentle, circular ripples caused by numerous falling pink cherry blossom petals (sakura petals). Several vibrant Kohaku koi fish (red, white, and orange) swimming beneath the crystal-clear water. A traditional iconic red arched bridge (Taiko-bashi) spans the pond in the background, perfectly reflected on the surface. Lush pink blooming sakura trees frame the scene, alongside large moss-covered stones and floating lily pads. Soft volumetric lighting, warm sunset glow, 16:9 aspect ratio, depth of field.",
+  "negativePrompt": "bad anatomy, distorted, ugly, tiling, poorly drawn, out of frame, extra limbs, disfigured, blurry, grainy, watermark, signature, jpeg artifacts, low quality, worst quality, realistic photo, sketch, monochrome, missing elements.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Japanese Garden",
+    "Koi Pond",
+    "Sakura",
+    "Cherry Blossoms",
+    "Arched Bridge",
+    "3D Render",
+    "Zen",
+    "Ripples",
+    "Anime Style",
+    "Lily Pads"
+  ]
+}

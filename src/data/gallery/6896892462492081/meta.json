@@ -1,0 +1,22 @@
+{
+  "id": "6896892462492081",
+  "title": "Jade Serenity: Donghua Portrait of a Sitting Maiden (Portrait)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, worst quality, blurry, deformed, bad anatomy, extra limbs, bad hands, missing fingers, watermark, cropped, signature, poorly drawn face, disfigured",
+  "style": "Donghua Chinese Illustration",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "woman",
+    "sitting",
+    "maiden",
+    "Donghua",
+    "Chinese animation",
+    "Hanfu",
+    "traditional clothing",
+    "serene",
+    "detailed",
+    "elegant"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4480044432671178",
+  "file": "gemini-4480044432671178.png",
+  "title": "Zen Purification under the Cherry Blossom Waterfall",
+  "prompt": "(masterpiece), best quality, highly detailed, 9:16 aspect ratio, A serene bald young monk in wet brown robes meditating peacefully in the full lotus position on a large rock amidst rushing water. He is positioned directly beneath a massive, luminous waterfall cascading down steep, rugged mountains. The scene is framed symmetrically by gnarled cherry blossom trees (sakura) in full bloom, with pink petals gently falling onto the water's surface. Two small, ancient East Asian temple buildings are perched high on the cliffs near the waterfall source. Bright morning sun disk centered above the falls, casting golden, ethereal light and shimmering mist. Soft, detailed clouds surround the mountain peaks. 2D Anime style, detailed linework, soft volumetric shading, tranquil atmosphere, spiritual awakening.",
+  "negativePrompt": "(worst quality:1.4), (low quality:1.4), bad anatomy, extra limbs, fewer limbs, missing fingers, blurry, watermark, signature, text, error, distorted, deformed, grainy, grayscale, monochrome, bad hands, mutated, out of frame, cropped.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Anime Art",
+    "Sakura",
+    "Zen",
+    "Mountains",
+    "Spiritual",
+    "Vertical composition",
+    "Tranquil"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6424900073943830",
+  "file": "gemini-6424900073943830.png",
+  "title": "The Midnight Chemist",
+  "prompt": "(masterpiece), best quality, detailed illustration, official art, 2D anime style, volumetric lighting, 9:16 aspect ratio, a young female scientist, 1girl, blue hair, wearing a white lab coat and safety glasses, intensely focusing on a microscope, working late night in a quiet chemistry laboratory, desk covered with colorful bubbling and steaming beakers, test tubes, and chemistry glassware, starry night sky visible through the large window, cool blue and warm indoor lighting contrast, soft glow.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, blurry, artifacts, jpeg artifacts, extra limbs, signature, watermark, bad hands, low resolution, multiple girls, text",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime Girl",
+    "Scientist",
+    "Lab Coat",
+    "Microscope",
+    "Chemistry Lab",
+    "Night Time",
+    "Starry Sky",
+    "Experiment",
+    "Detailed Illustration",
+    "9:16"
+  ]
+}

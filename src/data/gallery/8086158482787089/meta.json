@@ -1,0 +1,22 @@
+{
+  "id": "8086158482787089",
+  "file": "gemini-8086158482787089.png",
+  "title": "Zero-G Viewpoint",
+  "prompt": "(masterpiece), 8k, Pixar Style 3D render, highly detailed cinematic scene, a cheerful, friendly male astronaut floating weightlessly in the center of a large circular space station viewport. The Earth is visible filling the window, vibrant blue and green, showing continents and clouds. The astronaut wears a detailed white and orange spacesuit, smiling brightly. The space station cockpit interior is dark grey and detailed with complex control panels on the left and right, illuminated by warm soft internal lights. Two small, detailed miniature astronaut figures work diligently at the control consoles on the sides. Volumetric lighting, 16:9 aspect ratio.",
+  "negativePrompt": "poorly drawn, ugly, mutilated, extra limbs, deformed, blurry, low resolution, worst quality, noise, grain, lowres, bad anatomy, bad hands, malformed, missing fingers, text, watermark",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar Style",
+    "3D Render",
+    "Astronaut",
+    "Space Station",
+    "Earth",
+    "Zero Gravity",
+    "Sci-Fi",
+    "Cinematic Lighting",
+    "Character Art"
+  ]
+}

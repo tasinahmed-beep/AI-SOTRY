@@ -1,0 +1,22 @@
+{
+  "id": "6719721607777376",
+  "file": "gemini-6719721607777376.png",
+  "title": "Neon Velocity: Midnight City Sprint",
+  "prompt": "(masterpiece), best quality, detailed 2D Anime illustration, 16:9 aspect ratio, a lone cyclist in an aerodynamic blue and orange suit races intensely down a wet, cyberpunk city street at night. Extreme dynamic perspective (low angle, centered), focused on the bicycle splashing water. The scene is saturated with reflections from vibrant, multi-colored vertical neon signs (kanji/Japanese text). Heavy rain effect, strong street light flares, deep blue and magenta color palette. Motion blur streaks emphasize velocity and speed.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, missing limbs, extra fingers, malformed, text, signature, watermark, jpeg artifacts, monochrome, poorly drawn, amateur drawing, daytime, clear weather, cartoon",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime style",
+    "Neon signs",
+    "Rainy city",
+    "Night scene",
+    "Cyclist",
+    "Dynamic action",
+    "Urban landscape",
+    "Wet reflections",
+    "Japanese street"
+  ]
+}

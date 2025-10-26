@@ -1,0 +1,23 @@
+{
+  "id": "8463281131917086",
+  "file": "gemini-8463281131917086.png",
+  "title": "Cyberpunk Canvas at Dawn",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, Modern Anime style, 9:16 aspect ratio. A young male street artist with bright blue spiky hair and goggles sits on metal scaffolding, actively painting a massive mural on a textured, broken brick wall at sunrise. He is holding a brush that emits a brilliant, glowing pink neon streak, connecting to the mural. The mural depicts an immersive cyberpunk cityscape under a twilight sky, featuring enormous, sleek futuristic skyscrapers and flying vehicles, rendered in deep purples and neon cyan accents. A heroic female character, dressed in white futuristic armor and a flowing cape, is leaping out of the mural, wielding a glowing staff. The low angle sunrise illuminates the scene dramatically, casting long shadows across the urban cobblestone street where two amazed onlookers watch the creation. Volumetric lighting, intricate background details, vibrant colors.",
+  "negativePrompt": "low quality, worst quality, error, bad anatomy, deformed, sketch, monochrome, missing limbs, blurry, grayscale, watermark, signature, text, traditional drawing, bad composition",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street art",
+    "Mural",
+    "Cyberpunk",
+    "Anime",
+    "Graffiti",
+    "Dawn",
+    "Urban fantasy",
+    "Scaffolding",
+    "Neon",
+    "Sci-fi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8812720809511361",
+  "file": "gemini-8812720809511361.png",
+  "title": "The Immortal's Brew: Latte Art of the Winged Spirit",
+  "prompt": "(masterpiece), best quality, ultra-detailed digital painting, cinematic lighting, vertical aspect ratio (9:16). A captivating Fantasy Xianxia scene: An elegant male cultivator, wearing flowing deep blue robes with intricate embroidery, is meticulously pouring milk from a jade-green pitcher into a large white coffee cup. The milk is luminous and shimmering with golden starlight, magically forming a three-dimensional, ethereal winged spirit (like a miniature celestial griffin or phoenix chick) emerging from the latte art pattern. The setting is a beautifully carved traditional Chinese pagoda balcony high up in the mountains. In the foreground, vibrant pink and yellow lotus flowers are scattered on the dark wooden table. The background reveals a breathtaking vista of vast, misty, jagged mountain peaks, winding river valleys, and floating clouds, with small figures (other cultivators) flying in the distance. Volumetric atmosphere, highly detailed environment.",
+  "negativePrompt": "(worst quality, low quality, illustration, 3d, 2d, painting, cartoons, sketch), watermark, signature, text, blurry, distorted, tiling, extra fingers, missing limbs, deformed, ugly, monochrome.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fantasy Xianxia",
+    "Latte Art",
+    "Cultivator",
+    "Misty Mountains",
+    "Digital Painting",
+    "Magical Creature",
+    "Chinese Architecture",
+    "Lotus Flowers",
+    "Jade Pitcher",
+    "Divine Realm"
+  ]
+}

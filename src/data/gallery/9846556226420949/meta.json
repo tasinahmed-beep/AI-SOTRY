@@ -1,0 +1,23 @@
+{
+  "id": "9846556226420949",
+  "file": "gemini-9846556226420949.png",
+  "title": "Crimson Chef's Precision Slice",
+  "prompt": "(masterpiece), (best quality), highly detailed, full body portrait, 9:16 aspect ratio. A focused, handsome young male chef wearing an intricate crimson and gold embroidered Chinese traditional chef uniform (cheongsam style) and a tall white toque. He is meticulously slicing vibrant, fresh vegetables including carrots, bell peppers, and bok choy, using a large, reflective Chinese cleaver knife on a rustic, ornate wooden cutting board. Setting: Traditional Chinese kitchen interior, warm atmospheric lighting from hanging red paper lanterns, visible bamboo stalks, shelves stacked with traditional pottery, and a smoking black wok on a traditional stove in the background. Highly detailed digital illustration, Donghua Chinese style, cinematic lighting.",
+  "negativePrompt": "lowres, blurry, worst quality, morbid, deformed, extra fingers, distorted, tiling, poorly drawn hands, poorly drawn face, out of frame, multiple characters, low contrast, text, signature, watermark, dull colors",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chinese Chef",
+    "Donghua Style",
+    "Culinary Art",
+    "Traditional Kitchen",
+    "Food Preparation",
+    "Detailed Costume",
+    "Male Character",
+    "Wok Cooking",
+    "Vibrant Vegetables",
+    "Slicing"
+  ]
+}

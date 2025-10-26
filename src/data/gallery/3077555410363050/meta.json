@@ -1,0 +1,23 @@
+{
+  "id": "3077555410363050",
+  "file": "gemini-3077555410363050.png",
+  "title": "Pizza Master in the Neon Kitchen",
+  "prompt": "(masterpiece), best quality, detailed illustration, 9:16 aspect ratio, Modern Anime style, dynamic full-body portrait of a handsome young male chef, smiling, wearing a pristine white chef coat and a black apron, skillfully tossing pizza dough high in the air, motion blur on the dough, flour dust scattering, interior of a modern commercial kitchen, stainless steel counters, large, traditional red brick wood-fired pizza oven glowing brightly, sign that reads 'PIZZA PARADISE', large windows revealing a vibrant, neon-lit cyberpunk city skyline at night, dramatic atmospheric lighting, volumetric shadows, cinematic composition.",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, cropped, worst quality, low quality, jpeg artifacts, signature, watermarks, deformed, blurry, ugly, disfigured, poor anatomy, missing limbs, exposed skin, cleavage",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "chef",
+    "pizza",
+    "anime boy",
+    "cooking",
+    "brick oven",
+    "dynamic pose",
+    "night city",
+    "food illustration",
+    "commercial kitchen",
+    "9:16"
+  ]
+}

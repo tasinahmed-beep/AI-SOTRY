@@ -1,0 +1,22 @@
+{
+  "id": "2087910593771066",
+  "file": "gemini-2087910593771066.png",
+  "title": "The Sentinel of the Misty Peak",
+  "prompt": "(masterpiece), (best quality), highly detailed, photorealistic wide aerial shot of a majestic medieval fortress situated dramatically on a rugged, rocky mountain peak, high above a vast, dense sea of white valley fog (cloud inversion). Golden hour lighting, soft diffused sun rays illuminating the stone structure, clear mountain outlines in the distant background. Intricate stone architecture, ancient stone walkway, atmospheric mist swirling around the base of the peak. 9:16 vertical aspect ratio.",
+  "negativePrompt": "poorly drawn, low quality, worst quality, abstract, blurry, cartoon, sketch, watermark, signature, cropped, deformed, inaccurate stone texture, digital painting, illustration",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Castle",
+    "Medieval",
+    "Fog",
+    "Cloud Inversion",
+    "Mountain Fortress",
+    "Aerial View",
+    "Photorealistic",
+    "Golden Hour",
+    "Dramatic Landscape"
+  ]
+}

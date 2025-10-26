@@ -1,0 +1,23 @@
+{
+  "id": "9234631664025921",
+  "file": "gemini-9234631664025921.png",
+  "title": "The Azure Stream Sentinel of the Burning Pagodas",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, 9:16 aspect ratio, dramatic lighting, Donghua Chinese animation style, an epic heroic firefighter warrior in ancient red and black armor walking forward through intense fire and dark red smoke, holding a powerful hose nozzle, striking blue water stream shooting out, Chinese pagoda architecture engulfed in flames in the background, subtle white ethereal Chinese dragon silhouette in the heavily smoked sky, low angle shot, volumetric lighting, falling talisman papers, heroic pose, determination in his eyes, octane render.",
+  "negativePrompt": "worst quality, low quality, cropped, distorted, ugly, tiling, poorly drawn hands, poorly drawn feet, out of frame, blurry, low resolution, multiple limbs, extra fingers, missing fingers, jpeg artifacts, signature, watermark, bad anatomy, grayscale, monochrome.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua Style",
+    "Chinese Fantasy",
+    "Firefighter Warrior",
+    "Epic Scene",
+    "Fire and Smoke",
+    "Dragon Silhouette",
+    "Traditional Architecture",
+    "Red and Black Armor",
+    "Vertical composition",
+    "Blue Water Stream"
+  ]
+}

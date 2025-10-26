@@ -1,0 +1,23 @@
+{
+  "id": "8126650095159263",
+  "file": "gemini-8126650095159263.png",
+  "title": "Golden Hour Fox Trot in the Snowdrift",
+  "prompt": "(masterpiece), (best quality), (hyperdetailed), photorealistic wildlife photography, a magnificent red fox (Vulpes vulpes) trotting through deep, fresh snow, centered, catching the golden hour light from the side, resulting in bright orange highlights on the fur and long blue shadows on the snow, sparkling snow crystals (diamond dust) in the air, shallow depth of field, sharp focus on the fox's eyes and fur texture, snowy pine forest background, majestic pose, winter landscape, high resolution, 9:16 aspect ratio",
+  "negativePrompt": "blurry, worst quality, low quality, deformed, mutated, extra limbs, duplicate, ugly, poorly drawn face, disfigured, monochrome, sketch, illustration, painting, text, watermark, cropped, saturation",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Red Fox",
+    "Wildlife Photography",
+    "Winter",
+    "Snowscape",
+    "Golden Hour",
+    "Mammal",
+    "Trotting",
+    "Vulpine",
+    "Forest",
+    "Photorealistic"
+  ]
+}

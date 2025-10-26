@@ -1,0 +1,22 @@
+{
+  "id": "9626239775493395",
+  "file": "gemini-9626239775493395.png",
+  "title": "Dawn Caster: King of the Tides",
+  "prompt": "(masterpiece), (comic book style:1.4), highly detailed ink linework, 1980s retro comic art, a rugged fisherman wearing a blue jacket and yellow bucket hat, standing on a sharp, dramatic seaside rock, fiercely casting a fishing line. Intense, vibrant sunrise on the horizon, powerful sunburst rays across the orange and purple sky. Choppy, brightly colored turquoise waves crash against the rock. The casting line forms a glowing, dynamic arc with speed lines and star effects. Vertical composition, highly contrasting colors, dramatic lighting, full body shot, 9:16 aspect ratio.",
+  "negativePrompt": "disfigured, poorly drawn hands, bad anatomy, missing limbs, extra limbs, blurry, grayscale, monochrome, childish, low detail, watermark, text, signature, low saturation",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book Art",
+    "Sunrise",
+    "Fishing",
+    "Seascape",
+    "Dynamic Pose",
+    "Inked Linework",
+    "Retro Comic",
+    "Coastal Scene",
+    "Dawn"
+  ]
+}

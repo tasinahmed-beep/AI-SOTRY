@@ -1,0 +1,22 @@
+{
+  "id": "5712534705043397",
+  "file": "gemini-5712534705043397.png",
+  "title": "Melodies of the Misty Mountain Stage",
+  "prompt": "(masterpiece), best quality, high resolution, cinematic lighting, 16:9 aspect ratio, full body shot, detailed portrait of a beautiful young Chinese woman playing a violin, standing center stage in a grand, empty theater. She is wearing an intricately embroidered traditional Chinese dress (Hanfu style, phoenix and cloud motifs). The stage features multiple ornate, glowing Chinese lanterns hanging above. The backdrop is a breathtaking, scenic mural or screen depicting a misty, traditional Chinese ink landscape with ancient pagodas, rugged mountains, blooming pink cherry blossom trees, and a large pale full moon. Donghua Chinese cinematic art style, dramatic low-key lighting focused on the performer, empty red velvet seats receding into darkness.",
+  "negativePrompt": "deformed, blurry, bad anatomy, disfigured, low quality, worst quality, noise, text, watermark, cropped, poorly drawn face, mutated hands and feet, extra limbs, abstract, monochrome, simple background, contemporary outfit",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua Chinese",
+    "cinematic lighting",
+    "violinist",
+    "traditional attire",
+    "empty theater",
+    "misty landscape",
+    "Chinese lantern",
+    "full moon",
+    "stage performance"
+  ]
+}

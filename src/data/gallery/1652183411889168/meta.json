@@ -1,0 +1,23 @@
+{
+  "id": "1652183411889168",
+  "file": "gemini-1652183411889168.png",
+  "title": "Emerald Barrel Rider at Sunset",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D Anime style cinematic render, 16:9 aspect ratio. A dynamic shot of a young male surfer wearing a black wetsuit, skillfully riding the face of a massive, translucent emerald green barrel wave. The setting is a vibrant tropical sunset, with the large orange sun dipping low on the horizon behind dramatic, jagged rock formations and islands in the background. Pink and orange clouds fill the sky. Intense motion blur, sparkling water spray, golden reflections on the wave crest, subsurface scattering visible in the water.",
+  "negativePrompt": "lowres, worst quality, distortion, text, watermark, blurry, low saturation, jpeg artifacts, extra limbs, bad anatomy, deformed hands, poorly drawn face, signature, (out of frame), monochrome",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "3D Anime",
+    "Sunset",
+    "Emerald Wave",
+    "Barrel Riding",
+    "Ocean",
+    "Action Shot",
+    "Tropical",
+    "Cinematic",
+    "Adventure"
+  ]
+}

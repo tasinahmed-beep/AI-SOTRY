@@ -1,0 +1,23 @@
+{
+  "id": "9296536335608154",
+  "file": "gemini-9296536335608154.png",
+  "title": "Zenith of Serenity",
+  "prompt": "(masterpiece), best quality, high resolution, detailed digital painting, Modern Anime aesthetic, 16:9 aspect ratio. A serene, full-body view of a Buddhist monk wearing simple brown robes, meditating in a perfect lotus position. He is centered, floating on a small mossy stone island amidst crystal blue water. Dynamic water splashes and intricate spray surround him. In the background, a massive, symmetrical waterfall cascades down from snow-capped mountain peaks. The scene is beautifully framed by vibrant pink cherry blossom (Sakura) trees on the left and right, with petals drifting in the air. Ethereal, golden sunlight shines brightly from above the waterfall, casting soft volumetric light and atmosphere.",
+  "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, extra limbs, missing limbs, bad anatomy, bad composition, watermark, signature, blurry, disfigured, monochrome, grainy, outdated anime, 3D render, realistic photo",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Mountains",
+    "Anime Landscape",
+    "Sakura",
+    "Spiritual",
+    "Serene",
+    "Zen",
+    "Digital Art"
+  ]
+}

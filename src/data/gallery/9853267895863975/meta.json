@@ -1,0 +1,22 @@
+{
+  "id": "9853267895863975",
+  "file": "gemini-9853267895863975.png",
+  "title": "Urban Night Velocity",
+  "prompt": "(masterpiece), (best quality), photorealistic, highly detailed, 9:16 aspect ratio, dramatic central close-up shot of a determined male cyclist racing through a heavy downpour on a wet city street at night, reflective cycling jacket and helmet with bright front light, intense rain streaks visible, deep neon reflections on the slick asphalt (teal and amber light reflections), strong bokeh background of distant car headlights and city streetlights, dynamic motion blur, hyper-detailed texture, cinematic lighting, ultra-resolution, low angle shot.",
+  "negativePrompt": "low resolution, blurry, grainy, amateur, deformed, worst quality, cartoon, illustration, painting, sketch, grayscale, cropped, ugly, duplicate, poorly drawn hands, missing limbs, watermark, text.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cycling",
+    "Night Photography",
+    "Rainy City",
+    "Wet Asphalt",
+    "Reflections",
+    "Urban Sports",
+    "Dramatic Lighting",
+    "Motion",
+    "Photorealistic"
+  ]
+}

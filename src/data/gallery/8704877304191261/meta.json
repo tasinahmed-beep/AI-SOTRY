@@ -1,0 +1,23 @@
+{
+  "id": "8704877304191261",
+  "file": "gemini-8704877304191261.png",
+  "title": "Blazing Duty: 3D Anime Firefighter",
+  "prompt": "(masterpiece), best quality, highly detailed 3D anime style, cell shading, cinematic lighting, full body shot of a heroic firefighter, male, standing in the middle of a massive inferno, wearing full black and yellow turnout gear and helmet, aggressively spraying a powerful stream of water from a fire hose nozzle, intense orange flames and thick gray smoke surrounding the environment, burning wreckage and debris visible, low angle view, dramatic atmosphere, action pose, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, deformed face, tiling, out of frame",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Firefighter",
+    "3D Anime",
+    "Action",
+    "Inferno",
+    "Fire",
+    "Smoke",
+    "Heroic",
+    "Cell Shading",
+    "Emergency",
+    "Volumetric Lighting"
+  ]
+}

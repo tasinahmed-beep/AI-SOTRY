@@ -1,0 +1,23 @@
+{
+  "id": "3830457093384689",
+  "file": "gemini-3830457093384689.png",
+  "title": "Cosmic Window Astronaut",
+  "prompt": "(masterpiece), best quality, ultra-detailed, 16:9 aspect ratio, Modern Anime style, cinematic lighting, a lone astronaut in a detailed white spacesuit (NASA insignia), gently floating inside the vast, panoramic observation deck of a futuristic space station. Breathtaking view of the Earth from high orbit, vibrant blue atmosphere fading into the blackness of space, the Milky Way galaxy clearly visible, scattered cosmic debris floating past the windows. Detailed interior architecture with reflective floors and subtle neon blue ambient lighting. Small figures observing the view from side balconies. Soft, atmospheric shading, detailed background.",
+  "negativePrompt": "low quality, worst quality, blurry, watermark, signature, error, messy, lowres, text, cropped, poorly drawn face, disfigured, mutated, monochrome, greyscale, sketches, multiple limbs, extra fingers, cartoon, 3d render",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Astronaut",
+    "Space Station",
+    "Earth from Orbit",
+    "Modern Anime",
+    "Sci-Fi",
+    "Milky Way",
+    "Panoramic View",
+    "Futuristic",
+    "Cinematic Lighting",
+    "Space"
+  ]
+}

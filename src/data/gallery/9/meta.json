@@ -1,0 +1,18 @@
+{
+  "id": "9",
+  "title": "Mountain Palace Sunset",
+  "prompt": "16:9 aspect ratio, (masterpiece), (best quality), donghua style, epic landscape scene with ancient Chinese palace in mountains, misty peaks, floating islands, golden sunset light, mystical clouds, fantasy xianxia world, cinematic wide shot",
+  "negativePrompt": "lowres, blurry, bad anatomy, text, watermark, signature, deformed",
+  "style": "Fantasy",
+  "aspectRatio": "16:9",
+  "size": "1024 X 576",
+  "orientation": "landscape",
+  "tags": [
+    "landscape",
+    "palace",
+    "mountain",
+    "sunset",
+    "donghua",
+    "cinematic"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0746048299497821",
+  "file": "gemini-0746048299497821.png",
+  "title": "Undersea Comic Book Bonanza",
+  "prompt": "(masterpiece), (best quality), A vibrant, wide-angle 16:9 comic book panel illustrating a teeming coral reef ecosystem. The scene features thick, defined black outlines and bold, saturated colors. A large, friendly cartoon manta ray swims centrally near the water surface. Schools of diverse, brightly colored tropical fish (blue tangs, orange fish, yellow fish) surround the manta ray. Prominent foreground details include a cheerful clownfish nestled in green sea anemones, bright red mushroom-shaped coral formations, and orange starfish. Sunbeams stream down through the bubbly blue water. Include classic comic book sound effects like 'SWISH!' and 'GLIDE!' and 'BLUB!' in speech bubbles.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, blurry, grainy, watermark, text artifacts, signature, cropped, low resolution, extra limbs, mutation, realism, photograph",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book Art",
+    "Underwater",
+    "Coral Reef",
+    "Cartoon",
+    "Manta Ray",
+    "Tropical Fish",
+    "Vibrant",
+    "Sea Life",
+    "Pop Art",
+    "Clownfish"
+  ]
+}

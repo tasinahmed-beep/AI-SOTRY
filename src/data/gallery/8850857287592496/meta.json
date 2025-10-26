@@ -1,0 +1,23 @@
+{
+  "id": "8850857287592496",
+  "file": "gemini-8850857287592496.png",
+  "title": "The Grand Alchemist's Microcosm",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k resolution, Fantasy Xianxia style, cinematic lighting, 16:9 aspect ratio, a wise aged Daoist sage and Grand Alchemist with a long white beard, wearing intricate silk robes patterned with golden cranes and embroidery, deeply focused, peering intently into an antique, highly detailed brass and jade microscope that glows with mystical green energy. He stands in a quiet, ancient laboratory (danfang) filled with high bookshelves, glowing mystical elixirs in glass flasks and beakers, ancient scrolls, and glowing blue and green crystals scattered on a massive stone work table. A large circular window reveals a breathtaking vista of floating islands (qiong dao), misty mountains (shan shui), and distant flying mythical creatures. Ethereal green and blue ambient light, dramatic volumetric lighting.",
+  "negativePrompt": "(worst quality, low quality, normal quality), blurry, text, watermark, signature, jpeg artifacts, easy negative, extra fingers, deformed, bad anatomy, missing limbs, tiling, poorly drawn face, disfigured, modern equipment, sci-fi, cyberpunk, ugly",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Alchemist",
+    "Sage",
+    "Laboratory",
+    "Microscope",
+    "Floating Islands",
+    "Mystical",
+    "Daoist Robes",
+    "Elixir",
+    "Ancient"
+  ]
+}

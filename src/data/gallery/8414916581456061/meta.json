@@ -1,0 +1,23 @@
+{
+  "id": "8414916581456061",
+  "file": "gemini-8414916581456061.png",
+  "title": "Thunderstorm Over the Golden Harvest Pavilion",
+  "prompt": "(masterpiece), (best quality), highly detailed traditional Chinese illustration, Guohua style, Donghua Chinese animation aesthetic, ink wash painting, dynamic composition (16:9). A vast, expansive field of golden, ripe wheat under a ferocious thunderstorm. Ominous, swirling dark thunderclouds dominate the sky, dramatically lit by multiple intense, jagged white lightning strikes. Heavy, visible streaks of rain pour down. In the middle ground, a traditional red and black octagonal Chinese pavilion (gazebo) stands on a small rise. Two small figures, cloaked travelers in traditional robes, walk along winding paths through the dense, bowing wheat stalks, seeking shelter. Misty, ink-washed green mountains are visible in the distance.",
+  "negativePrompt": "low quality, worst quality, blurry, fuzzy, unclear, sketch, 3D, cgi, deformed, simplistic, inaccurate anatomy, poorly drawn hands, watermark, text, signature",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Thunderstorm",
+    "Wheat Field",
+    "Lightning",
+    "Chinese Pavilion",
+    "Guohua",
+    "Traditional Art",
+    "Ink Wash",
+    "Landscape",
+    "Stormy Weather",
+    "Wuxia"
+  ]
+}

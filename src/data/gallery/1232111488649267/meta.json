@@ -1,0 +1,23 @@
+{
+  "id": "1232111488649267",
+  "file": "gemini-1232111488649267.png",
+  "title": "The Caravan of the Smiling Sun",
+  "prompt": "(masterpiece), best quality, highly detailed, 3D render, Pixar style animation, whimsical, a vast desert caravan procession traveling in a long line across dramatic, textured red-orange sand dunes at golden hour. The caravan uses ornate wooden wagons and carts, adorned with festive string lights and colorful banners. The vehicles are pulled by smiling, anthropomorphic camels, the lead camel wearing aviator goggles. There are passengers (people and small creatures) visible in the carriages. The sky features a bright, anthropomorphic sun with a happy face, large stylized crescent moons, and fantastical cloud shapes. Volumetric sunset lighting, long dramatic shadows, extreme depth of field, cinematic atmosphere, 9:16 aspect ratio.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, (low quality), (bad composition)",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Desert Caravan",
+    "Anthropomorphic Camels",
+    "Sunset",
+    "Sand Dunes",
+    "Whimsical",
+    "CGI Animation",
+    "Fantasy Travel",
+    "Golden Hour",
+    "Volumetric Lighting"
+  ]
+}

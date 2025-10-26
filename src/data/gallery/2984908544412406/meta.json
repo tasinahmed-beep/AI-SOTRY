@@ -1,0 +1,22 @@
+{
+  "id": "2984908544412406",
+  "file": "gemini-2984908544412406.png",
+  "title": "Sakura Petal Pond Serenity",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k, cinematic view of a tranquil Japanese koi pond (Nishikigoi). Three vibrant koi fish swimming beneath the dark, reflective water surface. Overhanging cherry blossom (Sakura) trees dropping countless light pink petals, creating subtle concentric ripples on the water. Lush mossy stones and lily pads at the edges. In the background, a soft-focus traditional wooden bridge and a stone lantern (Tōrō). Golden hour sunlight, volumetric rays, soft diffused lighting, stylized realism, Pixar animation style rendering, ultra-detailed texture, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, low resolution, cropped, poorly drawn, missing limbs, bad anatomy, deformed, blurry, artifacts, jpeg compression, monochrome, depth of field issues, unrealistic water texture, sketch, drawing, watermark, text",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Japanese Garden",
+    "Koi Pond",
+    "Sakura",
+    "Cherry Blossoms",
+    "Pixar Style",
+    "Stylized Realism",
+    "Golden Hour",
+    "Ripples",
+    "Tranquil"
+  ]
+}

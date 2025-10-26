@@ -1,0 +1,22 @@
+{
+  "id": "0526655701402879",
+  "file": "gemini-0526655701402879.png",
+  "title": "Jade Automaton Cultivating Lotus",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 aspect ratio, Donghua Chinese style, cinematic lighting. An elegant female cyborg (automaton) wearing intricate traditional Hanfu robes (teal and gold) stands in a peaceful, traditional Chinese pavilion studio. She has glowing blue eyes and visible mechanical hands as she delicately waters large potted lotus flowers with a metal watering can. A stream of glowing blue water pours into the pot. The studio features large lattice windows overlooking a misty landscape with wuxia-style pagodas and majestic mountains. Soft morning light illuminates the wooden floors and hanging paper lanterns. Mysterious golden energy wisps around the plants.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, distorted, tiling, monochrome, modern clothes, futuristic elements visible on face",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyborg",
+    "Hanfu",
+    "Lotus Flower",
+    "Traditional Chinese Architecture",
+    "Wuxia",
+    "Gardening",
+    "Mecha Musume",
+    "Intricate Detail",
+    "9:16"
+  ]
+}

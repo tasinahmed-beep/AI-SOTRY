@@ -1,0 +1,23 @@
+{
+  "id": "5225018876093060",
+  "file": "gemini-5225018876093060.png",
+  "title": "Ember Walker: Determined Firefighter in 2D Anime Style",
+  "prompt": "(masterpiece), best quality, highly detailed 2D anime illustration, 16:9 aspect ratio. A heroic firefighter walking determinedly forward, centered frame. The firefighter wears a detailed blue and orange protective suit, a red helmet, and a full breathing mask (SCBA). They are firmly gripping a firefighting hose nozzle. The scene is engulfed in thick, swirling smoke that glows orange and pink from the unseen fire below. Small embers and ash are floating everywhere. Dark, ruined structural silhouettes defining the background. Thick black outlines, vibrant colors, dynamic lighting, high-contrast cell shading.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, distorted, messy, watermark, text, signature, blurry, jpeg artifacts, multiple limbs, hose disconnect, floating hands, extra fingers, deformed face, poorly drawn equipment, ugly background, amateur.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Firefighter",
+    "2D Anime",
+    "Cell Shading",
+    "Smoke",
+    "Emergency Services",
+    "Hero",
+    "Action Scene",
+    "Ruined Building",
+    "SCBA Mask",
+    "Wide Screen"
+  ]
+}

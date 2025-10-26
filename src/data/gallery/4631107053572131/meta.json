@@ -1,0 +1,23 @@
+{
+  "id": "4631107053572131",
+  "file": "gemini-4631107053572131.png",
+  "title": "Crimson Leaves of Immortality: Bonsai View from the Moon Gate",
+  "prompt": "(masterpiece), best quality, ultra-detailed illustration, A stunningly beautiful and ancient bonsai tree with vibrant crimson and orange autumn leaves, sitting in an ornate teal ceramic pot featuring dragon relief, placed on a dark, intricately carved wooden shelf. The scene is framed by a traditional Chinese circular window (Moon Gate). Outside the window, a breathtaking panorama of misty karst mountains, towering peaks, cascading waterfalls, and traditional layered Chinese pavilions submerged in a valley of auspicious white and pink clouds (Qingyun). Soft golden hour lighting (sunset/sunrise), ethereal atmosphere, cinematic composition, Zhongguo Feng, Donghua Chinese style, 16:9 aspect ratio.",
+  "negativePrompt": "blurry, low resolution, worst quality, deformed, malformed, poorly drawn, extra fingers, signature, watermark, text, noisy, cross-eyed, sketch, ugly, distorted perspective",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Bonsai",
+    "Chinese Landscape",
+    "Zhongguo Feng",
+    "Moon Gate",
+    "Karst Mountains",
+    "Waterfall",
+    "Pavilion",
+    "Auspicious Clouds",
+    "Autumn",
+    "Golden Hour"
+  ]
+}

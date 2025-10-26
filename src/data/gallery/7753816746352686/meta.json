@@ -1,0 +1,21 @@
+{
+  "id": "7753816746352686",
+  "file": "gemini-7753816746352686.png",
+  "title": "Neon Rain in the Neo-Tokyo Backstreets",
+  "prompt": "(masterpiece), (best quality), highly detailed, 2D Anime style, thick outlines, vertical composition (9:16), a dramatic view of a narrow, rainy cyberpunk alley at night. The alley is crammed with dense, cluttered overhead electrical wires and industrial piping. Numerous vibrant neon signs in magenta, cyan, and violet illuminate the scene, featuring Japanese script (kanji/katakana). Two figures in the foreground, wearing cyberpunk streetwear and face masks, walk under clear umbrellas. The wet pavement is highly reflective, mirroring the neon lights. Heavy rain and thick atmospheric steam rise from the drains, framing the edges of the scene.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, mutated, blurry, watermark, signature, text, 3d, realism, photorealistic, bad hands, cartoon, simple background, ugly, out of frame",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyberpunk",
+    "2D Anime",
+    "Rainy Night",
+    "Neon Lights",
+    "Alleyway",
+    "Japanese Aesthetic",
+    "Reflective Pavement",
+    "Steam"
+  ]
+}

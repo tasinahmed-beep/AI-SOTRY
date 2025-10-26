@@ -1,0 +1,18 @@
+{
+  "id": "10",
+  "title": "Epic Cultivator Battle",
+  "prompt": "16:9 aspect ratio, (masterpiece), (best quality), donghua style, dramatic battle scene with two cultivators fighting mid-air, energy beams clashing, magical effects, dynamic action, floating rocks, epic sky, fantasy martial arts, cinematic composition",
+  "negativePrompt": "lowres, blurry, bad anatomy, text, watermark, signature, deformed",
+  "style": "Fantasy",
+  "aspectRatio": "16:9",
+  "size": "1024 X 576",
+  "orientation": "landscape",
+  "tags": [
+    "battle",
+    "action",
+    "landscape",
+    "cultivator",
+    "donghua",
+    "martial"
+  ]
+}

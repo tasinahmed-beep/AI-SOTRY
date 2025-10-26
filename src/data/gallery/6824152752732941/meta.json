@@ -1,0 +1,22 @@
+{
+  "id": "6824152752732941",
+  "file": "gemini-6824152752732941.png",
+  "title": "Whispers of the Misty Bamboo Glade",
+  "prompt": "(masterpiece), (best quality), ultra-detailed 3D anime illustration, full-body portrait of a happy, plump giant panda sitting comfortably, cheerfully eating a fresh green bamboo stalk. The scene is set in an enchanted, deep bamboo forest, shrouded in heavy mist and fog. Tall, luminous bamboo stalks frame the view. Floating cyan magical spirit orbs (will-o'-the-wisps) cast soft, volumetric lighting. Serene fantasy landscape, 9:16 aspect ratio, soft focus background, fantasy digital art.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, bad anatomy, missing limbs, poorly drawn hands, watermark, text, signature, aggressive colors, harsh shadows, monochrome, grayscale, low resolution, artifacts, human, extra fingers",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Bamboo forest",
+    "Misty",
+    "Cute animal",
+    "Fantasy",
+    "Glowing orbs",
+    "Vertical composition",
+    "Serene",
+    "Digital illustration"
+  ]
+}

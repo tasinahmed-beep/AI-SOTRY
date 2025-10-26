@@ -1,0 +1,23 @@
+{
+  "id": "4362207780101037",
+  "file": "gemini-4362207780101037.png",
+  "title": "Crafting the Perfect Latte",
+  "prompt": "(masterpiece), (best quality), ultra-photorealistic, 8k resolution, cinematic composition, close-up shot of a skilled barista's hands wearing a dark apron and a wristwatch, pouring steamed milk from a shiny stainless steel pitcher into a white ceramic cup of espresso. Creating intricate latte art. Steaming hot coffee, strong contrast, warm ambient natural light coming from a large, blurred window background (bokeh effect), focus on the precise moment of pouring, wooden cafe countertop setting, high detail, volumetric lighting, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, illustration, painting, drawing, bad anatomy, deformed fingers, messy, blurry, grayscale, monochrome, amateur, unrealistic rendering, artifacts, noise, text, watermark, cropped image",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Coffee",
+    "Barista",
+    "Latte Art",
+    "Photorealistic",
+    "Pouring",
+    "Espresso",
+    "Close-up",
+    "Cafe Interior",
+    "Craftsmanship",
+    "Shallow Depth of Field"
+  ]
+}

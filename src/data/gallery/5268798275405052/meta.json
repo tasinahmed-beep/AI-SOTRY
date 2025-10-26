@@ -1,0 +1,23 @@
+{
+  "id": "5268798275405052",
+  "file": "gemini-5268798275405052.png",
+  "title": "Vibrant Anime Coral Ecosystem",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning 2D Anime illustration, full frame portrait (9:16), a breathtakingly vibrant coral reef ecosystem, teeming with hundreds of colorful tropical fish, a majestic and cute whale shark swimming prominently in the center, a charming sea turtle gliding near the brightly colored reef formations (pink, purple, orange, blue coral), deep clear turquoise water, intense god rays and sunbeams filtering down from the water surface, strong volumetric lighting, abundant air bubbles rising, cute marine life, clean lines, professional digital painting.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, poorly drawn face, blurry, grainy, watermark, text, signature, low resolution, monochromatic, human, diver, exposed skin",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "underwater",
+    "coral reef",
+    "whale shark",
+    "tropical fish",
+    "sea turtle",
+    "anime illustration",
+    "vibrant colors",
+    "god rays",
+    "ocean life",
+    "portrait"
+  ]
+}

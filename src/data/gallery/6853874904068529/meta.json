@@ -1,0 +1,22 @@
+{
+  "id": "6853874904068529",
+  "file": "gemini-6853874904068529.png",
+  "title": "Golden Hour Forest Shred",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, photorealistic sports photography of a professional downhill mountain biker carving a dusty corner on a narrow forest trail. The rider is wearing black and neon green race gear, a full-face helmet, and goggles. Intense action shot, dirt spraying from the tires. Dramatic backlit lighting, golden hour sun rays filtering through the dense, moss-covered tree canopy, strong bokeh, 9:16 aspect ratio, cinematic lighting.",
+  "negativePrompt": "low quality, amateur, blurry, deformed, worst quality, jpeg artifacts, noise, signature, watermark, missing limbs, text, cartoon, illustration, drawing, flat colors, blurry face, multiple bikes, out of frame bike parts",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "downhill biking",
+    "mountain biking",
+    "sports photography",
+    "golden hour",
+    "forest trail",
+    "action shot",
+    "photorealistic",
+    "mossy trees",
+    "dirt spraying"
+  ]
+}

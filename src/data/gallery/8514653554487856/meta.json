@@ -1,0 +1,23 @@
+{
+  "id": "8514653554487856",
+  "file": "gemini-8514653554487856.png",
+  "title": "Zen Waterfall Retreat",
+  "prompt": "(masterpiece), best quality, highly detailed 3D Anime Illustration, cinematic wide shot (16:9), a serene bald monk wearing simple gray robes meditating in the lotus position directly beneath a powerful, crystal-clear waterfall. The monk is centered, surrounded by splashing water and mist, sitting on a natural rock platform. The background features dramatic, towering snow-capped mountains and lush, mossy green rocks framing the scene like a hidden grotto entrance. Bright daylight, blue sky with wispy clouds, volumetric lighting, tranquil atmosphere, spiritual enlightenment.",
+  "negativePrompt": "lowres, worst quality, blurry, deformed, poorly drawn, extra limbs, watermark, text, signature, (bad anatomy), (mutilated), disfigured, oversaturated, unrealistic human body, floating, multiple heads, error",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Mountains",
+    "Anime Illustration",
+    "Tranquil",
+    "Spiritual",
+    "Nature",
+    "Grotto",
+    "Zen"
+  ]
+}

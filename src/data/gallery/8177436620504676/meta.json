@@ -1,0 +1,23 @@
+{
+  "id": "8177436620504676",
+  "file": "gemini-8177436620504676.png",
+  "title": "Tranquil Bonsai View",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render of a majestic, lush green bonsai tree with a deeply twisted trunk, resting on a rustic wooden shelf. The bonsai is potted in a cracked, glazed green ceramic container. The shelf also holds a miniature gardening rake and a small, polka-dot blue watering can. Scene is set next to a large, curved window frame. Soft, golden volumetric sunlight streams into the room, illuminating subtle floating dust particles. Through the window, a vibrant, serene Pixar-style landscape is visible: rolling green fields, a winding river, and a small, colorful village below. Cinematic composition, 16:9 aspect ratio, Pixar Style, digital illustration.",
+  "negativePrompt": "low quality, poorly drawn, ugly, deformed, out of frame, blurry, grainy, bad anatomy, deformed hands, missing fingers, text, watermark, (lowres:1.3), worst quality, bad composition, artifacts",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Bonsai Tree",
+    "Pixar Animation",
+    "Volumetric Lighting",
+    "CGI",
+    "Indoor Plant",
+    "Window View",
+    "Rustic Wood",
+    "Green Landscape",
+    "Still Life",
+    "Tranquil"
+  ]
+}

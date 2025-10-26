@@ -1,0 +1,22 @@
+{
+  "id": "3633529798739749",
+  "file": "gemini-3633529798739749.png",
+  "title": "Cosmic Greeting: The Astronaut, Scientist, and the Alien",
+  "prompt": "(masterpiece), (best quality), high detail, 9:16 portrait aspect ratio, Pixar Style 3D render, highly detailed CGI animation, volumetric lighting. A cheerful young male astronaut in a crisp white and orange spacesuit is floating outside a futuristic space station module, making a 'rock-on' hand gesture and smiling brightly. He is looking into a large, curved window. Inside the window, a bald human scientist and a friendly, bright green alien wearing a white lab coat are enthusiastically waving back. Dramatic background featuring the curved Earth below with blue skies and clouds, deep space above with shining stars, distant planets, and detailed orbital satellites. Cinematic lighting, vibrant colors.",
+  "negativePrompt": "worst quality, low quality, low detail, monochrome, duplicate, blurry, cropped, deformed, missing limbs, text, bad anatomy, jpeg artifacts",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Astronaut",
+    "Pixar Style",
+    "Space Station",
+    "Alien",
+    "CGI Animation",
+    "Sci-Fi Adventure",
+    "High Orbit",
+    "Extraterrestrial",
+    "3D Render"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8721095905504156",
+  "file": "gemini-8721095905504156.png",
+  "title": "The Perfect Morning Pour",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 aspect ratio, Modern Anime style. A stunningly cute young female barista with short, chestnut brown hair, smiling happily, wearing a crisp white collared shirt and a dark grey apron. She is focused, using a stainless steel pitcher to carefully pour steamed milk into a white ceramic latte cup, skillfully creating a delicate rosetta latte art pattern. Soft volumetric morning sunlight streams through the arched windows in the blurred background, highlighting the steam rising from the coffee. Bright, modern coffee shop setting, bokeh background, wooden counter.",
+  "negativePrompt": "lowres, bad quality, worst quality, distortion, blurry, mismatched eyes, extra limbs, deformed hands, fewer fingers, watermark, signature, missing details, messy, poorly drawn, abstract, gross, ugly, out of frame",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Barista",
+    "Latte Art",
+    "Modern Anime",
+    "Cute Girl",
+    "Coffee Shop",
+    "Pouring",
+    "Coffee",
+    "Vertical Composition",
+    "Short Hair",
+    "Cafe"
+  ]
+}

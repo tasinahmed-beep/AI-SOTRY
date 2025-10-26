@@ -1,0 +1,23 @@
+{
+  "id": "2215882084480528",
+  "file": "gemini-2215882084480528.png",
+  "title": "Sunlit Bonsai in a Traditional Japanese Room",
+  "prompt": "(masterpiece), best quality, detailed 3D Anime illustration, vertical composition (9:16), a serene scene of a perfectly shaped bonsai tree with a twisting trunk, resting on a rustic wooden shelf. The scene is bathed in golden volumetric lighting and sunbeams streaming through a large Japanese window. Detailed exterior view of rolling green mountains and a bright blue sky with white clouds. Interior features tatami mat floor and shoji screen elements. High saturation, cel shading, peaceful atmosphere.",
+  "negativePrompt": "low quality, worst quality, extra limbs, fewer limbs, bad hands, blurry, low resolution, inaccurate anatomy, warped, disjointed, poor composition, watermark, signature, text, jpeg artifacts, monochrome, dull colors, oversaturated",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Bonsai",
+    "Japanese interior",
+    "Tatami room",
+    "Window view",
+    "Volumetric lighting",
+    "Sunbeams",
+    "Cel shading",
+    "Serene",
+    "Nature",
+    "Vertical"
+  ]
+}

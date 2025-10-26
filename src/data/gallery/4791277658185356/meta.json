@@ -1,0 +1,22 @@
+{
+  "id": "4791277658185356",
+  "title": "Cozy Evening Smile",
+  "prompt": "(masterpiece), best quality, cinematic lighting, a vibrant 3D rendered character portrait in Pixar style, 9:16 aspect ratio. A cheerful young woman with voluminous, detailed auburn curly hair, large expressive blue eyes, rosy cheeks, and subtle freckles. She is smiling brightly, showing her teeth, and stands with her arms crossed, wearing a textured blue cable-knit sweater over a patterned collared shirt. Soft, warm backlighting filters from a window in the background, which is a cozy, blurred interior featuring a bookshelf and a warm fireplace.",
+  "negativePrompt": "low quality, bad anatomy, worst quality, deformed, error, blurry, low resolution, inaccurate proportions, missing limbs, text, watermark, signature, monochrome, painting, drawing, cartoon, anime, illustration",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "3D Animation",
+    "Redhead",
+    "Curly Hair",
+    "Portrait",
+    "Smiling",
+    "Cozy Interior",
+    "Knitted Sweater",
+    "Blue Eyes",
+    "Cinematic Lighting"
+  ]
+}

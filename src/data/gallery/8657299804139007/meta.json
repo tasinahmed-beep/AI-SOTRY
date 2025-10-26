@@ -1,0 +1,23 @@
+{
+  "id": "8657299804139007",
+  "file": "gemini-8657299804139007.png",
+  "title": "Ink Wash Fisher at Dawn on the Misty River",
+  "prompt": "(masterpiece), best quality, highly detailed traditional Chinese ink painting style, wide shot (16:9) of a solitary fisherman in traditional robes and wide-brimmed hat, standing on a small wooden boat, forcefully casting a fishing line into a serene, misty river. Dramatic dawn atmosphere, featuring a large, warm orange sun rising between layered blue mountains. In the distance, a traditional Chinese village with a prominent pagoda structure sits along the bank. Foreground framed by dark, weeping willow trees rendered in deep indigo wash. Artistic interpretation utilizing expressive brushstrokes, light watercolor effects, and the aesthetic of Donghua Chinese animation and classical Shanshui painting.",
+  "negativePrompt": "(worst quality), (low quality), text, signature, watermark, blurry, cropped, 3d, rendering, modern elements, western art style, ugly, deformed hands, disproportionate.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Traditional Chinese Art",
+    "Ink Wash",
+    "Shanshui",
+    "Fisherman",
+    "Dawn",
+    "Pagoda",
+    "River Landscape",
+    "Watercolor",
+    "Sumi-e",
+    "16:9"
+  ]
+}

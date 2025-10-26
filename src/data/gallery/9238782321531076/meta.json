@@ -1,0 +1,23 @@
+{
+  "id": "9238782321531076",
+  "file": "gemini-9238782321531076.png",
+  "title": "Neo-Tokyo Steam: Reflections of the Neon Rain",
+  "prompt": "(masterpiece), (best quality), photorealistic 8K render of a narrow cyberpunk alleyway at a rainy night, 9:16 vertical aspect ratio. Deep perspective. The alley is densely packed with glowing neon signs displaying Japanese script (magenta, cyan, electric blue). Intense volumetric steam and fog rising from vents and ground, obscuring the middle distance. Highly detailed wet street reflecting the vibrant neon illumination and rain streaks. Cluttered walls, exposed air conditioning units, and tangled overhead wires. Two futuristic motorcycles parked near the foreground street vendors. Cinematic lighting, hyper-detailed textures.",
+  "negativePrompt": "low resolution, blurry, distorted, sketch, cartoon, anime, watermark, text, signature, worst quality, tiling, poorly drawn hands, out of frame, error, extra limbs",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyberpunk",
+    "Neon Lights",
+    "Rainy Night",
+    "Wet Streets",
+    "Photorealistic",
+    "Urban Landscape",
+    "Vertical Composition",
+    "Motorcycle",
+    "Volumetric Steam",
+    "Future City"
+  ]
+}

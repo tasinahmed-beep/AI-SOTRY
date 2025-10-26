@@ -1,0 +1,23 @@
+{
+  "id": "4534717430793911",
+  "file": "gemini-4534717430793911.png",
+  "title": "Winter Trotting Fox in a Snowy Glade",
+  "prompt": "(masterpiece), best quality, highly detailed 3D render, a magnificent red fox with highly detailed orange and white fur texture trotting through deep, fresh sparkling white snow, kicking up fine snow powder around its paws. The fox is centered, captured in mid-stride. Background features a cinematic view of a snowy forest clearing, evergreen trees heavily covered in powder, and a bright, clear blue winter sky with soft white clouds. Strong volumetric lighting, cinematic depth of field, sharp focus, bright highlights on the snow, 16:9 aspect ratio, 3D Anime style, Pixar/Disney inspired CGI, adorable character design.",
+  "negativePrompt": "low resolution, blurry, artifacts, low detail, ugly, deformed, text, watermark, signature, multiple foxes, cropped tail, two tails, poorly drawn paws, harsh shadows, monochrome, grayscale.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fox",
+    "Winter",
+    "Snowscape",
+    "3D Render",
+    "CGI",
+    "Cute Animal",
+    "Wildlife",
+    "Snowy Forest",
+    "Animated",
+    "16:9"
+  ]
+}

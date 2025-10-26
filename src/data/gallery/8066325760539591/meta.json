@@ -1,0 +1,23 @@
+{
+  "id": "8066325760539591",
+  "file": "gemini-8066325760539591.png",
+  "title": "The Old Man and the Golden Sunrise Cast",
+  "prompt": "(masterpiece), 8k, highly detailed, cinematic lighting, a jovial, cartoonish older fisherman with a white beard wearing a blue knit hat and sweater, standing on a wooden plank next to his small rowboat, vigorously casting a fishing line into a misty mountain lake at sunrise. The fishing lure sparkles brightly mid-air. Soft golden and pastel pink light reflecting off the water. Majestic mountains and dense pine forests in the background. Two ducks swimming in the calm water. Pixar Style CGI, 3D render, volumetric fog, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, monochrome, blurry, distorted, poorly drawn, disfigured, deformed, jpeg artifacts, ugly, noise, watermark, signature, missing limbs, extra fingers, cartoon, 2D",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fisherman",
+    "Pixar Style",
+    "Sunrise",
+    "Lake fishing",
+    "3D render",
+    "Bearded man",
+    "Casting line",
+    "CGI",
+    "Ducks",
+    "Mountain landscape"
+  ]
+}

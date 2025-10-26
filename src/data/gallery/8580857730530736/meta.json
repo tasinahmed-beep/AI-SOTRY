@@ -1,0 +1,23 @@
+{
+  "id": "8580857730530736",
+  "file": "gemini-8580857730530736.png",
+  "title": "Neon Velocity in the Downpour",
+  "prompt": "(masterpiece), best quality, extremely detailed illustration, (Modern Anime style:1.2), a stunning vertical composition (9:16), focused shot of an intense female cyclist racing towards the viewer, wearing a sleek black and blue aerodynamic suit, full speed through a rainy cyberpunk city street at night. The bicycle wheel is actively splashing water on the wet pavement. Dramatic low-angle perspective, strong volumetric lighting from vibrant neon signs reflecting intensely on the glossy wet street. Tall skyscrapers loom under a dark, stormy sky. Motion blur effect emphasizing speed. Cinematic lighting, high contrast.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, haze, deformed, extra fingers, bad anatomy, missing limbs, poor composition, cropped, watermark, signature, text, jpeg artifacts, lowres",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime",
+    "Cyberpunk",
+    "Night Scene",
+    "Rain",
+    "Cycling",
+    "Neon Lights",
+    "Cityscape",
+    "Racing",
+    "Urban",
+    "Motion"
+  ]
+}

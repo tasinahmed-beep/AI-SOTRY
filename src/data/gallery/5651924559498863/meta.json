@@ -1,0 +1,23 @@
+{
+  "id": "5651924559498863",
+  "file": "gemini-5651924559498863.png",
+  "title": "Golden Hour Rose Garden Care",
+  "prompt": "(masterpiece), 8k, highly detailed, photorealistic image of a female gardener wearing a straw hat, checkered shirt, and denim overalls, carefully watering lush red and peach-colored roses with a vintage copper watering can. The scene is set in an aged European stone courtyard paved with large flagstones. In the background, an ancient stone facade features arched windows covered in creeping flowering vines. Soft, cinematic golden hour lighting casts warm tones and volumetric haze across the scene, with a stone fountain visible in the distance. Shot in 16:9 aspect ratio, extreme detail, shallow depth of field, high dynamic range.",
+  "negativePrompt": "worst quality, low quality, jpeg artifacts, blurry, text, signature, watermark, extra limbs, deformed, monochrome, oversaturated, unrealistic shadows, cartoon, illustration.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Gardening",
+    "Roses",
+    "Golden Hour",
+    "Courtyard",
+    "Photorealistic",
+    "Cinematic Lighting",
+    "Copper Watering Can",
+    "Denim Overalls",
+    "Stone Architecture",
+    "Fountain"
+  ]
+}

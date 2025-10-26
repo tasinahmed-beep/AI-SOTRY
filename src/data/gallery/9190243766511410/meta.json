@@ -1,0 +1,23 @@
+{
+  "id": "9190243766511410",
+  "file": "gemini-9190243766511410.png",
+  "title": "Celestial Citadel of the Floating Peaks",
+  "prompt": "(masterpiece), best quality, highly detailed, 8k, Fantasy Xianxia style, a magnificent colossal Chinese citadel castle perched on a gigantic floating mountain peak, intricate tiered red pagoda roofs, sturdy gray stone walls, dynamic aerial view. The citadel overlooks a vast, ethereal sea of clouds filled with smaller floating rock formations and lush pine trees. Glowing cyan magical energy waterfalls stream down the cliffs, forming ethereal bridges connecting the citadel to remote watchtowers. Two majestic creatures soar nearby: a golden East Asian dragon and a large white winged spirit beast (phoenix). Sunrise light, volumetric lighting, epic landscape, concept art, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, error, bad anatomy, deformed, ugly, watermark, signature, text, monochrome, blurry, simple background, missing limbs, disconnected elements, jpeg artifacts, Western castle, European architecture.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Floating Islands",
+    "Citadel",
+    "Chinese Architecture",
+    "Dragon",
+    "Cloud Sea",
+    "Concept Art",
+    "Epic Fantasy",
+    "Pagoda",
+    "Mystical"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4797066392308150",
+  "file": "gemini-4797066392308150.png",
+  "title": "Skyline Chef: Golden Hour Prep",
+  "prompt": "(masterpiece), (best quality), highly detailed CG render, 3D Anime Style, Pixar rendering. A handsome young male chef wearing a pristine white uniform and toque, diligently slicing colorful fresh vegetables (zucchini, red cabbage, bell pepper, carrots) on a thick wooden cutting board with a stainless steel knife. He has brown hair, focused eyes, and a slight, determined smile, sweat glistening on his brow. The scene is set in a clean, professional, stainless steel kitchen. Large window dominates the background, showcasing a stunning city skyline at golden hour (sunset or sunrise), casting warm volumetric lighting. Dynamic pose, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, username, signature, NSFW, deformed face, tiling",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chef",
+    "3D Render",
+    "Anime Style",
+    "Cooking",
+    "Kitchen",
+    "Vegetables",
+    "Golden Hour",
+    "Cityscape",
+    "Food Prep",
+    "Professional"
+  ]
+}

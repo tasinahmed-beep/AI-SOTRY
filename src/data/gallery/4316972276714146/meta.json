@@ -1,0 +1,22 @@
+{
+  "id": "4316972276714146",
+  "file": "gemini-4316972276714146.png",
+  "title": "The Tower of Forgotten Texts",
+  "prompt": "(masterpiece), (best quality), detailed comic book illustration, full body portrait of a determined young female librarian with blonde hair tied up, wearing glasses, a patterned cardigan, and jeans, struggling to balance an impossibly tall stack of old books reaching above her head. Dynamic low angle shot emphasizes the height of the stack. Dramatic warm golden hour light streaming through large arched library windows in the background, casting sharp diagonal shadows across the wooden floor. Background features tall wooden bookshelves and blurred patrons reading. Graphic novel style, thick line art, vibrant colors, halftone shading, high detail, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, extra limbs, bad anatomy, deformed hands, blurry, signature, watermark, missing details, amateur drawing, grayscale, text errors, multiple characters (unless specified).",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "librarian",
+    "comic art",
+    "stack of books",
+    "library interior",
+    "sunlit",
+    "graphic novel",
+    "dynamic pose",
+    "golden hour",
+    "shelving"
+  ]
+}

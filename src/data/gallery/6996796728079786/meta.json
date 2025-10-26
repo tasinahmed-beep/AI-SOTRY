@@ -1,0 +1,23 @@
+{
+  "id": "6996796728079786",
+  "file": "gemini-6996796728079786.png",
+  "title": "Cultivator of Celestial Blooms: Dusk in the Wisteria Courtyard",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k, photorealistic render, a handsome young man (Xianxia cultivator:1.4) wearing elaborate emerald green robes embroidered with gold dragons, standing in a magnificent traditional Chinese courtyard (9:16 aspect ratio). He is carefully watering a stone dragon fountain using a glowing crystal watering can. The courtyard is filled with large pots of vibrant, colorful roses (red, white, yellow, pink) and draped in blooming purple wisteria vines. Nighttime setting with soft light from paper lanterns, a faint crescent moon and starry sky, misty mountains in the background. Magical butterflies and floating golden qi particles create a luminous atmosphere. Fantasy Xianxia art style.",
+  "negativePrompt": "poorly drawn, low resolution, ugly, blurry, deformed, worst quality, morbid, extra limbs, bad anatomy, missing fingers, western, watermark, text, signature, grainy, low contrast, inaccurate architecture, cartoon, sketch",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Traditional Chinese Architecture",
+    "Courtyard",
+    "Roses",
+    "Wisteria",
+    "Dusk",
+    "Cultivator",
+    "Hanfu",
+    "Fountain",
+    "Moonlight"
+  ]
+}

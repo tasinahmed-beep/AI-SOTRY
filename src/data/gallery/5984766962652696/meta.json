@@ -1,0 +1,22 @@
+{
+  "id": "5984766962652696",
+  "file": "gemini-5984766962652696.png",
+  "title": "Guardian of the Tempest",
+  "prompt": "(masterpiece), best quality, highly detailed, dramatic atmospheric lighting, a solitary, iconic white and red striped lighthouse standing firmly on dark, jagged sea cliffs, battling an intense thunderstorm. Torrential rain pours down. Multiple brilliant yellow lightning strikes illuminate the turbulent dark purple and blue storm clouds. Violent ocean waves crash forcefully against the rocks, creating massive white sea spray. Powerful, focused beam of light cutting through the rainy gloom. 3D Anime style, cinematic composition, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, jpeg artifacts, watermark, logo, signature, bad anatomy, missing limbs, deformed, blurry, monochrome, sketch, painting, drawing, text, simplified, fog, sunrise, sunny day, clear sky.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Lighthouse",
+    "Storm",
+    "Thunderstorm",
+    "Sea Cliffs",
+    "Ocean Waves",
+    "Rain",
+    "Lightning",
+    "Atmospheric",
+    "16:9"
+  ]
+}

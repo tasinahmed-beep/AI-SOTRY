@@ -1,0 +1,23 @@
+{
+  "id": "7779163877226179",
+  "file": "gemini-7779163877226179.png",
+  "title": "Serene Matcha Ceremony on Bamboo",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, photorealistic 9:16 portrait shot of a traditional Japanese Matcha tea ceremony setup (Chanoyu). Detailed close-up of a rustic black cast iron tetsubin (kettle) sitting on a charcoal stove with a subtle heat glow, accompanied by a bowl of vibrant green matcha, a bamboo whisk (chasen), speckled ceramic chawan cups, and a matcha powder jar. The entire arrangement is set on a highly polished, textured bamboo table. In the softly blurred background (shallow depth of field), a minimalist Japanese interior is visible, featuring a window with sheer white curtains, a delicate bonsai tree, and a hanging calligraphy scroll (kakemono). Soft, warm natural lighting illuminates the scene, emphasizing the wabi-sabi aesthetic and material textures.",
+  "negativePrompt": "worst quality, low quality, blurry, deformed, cartoon, sketch, painting, ugly, gross, oversaturated, monochrome, watermark, signature, cropped, multiple kettles, bad composition",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Matcha",
+    "Tea Ceremony",
+    "Chanoyu",
+    "Japanese Culture",
+    "Still Life",
+    "Photorealism",
+    "Tetsubin",
+    "Bonsai",
+    "Bamboo Table",
+    "Wabi-Sabi"
+  ]
+}

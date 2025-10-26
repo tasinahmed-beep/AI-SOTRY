@@ -1,0 +1,23 @@
+{
+  "id": "7767155259223030",
+  "file": "gemini-7767155259223030.png",
+  "title": "Immortal Journey Across the Crimson Sands",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 cinematic view of a majestic Fantasy Xianxia caravan crossing vast crimson desert dunes at sunset, dramatic cinematic lighting, epic scale. The centerpiece is an ornate, dark wooden carriage adorned with red tassels, pulled by a powerful feathered divine beast resembling a white stag with large antlers and emerald/cyan jewel harness. A procession of robed cultivators (immortals) follows and rides the carriage, holding glowing staves. In the background, towering red cliffs feature an ancient palace structure and massive glowing cyan crystal formations. Floating rock islands drift in the distance. A detailed nebula is visible in the fiery orange and purple twilight sky.",
+  "negativePrompt": "lowres, ugly, tiling, poorly drawn hands, poorly drawn face, poorly rendered, missing limbs, deformed, blurry, bad anatomy, disfigured, watermark, text, signature, low quality, worst quality, monochrome",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Desert",
+    "Caravan",
+    "Divine Beast",
+    "Cultivators",
+    "Epic Fantasy",
+    "Crimson Dunes",
+    "Sunset",
+    "Floating Islands",
+    "Ornate Carriage"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "6854926649593815",
+  "file": "gemini-6854926649593815.png",
+  "title": "Rainy Night in Neo-Tokyo Alley",
+  "prompt": "(masterpiece), best quality, highly detailed 3D Anime cinematic render, a vertical 9:16 composition of a lone character walking away down a dark, wet cyberpunk alleyway. The figure wears a dark, hooded trench coat with glowing blue cybernetic accents and carries a metallic briefcase. The alley is densely packed with tall, grimy buildings. Dominant neon signage in pink and cyan illuminates the foggy street and wet reflections. Heavy steam and volumetric light effects. Extreme detail on wires, air conditioners, and dilapidated urban structures, city smog.",
+  "negativePrompt": "deformed, blurry, bad anatomy, disfigured, low quality, worst quality, noise, poorly drawn hands, missing limbs, jpeg artifacts, extra fingers, watermark, signature, text error, cropped",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyberpunk",
+    "Neo-Tokyo",
+    "Alleyway",
+    "Neon Lights",
+    "3D Anime",
+    "Rainy Street",
+    "Fog/Steam",
+    "Lone figure",
+    "Urban"
+  ]
+}

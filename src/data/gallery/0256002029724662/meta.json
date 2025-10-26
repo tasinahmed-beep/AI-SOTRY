@@ -1,0 +1,23 @@
+{
+  "id": "0256002029724662",
+  "file": "gemini-0256002029724662.png",
+  "title": "Dance of the Twilight City",
+  "prompt": "(masterpiece), best quality, detailed illustration, an elegant young woman with long, flowing pink hair, wearing a sheer, wind-blown crimson ballet dress, dancing and spinning gracefully on a modern rooftop terrace. Dramatic sunset lighting, golden hour, vast detailed cityscape backdrop, featuring tall skyscrapers and an iconic central tower. Soft volumetric light, delicate string lights scattered on the wet rooftop floor, visible crescent moon in the sky. Dynamic pose, subtle wind effects, high resolution, expressive eyes, 3D Anime style, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, bad anatomy, deformed, disfigured, poor lighting, blurry, jpeg artifacts, extra limbs, signature, watermark, missing fingers, text, error, cropped, monochrome, dull colors.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime Illustration",
+    "Sunset",
+    "Cityscape",
+    "Rooftop",
+    "Ballerina",
+    "Pink Hair",
+    "Flowing Dress",
+    "Golden Hour",
+    "Dance",
+    "Vertical"
+  ]
+}

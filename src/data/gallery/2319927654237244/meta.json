@@ -1,0 +1,23 @@
+{
+  "id": "2319927654237244",
+  "file": "gemini-2319927654237244.png",
+  "title": "Dawn Mural and the Whales in the Sky",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D Pixar Style animation render, a vibrant and dynamic scene: A cheerful young female street artist, wearing paint-splattered denim overalls and a white shirt, stands on a cobblestone street at dawn. She is actively painting a colorful, whimsical mural (featuring suns, clouds, and bubbles) on a tall red brick wall. She holds a paint roller and a brush, smiling joyfully. A small, cute, slightly dirty companion robot stands next to her, observing. The background features old townhouses silhouetted against a pastel pink and orange sunrise sky. Surreal element: Two large, peaceful whales are floating/swimming high in the morning sky. Soft volumetric lighting, golden hour illumination, cinematic composition. Vertical orientation (9:16 aspect ratio).",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, poorly drawn, poorly rendered, ugly, distorted robot, broken limbs, disfigured",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "3D Animation",
+    "Street Art",
+    "Mural",
+    "Flying Whales",
+    "Robot Companion",
+    "Dawn",
+    "Surrealism",
+    "Cobblestone Street",
+    "Whimsical"
+  ]
+}

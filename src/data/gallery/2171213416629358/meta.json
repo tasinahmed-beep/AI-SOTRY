@@ -1,0 +1,22 @@
+{
+  "id": "2171213416629358",
+  "file": "gemini-2171213416629358.png",
+  "title": "Bamboo Buffet in the Misty Falls",
+  "prompt": "(masterpiece), (best quality), highly detailed, full comic book page panel, 9:16 vertical ratio, a contented giant panda bear sitting down and aggressively eating a bamboo stalk. Dramatic background featuring a misty mountain landscape, cascading twin waterfalls, and lush bamboo forest setting. Include classic comic book elements: bold black outlines, dynamic hatching and shading, an onomatopoeia ('CHOMP!'), speech bubbles with dialogue ('MUNCH MUNCH!', 'I'LL MUNCH!'), and a circular inset panel showing a close-up of the panda's smiling face. Comic Book Art, Sequential Art style, vibrant colors, clear inks.",
+  "negativePrompt": "low resolution, poorly drawn, extra limbs, deformed, blurry, missing text, watermark, signature, speech bubbles without content, cropped too tightly, bad anatomy, grayscale, ugly, disfigured, monochrome",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Comic Book Art",
+    "Sequential Art",
+    "Bamboo Forest",
+    "Waterfall",
+    "Misty",
+    "Onomatopoeia",
+    "Animal",
+    "Vertical Panel"
+  ]
+}

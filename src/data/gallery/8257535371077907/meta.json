@@ -1,0 +1,22 @@
+{
+  "id": "8257535371077907",
+  "file": "gemini-8257535371077907.png",
+  "title": "Serene Ripples and Falling Petals in a Japanese Garden",
+  "prompt": "(masterpiece), best quality, official art, highly detailed, 2D anime style, clean lines, soft lighting, tranquil Japanese garden scene (16:9 aspect ratio). A clear koi pond featuring several detailed white and red Kohaku koi fish. Prominent circular water ripples spread across the surface, reflecting the pastel dawn sky. Pink cherry blossom petals are gently falling and floating on the water. In the background, a curved red wooden taiko bridge, traditional Japanese architecture, lush foliage, and distant mountains.",
+  "negativePrompt": "low quality, bad anatomy, worst quality, deformed, lowres, extra limbs, jpeg artifacts, blurry, missing fingers, watermark, signature, text, out of frame",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Japanese Garden",
+    "Koi Fish",
+    "Cherry Blossoms",
+    "2D Anime Style",
+    "Water Ripples",
+    "Red Bridge",
+    "Tranquil Scene",
+    "Pastel Sky",
+    "Traditional"
+  ]
+}

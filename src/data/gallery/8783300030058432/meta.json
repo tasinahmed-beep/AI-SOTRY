@@ -1,0 +1,23 @@
+{
+  "id": "8783300030058432",
+  "file": "gemini-8783300030058432.png",
+  "title": "Springtime Delights: Pink-Haired Patissier",
+  "prompt": "(masterpiece), best quality, ultra-detailed, official media art, (Modern Anime style), 16:9 aspect ratio, a cheerful young female baker with vibrant pink hair styled in a messy bun, wearing a pristine white chef jacket and a subtle patterned apron, standing in a brightly lit professional bakery kitchen, she is smiling radiantly and looking directly at the viewer, mid-shot composition, action pose of her gently dusting a large pile of golden-brown, freshly baked croissants with a shower of powdered sugar using a fine mesh sifter, the scene is bathed in natural sunlight streaming through a huge window revealing a beautiful urban street view with colorful buildings and blooming pink cherry blossom trees (sakura) outside, stainless steel appliances and professional ovens visible in the background, soft focus, dynamic lighting, subtle bokeh and light flares.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, watermark, text, signature, lowres, bad anatomy, bad hands, deformed, mutated, extra fingers, missing limbs, dark, gloomy, monochrome, cropped.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Patissier",
+    "Baker",
+    "Croissant",
+    "Powdered Sugar",
+    "Pink Hair",
+    "Anime Girl",
+    "Bakery",
+    "Spring",
+    "Sakura",
+    "16:9"
+  ]
+}

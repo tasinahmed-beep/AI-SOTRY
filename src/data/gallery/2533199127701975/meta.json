@@ -1,0 +1,23 @@
+{
+  "id": "2533199127701975",
+  "file": "gemini-2533199127701975.png",
+  "title": "Immortal Culinary Arts: Jade Blade Preparation",
+  "prompt": "(masterpiece), (best quality), highly detailed digital painting, 16:9 aspect ratio, a beautiful female immortal cultivator (Xianxia chef), wearing elaborate deep emerald green Hanfu robes with ornate gold embroidery, standing at a weathered wooden table. She is holding an ethereal, glowing cyan spiritual sword acting as a cutting utensil, delicately slicing pristine white root vegetables on the wooden board. The background features a stunning Xianxia mountain retreat: grand tiered pagodas nestled into misty cliffs, flowing waterfalls, ancient stone bridges, and floating islands shrouded in fog. Magical energy, floating leaves, mythical creatures (winged deer and glowing spirits) in the atmosphere. Soft volumetric sunlight, epic fantasy composition, cinematic lighting.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, low resolution, bad anatomy, bad hands, deformed, missing limbs, jpeg artifacts, monochrome, watermark, text, signature, easynegative",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Immortal Cultivator",
+    "Fantasy Chef",
+    "Hanfu",
+    "Magical Cooking",
+    "Glowing Weapon",
+    "Floating Islands",
+    "Pagoda Architecture",
+    "Digital Art",
+    "Epic Fantasy"
+  ]
+}

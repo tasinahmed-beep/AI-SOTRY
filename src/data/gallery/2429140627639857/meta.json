@@ -1,0 +1,23 @@
+{
+  "id": "2429140627639857",
+  "file": "gemini-2429140627639857.png",
+  "title": "The Sakura Pagoda in the Sea of Clouds",
+  "prompt": "(masterpiece), best quality, detailed illustration, a majestic, multi-tiered traditional Chinese fortress (Wangcheng) resembling a fortified pagoda complex, built directly into a steep, rugged mountain peak. The peak rises sharply above a deep valley filled with a dense sea of white and grey fog. Towering blue-black jagged mountains frame the scene. A thin waterfall cascades down the cliff face. Gnarled trees with vibrant pink cherry blossoms (sakura) cling to the rocks. Pastel sky transition at dawn, visible crescent moon, Traditional Chinese ink wash painting aesthetic (Shuimo), highly detailed Donghua Chinese style, vertical orientation, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, error, distorted, blurry, jpeg artifacts, ugly, signature, watermark, monochrome, bad architecture, deformed, worst quality, modern buildings, western castle.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chinese Art",
+    "Ink Wash Painting",
+    "Fantasy Landscape",
+    "Pagoda Fortress",
+    "Sea of Clouds",
+    "Mystical Mountains",
+    "Cherry Blossoms",
+    "Vertical Composition",
+    "Waterfall",
+    "Ancient Architecture"
+  ]
+}

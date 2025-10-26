@@ -1,0 +1,22 @@
+{
+  "id": "6656064910580266",
+  "file": "gemini-6656064910580266.png",
+  "title": "Cosmic Drift: Just Another Day at the Office",
+  "prompt": "(masterpiece), best quality, detailed illustration, retro 1960s/1970s science fiction comic book art style, thick black outlines, bold solid colors, dot matrix shading, 16:9 aspect ratio. A wide shot depicting a male astronaut in a classic white and orange space suit floating dramatically out of a large circular open hatch or window of a detailed, modular, grey space station. He is tethered by a yellow cord. Three surprised male crew members in vintage 1970s shirts are visible inside the cockpit watching the sudden event. The background features deep space, a distant complex space station structure with solar panels, a vibrant blue and magenta nebula, and the curve of planet Earth in the corner. Include classic comic text title elements and sound effects like 'WHOOSH!' and speech bubbles.",
+  "negativePrompt": "low resolution, poorly drawn, blurry, watercolor, oil painting, photo, realistic texture, modern spacesuit, disfigured, wrong proportions, grayscale, nudity, complex shading",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Retro Sci-Fi",
+    "Vintage Comic",
+    "Space Station",
+    "Astronaut",
+    "Pulp Art",
+    "1960s",
+    "Outer Space",
+    "Action",
+    "Black Outlines"
+  ]
+}

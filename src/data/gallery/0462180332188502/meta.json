@@ -1,0 +1,23 @@
+{
+  "id": "0462180332188502",
+  "file": "gemini-0462180332188502.png",
+  "title": "Guardian of the Tempest",
+  "prompt": "(masterpiece), 8k, ultra photorealism, cinematic lighting, dramatic wide shot of a solitary white lighthouse with a red lantern cap standing atop towering, dark, rugged cliffs during a severe thunderstorm. Massive turquoise and white waves crash violently against the rocks, generating huge plumes of spray. The sky is dark and ominous, streaked with heavy rain. Two brilliant lightning bolts strike the distant sea, illuminating the scene. Windswept coastal grass in the foreground. Detailed small stone keeper's cottage below the main lighthouse structure. 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, haze, deformed, distorted, poor lighting, amateur, sketch, cartoon, illustration, painting, drawing, cropped, watermark, signature, text, out of frame",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Lighthouse",
+    "Storm",
+    "Lightning",
+    "Cliffs",
+    "Seascape",
+    "Crashing Waves",
+    "Atmospheric",
+    "Dramatic",
+    "Photorealism",
+    "Coastal Landscape"
+  ]
+}

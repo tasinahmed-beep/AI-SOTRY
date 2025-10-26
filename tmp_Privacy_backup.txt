@@ -1,0 +1,91 @@
+import Header from "@/components/Header";
+import Seo from "@/components/Seo";
+
+const Privacy = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <Seo title="Privacy Policy – PromptVerse" description="Understand how PromptVerse handles data, cookies, and third-party services to protect your privacy." />
+      <Header />
+      
+      <main className="container mx-auto px-4 py-12 max-w-4xl">
+        <div className="glass-panel space-y-8 bg-background/40 backdrop-blur-sm border border-white/10 rounded-2xl p-8 shadow-sm">
+          <div className="space-y-4">
+            <h1 className="text-4xl font-bold">Privacy Policy</h1>
+            <p className="text-muted-foreground">Last updated: October 26, 2025</p>
+          </div>
+
+          <div className="prose prose-lg max-w-none space-y-6">
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">1. Information We Collect</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse collects minimal information to provide you with the best experience. 
+                We may collect anonymous usage data such as page views and interaction patterns to 
+                improve our service.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">2. How We Use Your Information</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                Any information collected is used solely to improve and maintain our service. We do 
+                not sell, trade, or rent your personal information to third parties.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">3. Cookies</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse may use cookies to enhance user experience and analyze site traffic. 
+                You can choose to disable cookies through your browser settings, though this may 
+                affect some functionality.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">4. Third-Party Services</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                We may use third-party services for analytics and hosting. These services have their 
+                own privacy policies and we encourage you to review them.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">5. Data Security</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                We implement appropriate security measures to protect against unauthorized access 
+                to or unauthorized alteration, disclosure, or destruction of data.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">6. Children's Privacy</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse does not knowingly collect personal information from children under 13. 
+                If you are a parent or guardian and believe your child has provided us with personal 
+                information, please contact us.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">7. Changes to Privacy Policy</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                We may update this Privacy Policy from time to time. We will notify you of any 
+                changes by posting the new Privacy Policy on this page with an updated date.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">8. Contact Us</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                If you have any questions about this Privacy Policy, please contact us through our 
+                website.
+              </p>
+            </section>
+          </div>
+        </div>
+      </main>
+    </div>
+  );
+};
+
+export default Privacy;

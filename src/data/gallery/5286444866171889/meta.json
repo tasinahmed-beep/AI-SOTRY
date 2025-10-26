@@ -1,0 +1,23 @@
+{
+  "id": "5286444866171889",
+  "file": "gemini-5286444866171889.png",
+  "title": "Alpine Freefall at Dusk",
+  "prompt": "(masterpiece), best quality, detailed illustration, (2D anime style:1.2), a dynamic male snowboarder mid-air, launching off a steep, snowy mountain cliff edge, performing a trick. The snowboarder is centered, kicking up intense snow spray and powder. He wears a bright blue and orange jacket, black pants, helmet, and goggles. The foreground features the rocky cliff edge covered in snow. Dramatic perspective looking down onto a vast mountain valley below, dense dark pine forest, and a winding white river path. In the background, majestic snow-capped peaks silhouetted against a breathtaking sunset sky with gradient pink, purple, and orange clouds. Thick outlines, cel shading, sharp focus, highly detailed background, dramatic lighting, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad quality, worst quality, error, extra limbs, fused fingers, blurry, noise, distortion, signature, watermark, text, 3D render, photorealistic, realistic shading, low detail background, grayscale, monochrome",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Snowboarding",
+    "Extreme Sports",
+    "2D Anime",
+    "Mountain Landscape",
+    "Sunset",
+    "Cliff Jump",
+    "Dynamic Action",
+    "Winter",
+    "Illustration",
+    "Vertical Composition"
+  ]
+}

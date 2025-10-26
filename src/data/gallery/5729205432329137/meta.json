@@ -1,0 +1,23 @@
+{
+  "id": "5729205432329137",
+  "file": "gemini-5729205432329137.png",
+  "title": "Neon Symphony of the Rainy City",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, Modern Anime style illustration. A stunning full-body portrait of a young female violinist with long dark hair, wearing a loose, flowing light grey dress, standing centrally under a massive concrete highway bridge or overpass. She is playing the violin with her eyes closed, deep in emotion. The scene is set at night in a rainy, futuristic Japanese metropolis. Wet street reflecting the neon lights. Vivid glowing golden musical notes and staves swirl dynamically around the character. Dominant moody atmosphere with deep blue and indigo colors, illuminated by vibrant pink and cyan neon sign reflections from the surrounding skyscrapers. Busy urban background with subtle figures holding umbrellas and futuristic flying vehicles visible between buildings.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, low quality, distortion, blurry, deformed hands, missing fingers, error, watermark, text, signature, low saturation, monochrome, jpeg artifacts, extra limbs, ugly, cropped, poorly drawn face",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Violinist",
+    "Anime",
+    "Rainy Night",
+    "Cyberpunk",
+    "Cityscape",
+    "Neon Lights",
+    "Musical Notes",
+    "Urban",
+    "Emotional",
+    "Overpass"
+  ]
+}

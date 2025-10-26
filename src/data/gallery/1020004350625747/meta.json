@@ -1,0 +1,23 @@
+{
+  "id": "1020004350625747",
+  "file": "gemini-1020004350625747.png",
+  "title": "Zen Serenity: Monk Meditating at the Rainbow Falls",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, photorealistic 16:9 cinematic shot of a bald Buddhist monk wearing vibrant orange robes, meditating in the full lotus position (Padmasana) with hands in Dhyana Mudra. The monk sits calmly on a moss-covered rock outcrop directly beneath a massive, cascading waterfall complex. The scene is set in a majestic, lush valley surrounded by towering, jagged, moss-covered mountain cliffs. A brilliant, vivid rainbow is visible in the dense waterfall mist. Ethereal volumetric lighting, deep focus, hyperdetailed water spray, ancient mossy trees framing the composition, serene atmosphere.",
+  "negativePrompt": "(deformed), (poorly drawn), extra limbs, mutated hands, missing elements, blurry, noisy, low resolution, worst quality, sketch, signature, watermark, dull colors, poor composition, distorted faces, amateur, ugly, tiling",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Mountains",
+    "Photorealistic",
+    "Rainbow",
+    "Buddhism",
+    "Serenity",
+    "Lush",
+    "Hyperdetail"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0566597025532067",
+  "file": "gemini-0566597025532067.png",
+  "title": "Celestial Surfer Riding the Emerald Dragon Wave",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning watercolor illustration, Donghua Chinese animation style, Wuxia fantasy art, A heroic figure dressed in flowing traditional turquoise robes (Hanfu) surfing gracefully on the crest of a massive, stylized emerald green wave. The wave is dynamic with frothing white foam. In the background, a brilliant, oversized red sun sets dramatically above a horizon line dotted with traditional Chinese architecture (pavilions and pagodas) and misty mountains. Several elegant red-crowned cranes soar through the vibrant, fiery sky filled with purple, orange, and crimson clouds. Dynamic lighting, ethereal atmosphere, traditional Chinese ink wash elements. 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, poor composition, blurry, mutated, deformed, extra limbs, signature, watermark, text, monochrome, sketch, amateur drawing",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Watercolor Illustration",
+    "Chinese Fantasy",
+    "Surfing",
+    "Sunset",
+    "Wuxia",
+    "Red-Crowned Cranes",
+    "Traditional Architecture",
+    "Emerald Wave",
+    "Vertical Format",
+    "Dynamic Action"
+  ]
+}

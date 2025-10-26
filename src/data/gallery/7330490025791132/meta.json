@@ -1,0 +1,23 @@
+{
+  "id": "7330490025791132",
+  "file": "gemini-7330490025791132.png",
+  "title": "Sakura Petals and Koi Pond Serenity",
+  "prompt": "(masterpiece), (best quality), detailed aesthetic illustration, Modern Anime style, 16:9 aspect ratio, a tranquil Japanese garden scene, a clear koi pond filled with numerous vibrant koi fish (Kohaku and Sanke patterns), the water surface is heavily covered in soft pink cherry blossom petals (sakura), large concentric ripples spread clearly from the center of the pond, a modern, minimalist glass house/pavilion reflecting in the water on the left, tall bamboo trees framing the scene, a small curved wooden bridge in the midground, moss-covered rocks line the edges, soft natural light, clear blue sky, gentle mountains in the distance.",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, deformed, disfigured",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "koi pond",
+    "sakura",
+    "cherry blossoms",
+    "Japanese garden",
+    "ripples",
+    "modern architecture",
+    "bamboo",
+    "tranquil",
+    "anime aesthetic",
+    "16:9"
+  ]
+}

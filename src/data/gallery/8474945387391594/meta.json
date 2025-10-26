@@ -1,0 +1,23 @@
+{
+  "id": "8474945387391594",
+  "file": "gemini-8474945387391594.png",
+  "title": "Crimson Ribbon Dancer at Dusk",
+  "prompt": "(masterpiece), (best quality), highly detailed, absurdres, cinematic lighting, A beautiful young female dancer in a dynamic pose, performing an elegant spin on the ridge of a traditional Chinese tiled rooftop. She wears a flowing crimson red Hanfu dress with teal ribbons, sleeves and skirts billowing dramatically. The setting is an expansive, ancient Chinese city landscape visible below, filled with traditional pagodas and tiled roofs, mountains silhouetted in the distance. Dramatic golden hour sunset with vibrant orange and purple clouds, soft atmospheric haze over the city, strong warm backlighting, scattered flying flower petals. Donghua Chinese art style, epic scene, digital painting, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, missing fingers, extra limbs, ugly, cropped, blurry, text, watermark, signature, poor structure, monochrome, grayscale, low saturation, jpeg artifacts, amateur",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua",
+    "Chinese Fantasy",
+    "Dancer",
+    "Hanfu",
+    "Sunset",
+    "Rooftop",
+    "Traditional Architecture",
+    "Golden Hour",
+    "Epic",
+    "Vertical Composition"
+  ]
+}

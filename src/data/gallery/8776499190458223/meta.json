@@ -1,0 +1,23 @@
+{
+  "id": "8776499190458223",
+  "file": "gemini-8776499190458223.png",
+  "title": "The Smiling Barista's Perfect Pour",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, 3D Anime style, 16:9 aspect ratio. A handsome young male barista with short brown hair, a soft smile, wearing a clean white shirt and a black apron, meticulously pouring milk from a stainless steel pitcher to create intricate latte art (wing pattern) in a large white ceramic cup. Warm volumetric lighting, detailed modern cafe interior, focused foreground, soft bokeh background showing a bustling city skyline through large window panes. Professional espresso machine and coffee grinder visible on the polished wooden counter.",
+  "negativePrompt": "disfigured, bad anatomy, missing limbs, bad hands, deformed, blurred, jpeg artifacts, low quality, grayscale, monochrome, sketch, noisy, ugly, inaccurate fingers, watermark, text",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Barista",
+    "3D Anime",
+    "Latte Art",
+    "Coffee Shop",
+    "Cafe",
+    "Pouring",
+    "Espresso Machine",
+    "Character Portrait",
+    "Detailed",
+    "Smiling"
+  ]
+}

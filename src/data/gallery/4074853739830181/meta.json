@@ -1,0 +1,23 @@
+{
+  "id": "4074853739830181",
+  "file": "gemini-4074853739830181.png",
+  "title": "The Celestial Reef Sanctuary of the Azure Dragon",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio. A breathtaking, ethereal underwater scene in the style of Fantasy Xianxia. A forgotten submerged celestial sanctuary, featuring ancient, gnarled tree roots and branches framing the view, covered in vibrant bioluminescent coral and seaweed. In the background, ruined Chinese pagodas and temples rise from the seabed. A massive, majestic white serpentine Azure Dragon swims gracefully through the water. Teeming schools of iridescent tropical fish, large goldfish, and translucent glowing jellyfish inhabit the reef, alongside ancient sea turtles. Dramatic god rays and volumetric lighting pierce the deep blue water, creating an atmosphere of ancient magic.",
+  "negativePrompt": "lowres, worst quality, ugly, blurry, deformed, mutated, cropped, jpeg artifacts, extra limbs, watermark, text, signature, disconnected limbs, poor composition, cartoon, 3d render",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fantasy",
+    "Xianxia",
+    "Underwater",
+    "Dragon",
+    "Coral Reef",
+    "Pagoda",
+    "Ethereal",
+    "Volumetric Lighting",
+    "Koi Fish",
+    "Submerged Temple"
+  ]
+}

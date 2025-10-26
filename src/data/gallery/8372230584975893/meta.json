@@ -1,0 +1,23 @@
+{
+  "id": "8372230584975893",
+  "file": "gemini-8372230584975893.png",
+  "title": "Symphony of the Celestial Arena",
+  "prompt": "(masterpiece), best quality, high resolution, an elegant young female cultivator playing an ethereal glowing violin, standing center stage in an immense, empty ancient celestial arena, highly detailed (Fantasy Xianxia digital illustration), flowing deep blue and white Hanfu robes, towering stone pillars carved with dragons, hanging lanterns, deep blue night sky, swirling vortex moon, floating celestial islands in the background, falling glowing petals, volumetric lighting, atmospheric mist, cinematic composition, wide shot, 16:9 aspect ratio, dramatic lighting, epic scale.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, signature, username, abstract, ugly, deformed, noise, amateur, cartoon",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Violinist",
+    "Ancient Architecture",
+    "Fantasy",
+    "Digital Painting",
+    "Night Scene",
+    "Hanfu",
+    "Floating Islands",
+    "Epic"
+  ]
+}

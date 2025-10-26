@@ -1,0 +1,19 @@
+{
+  "id": "12",
+  "title": "Floating City Moonlight",
+  "prompt": "16:9 aspect ratio, (masterpiece), (best quality), donghua style, mystical night scene with full moon, glowing magical city floating in clouds, stars and constellation magic, ethereal blue and purple lights, fantasy xianxia realm, cinematic panoramic view",
+  "negativePrompt": "lowres, blurry, bad anatomy, text, watermark, signature, deformed",
+  "style": "Fantasy",
+  "aspectRatio": "16:9",
+  "size": "1024 X 576",
+  "orientation": "landscape",
+  "tags": [
+    "city",
+    "moon",
+    "landscape",
+    "night",
+    "purple",
+    "donghua",
+    "cinematic"
+  ]
+}

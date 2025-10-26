@@ -1,0 +1,23 @@
+{
+  "id": "5243494641466052",
+  "file": "gemini-5243494641466052.png",
+  "title": "Culinary Horizon: Chef's Precision Slice",
+  "prompt": "(masterpiece), (best quality), highly detailed, Modern Anime style illustration, 9:16 aspect ratio, a focused young male chef, spiky blue hair, wearing a pristine white chef coat and a black apron, standing in a sleek, professional, high-tech kitchen, he is meticulously slicing fresh vegetables (cucumber, carrots, red cabbage, green bell pepper) on a large wooden cutting board, dramatic composition, large panoramic window view overlooking a vibrant, futuristic city skyline at sunset, warm orange and pink twilight atmosphere contrasted with cool blue neon light accents in the kitchen, subtle steam effects, cinematic lighting, food preparation, professional kitchen setting.",
+  "negativePrompt": "lowres, worst quality, missing fingers, deformed hands, blurry, watermark, text, signature, bad anatomy, poor composition, gross, monochrome, flat colors, extra limbs, poorly drawn objects.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Modern Anime",
+    "chef",
+    "cooking",
+    "cityscape",
+    "sunset",
+    "slicing",
+    "vegetables",
+    "high-tech kitchen",
+    "detailed character",
+    "9:16"
+  ]
+}

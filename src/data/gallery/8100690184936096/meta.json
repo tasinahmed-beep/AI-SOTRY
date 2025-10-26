@@ -1,0 +1,23 @@
+{
+  "id": "8100690184936096",
+  "file": "gemini-8100690184936096.png",
+  "title": "Sakura Splash Comic Action",
+  "prompt": "(masterpiece), (best quality), highly detailed comic book panel illustration, dynamic wide shot (16:9 aspect ratio) of two large, active Kohaku koi fish splashing dramatically in a clear blue pond. The pond surface is covered in ripples and numerous pink cherry blossom (sakura) petals. Thick black ink lines, high contrast, bold vibrant colors, strong shading, visible halftone dot texture. In the background, a traditional Japanese garden with a stone lantern (Tōrō), mossy rocks, and flowering cherry trees. Include speed lines and a stylized comic book sound effect bubble reading 'SPLISH! PLOP!'",
+  "negativePrompt": "(worst quality, low quality), blurry, compressed image, jpeg artifacts, monochrome, grayscale, text, watermark, signature, missing outlines, faint lines, deformed fish, mutated fins, bad perspective, boring scene, sketch, low resolution",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book",
+    "Koi Fish",
+    "Japanese Garden",
+    "Sakura",
+    "Halftone",
+    "Action",
+    "Ripples",
+    "Splash",
+    "Panel",
+    "Cherry Blossoms"
+  ]
+}

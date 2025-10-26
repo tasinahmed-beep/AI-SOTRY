@@ -1,0 +1,23 @@
+{
+  "id": "4490650650997965",
+  "file": "gemini-4490650650997965.png",
+  "title": "Rain Melody in the Neo-City",
+  "prompt": "(masterpiece), (best quality), (ultra detailed), 3D Anime style, A stunning full-body shot of a beautiful young female violinist with long, flowing pink hair (fuchsia) standing on a wet, neon-lit cyberpunk city street. She is passionately playing a detailed wooden violin, eyes closed in concentration. She wears a detailed white and blue fantasy uniform dress and knee-high boots. Above her, a massive, imposing concrete elevated railway bridge spans the road. It is raining gently, with raindrops visible and strong reflections on the wet pavement. In the deep background, towering skyscrapers are illuminated by vibrant pink and cyan neon signs. The sky is a dramatic purple and orange twilight, with subtle flying vehicles passing by. A crowd of blurred pedestrians holding transparent umbrellas walks away into the distance. Cinematic lighting, dramatic atmosphere. Vertical composition (9:16).",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, poor anatomy, deformed face, monochrome, grayscale, multiple heads, deformed violin",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime Girl",
+    "Violinist",
+    "Cyberpunk",
+    "Rainy Day",
+    "Elevated Train",
+    "Street Performance",
+    "Pink Hair",
+    "Cityscape",
+    "Twilight",
+    "Vertical"
+  ]
+}

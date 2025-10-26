@@ -1,0 +1,23 @@
+{
+  "id": "5024512130968638",
+  "file": "gemini-5024512130968638.png",
+  "title": "Unraveling Cellular Secrets",
+  "prompt": "(masterpiece), (best quality), detailed comic book panel illustration, a determined female scientist with curly brown hair and glasses, wearing a white lab coat and blue shirt, intensely focused on a complex microscope in a high-tech laboratory. The lab desk is cluttered with chemistry equipment, including brightly colored orange liquid in conical flasks and test tubes. The scene uses a dramatic teal and cyan lighting scheme with strong black outlines and visible halftone dot texture. Thought bubbles containing stylized illustrations of complex cells, microorganisms, and a DNA helix are floating above her head. Dynamic composition, full vertical view, 9:16 aspect ratio, classic comic book style.",
+  "negativePrompt": "worst quality, low quality, worst anatomy, blurry, logo, signature, watermark, extra limbs, cartoon, sketch, monochrome, missing hands, badly drawn face, abstract",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "scientist",
+    "microscope",
+    "laboratory",
+    "comic panel",
+    "research",
+    "biology",
+    "chemistry",
+    "halftone",
+    "graphic novel",
+    "9:16"
+  ]
+}

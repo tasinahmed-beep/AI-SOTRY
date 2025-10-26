@@ -1,0 +1,23 @@
+{
+  "id": "4459788314093214",
+  "file": "gemini-4459788314093214.png",
+  "title": "Midnight Velocity",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k resolution, cinematic atmosphere, 16:9 aspect ratio, A determined male cyclist in a black racing suit and helmet, aggressively sprinting on a road bike through a heavy rainstorm on a wet city street at night. Dynamic low-angle perspective, showing intense water spray and splash around the wheels hitting a puddle. Deep reflections of colorful urban neon signs and distant car headlights on the slick asphalt. Volumetric light streaking through the falling raindrops, creating high contrast. Background features blurred classic cars and tall buildings with strong bokeh lights. Pixar Style, highly detailed 3D rendering, octane render, dynamic pose, motion blur.",
+  "negativePrompt": "bad anatomy, deformed, worst quality, low quality, distortion, blurry face, lowres, text, signature, watermark, cropped, poorly drawn hands, missing limbs, cartoon eyes, mismatched perspective",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cycling",
+    "Night Scene",
+    "Rainy City",
+    "Pixar Style",
+    "3D Render",
+    "Cinematic Lighting",
+    "Urban Racing",
+    "Water Splash",
+    "Bokeh",
+    "Dynamic Motion"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1927202475740497",
+  "file": "gemini-1927202475740497.png",
+  "title": "Rustic Rose Courtyard Serenity",
+  "prompt": "(Masterpiece), (photorealistic), ultra-detailed 9:16 vertical portrait of a mature female gardener wearing denim overalls, a plaid shirt, and a wide straw hat, diligently watering vibrant red and pink climbing roses with a galvanized metal watering can. The setting is a rustic, moss-covered Mediterranean stone courtyard with a flagstone path and ancient stone walls. Soft, atmospheric sunlight filters down from above, highlighting the texture of the stone and the dew on the leaves. Foreground features terracotta pots holding blooming hydrangeas and lavender. A deep, arched stone entryway is visible in the background. Exceptional detail, natural light, volumetric light, cinematic quality.",
+  "negativePrompt": "low quality, cartoon, illustration, drawing, painting, blurry, distorted, signature, watermark, amateur, ugly, deformed limbs, extra fingers, poor lighting, out of frame",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Gardener",
+    "Roses",
+    "Courtyard",
+    "Photorealistic",
+    "Rustic",
+    "Tuscan Style",
+    "Vertical",
+    "Stone Wall",
+    "Overalls",
+    "Climbing Plants"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7925788012812266",
+  "file": "gemini-7925788012812266.png",
+  "title": "Sunrise Serenity: Fisherman's Catch",
+  "prompt": "(masterpiece), (best quality), ultra-detailed illustration, 9:16 aspect ratio, Donghua Chinese art style, cinematic volumetric lighting, a solitary Chinese fisherman in flowing traditional teal robes (Hanfu style) standing centered on a small wooden sampan boat. He is dynamically reeling in a fishing line against the backdrop of a soft, golden dawn. A large, vibrant fish leaps dramatically out of the highly reflective water surface, creating a spectacular splash. The scene is framed by towering, stylized karst mountains and lush, colorful autumnal trees (orange and red foliage). Misty atmosphere, subtle ink wash aesthetics, perfect water reflections, high fantasy landscape.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, watermark, text, signature, low contrast, oversaturation, pixelated, missing elements, modern clothing",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chinese Landscape",
+    "Fishing",
+    "Dawn",
+    "Traditional Art",
+    "Karst Mountains",
+    "Donghua",
+    "Wuxia Aesthetic",
+    "Reflections",
+    "Autumn Foliage",
+    "Serene"
+  ]
+}

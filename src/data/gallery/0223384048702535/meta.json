@@ -1,0 +1,23 @@
+{
+  "id": "0223384048702535",
+  "file": "gemini-0223384048702535.png",
+  "title": "Sky Fortress of the Flying Fleet",
+  "prompt": "(masterpiece), best quality, detailed illustration, a majestic medieval castle built upon a towering, craggy mountain peak, overlooking an expansive sea of dense white fog and clouds below. The castle features grey stone walls and numerous towers with vibrant red roofs. A long, massive stone aqueduct bridge connects to the castle. In the distant sky, a detailed wooden flying ship (galleon) sails above the clouds. Soft, warm sunset lighting, highly detailed clouds, slight lens flare effects, ultra-wide view, beautiful composition. 3D Anime style, cel-shaded, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, extra limbs, watermark, text, signature, blurry, deformed, disfigured, poorly drawn, bad anatomy, missing fingers, out of frame, monochrome, grayscale, noise, jpeg artifacts",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Castle",
+    "Airborne Fortress",
+    "Flying Ship",
+    "Anime Landscape",
+    "Sea of Clouds",
+    "Cel-shaded",
+    "Fantasy Architecture",
+    "Medieval",
+    "Mountain View",
+    "Epic"
+  ]
+}

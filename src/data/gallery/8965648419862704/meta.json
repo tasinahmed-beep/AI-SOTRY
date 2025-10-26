@@ -1,0 +1,22 @@
+{
+  "id": "8965648419862704",
+  "file": "gemini-8965648419862704.png",
+  "title": "The Celestial Dragon Bonsai of the Floating Peaks",
+  "prompt": "(masterpiece), best quality, high detail, Fantasy Xianxia illustration, 16:9 aspect ratio. A magnificent, ancient Spirit Bonsai tree with glowing azure blue leaves and two intertwined ethereal white celestial dragons forming the canopy. A tiny ancient temple sits within the roots on a floating rock, connected by a delicate bridge. The bonsai rests prominently on an intricately carved wooden shelf, perfectly framed by an ornate circular Chinese moon gate window. Dramatic wide shot of a breathtaking misty Xianxia landscape background featuring towering floating karst peaks, multiple powerful waterfalls cascading into the fog, scattered traditional pagodas on the cliffs, and glowing magical vapor during a vibrant sunset/sunrise. Soft atmospheric lighting, magic particles, ultra-detailed digital painting.",
+  "negativePrompt": "low quality, blurry, worst quality, jpeg artifacts, bad anatomy, deformed, signature, watermark, extra fingers, missing limbs, monochrome, simple background, ugly, modern structures, cartoon",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Bonsai",
+    "Celestial Dragon",
+    "Floating Islands",
+    "Moon Gate",
+    "Magical Tree",
+    "Fantasy Landscape",
+    "Chinese Architecture",
+    "Karst Mountains"
+  ]
+}

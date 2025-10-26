@@ -1,0 +1,23 @@
+{
+  "id": "2495718382165204",
+  "file": "gemini-2495718382165204.png",
+  "title": "Crimson Flight at Golden Hour",
+  "prompt": "(masterpiece), best quality, highly detailed, photorealistic, professional photograph, cinematic lighting, A young athletic female ballet dancer performing a dramatic leap or grand jeté variation, mid-air, arms outstretched, head tilted back in emotion. She wears a flowing deep crimson dress, fabric billowing dynamically around her legs. Intense golden hour backlighting, strong rim lighting defining her silhouette against a stunning sunset sky (dramatic pink, purple, and orange clouds). Gritty urban rooftop setting, city skyline silhouette visible in the distant background. Low angle shot, full body, dramatic perspective, 8k. Aspect Ratio 9:16.",
+  "negativePrompt": "low quality, bad anatomy, worst quality, extra limbs, poorly drawn face, blurry, inaccurate, artifacts, noise, signature, watermark, cropped, deformed, missing fingers, jpeg artifacts, monochrome, multiple people, tiling",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Dance",
+    "Ballet",
+    "Sunset",
+    "Golden Hour",
+    "Photorealistic",
+    "Rooftop",
+    "Cityscape",
+    "Dramatic Lighting",
+    "Motion Capture",
+    "Red Dress"
+  ]
+}

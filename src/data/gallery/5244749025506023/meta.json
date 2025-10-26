@@ -1,0 +1,23 @@
+{
+  "id": "5244749025506023",
+  "file": "gemini-5244749025506023.png",
+  "title": "Unraveling Cellular Secrets",
+  "prompt": "(masterpiece), best quality, highly detailed, dynamic long shot (16:9), A determined female scientist wearing glasses and a white lab coat, deeply focused while peering into a complex microscope in a cluttered science laboratory. The lab is illuminated by eerie cyan and teal ambient lighting, contrasting with glowing orange and yellow liquids in beakers and flasks. Wide view of the busy workbench, test tube racks, and electronic equipment. Cinematic composition, strong shadows, and deep saturation. Include classic comic book elements: thick black ink outlines, halftone dot texture (Ben-Day dots), and visible comic speech bubbles/sound effects like 'CELLULAR SECRETS!' and 'HUMMM'. Comic Book Art Style, 1960s pop art influence, high contrast.",
+  "negativePrompt": "low quality, bad anatomy, deformed, blurry, missing limbs, text artifacts, cartoon, 3d render, watermark, signature, jpeg artifacts, oversaturated colors, multiple people",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Scientist",
+    "Laboratory",
+    "Microscope",
+    "Comic Book Art",
+    "Scientific Discovery",
+    "Pop Art",
+    "Detailed Background",
+    "Halftone Dots",
+    "Teal Lighting",
+    "Research"
+  ]
+}

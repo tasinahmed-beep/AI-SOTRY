@@ -1,0 +1,22 @@
+{
+  "id": "7235397128678111",
+  "title": "Last Wave of the Golden Hour",
+  "prompt": "(masterpiece), (best quality), highly detailed vector illustration of a lone surfer carving inside a gigantic, vivid emerald green ocean wave, capturing a perfect tube ride. Breathtaking golden hour sunset; the large, setting sun reflects brilliantly on the choppy water. Vibrant pink and purple sky, tropical island silhouettes with palm trees in the distance. Dynamic composition, clean lines, smooth gradients, 2D anime background art style, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, text, signatures, cropped, worst quality, artifacts, blur, multiple limbs, deformed, grainy, bad anatomy, jpeg artifacts, watermarks, ugly",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Ocean Wave",
+    "Sunset",
+    "Golden Hour",
+    "Tropical",
+    "Emerald Wave",
+    "Tube Ride",
+    "Illustration",
+    "Vibrant Colors",
+    "16:9"
+  ]
+}

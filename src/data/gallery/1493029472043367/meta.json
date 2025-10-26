@@ -1,0 +1,23 @@
+{
+  "id": "1493029472043367",
+  "file": "gemini-1493029472043367.png",
+  "title": "Crimson Dune Pilgrimage",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic volumetric lighting, 8k wallpaper, A long desert caravan of multiple cloaked riders on camels, trekking across immense, vibrant red sand dunes during a dramatic sunset. The scene is bathed in intense orange and pink light, casting striking long shadows. The riders are holding spears with glowing cyan energy tips, and the camels wear stylized saddles with glowing accents. In the distance, a majestic, stylized desert citadel with spiral architecture serves as the destination. Stylized 3D rendering, 3D Anime style, adventure theme, 16:9 aspect ratio.",
+  "negativePrompt": "(deformed, distorted, ugly, extra limbs, bad anatomy, blur, low quality, grayscale, monochrome, worst quality, sketch, amateur, noise, artifacts, poorly drawn face)",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Desert",
+    "Caravan",
+    "Camels",
+    "Red Dunes",
+    "Sunset",
+    "3D Anime",
+    "Fantasy",
+    "Citadel",
+    "Stylized",
+    "Adventure"
+  ]
+}

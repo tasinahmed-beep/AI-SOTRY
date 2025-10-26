@@ -1,0 +1,22 @@
+{
+  "id": "0918123677885887",
+  "file": "gemini-0918123677885887.png",
+  "title": "Inferno Vanguard",
+  "prompt": "(masterpiece), best quality, high resolution, ultra-detailed illustration, Modern Anime style, 16:9 aspect ratio. A heroic male firefighter in a dynamic pose, wearing advanced dark blue and yellow reflective turnout gear and helmet, walking determinedly through intense orange flames and billowing grey smoke. He is holding a large, powerful hose nozzle, actively spraying a bright blue, high-pressure jet of water. Intense dramatic lighting, burning ruined cityscape background, flying embers, strong black outlines, dramatic cel shading.",
+  "negativePrompt": "worst quality, low resolution, inaccurate proportions, ugly, deformed, blurry, grainy, bad anatomy, missing limbs, text, watermark, signature, poorly drawn face, disfigured, monochrome.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Firefighter",
+    "Modern Anime",
+    "Action Scene",
+    "Urban Fire",
+    "Heroic",
+    "Smoke and Flames",
+    "High Pressure Water",
+    "Cityscape Ruins",
+    "Rescue Operation"
+  ]
+}

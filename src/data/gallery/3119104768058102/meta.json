@@ -1,0 +1,22 @@
+{
+  "id": "3119104768058102",
+  "title": "Celestial Scroll on a Mortal Wall",
+  "prompt": "(masterpiece), best quality, highly detailed illustration, 16:9 aspect ratio, A full-body shot of a mysterious Xianxia street artist, dressed in ancient dark robes and a wide straw hat, holding a massive, long-handled calligraphy brush. The artist stands facing a colossal weathered brick wall at warm, misty dawn. The artist is actively painting an epic, highly detailed mural in the Xianxia style. The mural depicts a vibrant mystical landscape featuring towering karst mountains, multiple waterfalls, swirling ethereal pink and white clouds (qi), classical Chinese temples, and a beautiful, flying celestial maiden (Apsara) with flowing ribbons and silk. Soft golden sunrise light illuminates the scene, casting dramatic shadows. Two small, glowing spirit creatures (a yellow fox spirit and a purple creature) observe the artist near the ground. Ancient Chinese courtyard and pagoda architecture visible in the background, Fantasy Xianxia style, epic composition, digital painting.",
+  "negativePrompt": "lowres, worst quality, poor quality, bad anatomy, deformed, blurry, artifacts, watermark, signature, text, cropped, ugly, morbid, multiple limbs, strange perspective, jpeg artifacts, modern clothing, graffiti tag",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Mural",
+    "Digital Painting",
+    "Celestial Being",
+    "Street Artist",
+    "Dawn",
+    "Chinese Architecture",
+    "Calligraphy",
+    "Fantasy Landscape",
+    "Spirit Creatures"
+  ]
+}

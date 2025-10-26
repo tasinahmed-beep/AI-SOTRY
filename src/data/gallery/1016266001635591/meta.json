@@ -1,0 +1,23 @@
+{
+  "id": "1016266001635591",
+  "file": "gemini-1016266001635591.png",
+  "title": "Culinary Prep Action",
+  "prompt": "(masterpiece), (best quality), highly detailed, ultra realistic, cinematic lighting, (photorealistic:1.3), 16:9 aspect ratio, close-up shot of a professional chef wearing a black apron and white shirt, expertly slicing a fresh zucchini with a sharp metal knife on a thick wooden cutting board in a high-end commercial kitchen. Focus on the hands, the knife, and the meticulously arranged fresh vegetables (red bell pepper, carrot, onion, garlic). Steam rising from stainless steel pots in the blurred background. Moody, warm professional kitchen lighting, high contrast, shallow depth of field, studio quality. ",
+  "negativePrompt": "ugly, deformed, noisy, blurry, low resolution, worst quality, mutated hands, multiple limbs, watermark, text, signature, cartoon, illustration, drawing, poor anatomy, bad composition, amateur kitchen",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "chef",
+    "cooking",
+    "food preparation",
+    "slicing",
+    "vegetables",
+    "commercial kitchen",
+    "photorealistic",
+    "cutting board",
+    "still life",
+    "close-up"
+  ]
+}

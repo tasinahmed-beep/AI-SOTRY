@@ -1,0 +1,23 @@
+{
+  "id": "3093536920861552",
+  "file": "gemini-3093536920861552.png",
+  "title": "The Celestial Gardener Bot",
+  "prompt": "(masterpiece), best quality, highly detailed, intricate illustration in Fantasy Xianxia style, a graceful humanoid robot clad in elaborate teal and gold traditional Chinese robes, standing inside a luxurious, sunlit botanical studio. The robot is carefully watering exotic fantasy houseplants using a crystal pitcher emitting glowing blue, ethereal water. The studio features curved wooden window frames, ancient pagoda architecture details, and high-tech holographic displays showing plant data. Through the large arched window, floating celestial islands with waterfalls and lush greenery are visible in the 16:9 background. Detailed textures, volumetric golden lighting, rich color palette, cinematic focus.",
+  "negativePrompt": "lowres, worst quality, poor detail, low detail, deformed, noisy, blurry, watermark, signature, text, extra limbs, bad anatomy, grayscale, monochrome, dull colors, mutation",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Sci-fi fantasy",
+    "Android",
+    "Botanical studio",
+    "Floating islands",
+    "Celestial",
+    "Gardening",
+    "Traditional robes",
+    "Bonsai",
+    "High contrast lighting"
+  ]
+}

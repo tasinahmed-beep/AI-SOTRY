@@ -1,0 +1,22 @@
+{
+  "id": "9467889028972495",
+  "file": "gemini-9467889028972495.png",
+  "title": "Moonlit Melody on the Fenghua Bridge",
+  "prompt": "(masterpiece), best quality, highly detailed, 9:16 vertical orientation, (Donghua Chinese art style), A handsome young man in flowing traditional blue Hanfu robes playing a violin passionately, standing on a dark wooden pier. The setting is an ancient Chinese water city at night, under a huge, bright full moon. A magnificent stone arch bridge (Fenghua bridge structure) decorated with glowing red lanterns and golden dragon carvings spans the canal. Cherry blossom trees bloom profusely along the water banks. Soft glow, subtle magical realism, expressive lighting, lotus flowers and lily pads on the water.",
+  "negativePrompt": "low resolution, poorly drawn, worst quality, monochrome, ugly, deformed, extra limbs, mutated hands, multiple musicians, modern clothing, western city, blurry background, watermark, signature.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "violinist",
+    "Hanfu",
+    "ancient Chinese city",
+    "cherry blossoms",
+    "full moon",
+    "Donghua",
+    "water town",
+    "stone bridge",
+    "vertical composition"
+  ]
+}

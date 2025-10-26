@@ -1,0 +1,23 @@
+{
+  "id": "8626945079503421",
+  "file": "gemini-8626945079503421.png",
+  "title": "The Beacon in the Storm",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic 3D render, Pixar style, a majestic red and white striped lighthouse standing firmly on dark, craggy cliffs overlooking a furious, churning ocean. Heavy rain streaks down, lit by a dramatic flash of white lightning striking near the cliff edge. Massive, foamy turquoise waves crash violently against the rocks below, casting sea spray. A small, cozy stone keeper's cottage with smoke coming from the chimney sits beside the lighthouse. Volumetric light beam cutting through the dark, stormy atmosphere. Moody, dramatic lighting, high contrast. Vertical format (9:16 aspect ratio).",
+  "negativePrompt": "(worst quality, low quality, normal quality), blurry, lowres, bad anatomy, bad hands, extra digits, cropped, watermark, signature, ugly, tiling, poorly drawn, out of frame, deformed, disfigured, text, sketch, drawing, painting, monochrome, grayscale.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Lighthouse",
+    "Storm",
+    "Coastal Cliffs",
+    "Thunderstorm",
+    "Pixar Style",
+    "3D Render",
+    "Ocean Waves",
+    "Dramatic Lighting",
+    "Rainy Day",
+    "Seascape"
+  ]
+}

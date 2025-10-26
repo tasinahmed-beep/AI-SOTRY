@@ -1,0 +1,22 @@
+{
+  "id": "9965785402770477",
+  "file": "gemini-9965785402770477.png",
+  "title": "Celestial Snowboarder's Leap",
+  "prompt": "(masterpiece), (best quality), highly detailed traditional Chinese illustration in Donghua style, a heroic male figure dressed in flowing blue and red Hanfu robes and long streaming black ribbons performing a dynamic snowboard jump off a towering snowy mountain cliff. The snowboard is highly detailed with golden dragon and cloud patterns. Below him is an expansive, misty snow-covered mountain landscape (shanshui), with winding rivers and ancient pine trees. Dramatic, radiant sunburst in the golden-orange sky, scattering pink cherry blossom petals and snow. Stylized Ruyi clouds and mountain mist frame the scene. Extreme vertical composition, clean line art, traditional Chinese color palette, 9:16 aspect ratio.",
+  "negativePrompt": "deformed, low quality, worst quality, gross proportions, missing fingers, extra limbs, blurry, poorly drawn hands, watermark, signature, text, out of frame, monochrome, ugly, incorrect anatomy, flat colors, jpeg artifacts",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Snowboarding",
+    "Wuxia",
+    "Chinese Art",
+    "Fantasy",
+    "Shanshui",
+    "Dynamic Pose",
+    "Vertical Composition",
+    "Hanfu",
+    "Cloudscape"
+  ]
+}

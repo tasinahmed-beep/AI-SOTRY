@@ -1,0 +1,23 @@
+{
+  "id": "1238499376650529",
+  "file": "gemini-1238499376650529.png",
+  "title": "Urban Concerto: The Archway Performer",
+  "prompt": "(masterpiece), best quality, ultra-detailed, photorealistic, cinematic lighting, full-body vertical portrait of a beautiful young female violinist, dramatic pose, performing under a massive concrete highway overpass/bridge archway. She wears a long navy blue trench coat over a flowing deep red gown. Centered under the structure. Overhead, a single vintage incandescent lamp casts a warm glow on her. Background features a busy urban cityscape at twilight (blue hour) with long exposure light trails (streaks of red and white) from traffic. The concrete pillars are covered in detailed graffiti. Wet asphalt ground reflecting light, scattered autumn leaves. Subtle glowing musical notes emanating from the violin. Dramatic composition, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, poor composition, blurry, mutated hands, multiple limbs, watermark, text, signature, cartoon, (deformed), ugly, missing violin, disconnected notes",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Street Performance",
+    "Photorealistic",
+    "Twilight",
+    "Long Exposure",
+    "Cityscape",
+    "Concrete Bridge",
+    "Trench Coat",
+    "Dramatic Lighting",
+    "Graffiti"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6929824426004561",
+  "file": "gemini-6929824426004561.png",
+  "title": "Inferno Dispatch",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, 9:16 aspect ratio. A determined, muscular male firefighter walking directly toward the viewer, full-body portrait, dramatic pose. He wears detailed, futuristic turnout gear (dark grey and reflective orange accents) and a tactical helmet. He holds a large, intimidating, multi-barreled fire hose nozzle (water cannon). He is emerging from thick, billowing grey smoke and embers, walking across cracked rubble ground. In the background, a destroyed city skyline is silhouetted against a dramatic, vibrant orange sunset/apocalyptic sky. Modern Anime style, strong line art, dynamic shadows, high contrast.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, extra limbs, poorly drawn face, blurry, text, signature, watermark, logo, fewer fingers, missing limb, disconnected limbs, jpeg artifacts, poorly rendered, tiling.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Firefighter",
+    "Heroic",
+    "Apocalyptic",
+    "Smoke",
+    "Cityscape",
+    "Turnout Gear",
+    "Water Cannon",
+    "Action",
+    "Modern Anime",
+    "Sunset"
+  ]
+}

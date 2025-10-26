@@ -1,0 +1,22 @@
+{
+  "id": "7612084900894967",
+  "file": "gemini-7612084900894967.png",
+  "title": "The Solitude of First Light",
+  "prompt": "(masterpiece), (photorealistic:1.2), highly detailed, professional nature photography, a lone fisherman standing on a large dark rock, dramatic full body silhouette against the rising sun, early dawn over a still, misty lake, fisherman actively casting a line, fishing rod visibly bent in an arc, perfect mirror reflection of the soft pink, purple, and orange sunrise colors on the water, subtle ripples radiating where the lure hits the water, thick atmospheric fog hugging the distant coniferous forest hills, soft backlighting, vertical format (9:16)",
+  "negativePrompt": "low resolution, blurry, distorted, sketch, painting, cartoon, midday light, noisy, ugly, inaccurate anatomy, extra limbs, watermark, text, multiple figures",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fishing",
+    "Sunrise",
+    "Silhouette",
+    "Misty Lake",
+    "Nature Photography",
+    "Dawn",
+    "Tranquil",
+    "Golden Hour",
+    "Vertical Composition"
+  ]
+}

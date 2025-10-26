@@ -1,0 +1,23 @@
+{
+  "id": "5688343670304971",
+  "file": "gemini-5688343670304971.png",
+  "title": "Culinary Cultivation in the Floating Mountains",
+  "prompt": "(Masterpiece), ultra-detailed illustration in Fantasy Xianxia style, 9:16 aspect ratio. A handsome, serious male cultivator chef wearing opulent blue and gold robes is slicing vibrant, fantastical vegetables (such as glowing purple radishes and broccoli) on an old wooden table. He uses a glowing ethereal jade-colored spiritual sword as a knife. Wisps of Qi energy, manifesting as miniature crystalline spirit dragons, swirl around the blade and ingredients, creating a sense of magical motion. The background features a breathtaking view of floating mountains, lush greenery, mist, cascading waterfalls, and a traditional, ancient Chinese pagoda temple perched on a distant peak. Epic composition, dramatic lighting, volumetric lighting, highly intricate details, cinematic atmosphere.",
+  "negativePrompt": "low quality, bad anatomy, deformed, poorly drawn face, blurry, ugly, watermark, text, signature, worst quality, noise, cropped, extra limbs, simple background, modern kitchen, wires, poorly rendered hands.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Spiritual Energy",
+    "Floating Mountains",
+    "Ethereal Dragons",
+    "Chinese fantasy",
+    "Chef",
+    "Wuxia",
+    "Pagoda",
+    "Mythical"
+  ]
+}

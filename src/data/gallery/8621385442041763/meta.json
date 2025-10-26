@@ -1,0 +1,22 @@
+{
+  "id": "8621385442041763",
+  "file": "gemini-8621385442041763.png",
+  "title": "The Epic Dawn Cast",
+  "prompt": "(masterpiece), best quality, high detail comic book illustration, (retro pop art style:1.2), strong black ink lines, halftone texture, vibrant limited color palette. A dynamic wide shot (16:9) of a fisherman standing on a rugged, dark cliff edge, silhouetted against a huge, radiating sunrise. He is intensely casting his fishing line into the water. The sky is dominated by aggressive sunburst rays of orange and yellow, contrasting with deep blue and purple storm clouds. A thought bubble shows a stylized fish. Include classic comic book sound effects 'WHOOSH' and 'SPLASH' near the water impact. Dramatic lighting, high contrast.",
+  "negativePrompt": "(deformed), blurry, ugly, extra limbs, bad anatomy, missing fingers, low contrast, text errors, watermark, signature, jpeg artifacts, monochrome, realism, photorealistic",
+  "style": "Comic Book (Retro Pop Art)",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Art",
+    "Fishing",
+    "Dawn",
+    "Sunburst",
+    "Retro Style",
+    "Silhouette",
+    "Pop Art",
+    "Sound Effects",
+    "Casting"
+  ]
+}

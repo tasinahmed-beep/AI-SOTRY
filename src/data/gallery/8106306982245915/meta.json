@@ -1,0 +1,22 @@
+{
+  "id": "8106306982245915",
+  "file": "gemini-8106306982245915.png",
+  "title": "The Immortal Dough Weaver",
+  "prompt": "(masterpiece), (best quality), ultra detailed, cinematic lighting, 9:16 vertical portrait, A powerful Xianxia Master Chef dressed in ornate golden and black traditional Chinese robes with dragon embroidery, levitating majestically above a massive, glowing brick oven. He is performing culinary magic, conjuring a perfect, glowing golden pizza dough ring (qi energy) high above his outstretched hands. The kitchen is a grand temple hall, featuring rugged stone pillars carved with mythical creatures, shelves filled with hanging herbs and ancient copper pots. The hearth of the oven glows with fierce fire and is adorned with electric blue Xianxia runes. The high dome ceiling opens up to a dramatic, star-filled night sky. Other chefs (disciples) work diligently at the wooden preparation tables. Fantasy Xianxia style, epic scene, volumetric light.",
+  "negativePrompt": "poorly drawn, low resolution, blurry, distorted features, out of frame, deformed hands, extra limbs, ugly, watermarks, signature, modern setting, Western clothes, cartoon, (worst quality, low quality), missing fingers, fused fingers, tiling, simple background, text, incorrect anatomy",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Culinary Magic",
+    "Levitation",
+    "Master Chef",
+    "Brick Oven",
+    "Cultivation",
+    "Fantasy Kitchen",
+    "Starry Night",
+    "Epic"
+  ]
+}

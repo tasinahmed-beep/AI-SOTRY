@@ -1,0 +1,23 @@
+{
+  "id": "4829884172943336",
+  "file": "gemini-4829884172943336.png",
+  "title": "Celestial Melody of the Azure Dragon",
+  "prompt": "(masterpiece), best quality, highly detailed illustration, epic Fantasy Xianxia style, 9:16 aspect ratio. A graceful and beautiful Xianxia maiden wearing flowing white and gray Hanfu robes with gold accents, standing on a circular mossy stone platform by a vibrant turquoise river. She is intensely focused while playing a glowing ethereal violin. The music manifests as a swirling, radiant turquoise spirit dragon and countless magical glowing butterflies surrounding her. In the background, a massive, ancient stone arch bridge adorned with detailed dragon statues spans the river. Above the bridge, multiple large floating islands support intricate Chinese pagodas and temples, with waterfalls cascading down. Night scene under a huge, bright full moon and a detailed, starry sky with soft purple clouds. Dynamic lighting, mystical atmosphere.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, out of frame, extra limbs, disfigured, deformed, blurry, bad anatomy, watermark, grainy, signature, cut off, draft, low quality, worst quality, error, bad composition, modern city, skyscrapers, cables",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Fantasy Art",
+    "Violinist",
+    "Dragon Spirit",
+    "Floating Islands",
+    "Hanfu",
+    "Celestial Bridge",
+    "Night Scene",
+    "Magical Music",
+    "Full Moon"
+  ]
+}

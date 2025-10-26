@@ -1,0 +1,23 @@
+{
+  "id": "2223900586368830",
+  "file": "gemini-2223900586368830.png",
+  "title": "The Molecular Gaze: Focused Research in the City Lab",
+  "prompt": "(masterpiece), best quality, highly detailed 2D Anime style, 16:9 aspect ratio, a focused young woman scientist with short blue hair and glasses, wearing a white lab coat and blue shirt, intensely peering into a high-powered microscope. Detailed modern laboratory setting, scientific equipment including colorful liquid in test tubes and beakers, glowing molecular network structures displayed on dual computer monitors, a steaming coffee cup, and an open research textbook on the desk. Bright natural light streams gently from a large window overlooking a subtle, blurred city skyline, professional atmosphere, cinematic lighting, ultra-detailed background.",
+  "negativePrompt": "lowres, worst quality, blurry, text, watermark, signature, missing limbs, deformed hands, extra fingers, poorly drawn face, mutated, noisy, jpeg artifacts, monochrome, oversaturated.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "scientist",
+    "anime girl",
+    "laboratory",
+    "microscope",
+    "research",
+    "blue hair",
+    "glasses",
+    "lab coat",
+    "scientific equipment",
+    "city view"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9620617056811661",
+  "file": "gemini-9620617056811661.png",
+  "title": "Rainy Night Pursuit: The Cyan Streak",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning cinematic lighting, dynamic angle, full body shot of a lone young man cycling fiercely through a traditional Chinese street at night during a heavy thunderstorm, Donghua Chinese style, Wuxia inspiration. The rider wears a dark, flowing trench coat that streams behind him. The bicycle wheels and massive water splash trails behind him emit a vibrant electric cyan glow. Wet, highly reflective stone street, traditional Chinese architecture with multiple eaves and tiled roofs flanking the road, glowing orange lanterns and red banners with Chinese script. Ancient stone arch bridge visible in the background. Stormy dark sky with visible lightning strikes. 16:9 aspect ratio.",
+  "negativePrompt": "lowres, (worst quality, low quality), (deformed, distorted, ugly), extra limbs, blurry, poorly drawn hands, missing elements, jpeg artifacts, monochrome, watermark, text, out of frame, amateur drawing, cartoon.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua",
+    "Chinese architecture",
+    "night scene",
+    "rainstorm",
+    "cyclist",
+    "neon glow",
+    "action",
+    "fantasy street",
+    "dynamic lighting",
+    "wuxia"
+  ]
+}

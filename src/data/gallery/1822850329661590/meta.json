@@ -1,0 +1,23 @@
+{
+  "id": "1822850329661590",
+  "file": "gemini-1822850329661590.png",
+  "title": "Stargazer Academy Welcome",
+  "prompt": "(masterpiece), best quality, ultra detailed anime illustration, 9:16 aspect ratio. A friendly full-body shot of an astronaut in a detailed white and orange space suit, floating in zero gravity directly outside a vast space station observation window, waving hello. Dramatic view looking out from the interior of the futuristic cockpit/bridge, featuring glowing cyan control panels and a screen displaying 'STARGAZER ACADEMY' in the foreground. In the background, a massive, vibrant Earth dominates the curvature, seen against deep space, twinkling stars, and a distant crescent moon. Sci-fi aesthetic, clean line art, soft ambient lighting.",
+  "negativePrompt": "lowres, worst quality, blurry, mutated, disfigured, monochrome, 3D render, text errors, watermark, signature, cropped, poor anatomy, bad hands, missing limbs.",
+  "style": "Sci-Fi Anime Illustration",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Astronaut",
+    "Space Station",
+    "Earth Orbit",
+    "Anime Style",
+    "Sci-Fi",
+    "Vertical Composition",
+    "Zero Gravity",
+    "Deep Space",
+    "Detailed Illustration",
+    "Cockpit View"
+  ]
+}

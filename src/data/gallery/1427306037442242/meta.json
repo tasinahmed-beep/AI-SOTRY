@@ -1,0 +1,21 @@
+{
+  "id": "1427306037442242",
+  "title": "Quiet Reflection: Modern Anime Seating Scene (Landscape)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, bad anatomy, worst quality, blurry, extra limbs, signature, watermark, deformed hands, missing fingers, jpeg artifacts, monochrome, outdated anime style",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "anime girl",
+    "sitting pose",
+    "modern setting",
+    "slice of life",
+    "detailed character design",
+    "expressive eyes",
+    "digital painting",
+    "full body",
+    "contemplative"
+  ]
+}

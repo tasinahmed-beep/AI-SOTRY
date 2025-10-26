@@ -1,0 +1,23 @@
+{
+  "id": "7466887111172755",
+  "file": "gemini-7466887111172755.png",
+  "title": "Cultivator Riding the Emerald Dragon Wave",
+  "prompt": "(masterpiece), (best quality), extremely detailed digital illustration, 9:16 aspect ratio, a dynamic full-body shot of a powerful male Xianxia cultivator (swordsman) skillfully surfing on a giant, curling wave that is morphing into a majestic, serpentine emerald jade dragon. The dragon wave is glowing with intense aqua and green energy, with detailed scales and glowing red eyes. The base of the wave is circled by intricate golden mystic runes and symbols. The cultivator wears flowing traditional grey robes, performing a magical stance, illuminated by golden energy. Dramatic, vibrant sunset background, casting brilliant orange and yellow light across the sky and water. Impressive misty mountains with towering waterfalls and traditional East Asian temples (pagodas) perched on the cliff edges. Epic atmosphere, high contrast, Fantasy Xianxia style, volumetric lighting.",
+  "negativePrompt": "worst quality, low quality, jpeg artifacts, blurry, deformed, poorly drawn hands, missing limbs, extra limbs, mutated, watermark, signature, cartoon, ugly, poorly drawn face, disfigured, monochrome, 3d render",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Dragon",
+    "Cultivator",
+    "Wave riding",
+    "Emerald",
+    "Sunset",
+    "Mystic runes",
+    "Asian architecture",
+    "Digital painting",
+    "Epic fantasy"
+  ]
+}

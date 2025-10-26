@@ -1,0 +1,23 @@
+{
+  "id": "1778967695521308",
+  "file": "gemini-1778967695521308.png",
+  "title": "Castle of Cinderguard Above the Mist",
+  "prompt": "(masterpiece), best quality, highly detailed illustration, full page comic book cover art, an epic, massive medieval fortress castle perched on a sheer, rugged cliff face, rising dramatically above a thick blanket of swirling white fog and low clouds. Dramatic twilight or night sky with deep blues and purples. A huge, stylized full moon is positioned directly behind the castle, emitting powerful, stylized light rays (god rays) through the heavily outlined dark clouds. Thick, clean black linework, vintage comic book coloring and shading, 9:16 aspect ratio, dramatic composition, fantasy setting.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, low quality, deformed, blurry, text, watermark, signature, cropped, extra limbs, bad shading, error, jpeg artifacts, 3D render, photorealism, realism",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Castle",
+    "Medieval",
+    "Comic Book",
+    "Fortress",
+    "Dramatic Lighting",
+    "Fantasy",
+    "Fog",
+    "Moonlight",
+    "Vertical Composition",
+    "Linework"
+  ]
+}

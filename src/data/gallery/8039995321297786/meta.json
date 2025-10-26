@@ -1,0 +1,23 @@
+{
+  "id": "8039995321297786",
+  "file": "gemini-8039995321297786.png",
+  "title": "Golden Hour Ballet on the Metropolis Rooftop",
+  "prompt": "(masterpiece), (best quality), highly detailed, expressive, cinematic lighting, Modern Anime style, 16:9 aspect ratio. Full body shot of a graceful female dancer with long, flowing pink hair, performing a high vertical split/extension (arabesque) en pointe. She is wearing a dynamic, flowing white and red ballet costume. Scene is set on a high-rise city rooftop balcony at dramatic sunset. A massive, vibrant sun is setting directly behind the dancer, creating intense sunrays, powerful golden light, and strong rim lighting. The foreground features two symmetrical potted cherry blossom trees (sakura) and scattered petals on the reflective floor. Detailed urban cityscape background with towering glass skyscrapers.",
+  "negativePrompt": "worst quality, low quality, low resolution, bad anatomy, deformed, missing limbs, extra fingers, blurry, out of frame, grayscale, monochrome, sketch, amateur drawing, ugly, tiling, poorly drawn face, mutated hands and fingers",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime",
+    "Ballet",
+    "Sunset",
+    "Rooftop",
+    "Cityscape",
+    "Sakura",
+    "Golden Hour",
+    "Dancing",
+    "Dynamic Pose",
+    "High Detail"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6945953104804479",
+  "file": "gemini-6945953104804479.png",
+  "title": "Hearthside Kneading: Grandmother and Her Baking Companion",
+  "prompt": "(masterpiece), (best quality), photorealistic, 8k, cinematic lighting, 16:9 aspect ratio. A joyful elderly grandmother with silver hair, wearing a knitted cardigan and a floral apron, focused on kneading bread dough on a rustic wooden table covered in flour. In the background, a cozy farmhouse kitchen features a glowing brick wood-fired oven/hearth and a large window emitting soft golden hour light. Freshly baked golden bread loaves are visible on a tray, and a peaceful orange tabby cat is sleeping nearby on the table. Highly detailed, warm volumetric lighting, shallow depth of field, cottagecore aesthetic, nostalgic atmosphere.",
+  "negativePrompt": "low resolution, blurry, distorted, grainy, extra limbs, poorly drawn hands, deformed, missing fingers, worst quality, tiling, poorly lit, ugly, signature, watermark, multiple people, abstract, modern appliances, cold colors.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Photorealistic",
+    "Cozy Kitchen",
+    "Bread Dough",
+    "Rustic",
+    "Wood Oven",
+    "Cat",
+    "Golden Hour",
+    "Nostalgia"
+  ]
+}

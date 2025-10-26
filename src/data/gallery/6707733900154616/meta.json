@@ -1,0 +1,23 @@
+{
+  "id": "6707733900154616",
+  "file": "gemini-6707733900154616.png",
+  "title": "The Croissant Maestro and His Tiny Assistant",
+  "prompt": "(masterpiece), 8k, A joyous, plump cartoon baker with a large mustache and white chef hat, centered and smiling, enthusiastically dusting a massive pile of freshly baked golden croissants with powdered sugar using a metal sieve. Sugar particles are visibly floating in the air. A small, highly detailed mouse wearing a miniature chef hat stands beside the pile, gesturing happily. Realistic Pixar animation style render, highly detailed, soft volumetric lighting, warm rustic kitchen environment, wooden shelves stocked with colorful pottery, bright morning sunlight streaming through an arched window in the background, cinematic depth of field, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, poorly drawn, ugly, deformed, blurry, artifacts, noise, watermark, signature, text, monochrome, grayscale, multiple limbs, extra fingers, bad anatomy, flat lighting",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar",
+    "3D animation",
+    "baking",
+    "chef",
+    "croissant",
+    "mouse",
+    "kitchen scene",
+    "volumetric lighting",
+    "food art",
+    "cartoon character"
+  ]
+}

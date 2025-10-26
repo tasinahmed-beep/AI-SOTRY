@@ -1,0 +1,23 @@
+{
+  "id": "0065061803910864",
+  "file": "gemini-0065061803910864.png",
+  "title": "Jungle Downhill Thrill",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D Anime illustration of a male downhill mountain biker racing aggressively down a root-covered, muddy forest trail. Dynamic action pose, kicking up dirt and dust from the rear tire. The biker is wearing dark blue protective gear, full-face helmet, and goggles. Lush tropical forest setting with massive green leaves and dark tree trunks. Cinematic lighting, bright sun rays (god rays) filtering vertically through the dense canopy, creating a dramatic, vibrant atmosphere. Vertical composition, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, distortion, blurry, jpeg artifacts, signature, text, watermark, bad anatomy, deformed, monochrome, extra limbs, ugly, oversaturated, flat color, poorly drawn wheels, motion blur (unless intended for speed effect).",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Mountain Biking",
+    "Downhill",
+    "Forest Trail",
+    "3D Anime",
+    "Action Shot",
+    "God Rays",
+    "Tropical Jungle",
+    "Extreme Sports",
+    "Cycling",
+    "Dynamic Pose"
+  ]
+}

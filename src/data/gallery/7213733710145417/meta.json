@@ -1,0 +1,23 @@
+{
+  "id": "7213733710145417",
+  "file": "gemini-7213733710145417.png",
+  "title": "Serene Watering in the Sunlit Courtyard",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic volumetric lighting, a beautiful young female gardener with long flowing auburn hair, wearing a straw hat with a green ribbon, light blue shirt, and brown overalls, gently watering vibrant red and creamy white rose bushes. She holds a gray metal watering can, water streaming out. The setting is a majestic, sunlit, ancient stone courtyard with cobblestone pavement, weathered stone arches covered in green ivy, and a moss-covered tiered fountain in the background. Potted flowers line the walls. Soft focus background, depth of field, 3D Anime style, CGI render, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad hands, mutated fingers, missing limbs, distorted anatomy, blurry, jpeg artifacts, monochrome, cropped, worst quality, low quality, watermarks, signature, unrealistic textures, flat shading, 2D art",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Gardener",
+    "Roses",
+    "Stone Courtyard",
+    "Anime Girl",
+    "3D Render",
+    "Pastoral",
+    "Tranquil",
+    "Straw Hat",
+    "Fountain",
+    "Slice of Life"
+  ]
+}

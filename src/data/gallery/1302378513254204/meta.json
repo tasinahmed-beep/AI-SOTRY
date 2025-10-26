@@ -1,0 +1,22 @@
+{
+  "id": "1302378513254204",
+  "title": "Grandma's Hearthside Bakery",
+  "prompt": "(masterpiece), (best quality), 2D Anime style illustration, Studio Ghibli inspired, a smiling elderly grandmother kneading fresh bread dough on a flour-dusted wooden counter. She has grey hair in a bun, glasses, and wears a cheerful floral apron. The scene is a cozy, rustic kitchen bathed in warm sunlight from a window with checkered curtains. Details include: two freshly baked loaves cooling on a rack, jars of ingredients, wooden utensils, and potted herbs. Below the counter, a small stone hearth glows with firelight. An orange tabby cat sleeps peacefully on a cushion next to the counter. Intricate background detail, soft shadows, domestic slice of life, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, monochrome",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime",
+    "Ghibli Style",
+    "Cozy Kitchen",
+    "Grandmother",
+    "Baking",
+    "Slice of Life",
+    "Domestic",
+    "Cat",
+    "Warm Light",
+    "Food Preparation"
+  ]
+}

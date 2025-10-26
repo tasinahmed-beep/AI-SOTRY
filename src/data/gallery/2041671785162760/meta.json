@@ -1,0 +1,23 @@
+{
+  "id": "2041671785162760",
+  "file": "gemini-2041671785162760.png",
+  "title": "Cyber Dynasty Serenade",
+  "prompt": "(masterpiece), (best quality), (ultra-detailed digital painting), full body shot of a beautiful female violinist wearing a flowing, deep red traditional Hanfu gown, standing on an ornate curved dock overlooking a massive river. She is passionately playing a wooden violin, with swirling sound waves forming glowing white trails around her. The background features a stunning fusion of eras: a majestic Chinese dragon bridge adorned with lanterns and golden dragon statues, contrasted with towering, sleek futuristic skyscrapers. Glowing blue lotus flowers float on the dark water. Vibrant, cinematic dusk lighting, complex composition, Donghua Chinese style, 16:9 aspect ratio.",
+  "negativePrompt": "poorly drawn, blurry, low resolution, inaccurate anatomy, mutation, deformed hands, missing fingers, text, watermark, signature, ugly, tiling, low quality, worst quality, monochrome, black and white.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Violinist",
+    "Donghua",
+    "Hanfu",
+    "Fantasy",
+    "Futuristic City",
+    "Dragon Bridge",
+    "Chinese Architecture",
+    "Digital Painting",
+    "Dusk",
+    "Wuxia"
+  ]
+}

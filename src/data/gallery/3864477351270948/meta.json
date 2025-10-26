@@ -1,0 +1,23 @@
+{
+  "id": "3864477351270948",
+  "file": "gemini-3864477351270948.png",
+  "title": "Vibrant Anime Coral Reef Ecosystem",
+  "prompt": "(masterpiece), best quality, ultra detailed digital illustration, Modern Anime style, kawaii art, a thriving, colorful coral reef ecosystem, wide-angle underwater view (16:9 aspect ratio), volumetric lighting, soft reflections on the surface, clear blue water, a friendly sea turtle swimming gracefully, a manta ray gliding above, numerous brightly colored tropical fish including clownfish, patterned angelfish, and schools of small fish, intricate pink, purple, and turquoise coral structures and sea anemones, glowing bubbles rising to the surface, cheerful atmosphere.",
+  "negativePrompt": "lowres, bad hands, text, error, blurry, cropped, worst quality, low quality, jpeg artifacts, ugly, signature, watermark, multiple heads, deformed fish, distorted.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Underwater",
+    "Marine Life",
+    "Coral Reef",
+    "Sea Turtle",
+    "Tropical Fish",
+    "Modern Anime",
+    "Kawaii",
+    "Vibrant Colors",
+    "Ocean Scene",
+    "Digital Illustration"
+  ]
+}

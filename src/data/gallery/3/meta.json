@@ -1,0 +1,19 @@
+{
+  "id": "3",
+  "title": "Fire Martial Artist",
+  "prompt": "(masterpiece), (best quality), donghua style, powerful martial artist in red and black robes, dramatic pose with energy aura, golden magical symbols floating around, intense expression, long dark hair flowing, crimson and gold color palette, epic fantasy atmosphere",
+  "negativePrompt": "lowres, blurry, bad anatomy, extra fingers, mutated hands, poorly drawn face, deformed, text, watermark, signature",
+  "style": "Fantasy",
+  "aspectRatio": "5:7",
+  "size": "640 X 896",
+  "orientation": "portrait",
+  "tags": [
+    "fire",
+    "martial",
+    "warrior",
+    "portrait",
+    "red",
+    "magic",
+    "donghua"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4865139467668732",
+  "file": "gemini-4865139467668732.png",
+  "title": "The Rose Arch Gardener",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render, Pixar style animation still, a cheerful young male character, a gardener, wearing a straw hat and denim overalls. He is carefully watering lush climbing roses (red, cream, pink) that cover a rustic stone archway in a sunlit cobblestone courtyard. Soft warm afternoon lighting, detailed textures, volumetric light, cinematic composition, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, blurry, monochrome, painting, drawing, sketch",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "3D Animation",
+    "Gardener",
+    "Roses",
+    "Stone Archway",
+    "Courtyard",
+    "Idyllic",
+    "Warm Light",
+    "Vertical"
+  ]
+}

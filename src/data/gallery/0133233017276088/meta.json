@@ -1,0 +1,23 @@
+{
+  "id": "0133233017276088",
+  "file": "gemini-0133233017276088.png",
+  "title": "Celestial Vanguard Planting the Dragon Banner",
+  "prompt": "(masterpiece), best quality, highly detailed, vibrant colors, dramatic lighting, 9:16 aspect ratio. A heroic astronaut, depicted in dynamic full-body view, standing firmly on a desolate moon surface. The astronaut wears futuristic white and gold armor styled after traditional Chinese robes, complete with a flowing red cape detailed with a golden dragon. He is planting a massive red banner featuring a detailed golden celestial dragon and Chinese calligraphy. Dust and glowing blue energy swirls around his boots. In the background, a massive, glowing blue and green planet (Earth) fills the sky. Deep space is visible with numerous stars, constellations, and ethereal floating Chinese pagodas/temples. Donghua Chinese style, anime aesthetic, epic scale.",
+  "negativePrompt": "low resolution, blurry, distortion, worst quality, jpeg artifacts, ugly, poorly drawn hands, missing limbs, deformed, text, watermark, signature, cropped, extra fingers.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Astronaut",
+    "Chinese Aesthetic",
+    "Golden Dragon",
+    "Space Exploration",
+    "Donghua",
+    "Sci-fi Fantasy",
+    "Planetary Landscape",
+    "Moon Landing",
+    "Vertical Composition",
+    "Heroic Pose"
+  ]
+}

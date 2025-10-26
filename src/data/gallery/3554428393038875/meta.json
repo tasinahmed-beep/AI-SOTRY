@@ -1,0 +1,23 @@
+{
+  "id": "3554428393038875",
+  "file": "gemini-3554428393038875.png",
+  "title": "Sentinel of the Misty Peaks",
+  "prompt": "(masterpiece), cinematic photorealism, ultra detailed, wide shot (16:9 aspect ratio), a majestic medieval stone castle fortress perched high on a rugged mountain peak, overlooking a vast, deep valley completely submerged in dense, thick white fog and low clouds (inversion layer). Intense volumetric golden hour sunlight (God rays) streaming from the upper left, highlighting the castle battlements and the flag flying on the highest turret. Deep atmospheric perspective, small trees clinging to the rocky cliffs, winding river partially visible below the fog, dramatic lighting, detailed architecture, flock of flying birds, distant mountain ranges.",
+  "negativePrompt": "lowres, deformed, blurry, worst quality, monochrome, distorted, tiling, watermark, signature, jpeg artifacts, bad anatomy, bad composition, poorly drawn hands, fake flag, low detail",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Castle",
+    "Medieval Architecture",
+    "Foggy Valley",
+    "Mountain Landscape",
+    "Golden Hour",
+    "Volumetric Light",
+    "Photorealism",
+    "Epic Scenery",
+    "Fortress",
+    "Inversion Layer"
+  ]
+}

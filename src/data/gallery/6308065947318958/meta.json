@@ -1,0 +1,23 @@
+{
+  "id": "6308065947318958",
+  "file": "gemini-6308065947318958.png",
+  "title": "Steampunk Serenade Beneath the Bridge",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic 3D rendering, Pixar style character design, full body shot of a youthful busker playing a violin intensely, eyes closed in concentration. The musician wears a thick blue knitted sweater and a plaid scarf. Golden, glowing musical notes and magical energy swirl vividly above the violin strings. The character stands on a wet cobblestone path beside a river under a massive, dark industrial metal bridge arch. An open vintage suitcase containing coins rests beside the busker's feet. In the background, visible through the arch, is a stunning Steampunk city skyline featuring grand towers and flying dirigibles, illuminated by soft golden sunset light. Volumetric lighting, autumnal setting, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad anatomy, deformed, ugly, disfigured, monochrome, sketch, painting, 2D",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Violinist",
+    "Busking",
+    "Steampunk City",
+    "Magic Notes",
+    "Bridge",
+    "3D Render",
+    "Cinematic Lighting",
+    "Autumn",
+    "Vertical Art"
+  ]
+}

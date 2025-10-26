@@ -1,0 +1,23 @@
+{
+  "id": "7874446118096284",
+  "file": "gemini-7874446118096284.png",
+  "title": "Immortal Angler of the Cloud Sea",
+  "prompt": "(Masterpiece), highly detailed illustration, 9:16 aspect ratio, Fantasy Xianxia style. A powerful immortal cultivator wearing flowing emerald green and gold robes stands dramatically on a craggy floating mountain cliff edge at sunrise. He is casting a fishing line (glowing with spiritual energy) into a vast, swirling golden sea of luminous clouds below. In the background, majestic floating islands hold ancient Chinese pagodas and cherry blossom trees. A majestic, ethereal water dragon spirit is coiled around a high, jagged peak. Luminous, ghost-like spirit fish swim near the base of the cliff. Dramatic lighting, epic scale, vibrant colors, cinematic quality, Wuxia inspiration.",
+  "negativePrompt": "low quality, worst quality, error, bad anatomy, missing limbs, deformed hands, signature, watermark, blurry, extra fingers, poorly drawn, out of frame, simple background, ugly, modern structures, Western architecture, cropped, text.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Floating Islands",
+    "Dragon",
+    "Sunrise",
+    "Spiritual Fish",
+    "Chinese Fantasy",
+    "Traditional Attire",
+    "Epic Landscape",
+    "Wuxia"
+  ]
+}

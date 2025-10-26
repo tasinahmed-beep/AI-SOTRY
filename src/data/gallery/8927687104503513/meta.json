@@ -1,0 +1,22 @@
+{
+  "id": "8927687104503513",
+  "file": "gemini-8927687104503513.png",
+  "title": "Sunrise Citadel of the Soaring Griffin",
+  "prompt": "(Masterpiece), (best quality), 9:16 aspect ratio, detailed 2D anime style illustration of a majestic medieval fortress castle perched precariously atop a dramatic, craggy mountain peak. The valley below is completely submerged in a thick, swirling sea of white fog and clouds. Golden sunrise light bursts over the horizon, illuminating the grey stone walls and red tile roofs. A powerful, detailed griffin flies gracefully above the main clock tower. Atmospheric lighting, clear black line art, highly detailed background mountains visible through the mist, epic fantasy landscape. Foreground includes stylized dark pine trees and rocks.",
+  "negativePrompt": "lowres, worst quality, error, bad anatomy, bad hands, mutated, blurry, deformed, monochrome, signature, watermark, tiling, text, cropped, ugly, sketch, easy sketch, 3D render, photorealistic",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Medieval Castle",
+    "Fantasy Landscape",
+    "Griffin",
+    "Mountain Fortress",
+    "2D Anime",
+    "Foggy Valley",
+    "Sunrise",
+    "Overlook",
+    "Detailed Line Art"
+  ]
+}

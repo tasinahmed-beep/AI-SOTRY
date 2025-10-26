@@ -1,0 +1,22 @@
+{
+  "id": "3596903552247414",
+  "title": "Dawn of the Celestial Mural",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic render of a skilled young Chinese artist wearing intricate silk Hanfu robes, meticulously painting a vast traditional ink wash mural on a textured grey brick wall in a quiet, ancient Chinese street at early dawn. The mural artwork prominently features a majestic white Fenghuang (Phoenix) soaring among stylized clouds, vibrant cherry blossom branches, and subtle blue-green mountains (Shanshui painting style). The outline of a powerful Chinese dragon is visible on the right. Soft, golden volumetric dawn light highlights the scene, casting subtle shadows. Traditional Chinese architecture surrounds the cobblestone street. 16:9 aspect ratio, Donghua Chinese style, intricate textile patterns, atmospheric lighting.",
+  "negativePrompt": "worst quality, low quality, normal quality, lowres, blurry, watermark, signature, error, out of frame, cropped, distorted hands, bad anatomy, jpeg artifacts, monochrome, modern clothes, western style.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chinese Culture",
+    "Mural Painting",
+    "Fenghuang",
+    "Dragon",
+    "Hanfu",
+    "Ink Wash Art",
+    "Traditional Architecture",
+    "Dawn",
+    "Street Scene",
+    "Shanshui"
+  ]
+}

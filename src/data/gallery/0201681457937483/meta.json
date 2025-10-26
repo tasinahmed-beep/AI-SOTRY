@@ -1,0 +1,23 @@
+{
+  "id": "0201681457937483",
+  "file": "gemini-0201681457937483.png",
+  "title": "Underwater Dynasty: The Dragon Palace Reef",
+  "prompt": "(masterpiece), best quality, ultra-detailed illustration, A breathtaking scene of the legendary Dragon Palace Reef in the South Sea, Donghua Chinese style. A dense, thriving coral ecosystem surrounding ancient, moss-covered stone ruins and arches. Numerous schools of vibrant, mythical fish with flowing, bioluminescent fins, dynamic swimming action. Include large, majestic carp-like fish and ethereal jellyfish. Strong volumetric god rays penetrate the deep blue water, dramatic cinematic lighting, rich saturation, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, mutated, text, watermark, signature, blurry, monochrome, grayscale, low resolution, simple background, ugly, poor composition",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Underwater",
+    "Coral Reef",
+    "Donghua Style",
+    "Mythological Fish",
+    "Ancient Ruins",
+    "Vibrant Colors",
+    "Fantasy",
+    "Aquatic Life",
+    "God Rays",
+    "Chinese Art"
+  ]
+}

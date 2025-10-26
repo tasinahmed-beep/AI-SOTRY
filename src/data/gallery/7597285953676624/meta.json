@@ -1,0 +1,23 @@
+{
+  "id": "7597285953676624",
+  "file": "gemini-7597285953676624.png",
+  "title": "Blue Rain Concerto Under the Elevated Rails",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, 16:9 ratio, a breathtaking cinematic scene in 2D Anime style. A young anime woman with long blue hair, full body, passionately playing a violin under a colossal concrete elevated railway viaduct. Heavy rain is falling, creating sharp reflections and puddles on the wet street. She wears a long, flowing white dress and a black formal jacket. Warm streetlights cast an orange glow on the massive pillars, contrasting with the cool blue cyberpunk cityscape background. A sleek elevated train passes rapidly overhead. An open violin case rests on the ground. Neo-futuristic city skyline, depth of field, moody atmosphere, dynamic pose, detailed line art, stunning visual effects.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, worst quality, low quality, illustration, 3d, cgi, (mutated hands and fingers)",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime",
+    "Rainy Day",
+    "Violinist",
+    "Cityscape",
+    "Cyberpunk",
+    "Elevated Train",
+    "Street Performer",
+    "Blue Hair",
+    "Moody Lighting",
+    "Urban Infrastructure"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4029678357289664",
+  "file": "gemini-4029678357289664.png",
+  "title": "Sunshine Over the Great Reef",
+  "prompt": "(masterpiece), best quality, ultra detailed, cinematic volumetric lighting, 4K resolution, a breathtakingly vibrant and bustling tropical coral reef ecosystem (Pixar style, Disney CGI). A cheerful, friendly sea turtle swims gracefully in the clear blue water, centered slightly. The reef is bursting with highly saturated soft and hard corals in neon pink, deep purple, orange, and lime green. Schools of colorful fish, including clownfish, blue tangs, and yellow butterflyfish, populate the scene. A large manta ray glides in the middle distance. Powerful sun rays penetrate the water surface, creating stunning god rays and atmosphere. Wide 16:9 aspect ratio, high-detail 3D animation render.",
+  "negativePrompt": "lowres, worst quality, bad anatomy, deformed, blurry, artifacts, noise, signature, watermark, monochrome, grayscale, low contrast, text, ugly, missing limbs, distorted fins, cartoon, painting, sketch.",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Underwater",
+    "Coral Reef",
+    "Pixar Style",
+    "Sea Turtle",
+    "Clownfish",
+    "Tropical Fish",
+    "Vibrant Colors",
+    "3D Animation",
+    "Volumetric Lighting",
+    "Ocean"
+  ]
+}

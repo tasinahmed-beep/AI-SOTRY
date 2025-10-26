@@ -1,0 +1,22 @@
+{
+  "id": "5649531066005894",
+  "title": "Azure Dragon Rider: Sunset Surf",
+  "prompt": "(masterpiece), best quality, highly detailed, 9:16 vertical aspect ratio. A powerful female surfer riding a massive, curling emerald and turquoise wave barrel during a vibrant sunset. The sky is dramatic, featuring brilliant orange, pink, and purple clouds. In the background, ancient Chinese temples and pagodas sit atop misty cliffs with flowing waterfalls. Dynamic water splashes, volumetric lighting, motion blur on the spray. Several stylized fish swim rapidly alongside the wave. Full body shot, dynamic pose, Donghua Chinese style, digital illustration, atmospheric.",
+  "negativePrompt": "(low quality), worst quality, bad anatomy, deformed hands, poorly drawn face, blurry, watermark, signature, text, out of frame, multiple limbs, easynegative, tiling, poorly rendered, cross-eyed.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Donghua",
+    "Anime Style",
+    "Emerald Wave",
+    "Sunset",
+    "Chinese Architecture",
+    "Fantasy Landscape",
+    "Dynamic Pose",
+    "Waterfalls",
+    "Vibrant Colors"
+  ]
+}

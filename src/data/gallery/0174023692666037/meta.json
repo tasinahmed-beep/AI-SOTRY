@@ -1,0 +1,22 @@
+{
+  "id": "0174023692666037",
+  "title": "Kryptonian Laughter Amidst the Chaos",
+  "prompt": "(masterpiece), (best quality), hyper detailed, full panel comic book page layout, Supergirl, powerful female superhero, vibrant red hair blowing dynamically, confident wide smile, joyful expression, blue and red costume with iconic 'S' shield, red flowing cape, golden shoulder armor, dynamic action sequence, massive city explosion background with debris and bright orange light rays, comic sound effects 'HA HA HA' integrated into the panel, cinematic dramatic lighting, bold black outlines, bright primary color palette, classic DC Comics style, Ben-Day dots shading texture, halftone effect, vertical panel structure, 9:16 aspect ratio",
+  "negativePrompt": "mutations, deformed, extra fingers, blurry, low resolution, worst quality, bad anatomy, grayscale, text error, simple drawing, missing cape, missing logo, sketch",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Supergirl",
+    "DC Comics",
+    "Superhero",
+    "Comic Panel",
+    "Explosion",
+    "Red Hair",
+    "Smiling",
+    "Action",
+    "Halftone",
+    "9:16"
+  ]
+}

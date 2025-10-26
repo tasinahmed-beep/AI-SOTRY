@@ -1,0 +1,22 @@
+{
+  "id": "8531494296574598",
+  "file": "gemini-8531494296574598.png",
+  "title": "The Happy Bamboo Eater of the Misty Forest",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, 8k resolution, award-winning CG animation, (Pixar style) 3D render, a cheerful, fluffy giant panda sitting comfortably, securely holding a large stalk of bamboo, chewing happily. The panda has expressive brown eyes and a wide, friendly smile. Full body shot. The setting is a magical, vibrant, lush bamboo forest grove during the morning. Intense volumetric god rays stream through the thick green canopy. Swirling white mist and ethereal fog weave around ancient, moss-covered trees and ferns. Foreground detail includes a small, crystal-clear stream flowing over smooth river stones and glowing purple and blue exotic flora. Cinematic lighting, deep depth of field, vertical composition, 9:16 aspect ratio.",
+  "negativePrompt": "(low quality, worst quality, poor anatomy, deformed hands, missing limbs), blurry, jpeg artifacts, monochrome, ugly, cross-eyed, dark shadows, dull colors, signature, text, watermark, fewer details, amateur, sketch, cartoon, illustration",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Pixar Style",
+    "3D Render",
+    "Misty Forest",
+    "Bamboo",
+    "Cute Animal",
+    "Volumetric Lighting",
+    "Animated Film",
+    "9:16 Aspect Ratio"
+  ]
+}

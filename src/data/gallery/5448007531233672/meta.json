@@ -1,0 +1,23 @@
+{
+  "id": "5448007531233672",
+  "file": "gemini-5448007531233672.png",
+  "title": "Guardian of the Flames: Walk Through the Inferno",
+  "prompt": "(masterpiece), (hyperdetailed photorealism), 16:9 aspect ratio, a heroic firefighter in full protective turnout gear and SCBA mask, walking forward through dense, billowing smoke. The firefighter is pulling a thick fire hose nozzle assembly. In the background, intense orange and red flames illuminate a ruined structure. Extreme dramatic lighting, low angle shot, volumetric fog, flying cinders and embers, wet concrete ground reflecting firelight. Cinematic feel, deep shadows, high contrast.",
+  "negativePrompt": "deformed, blurry, watermark, signature, text, amateur, worst quality, low resolution, multiple people, poorly drawn hands, incomplete body, cartoon, illustration, drawing, low contrast, unrealistic fire",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Firefighter",
+    "Emergency",
+    "Smoke",
+    "Flames",
+    "Cinematic Lighting",
+    "Rescue",
+    "Photorealism",
+    "SCBA Mask",
+    "Low Angle",
+    "Heroic"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9740478176108698",
+  "file": "gemini-9740478176108698.png",
+  "title": "Sakura Shower over the Modern Koi Sanctuary",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 vertical aspect ratio. A serene Japanese-style garden featuring a large, vibrant koi pond. Numerous colorful koi fish (Kohaku, Sanke, Ogon) swim below the surface, creating visible concentric ripples. Pink cherry blossom (sakura) petals are gently falling and floating on the clear blue water. A small, arched wooden bridge (taikobashi) crosses the pond inlet. The pond is surrounded by large, mossy garden stones and lush green landscaping, including tall bamboo stalks. In the background, a minimalist, modern concrete and glass villa/house overlooks the garden. Bright daylight, soft shadows, volumetric lighting, clean lines, detailed background, Modern Anime style.",
+  "negativePrompt": "(worst quality, low quality, normal quality), lowres, blurry, distortion, extra limbs, poor anatomy, bad perspective, poorly drawn fish, out of frame, signature, watermark, text, error, too many fingers, cropped",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Koi fish",
+    "Japanese garden",
+    "Modern Anime",
+    "Sakura petals",
+    "Pond",
+    "Taikobashi bridge",
+    "Zen",
+    "Architecture",
+    "Vertical composition"
+  ]
+}

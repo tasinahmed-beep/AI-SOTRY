@@ -1,0 +1,22 @@
+{
+  "id": "5096937104415343",
+  "title": "Graceful Woman in Dynamic Dance (Portrait)",
+  "prompt": "A woman dancing",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, blurry, extra limbs, signature, watermark, text, out of frame, disfigured, poorly drawn hands, cropped",
+  "style": "Cinematic Photorealism",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "woman",
+    "dancer",
+    "dancing",
+    "full body",
+    "dynamic pose",
+    "movement",
+    "graceful",
+    "elegant",
+    "performance art",
+    "studio shot"
+  ]
+}

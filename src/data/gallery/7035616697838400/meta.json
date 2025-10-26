@@ -1,0 +1,23 @@
+{
+  "id": "7035616697838400",
+  "file": "gemini-7035616697838400.png",
+  "title": "POW! Underwater Comic Chaos",
+  "prompt": "(masterpiece), (best quality), highly detailed Comic Book illustration of a psychedelic coral reef ecosystem, 9:16 aspect ratio. The scene is teeming with dozens of highly saturated tropical fish (clownfish, angelfish), vibrant pink, purple, orange, and green corals, and giant, surreal mushroom-like flora. Two stylized, cartoon sharks swim in the brightly lit blue surface water. Focus on strong, thick black outlines, bold flat colors, high contrast, halftone shading texture, and incorporating pop art speech bubbles and sound effects (like \"POW!\") into the environment.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, extra heads, disfigured, deformed, body out of frame, blurry, bad anatomy, bad quality, grainy, low resolution, watermark, signature, text, photo, realistic",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book",
+    "Underwater",
+    "Coral Reef",
+    "Vibrant",
+    "Tropical Fish",
+    "Pop Art",
+    "Sharks",
+    "Psychedelic",
+    "Mushroom Flora",
+    "Bold Outlines"
+  ]
+}

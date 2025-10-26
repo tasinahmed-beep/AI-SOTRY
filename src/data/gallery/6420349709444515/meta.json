@@ -1,0 +1,23 @@
+{
+  "id": "6420349709444515",
+  "file": "gemini-6420349709444515.png",
+  "title": "The Immortal Baker's Sakura Hearth",
+  "prompt": "(masterpiece), (best quality), highly detailed, intricate, Fantasy Xianxia style, an ancient, serene immortal grandmother with long silver hair styled with delicate jade and flower pins, wearing flowing pink and blue Hanfu robes. She is kneeling on a woven mat, tending to golden, freshly baked bread loaves arranged around a traditional, circular stone hearth with glowing fire and embers. A majestic, massive cherry blossom (sakura) tree blooms profusely inside the rustic stone kitchen, its canopy draped with glowing paper lanterns. Magical, luminous butterflies flutter around the heat of the fire. A small, adorable red panda companion sits obediently nearby. The kitchen opens through a large archway to a stunning view of a Xianxia landscape featuring floating mountains and misty clouds. Cozy ambient light, vertical orientation (9:16).",
+  "negativePrompt": "lowres, bad hands, poorly drawn face, mutated, worst quality, watermark, signature, blurry, jpeg artifacts, missing limbs, deformed, modern house, western style, non-asian setting",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Grandmother",
+    "Immortal",
+    "Sakura Tree",
+    "Baking",
+    "Red Panda",
+    "Floating Islands",
+    "Magical Kitchen",
+    "Chinese Fantasy",
+    "Traditional Robes"
+  ]
+}

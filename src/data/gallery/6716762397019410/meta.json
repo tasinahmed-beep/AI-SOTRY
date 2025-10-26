@@ -1,0 +1,22 @@
+{
+  "id": "6716762397019410",
+  "file": "gemini-6716762397019410.png",
+  "title": "The Spotlight Soloist",
+  "prompt": "(masterpiece), best quality, high resolution, detailed anime illustration, 9:16 aspect ratio, a full body portrait of a beautiful young woman standing center stage, playing a wooden violin solo, long flowing auburn hair, intense focus, she is wearing a crisp white wide-sleeve blouse, black high-waisted trousers, and black boots, dramatic overhead spotlight creating strong contrast and deep shadows, volumetric lighting, dust particles floating in the light beam, empty grand concert hall auditorium in the dark background, rows of red seating receding into darkness, subtle glowing musical notes floating near the violin, Modern Anime style, expressive eyes.",
+  "negativePrompt": "lowres, worst quality, blurry, ugly, sketch, watermark, signature, multiple limbs, extra fingers, poor anatomy, deformed hands, monochrome, grayscale, low contrast, text.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Anime Girl",
+    "Stage Performance",
+    "Spotlight",
+    "Rehearsal",
+    "Empty Theater",
+    "Dramatic Lighting",
+    "Music",
+    "9:16"
+  ]
+}

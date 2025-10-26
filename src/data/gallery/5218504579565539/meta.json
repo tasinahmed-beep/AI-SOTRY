@@ -1,0 +1,23 @@
+{
+  "id": "5218504579565539",
+  "file": "gemini-5218504579565539.png",
+  "title": "Cozy Hearth: Grandma's Bread",
+  "prompt": "(masterpiece), (best quality), highly detailed, beautiful detailed eyes, Modern Anime Style, slice of life illustration, a heartwarming scene of a gentle elderly woman (grandmother) with soft gray hair, wearing a cozy pink cable-knit sweater and a floral apron, happily kneading soft white bread dough on a rustic wooden countertop. Sunlight streams warmly through a large window on the left. In the background, a traditional stone and brick hearth oven with a warm fire blazing. Shelves are filled with various ingredients and jars. A cute tabby cat is curled up asleep next to a freshly baked loaf of bread on a metal cooling rack. Steaming mug of tea nearby. Cozy domestic atmosphere, soft shading, volumetric light, 9:16 vertical aspect ratio.",
+  "negativePrompt": "worst quality, low quality, bad hands, bad anatomy, missing fingers, extra limbs, ugly, blurred, distorted, messy, watermark, signature, jpeg artifacts, realistic photo, 3D render, cross-eyed",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "anime slice of life",
+    "cozy kitchen",
+    "grandmother",
+    "baking bread",
+    "kneading dough",
+    "tabby cat",
+    "warm lighting",
+    "traditional oven",
+    "domestic scene",
+    "9:16"
+  ]
+}

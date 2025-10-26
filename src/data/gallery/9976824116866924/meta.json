@@ -1,0 +1,23 @@
+{
+  "id": "9976824116866924",
+  "file": "gemini-9976824116866924.png",
+  "title": "Celestial Bamboo Feast in the Floating Peaks",
+  "prompt": "(masterpiece), (best quality), highly detailed Donghua Chinese illustration, traditional Chinese art style, Wuxia atmosphere, 9:16 vertical composition. A chubby, adorable giant panda sitting serenely on mossy stones by a clear stream, happily eating a large stalk of fresh bamboo. The scene is dominated by towering green bamboo stalks in the foreground. In the misty background, layered, stylized karst mountains rise into the clouds, featuring intricate traditional Chinese pagodas, temples, and red-roofed buildings nestled among the peaks. Ethereal white mist and swirling clouds envelop the landscape. Several elegant red-crowned cranes fly gracefully among the clouds. Soft jade and teal color palette, glowing golden motes of light, cinematic lighting, ink wash aesthetic.",
+  "negativePrompt": "deformed, lowres, blurry, worst quality, low quality, jpeg artifacts, poor composition, sketch, monochrome, missing limbs, watermark, text, signature, crowded background, chaotic composition",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Bamboo Forest",
+    "Chinese Landscape",
+    "Xianxia",
+    "Misty",
+    "Pagoda",
+    "Red-Crowned Crane",
+    "Ink Wash",
+    "Vertical Wallpaper",
+    "Asian Fantasy"
+  ]
+}

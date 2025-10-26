@@ -1,0 +1,23 @@
+{
+  "id": "3572330427598938",
+  "file": "gemini-3572330427598938.png",
+  "title": "Silent Symphony: Comic Book Stage Solo",
+  "prompt": "(masterpiece), (best quality), highly detailed, retro comic book art style, 9:16 aspect ratio, dramatic stage lighting, high contrast ink lines, halftone texture. A powerful female violinist in a tattered black outfit standing in a dynamic pose, intensely playing her violin on a dusty, empty wooden theater stage. Bright, glowing electric blue energy waves stream horizontally from the instrument, visualizing the music. Viewpoint looking up from the foreground, showing multiple rows of dark, empty seats. Red velvet stage curtains frame the scene. Gritty, moody atmosphere, bold outlines.",
+  "negativePrompt": "lowres, error, worst quality, bad anatomy, deformed, extra limbs, watermark, text overlay, signature, blurry, low contrast, 3D render, CGI, photorealism, multiple people.",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Comic Book Art",
+    "Empty Theater",
+    "Stage Performance",
+    "Music Energy",
+    "Dramatic Lighting",
+    "9:16 Portrait",
+    "Gritty Style",
+    "Solo Performance",
+    "Acoustic"
+  ]
+}

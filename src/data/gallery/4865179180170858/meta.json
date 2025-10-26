@@ -1,0 +1,23 @@
+{
+  "id": "4865179180170858",
+  "file": "gemini-4865179180170858.png",
+  "title": "Culinary Action: The Flying Pizza Dough Master",
+  "prompt": "(masterpiece), best quality, detailed illustration, (Modern Anime style:1.3), 16:9 aspect ratio, a dynamic full-body shot of a young, energetic male chef, white coat, black apron, expertly tossing a large perfect pizza dough high into the air, swirling steam trails capturing the movement, vibrant culinary action scene, brightly lit professional kitchen setting, massive traditional brick pizza oven glowing with roaring fire in the background, stainless steel counters, multiple delicious pizzas prepared on the counters, subtle high-tech digital monitors displaying cooking data, secondary background characters (kitchen staff) working diligently, dramatic side lighting, high contrast, highly detailed background.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, low quality, distortion, poorly drawn, blurry, jpeg artifacts, monochrome, watermark, text, signature, easynegative, simple background, mutated hand, missing limbs, extra fingers, cartoon, 3d render",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime",
+    "Chef",
+    "Pizza",
+    "Cooking",
+    "Brick Oven",
+    "Dynamic Pose",
+    "Kitchen",
+    "Food Illustration",
+    "Culinary",
+    "Shonen"
+  ]
+}

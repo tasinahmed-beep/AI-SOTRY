@@ -1,0 +1,22 @@
+{
+  "id": "3961958471446065",
+  "title": "A Grandma's Warm Hearth and Homemade Loaves",
+  "prompt": "(masterpiece), (best quality), detailed illustration, Modern Anime style, 16:9 aspect ratio. A warm, cozy kitchen scene. A sweet, smiling elderly woman (grandmother/obasan) with neatly tied gray hair is kneading fresh bread dough on a wooden countertop. She wears a floral apron and a warm knit sweater. To her right, a traditional stone brick oven holds a loaf baking in the flame. A fluffy white cat with expressive golden eyes sits on a wooden stool nearby. Detailed background showing a large open window overlooking a lush, sunlit cottage garden with pink blossoms. Freshly baked loaves cooling on a rack. Warm volumetric lighting, detailed wooden textures, rustic charm, domestic bliss.",
+  "negativePrompt": "worst quality, low quality, distortion, poorly drawn, blurry, artifacts, ugly, deformed, extra fingers, missing limbs, jpeg artifacts, grayscale, monochrome, sketch, amateur",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "grandmother",
+    "baking",
+    "cozy kitchen",
+    "Modern Anime",
+    "slice of life",
+    "domestic scene",
+    "kneading dough",
+    "white cat",
+    "cottagecore",
+    "warm lighting"
+  ]
+}

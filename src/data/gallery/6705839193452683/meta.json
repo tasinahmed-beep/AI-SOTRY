@@ -1,0 +1,23 @@
+{
+  "id": "6705839193452683",
+  "file": "gemini-6705839193452683.png",
+  "title": "Desert Caravan at Golden Hour",
+  "prompt": "(masterpiece, best quality, hyperdetailed, photorealistic:1.2), a vast desert scene in 16:9 aspect ratio, featuring massive red-orange sand dunes. A long camel caravan of cloaked travelers crosses a high dune ridge, walking in a single file line. Dramatic golden hour lighting, the sun is low on the horizon casting extremely long, sharp shadows across the textured sand. Atmospheric haze and volumetric light highlight the warm tones. Rugged sandstone mountain formations (buttes/mesas) visible in the distant background. Highly detailed sand texture, footprints, cinematic lighting, ultra quality.",
+  "negativePrompt": "(worst quality, low quality, normal quality), low resolution, blurry, grainy, jpeg artifacts, signature, watermark, deformed, missing limbs, extra fingers, monochrome, unrealistic, 3D render, cartoon, illustration, drawing, saturated colors",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Desert",
+    "Caravan",
+    "Camels",
+    "Red Dunes",
+    "Golden Hour",
+    "Photorealistic",
+    "Sunset",
+    "Travel",
+    "Wadi Rum",
+    "Cinematic"
+  ]
+}

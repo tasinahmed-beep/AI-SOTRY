@@ -1,0 +1,23 @@
+{
+  "id": "7235540730051283",
+  "file": "gemini-7235540730051283.png",
+  "title": "Beacon in the Tempest",
+  "prompt": "(masterpiece), best quality, highly detailed 2D Anime illustration of a dramatic stormy scene, (9:16 vertical aspect ratio). A tall, white lighthouse with an illuminated lantern stands atop rugged, dark cliffs. Heavy rain pours down from turbulent, dark storm clouds. Multiple bright lightning bolts strike the sky and illuminate the raging ocean below. Massive white waves crash violently against the base of the rocky cliffs. In the foreground, a small, distressed fishing boat struggles against the high, churning waves. Dramatic lighting, high contrast, official 2D Anime artwork style, thick outlines, high detail.",
+  "negativePrompt": "low quality, worst quality, monochrome, signature, watermark, blurry, extra limbs, inaccurate anatomy, cartoon, 3D render, photorealistic, simple background, ugly, distorted proportions, text, poorly drawn hands",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Lighthouse",
+    "Storm",
+    "Cliffs",
+    "Ocean",
+    "Lightning",
+    "Heavy Rain",
+    "Anime Illustration",
+    "Seascape",
+    "Boat",
+    "Dramatic"
+  ]
+}

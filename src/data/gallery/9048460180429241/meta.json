@@ -1,0 +1,23 @@
+{
+  "id": "9048460180429241",
+  "file": "gemini-9048460180429241.png",
+  "title": "Golden Dawn Fishing Expedition",
+  "prompt": "(masterpiece), (best quality), ultra detailed, cinematic lighting, modern anime style, a full-body shot of a determined young male fisherman casting a spinning rod mid-action, standing in shallow, reflective water. He wears a blue and grey tactical fishing vest and boots. The scene is set at a misty mountain lake at sunrise. A large, bright golden sun is rising over distant mountains and pine trees. Strong, vibrant golden reflection path on the water surface. Pastel pink and orange clouds. The fishing lure glows faintly in the air, emphasizing the casting motion. Perfect water reflection, vertical aspect ratio (9:16).",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, watermark, signature, text, blurry, missing limbs, extra fingers, poorly drawn hands, grayscale, monochrome, noise, haze, cartoon, chibi",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Modern Anime",
+    "Sunrise",
+    "Fishing",
+    "Casting line",
+    "Misty lake",
+    "Water reflection",
+    "Outdoor adventure",
+    "Pine forest",
+    "Vertical image",
+    "Golden hour"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2518968811109672",
+  "file": "gemini-2518968811109672.png",
+  "title": "Powdered Sugar Perfection",
+  "prompt": "(Masterpiece), best quality, highly detailed CG illustration, 3D anime style, a cheerful young female baker with short brown hair and amber eyes, wearing a clean white toque and a cream-colored apron, standing in a sunlit artisan bakery. She is smiling brightly while using a metal sieve to dust a large pile of perfect, golden-brown croissants with fine powdered sugar. Soft volumetric lighting, visible sugar dust particles floating in the air, warm interior background featuring wooden counters, shelves stocked with artisan bread baskets, and bright sunlight streaming through a large arched window. Shallow depth of field, focused composition. 9:16 aspect ratio.",
+  "negativePrompt": "(Worst quality), low quality, blurry, low resolution, bad anatomy, deformed, extra limbs, mutated hands, poorly drawn face, disfigured, text, watermark, signature, monochrome, dark lighting, poorly rendered food.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime girl",
+    "Baker",
+    "Croissants",
+    "Bakery interior",
+    "Chef's hat",
+    "Powdered sugar",
+    "Baking",
+    "Food art",
+    "Sunlit",
+    "Vertical"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3634683866873380",
+  "file": "gemini-3634683866873380.png",
+  "title": "Yakimorokoshi Under Neon Rain",
+  "prompt": "(masterpiece), (best quality), detailed 2D anime digital painting, 9:16 aspect ratio, a heartwarming scene of a Japanese street vendor grilling yakimorokoshi (corn on the cob) under a small canopy on a heavy rainy night. The middle-aged vendor is smiling warmly while turning the corn on a hot charcoal grill. Warm illumination from the stall contrasts sharply with the cool, dark blue rain-soaked urban street. Blurred background featuring neon signs (Ramen shop) and people walking with black umbrellas. Cinematic lighting, volumetric fog, high detail, volumetric rain.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, low quality, normal quality, blurry, watermark, signature, text, error, extra limbs, deformed, gross, monochrome, grayscale, amateur drawing, ugly face",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street Vendor",
+    "Rainy Night",
+    "Japanese Street Food",
+    "Grilling",
+    "Yakimorokoshi",
+    "Urban Scene",
+    "Anime Style",
+    "Warm Lighting",
+    "Detailed Illustration",
+    "Charcoal Grill"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3930898544642878",
+  "file": "gemini-3930898544642878.png",
+  "title": "Dawn Chronicles: The 4th Wall Graffiti",
+  "prompt": "(masterpiece), (best quality), highly detailed, Comic Book style, 16:9 aspect ratio. A dramatic, wide shot of a street artist in a black hoodie standing in a derelict lot at sunrise. The artist is completing a massive mural painted on a crumbling brick wall. The mural depicts a vibrant retro-futuristic cityscape with flying vehicles and a powerful superhero figure in a blue suit and red cape, crackling with electric energy. Include bold comic book sound effects 'WHOOSH CRACKLE!' and a speech bubble. Intense golden sunburst peaking over the wall, dramatic dawn sky with orange and purple clouds, stark shadows, thick black outlines, ben-day dot textures.",
+  "negativePrompt": "low resolution, poorly drawn, blurry, artifacts, watermark, signature, ugly, tiling, duplicate, worst quality, monochrome, realistic lighting, photorealism, missing limbs, deformed hands, multiple views, text errors.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "Superhero",
+    "Sunrise",
+    "Graffiti",
+    "Urban Decay",
+    "Retro-Futurism",
+    "Comic Panel",
+    "Dynamic Composition"
+  ]
+}

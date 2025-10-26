@@ -1,0 +1,23 @@
+{
+  "id": "3550741749324589",
+  "file": "gemini-3550741749324589.png",
+  "title": "Mountain Melody Behind the Moon Gate",
+  "prompt": "(masterpiece), (best quality), highly detailed Donghua Chinese illustration, full body portrait of a graceful young Chinese woman playing a modern violin, centered on a dimly lit, empty traditional Chinese theater stage. She wears an intricate, flowing red Hanfu dress adorned with golden cloud embroidery. Dramatic cinematic lighting focuses on the performer. The background is dominated by a large circular window (moon gate) framing a breathtaking traditional Chinese ink wash landscape painting of misty blue mountains, tranquil rivers, and ancient pine trees. Dark wooden architecture, hanging red lotus lanterns, empty rows of red velvet seats visible in the foreground. Elegant pose, serene expression, soft particles and floating petals effect, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, error, bad anatomy, deformed, poorly drawn hands, missing limbs, jpeg artifacts, blurry, watermark, signature, modern clothing, western clothing, ugly, cartoon, sketch, monochrome, grayscale",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Hanfu",
+    "Donghua Chinese",
+    "Traditional Chinese Art",
+    "Moon Gate",
+    "Ink Wash Landscape",
+    "Red Dress",
+    "Chinese Theater",
+    "Music Performance",
+    "Fantasy Illustration"
+  ]
+}

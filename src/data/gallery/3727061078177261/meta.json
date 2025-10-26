@@ -1,0 +1,23 @@
+{
+  "id": "3727061078177261",
+  "file": "gemini-3727061078177261.png",
+  "title": "The Cultivator's Celestial Rose Garden",
+  "prompt": "(Masterpiece), (best quality), high detail, cinematic composition, 16:9 aspect ratio. A handsome young male cultivator, dressed in flowing light jade-green Xianxia robes with intricate detailing, meticulously watering vibrant red and pink roses in an ancient stone courtyard. He holds an ornate silver watering can. The courtyard features high, ancient stone walls covered in climbing rose vines and a traditional circular moon gate entrance. Through the moon gate, a serene landscape with a cascading waterfall and clear stream is visible. In the ethereal background sky, dramatic traditional Chinese temples and pagodas rest atop majestic floating islands (sky mountains), with faint glowing runes in the air. Soft, volumetric sunset lighting bathes the scene in golden hues. Ethereal white butterflies flutter around the blossoms. Fantasy Xianxia style, highly detailed environment, epic scale.",
+  "negativePrompt": "(deformed, distorted, disfigured, poorly drawn, bad anatomy, missing limbs, extra fingers, blurry, low resolution, ugly, watermark, text, signature, cartoon, anime, 3d render, plastic, low contrast, oversaturated, tiling)",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fantasy Xianxia",
+    "Cultivator",
+    "Chinese architecture",
+    "Rose garden",
+    "Floating islands",
+    "Moon gate",
+    "Hanfu robes",
+    "Tranquil",
+    "Stone courtyard",
+    "Ethereal landscape"
+  ]
+}

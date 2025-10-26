@@ -1,0 +1,23 @@
+{
+  "id": "1255563164360546",
+  "file": "gemini-1255563164360546.png",
+  "title": "Dawn Cast over Misty Waters",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, photorealistic cinematic photograph of a solitary fisherman standing on a large mossy rock, casting a spinning rod over a vast, still mountain lake at dawn. The fisherman wears a khaki jacket and a conical straw hat, silhouetted against a brilliant sunrise horizon featuring vibrant atmospheric gradients of orange, gold, purple, and blue. Low fog and mist cling to the dark, rolling mountains in the distance. A small dinghy boat with an outboard motor floats moored nearby. Perfect detailed reflections on the calm water surface. Golden hour lighting, high contrast, extreme clarity, 16:9 aspect ratio.",
+  "negativePrompt": "deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limbs, ugly, gross, blurry, noisy, low resolution, amateur, jpeg artifacts, watermark, signature, text, cropped, out of frame, multiple fishing lines, broken rod",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "fishing",
+    "dawn",
+    "sunrise",
+    "lake",
+    "mist",
+    "silhouette",
+    "conical hat",
+    "landscape",
+    "serene",
+    "photorealism"
+  ]
+}

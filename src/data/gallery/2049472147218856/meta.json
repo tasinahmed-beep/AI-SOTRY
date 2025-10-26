@@ -1,0 +1,23 @@
+{
+  "id": "2049472147218856",
+  "file": "gemini-2049472147218856.png",
+  "title": "The Botanical Caretaker Bot",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 aspect ratio, A full body shot of a cute, round, white maintenance robot (android) happily watering numerous green houseplants with a light blue watering can. The robot has a simple digital screen face displaying a friendly blue smile and eyes, a small antenna, and blue accents. The scene is a cozy, brightly lit artist's studio or sunroom, filled with diverse potted plants, hanging macrame baskets, and plants on wooden shelves. Sunlight streams through a large arched window on the left, casting warm shadows and subtle dust motes (sparkles) in the air. A small floral rug lies on the wooden floor. An easel displaying a gentle landscape painting stands nearby. Pastel color palette, soft shading, clean lines, detailed 2D anime illustration, slice of life, wholesome atmosphere.",
+  "negativePrompt": "ugly, deformed, noise, blurry, low resolution, worst quality, sketch, signature, watermark, extra limbs, bad anatomy, realistic, 3D render, dark colors, grayscale",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Robot",
+    "Houseplants",
+    "Studio",
+    "Slice of Life",
+    "Anime Illustration",
+    "Gardening",
+    "Cute Character",
+    "Sunlight",
+    "Vertical Composition",
+    "Lo-Fi Aesthetic"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8315161756501695",
+  "file": "gemini-8315161756501695.png",
+  "title": "Morning Chore in the Rose Courtyard",
+  "prompt": "(masterpiece), best quality, highly detailed, a beautiful young anime girl acting as a gardener, standing in a sunlit stone courtyard, watering vibrant red and white roses with a metal watering can. She wears denim overalls, a straw hat with flowers, and a floral blouse. The background features ancient stone walls covered in climbing vines, large classical archways opening to a lush exterior garden, and a central tiered fountain with a cherub statue. Soft volumetric lighting, tranquil atmosphere, soft color palette, clean lineart, 2D Anime illustration, slice of life scene, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, bad anatomy, bad hands, missing fingers, deformed, distorted, blurry, jpeg artifacts, monochrome, poorly drawn, signature, text, watermark, extra limbs, multiple people.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Gardener",
+    "Anime Girl",
+    "Courtyard",
+    "Roses",
+    "Fountain",
+    "Slice of Life",
+    "Stone Architecture",
+    "2D Illustration",
+    "Pastel Colors",
+    "Walled Garden"
+  ]
+}

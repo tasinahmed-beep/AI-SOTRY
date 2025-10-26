@@ -1,0 +1,22 @@
+{
+  "id": "5571367549769877",
+  "file": "gemini-5571367549769877.png",
+  "title": "Beacon in the Thunderstorm",
+  "prompt": "(masterpiece), (best quality), highly detailed photorealistic render, an epic vertical shot (9:16) of a solitary white lighthouse with a red lantern cap, standing firmly on rugged, dark granite cliffs during a severe thunderstorm. Massive, turbulent deep-blue ocean waves crash violently against the rocks, generating dramatic white sea spray and mist. The sky is dominated by dark, swirling storm clouds with heavy rain streaks visible. A prominent lightning bolt illuminates the sea in the background. The powerful lighthouse beam cuts sharply through the gloom. Moody, dramatic lighting, high contrast, cinematic atmosphere, 8K photorealistic photography.",
+  "negativePrompt": "blurry, low quality, noise, cropped, worst quality, inaccurate, distortion, painting, illustration, cartoon, sketch, watermark, signature, multiple limbs, deformed, ugly, flat colors",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Lighthouse",
+    "Stormy sea",
+    "Coastal cliffs",
+    "Thunderstorm",
+    "Photorealism",
+    "Maritime",
+    "Lightning",
+    "Dramatic",
+    "9:16 aspect ratio"
+  ]
+}

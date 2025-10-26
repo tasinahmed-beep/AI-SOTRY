@@ -1,0 +1,23 @@
+{
+  "id": "1168927488628398",
+  "file": "gemini-1168927488628398.png",
+  "title": "Celestial Traveler of the Cosmic Tree",
+  "prompt": "(masterpiece), (best quality), highly detailed, UHD, 16:9. A breathtaking Fantasy Xianxia illustration depicting a graceful female Celestial Traveler, wearing intricate blue and red flowing cultivator robes layered over a subtle futuristic astronaut suit and helmet. She floats weightlessly within a majestic circular cosmic window/portal, holding a glowing pink electric lotus staff. The background inside the portal features a vibrant purple and blue nebula, swirling galaxies, floating islands with intricate ancient palaces (pagodas), and flying mythological birds (phoenix). The portal itself is deeply embedded within the colossal, gnarled trunks of ancient trees (World Tree aesthetic) surrounded by ethereal waterfalls, stylized flowing Xianxia clouds, and crystal formations. Magical energy (qi) lines, dramatic lighting, epic scale, vibrant colors.",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, poorly drawn face, disfigured, monochrome",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Astronaut",
+    "Celestial",
+    "World Tree",
+    "Nebula",
+    "Floating Island",
+    "Lotus",
+    "Digital Painting",
+    "Fantasy Fusion",
+    "Cultivator"
+  ]
+}

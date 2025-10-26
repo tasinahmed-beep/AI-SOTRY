@@ -1,0 +1,23 @@
+{
+  "id": "2416502840024478",
+  "file": "gemini-2416502840024478.png",
+  "title": "Zen Under the Cascade",
+  "prompt": "(masterpiece), (best quality, highly detailed comic book panel), a serene bald Buddhist monk in a vibrant orange robe meditating in the lotus position (padmasana) on a mossy rock directly under a colossal, powerful waterfall. The scene is set in a secluded, rugged mountain valley with steep, dark rocky cliffs and lush green foliage, framed by distant snow-capped peaks. Dramatic, powerful lighting with golden sunbeams and speed lines radiating from above. The monk is centered, displaying intense concentration with a subtle glowing aura around his head. Classic comic book art style, featuring thick black ink outlines, dynamic composition, bright flat colors, and stylized sound effects ('ROOOAR' for the waterfall, 'OMMMMM' near the monk). Wide angle shot, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, cartoon, worst quality, monochrome, ugly, blurry, poorly drawn hands, signature, text artifacts, border, grainy, low saturation, realism, photorealistic",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Comic Panel",
+    "Buddhism",
+    "Mountain Scenery",
+    "Sound Effects",
+    "Ink Outlines",
+    "Zen",
+    "16:9"
+  ]
+}

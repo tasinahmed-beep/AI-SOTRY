@@ -1,0 +1,23 @@
+{
+  "id": "9330243640680465",
+  "file": "gemini-9330243640680465.png",
+  "title": "Cyberpunk Serenade Under the Skyway",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning visual art, Modern Anime (Cyberpunk style), 9:16 aspect ratio, a lone beautiful female violinist centered, short silver hair, wearing a long white trench coat and ripped black jeans, playing a luminous blue/cyan violin, dramatic cinematic lighting, extreme vertical composition looking up at massive infrastructure, standing on a wet, reflective street stage under multi-layered elevated highways, heavy rain falling, neon city lights reflecting off the pavement, crowded audience holding umbrellas, graffiti on concrete pillars, futuristic high-rise buildings and holographic advertisements in the background, blue and magenta color palette, volumetric light, flying vehicles (hovercars).",
+  "negativePrompt": "lowres, bad quality, blurry, deformed, worst quality, distortion, missing limbs, extra fingers, malformed hands, text, watermark, signature, error, out of frame, monochrome, sepia",
+  "style": "Modern Anime (Cyberpunk)",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime",
+    "Cyberpunk",
+    "Violinist",
+    "Rain",
+    "Neon City",
+    "Elevated Highway",
+    "Street Performance",
+    "Urban",
+    "Trench Coat",
+    "Vertical Composition"
+  ]
+}

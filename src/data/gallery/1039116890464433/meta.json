@@ -1,0 +1,23 @@
+{
+  "id": "1039116890464433",
+  "file": "gemini-1039116890464433.png",
+  "title": "Powder and POW! - Comic Book Cliff Jump",
+  "prompt": "(masterpiece), best quality, highly detailed, 8k, A dynamic full-body illustration in vibrant Comic Book style of a male snowboarder mid-air, launching off a jagged, snow-covered mountain cliff. The snowboarder is wearing a blue jacket and yellow pants. Utilize a strong Pop Art aesthetic with thick black outlines, bold primary colors, and noticeable halftone shading (Ben-Day dots) in the sky and snow. Include dynamic speed lines and dramatic comic book sound effects like 'WHOOSH!' and 'POW!' rendered in bold, impact text. Background features steep snowy peaks and a stylized sunburst against a clear blue sky. Wide shot, 16:9 aspect ratio.",
+  "negativePrompt": "blurry, low resolution, worst quality, deformed, messy, signature, watermark, dull colors, photorealistic, realistic lighting, extra limbs, bad anatomy, grayscale, painting, oil on canvas",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Snowboarding",
+    "Comic Book",
+    "Pop Art",
+    "Extreme Sports",
+    "Mountain",
+    "Cliff Jump",
+    "Halftone",
+    "Ben-Day Dots",
+    "Action",
+    "Dynamic"
+  ]
+}

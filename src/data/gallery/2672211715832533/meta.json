@@ -1,0 +1,22 @@
+{
+  "id": "2672211715832533",
+  "file": "gemini-2672211715832533.png",
+  "title": "Arctic Fox Trot: Cold Fun Comic Panel",
+  "prompt": "(masterpiece), (best quality), highly detailed, full body shot of a vibrant red fox trotting energetically through deep fresh snow in a dense pine forest, dramatic moonlit night scene under a huge, stylized full moon, heavy snowfall. Rendered in the style of Vintage Comic Book Art, featuring thick black outlines, bold primary colors (orange, blue, white), prominent halftone dot patterns (Ben-Day dots texture), dynamic movement and action lines. Include stylized comic book elements like panel borders, speech bubbles containing dialogue (\"COLD BUT FUN!\"), and large, stylized sound effects/onomatopoeia such as 'WHOOSH!', 'POW!', and 'BRRR!'. Wide 16:9 aspect ratio, retro 1960s aesthetic.",
+  "negativePrompt": "lowres, disfigured, poorly drawn, blurry, artifacts, misplaced text, multiple frames, signature, watermark, simple colors, low saturation, modern comic style, bad anatomy, cartoon, drawing, sketch",
+  "style": "Vintage Comic Book Art",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Red Fox",
+    "Comic Book",
+    "Winter Scene",
+    "Halftone Dots",
+    "Onomatopoeia",
+    "Snowy Forest",
+    "Full Moon",
+    "Retro Art",
+    "16:9 Aspect Ratio"
+  ]
+}

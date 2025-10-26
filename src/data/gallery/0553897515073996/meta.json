@@ -1,0 +1,22 @@
+{
+  "id": "0553897515073996",
+  "title": "Cherry Blossom Dreamer on Floating Isles",
+  "prompt": "(masterpiece), best quality, ultra detailed 3D render, 3D Anime style, highly detailed character model, cinematic lighting, a beautiful young woman with long flowing pink hair, detailed light blue dress with white lace trim, puff sleeves, delicate gold necklace with a ring pendant. She is smiling brightly, looking directly at the viewer, hands gently clasped together near her chest. Whimsical fantasy background of floating islands (sky islands) covered in vibrant pink cherry blossom trees (Sakura), bright blue sky, soft volumetric clouds, depth of field, full vertical portrait, 9:16 aspect ratio.",
+  "negativePrompt": "(low quality), (worst quality), lowres, artifacts, blurry, bad anatomy, deformed, missing limbs, extra limbs, mutated hands, multiple heads, monochrome, grayscale, signature, watermark, text, poorly drawn face, deformed dress texture.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "3D Anime",
+    "Pink Hair",
+    "Sakura",
+    "Floating Island",
+    "Whimsical",
+    "Cute",
+    "Detailed Dress",
+    "Waifu",
+    "High Quality Render",
+    "Portrait"
+  ]
+}

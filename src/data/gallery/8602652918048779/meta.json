@@ -1,0 +1,22 @@
+{
+  "id": "8602652918048779",
+  "title": "Urban Dawn: The Golden Hour Muralist",
+  "prompt": "(masterpiece), (photorealistic:1.2), hyperdetailed, 8k rendering, vertical composition (9:16). A solitary street artist wearing a fedora and paint-splattered work clothes stands on a metal scaffolding, focused on spray painting a large, vibrant, graphic mural on a dark red brick wall. The mural depicts a stylized cityscape silhouette with dynamic lines, glowing with orange and yellow tones contrasted against deep blue areas. The scene is set in a cobblestone alleyway at sunrise. Dramatic golden hour lighting, intense side light creating long shadows across the wet pavement. Atmospheric perspective, visible mist/haze, subtle glowing particles in the air. Scattered spray paint cans and equipment on the ground. A vintage lamppost stands silhouetted against the bright, hazy morning sky and distant city skyline.",
+  "negativePrompt": "bad hands, blurry, low resolution, inaccurate colors, cartoon, sketch, ugly, distorted perspective, tiling, watermark, signature, text, people in background, low contrast, oversaturated",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street art",
+    "Mural",
+    "Graffiti",
+    "Sunrise",
+    "Golden hour",
+    "Urban",
+    "Cityscape",
+    "Photorealistic",
+    "Spray paint",
+    "Alleyway"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8884840120979807",
+  "title": "The Emerald Tube of Wonder",
+  "prompt": "(masterpiece), (best quality), highly detailed CGI animation, Pixar style movie poster quality, 3D render, a breathtaking vertical 9:16 shot of a young male surfer riding deep inside a massive, perfectly curled barrel wave (tube), the wave is vibrant emerald green and turquoise, semi-transparent, revealing diverse marine life swimming within the tube (colorful fish, dolphins, jellyfish), golden hour sunset lighting, the sun is positioned directly through the center of the wave's tunnel, casting dramatic sun rays across the pink and purple sky, vibrant water spray and foam splashing, distant tropical island with volcanic mountains and palm trees visible in the background, cinematic lighting, volumetric light, highly reflective wet ocean surface, stunning photorealistic detail in the stylized environment.",
+  "negativePrompt": "ugly, deformed, noise, blurry, low resolution, worst quality, mutated, extra limbs, poorly drawn hands, grayscale, monochrome, sketch, amateur, signature, text, watermark, bad anatomy, flat lighting.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Barrel Wave",
+    "Pixar Style",
+    "Sunset",
+    "CGI Animation",
+    "Tropical",
+    "Marine Life",
+    "Emerald Water",
+    "Adventure",
+    "Golden Hour"
+  ]
+}

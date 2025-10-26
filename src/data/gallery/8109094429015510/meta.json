@@ -1,0 +1,23 @@
+{
+  "id": "8109094429015510",
+  "file": "gemini-8109094429015510.png",
+  "title": "Grandma's Hearth Bread",
+  "prompt": "(masterpiece), (best quality), highly detailed graphic novel illustration, 1950s retro comic book style, thick black outlines, halftone shading, vibrant colors. A cozy, rustic kitchen interior, centered on a smiling grandmother (elderly woman) with curly grey hair wearing a white apron, happily kneading a large mound of bread dough on a worn wooden countertop. In the background, a massive brick hearth oven with roaring fire. Fresh loaves cooling on a rack near a window with red gingham checkered curtains. Detailed composition showing ingredients like flour, yeast jars, and eggs scattered nearby. A small tabby cat sleeps peacefully near the hearth. Speech bubble included: 'JUST LIKE GRANDPA USED TO MAKE!'. Full upper torso shot. 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, blurry, disfigured, poorly drawn, extra limbs, watermark, text (unless requested), worst quality, cropped, signature, poorly lit, ugly, distorted perspective, missing ingredients, modern oven",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book",
+    "Baking",
+    "Grandmother",
+    "Kneading Dough",
+    "Cozy Kitchen",
+    "Rustic",
+    "Hearth",
+    "Nostalgia",
+    "Cat",
+    "1950s Retro"
+  ]
+}

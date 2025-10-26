@@ -1,0 +1,21 @@
+{
+  "id": "4913882735798364",
+  "file": "gemini-4913882735798364.png",
+  "title": "Alpine Air Jump",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic 3D render, Pixar Style animation, 9:16 vertical composition. A dynamic, close-up shot of a cheerful young male snowboarder mid-air, executing a massive jump off a jagged, snow-covered alpine cliff edge. He is wearing vibrant teal jacket and orange snow pants, reflective goggles pushed over his eyes. Snow powder sprays dynamically from the board. The background features towering, stylized, snow-capped peaks and a deep rocky canyon lined with pristine pine trees. Bright daylight, clear blue sky with puffy clouds, cinematic lighting, extreme depth of field.",
+  "negativePrompt": "(low quality), (blurry), watermark, text, signature, low resolution, bad anatomy, deformed, mutated, worst quality, noise, grain, low contrast, unrealistic shading, monochrome, skiing, broken board.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Snowboarding",
+    "3D Animation",
+    "Winter Sports",
+    "Alpine Landscape",
+    "Extreme Jump",
+    "Cartoon Character",
+    "Cliff Drop",
+    "Vertical Composition"
+  ]
+}

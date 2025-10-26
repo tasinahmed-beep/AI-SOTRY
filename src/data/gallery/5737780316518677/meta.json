@@ -1,0 +1,23 @@
+{
+  "id": "5737780316518677",
+  "file": "gemini-5737780316518677.png",
+  "title": "Xianxia Maiden's Sunset Waltz",
+  "prompt": "(masterpiece), (best quality), high resolution, ultra detailed digital painting, 16:9 aspect ratio. A stunning full-body portrait of a beautiful Xianxia immortal maiden, graceful Chinese dancer, mid-pose on the tiled rooftop of an ancient pagoda. She wears flowing white and cyan Hanfu robes, elaborate headdress, long dark hair sweeping. Ethereal silk ribbons swirl around her body, glowing magic ring of energy between her hands. Dramatic wide shot of a majestic Chinese mountain city submerged in a sea of clouds below, arched bridges connecting towers. Vibrant sunset sky, golden hour lighting, cinematic atmosphere, volumetric light, highly detailed architecture, Fantasy Xianxia style.",
+  "negativePrompt": "low quality, worst quality, text, signatures, watermark, blurry, deformed, mutated, extra limbs, bad anatomy, grayscale, monochrome, broken fingers, jpeg artifacts, ugly, poorly drawn face, disfigured",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Chinese Fantasy",
+    "Immortal Maiden",
+    "Dancer",
+    "Sunset",
+    "Pagoda",
+    "Hanfu",
+    "Cloud Sea",
+    "Ethereal",
+    "Digital Painting"
+  ]
+}

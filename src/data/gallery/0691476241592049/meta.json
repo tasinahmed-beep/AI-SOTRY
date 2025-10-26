@@ -1,0 +1,23 @@
+{
+  "id": "0691476241592049",
+  "file": "gemini-0691476241592049.png",
+  "title": "Caravan of the Crimson Sands: Ascent to the Sky Citadel",
+  "prompt": "(masterpiece, best quality, ultra detailed illustration, 8k), A majestic Xianxia fantasy desert caravan traversing vast, swirling crimson sand dunes under a dramatic, fiery sunset sky. The procession features numerous ornate, ancient East Asian land chariots and palanquins, detailed with stylized phoenix and eagle carvings and flowing red and blue silk banners. A colossal, powerful dark winged dragon or griffon, carrying a detailed tiered pagoda structure on its back, flies overhead, leading the way. The ground vehicles are surrounded by glowing gold magical spirits and robed cultivator figures. In the far background, a brilliant, towering golden sky citadel is nestled within rocky peaks, illuminated by inner light. Dynamic lighting, deep shadows, high contrast, atmospheric perspective, high angle aerial view, highly detailed artwork, 9:16 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, low resolution, bad hands, distorted anatomy, fewer legs, extra limbs, ugly, monochrome, jpeg artifacts, signature, watermark, text, out of frame, error, missing details, plain background.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Desert Caravan",
+    "Crimson Dunes",
+    "Winged Dragon",
+    "Flying Chariot",
+    "Sky Citadel",
+    "Sunset",
+    "Fantasy Architecture",
+    "Mythical Beasts",
+    "Detailed Illustration"
+  ]
+}

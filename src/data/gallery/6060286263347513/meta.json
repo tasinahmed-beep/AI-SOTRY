@@ -1,0 +1,23 @@
+{
+  "id": "6060286263347513",
+  "file": "gemini-6060286263347513.png",
+  "title": "Rapid Descent: Mountain Bike Manga Action",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 aspect ratio, dynamic action shot of a determined young adult mountain biker racing downhill on a rugged, dusty forest trail. Full suspension bike (red and black), wearing bright orange and blue professional racing suit, full-face helmet, and goggles. Aggressive riding posture, kicking up dirt and dust spray. Towering ancient trees frame the scene, forming a natural archway. Vibrant green foliage and golden sunlight filtering strongly through the canopy (volumetric lighting). In the background, majestic snow-capped mountains are visible under a bright sky. Intricate 2D Anime style, sharp outlines, detailed cell shading, highly dynamic composition, extreme motion blur, prominent speed lines and radial lines emphasizing velocity, stylized Japanese SFX text (onomatopoeia) scattered around the subject, dramatic lighting.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, low detail, text, cross-eyed, helmet distortion",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Mountain Biking",
+    "2D Anime",
+    "Manga Style",
+    "Dynamic Action",
+    "Downhill Racing",
+    "Speed Lines",
+    "Forest Trail",
+    "Extreme Sports",
+    "Vertical Composition",
+    "Volumetric Lighting"
+  ]
+}

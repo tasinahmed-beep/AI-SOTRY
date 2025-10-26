@@ -1,0 +1,23 @@
+{
+  "id": "3983556339360322",
+  "file": "gemini-3983556339360322.png",
+  "title": "Spotlight Rehearsal on an Empty Grand Stage",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, 8k resolution, photorealistic photography, cinematic wide shot (16:9), a young elegant female violinist in a dark blue lace evening gown rehearsing alone on a vast, empty, historical grand theater stage. Dramatic single overhead spotlight illuminates her, casting long, stark shadows on the aged wooden floor. The auditorium seating is dark and empty. High contrast, moody atmosphere, rich texture, professional photo quality.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, low quality, cartoon, sketch",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "violinist",
+    "rehearsal",
+    "theater stage",
+    "dramatic lighting",
+    "spotlight",
+    "classical music",
+    "empty auditorium",
+    "evening gown",
+    "photorealistic",
+    "wide shot"
+  ]
+}

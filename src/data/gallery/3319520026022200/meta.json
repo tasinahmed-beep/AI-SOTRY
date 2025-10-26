@@ -1,0 +1,22 @@
+{
+  "id": "3319520026022200",
+  "file": "gemini-3319520026022200.png",
+  "title": "Rainy Night Sizzle: Hot Roasted Corn",
+  "prompt": "(masterpiece), ((best quality)), detailed comic book panel, a lone street vendor in a hoodie grilling multiple ears of corn on a smoking charcoal barbecue. The scene is set in a bustling, neon-lit Asian city street during a heavy rainstorm at night. Dramatic atmospheric lighting, deep blue and purple hues reflecting on the wet pavement. Intense steam rising from the hot corn. Strong black outlines, visible Ben-Day dot shading, high-contrast inks. Pedestrians holding black umbrellas are silhouetted in the background. Include a prominent speech bubble reading \"HOT ROASTED CORN!\" and onomatopoeia sound effects (SIZZLE, CRACKLE). Aspect ratio 16:9.",
+  "negativePrompt": "deformed, blurry, bad anatomy, disfigured, poorly drawn hands, missing limbs, jpeg artifacts, low quality, grayscale, lack of detail, text error, watermark, signature, painting, photorealistic",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book Art",
+    "Street Vendor",
+    "Rainy Night",
+    "Grilling",
+    "Urban Scene",
+    "Neon Lights",
+    "High Contrast",
+    "Onomatopoeia",
+    "Wet Reflection"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5746599474028771",
+  "file": "gemini-5746599474028771.png",
+  "title": "The Morning Baker's Sweet Touch",
+  "prompt": "(masterpiece), best quality, ultra detailed 2D Anime illustration, a charming young female baker dusting a large tray of golden, freshly baked croissants with fine powdered sugar using a metal sifter, smiling brightly, wearing a white chef's hat and a striped shirt with a clean white apron, cozy bakery kitchen setting, background features a rustic brick oven glowing warmly with fire and stocked wooden shelves holding bread baskets and flour sacks, soft morning lighting, slice of life scene, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, poorly drawn hands, missing fingers, out of frame, blurry, text, watermark, signature, ugly, error, 3D render, photorealistic, CGI.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Baker",
+    "Croissants",
+    "Powdered Sugar",
+    "Bakery",
+    "2D Illustration",
+    "Anime Art",
+    "Slice of Life",
+    "Food Art",
+    "Chef's Hat"
+  ]
+}

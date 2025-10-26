@@ -1,0 +1,23 @@
+{
+  "id": "4138245943732555",
+  "file": "gemini-4138245943732555.png",
+  "title": "Zen Cascade: Mountain Meditation Beneath the Sakura Falls",
+  "prompt": "(masterpiece), (best quality), ultra-detailed 3D Anime illustration, 9:16 vertical aspect ratio. A serene young Buddhist monk in vibrant orange robes meditating in the lotus position (Padmasana) on a large, mossy rock. He is centered directly beneath a massive, powerful waterfall cascading down rocky cliffs. The scene is framed by blooming cherry blossom (Sakura) trees. In the background, majestic snow-capped mountains pierce a bright, clear blue sky. Turquoise water flows around the rock. Ethereal glowing motes of light and soft white butterflies float in the cool mist. Subtle volumetric lighting, tranquil atmosphere, cinematic composition.",
+  "negativePrompt": "worst quality, low quality, low resolution, poorly drawn, deformed, blurry, extra limbs, ugly, signature, watermark, cropped, multiple figures, busy background, dark lighting",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Waterfall",
+    "Anime",
+    "Sakura",
+    "Zen",
+    "Mountains",
+    "Spiritual",
+    "Tranquil",
+    "Vertical"
+  ]
+}

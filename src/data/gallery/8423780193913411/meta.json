@@ -1,0 +1,23 @@
+{
+  "id": "8423780193913411",
+  "file": "gemini-8423780193913411.png",
+  "title": "Zen Master of the Azure Falls and the Water Dragon",
+  "prompt": "(masterpiece), (best quality), highly detailed, 9:16 aspect ratio. A serene, bald young monk wearing saffron and red robes, sitting in a cross-legged meditative pose on a stone perch overlooking a pond. Majestic twin waterfalls cascade down from stylized, misty teal mountains in the background. Flanking the waterfall are vibrant pink cherry blossom (sakura) trees. A translucent, ethereal azure water spirit dragon swirls dynamically around the monk, symbolizing spiritual power. Below, a tranquil pond with swimming koi fish and lily pads. Traditional Chinese landscape painting composition (Shanshui), crisp lines, soft watercolor shading, official Donghua Chinese animation style.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, mutated, text, watermark, signature, ugly, tiling, blurry, low resolution, bad hands, multiple limbs, extra fingers, monochrome, grayscale, western art, oil painting, photorealistic",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Monk",
+    "Meditation",
+    "Water Dragon",
+    "Donghua",
+    "Chinese Landscape",
+    "Gongbi",
+    "Waterfall",
+    "Sakura",
+    "Koi Fish",
+    "Spiritual"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2261730013516982",
+  "file": "gemini-2261730013516982.png",
+  "title": "Celestial Journey of the Six-Tailed Fox",
+  "prompt": "(masterpiece), (best quality), (detailed illustration), A majestic six-tailed spirit fox (Kitsune/Huli Jing) trotting through fresh snow, centered, full body shot. The fox has intricate glowing runes and patterns on its fur and six voluminous tails, one foot raised. In the foreground, a winding path of luminous blue crystal and ice flows across the snow, scattered with delicate pink cherry blossoms and large glowing ice crystals. The background features towering, mist-shrouded Xianxia mountains (karst peaks), with ancient pagodas and temples built into the floating cliffs. A massive, radiant full moon dominates the starry night sky with visible constellations. Falling golden leaves and light snow flurries create a mystical, ethereal atmosphere. High contrast, atmospheric lighting, vibrant colors, volumetric light, intricate details. Fantasy Xianxia style, 9:16 vertical aspect ratio.",
+  "negativePrompt": "lowres, worst quality, poor anatomy, deformed, bad hands, mutated, blurry, extra limbs, fewer tails, asymmetric eyes, ugly, text, watermark, signature, monochrome, grayscale, simple background, cropped, cut off tail, low saturation.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Kitsune",
+    "Six-Tailed Fox",
+    "Xianxia",
+    "Fantasy Art",
+    "Snowy Landscape",
+    "Full Moon",
+    "Pagoda",
+    "Magical Crystals",
+    "Divine Beast",
+    "Winter Scene"
+  ]
+}

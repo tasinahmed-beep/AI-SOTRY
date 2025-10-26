@@ -1,0 +1,22 @@
+{
+  "id": "8103051762642477",
+  "title": "Emerald Barrel at Golden Hour",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, 8k photograph, photorealistic, cinematic shot of a surfer riding deep inside a massive, perfectly barreling wave (the tube). The water inside the barrel glows a vibrant emerald green and turquoise as the golden sunset light filters through the lip. Dynamic action shot, extreme depth of field, focused on the surfer in a black wetsuit. Epic golden hour lighting, warm orange and yellow sky, distant silhouette of palm trees on the hazy tropical coastline. Vertical composition (9:16 aspect ratio). Highly detailed water texture and spray.",
+  "negativePrompt": "blurry, low quality, worst quality, noise, amateur, grainy, watermark, text, signature, cartoon, illustration, drawing, deformed body, weird hands, multiple limbs, out of frame, cropped, missing subject",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "surfing",
+    "barrel riding",
+    "tube wave",
+    "golden hour",
+    "sunset",
+    "emerald wave",
+    "photorealistic",
+    "ocean sports",
+    "tropical",
+    "cinematic"
+  ]
+}

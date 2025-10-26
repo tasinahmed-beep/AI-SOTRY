@@ -1,0 +1,23 @@
+{
+  "id": "5653592224851972",
+  "file": "gemini-5653592224851972.png",
+  "title": "Red Sands Passage: Dawn of the Caravan",
+  "prompt": "(masterpiece), (best quality), (detailed illustration), A dynamic desert scene rendered in a classic Comic Book style panel (9:16 aspect ratio). A long caravan of several heavily laden camels crosses vivid, fiery red sand dunes. The leading rider is shrouded in a cloak and pointing into the distance. Dramatic low angle shot emphasizing the scale and movement. Intense contrast with deep black, elongated shadows stretching across the sand. Characteristic bold ink lines, restricted retro color palette (dominated by reds, oranges, browns, and beige), and visible halftone dot pattern texture covering the environment. A massive, bright sun rises or sets on the horizon, radiating a strong orange and yellow sunburst effect across the sky. Jagged, dark red rock formations frame the distant horizon. Stylized dust clouds trail the camels' hoofs. Adventure, action, vertical panel layout.",
+  "negativePrompt": "((disfigured)), (bad anatomy), low quality, worst quality, watermark, logo, text overlay, poorly drawn face, mutated, blurry, extra limbs, signature, sketch, grayscale, modern digital art",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book",
+    "Caravan",
+    "Desert",
+    "Red Dunes",
+    "Camel",
+    "Halftone",
+    "Retro",
+    "Adventure",
+    "Sunburst",
+    "Ink Lines"
+  ]
+}

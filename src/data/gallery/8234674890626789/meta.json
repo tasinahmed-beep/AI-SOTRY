@@ -1,0 +1,23 @@
+{
+  "id": "8234674890626789",
+  "file": "gemini-8234674890626789.png",
+  "title": "Sunset Serenade: Rooftop Ballet in Blue",
+  "prompt": "(masterpiece), best quality, highly detailed, 8K, full body shot of a joyful young female ballet dancer, short brown hair, elegant pose with arms extended overhead. She is wearing a vibrant azure blue flowing dress that billows out dramatically from her spin. Standing gracefully on a warm, red terracotta tiled rooftop ledge. In the background, a breathtaking panoramic European city skyline at golden hour sunset, featuring historic spires and red roofs. Cinematic volumetric lighting, soft diffused light, dramatic pink and orange clouds, subtle floating dust motes. Full 3D render, Pixar Style, Disney animation movie quality. (16:9 aspect ratio).",
+  "negativePrompt": "low quality, worst quality, text, signature, watermark, cropped, blurry, noise, distortion, deformed, extra limbs, poorly drawn face, mutated hands, multiple bodies, monochrome, grayscale, low resolution, amateur drawing, ugly, tiling, poorly rendered clothing",
+  "style": "3D Animation",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Dancer",
+    "Pixar Style",
+    "Sunset",
+    "Rooftop",
+    "Ballet",
+    "Golden Hour",
+    "Blue Dress",
+    "Cityscape",
+    "CGI",
+    "Joyful"
+  ]
+}

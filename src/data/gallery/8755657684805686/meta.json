@@ -1,0 +1,23 @@
+{
+  "id": "8755657684805686",
+  "file": "gemini-8755657684805686.png",
+  "title": "Space Rendezvous: Across the Porthole",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D anime illustration, 9:16 vertical aspect ratio. A young male astronaut in a detailed white space suit is floating just outside the circular window (porthole) of a space station. He is smiling and reaching a gloved hand towards a beautiful anime girl standing inside the station. The girl has long flowing purple hair and wears a sleek, tight blue futuristic uniform. They are looking into each other's eyes with emotion. In the background, the vibrant blue and white Earth dominates the view, surrounded by the blackness of space, detailed stars, nebulae, and complex space station modules with solar panels. Dynamic orbital lighting, volumetric shadows, cinematic composition, expressive eyes.",
+  "negativePrompt": "(worst quality), (low quality), bad anatomy, deformed, mutated, disfigured, blurry, extra limbs, extra fingers, poor perspective, watermarks, text, logo, monochrome, grayscale, multiple heads, error, too many details",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "2D Anime",
+    "astronaut",
+    "space station",
+    "purple hair",
+    "sci-fi romance",
+    "Earth orbit",
+    "porthole window",
+    "detailed illustration",
+    "vertical aspect ratio",
+    "space suit"
+  ]
+}

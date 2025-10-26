@@ -1,0 +1,23 @@
+{
+  "id": "8536397744027813",
+  "file": "gemini-8536397744027813.png",
+  "title": "High-Flying Dough Master",
+  "prompt": "(masterpiece), (best quality), detailed illustration, 2D Anime style, 16:9 aspect ratio, a dynamic scene featuring an energetic young male chef proudly tossing a massive pizza dough high into the air, detailed motion lines around the spinning dough. He wears a clean white chef uniform and checkered apron, with spiky brown hair. The setting is a rustic, warm pizza kitchen with a huge, glowing brick wood-fired oven dominating the right side, flames visible inside. Bright volumetric sunlight streams through a large window on the left, creating strong highlights and dust motes. Two secondary chefs (one older man, one young woman in a bandana) are visible in the background working at the wooden counter. Detailed background, food preparation, cheerful expression, wide shot.",
+  "negativePrompt": "(worst quality), (low quality), (normal quality), lowres, blurry, jpeg artifacts, distortion, bad anatomy, missing limbs, extra fingers, poor lighting, mismatched eyes, text, watermark, signature, artist name, border, unrealistic shadows.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime",
+    "Chef",
+    "Pizza Dough",
+    "Brick Oven",
+    "Kitchen",
+    "Cooking Action",
+    "Dynamic Pose",
+    "Food Preparation",
+    "Speed Lines",
+    "Volumetric Lighting"
+  ]
+}

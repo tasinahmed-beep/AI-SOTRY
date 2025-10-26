@@ -1,0 +1,99 @@
+import { useEffect, useMemo, useState } from "react";
+import Header from "@/components/Header";
+import Hero from "@/components/Hero";
+import ImageGrid, { ImageData } from "@/components/ImageGrid";
+import PromptEnhancer from "@/components/PromptEnhancer";
+import Seo from "@/components/Seo";
+import StructuredData from "@/components/StructuredData";
+import { loadGallery } from "@/data/loadGallery";
+import ImageModal from "@/components/ImageModal";
+import { useNavigate, useParams } from "react-router-dom";
+import { filterImagesFuzzy } from "@/lib/search";
+
+const images: ImageData[] = loadGallery();
+
+const Index = () => {
+  const [searchQuery, setSearchQuery] = useState("");
+  const [selected, setSelected] = useState<ImageData | null>(null);
+  const navigate = useNavigate();
+  const params = useParams();
+
+  const filteredImages = useMemo(() => {
+    return filterImagesFuzzy(images, searchQuery);
+  }, [searchQuery]);
+
+  // Sync modal with /p/:id route
+  useEffect(() => {
+    const id = params.id;
+    if (id) {
+      const found = images.find((i) => i.id === id);
+      setSelected(found ?? null);
+    } else {
+      setSelected(null);
+    }
+  }, [params.id]);
+
+  // Keyboard navigation within filtered list
+  useEffect(() => {
+    if (!selected) return;
+    const handler = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        navigate("/", { replace: false });
+        return;
+      }
+      const idx = filteredImages.findIndex((i) => i.id === selected.id);
+      if (idx === -1) return;
+      if (e.key === "ArrowRight") {
+        const next = filteredImages[(idx + 1) % filteredImages.length];
+        if (next) navigate(`/p/${next.id}`);
+      } else if (e.key === "ArrowLeft") {
+        const prev = filteredImages[(idx - 1 + filteredImages.length) % filteredImages.length];
+        if (prev) navigate(`/p/${prev.id}`);
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [selected, filteredImages]);
+
+  return (
+    <div className="min-h-screen bg-background">
+      <Seo
+        title={selected ? `${selected.title} – PromptVerse` : "PromptVerse - AI Image Prompt Gallery"}
+        description={selected ? `${selected.prompt.slice(0, 200)}${selected.prompt.length > 200 ? "…" : ""}` : "Browse curated AI image prompts with detailed parameters and stunning examples across donghua and fantasy styles."}
+        canonical={`${window.location.origin}${selected ? `/p/${selected.id}` : "/"}`}
+      />
+      <StructuredData
+        data={selected ? {
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "name": selected.title,
+          "description": selected.prompt,
+          "contentUrl": selected.src,
+          "thumbnailUrl": selected.src,
+          ...(selected.width && selected.height ? { width: selected.width, height: selected.height } : {}),
+          "url": `${window.location.origin}/p/${selected.id}`
+        } : {
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": "PromptVerse - AI Image Prompt Gallery",
+          "description": "Browse curated AI image prompts with detailed parameters and stunning examples across donghua and fantasy styles.",
+          "url": `${window.location.origin}/`
+        }}
+      />
+      <Header />
+      <Hero onSearch={setSearchQuery} />
+      <PromptEnhancer onApply={(r) => setSearchQuery(r.tags.join(" "))} />
+      <ImageGrid
+        images={filteredImages}
+        searchQuery={searchQuery}
+        onSelect={(img) => navigate(`/p/${img.id}`)}
+      />
+      {selected && (
+        <ImageModal image={selected} onClose={() => navigate("/")} />
+      )}
+    </div>
+  );
+};
+
+export default Index;
+

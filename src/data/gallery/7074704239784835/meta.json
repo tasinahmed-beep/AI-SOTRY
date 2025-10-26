@@ -1,0 +1,21 @@
+{
+  "id": "7074704239784835",
+  "title": "The Hearth of Tradition: Grandmother's Golden Dough",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic illustration, Donghua Chinese style, 9:16 aspect ratio. A serene elderly Chinese grandmother, wearing an exquisite navy blue traditional robe with gold cloud embroidery, is gently kneading a large mound of bread dough on a richly carved dark wooden table. The scene is set in a cozy, traditional Chinese kitchen (chufang) illuminated by warm lantern light. In the background, visible through a large, circular wooden moon gate archway, is a traditional red brick wood-fired oven glowing brightly, with fresh, steaming loaves of bread resting on a rack nearby. Details include various ceramic bowls of grains and flour, antique pottery on wooden shelves, and intricate wooden window lattice patterns. Soft, golden volumetric backlighting, cozy atmosphere, highly rendered textures.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grain, signature, cut off, draft, modern appliances, plastic.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua",
+    "Traditional Chinese Kitchen",
+    "Grandmother",
+    "Baking",
+    "Wood-fired oven",
+    "Detailed illustration",
+    "Traditional architecture",
+    "Cozy",
+    "Qipao"
+  ]
+}

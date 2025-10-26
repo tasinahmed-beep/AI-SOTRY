@@ -1,0 +1,23 @@
+{
+  "id": "7306045647385224",
+  "file": "gemini-7306045647385224.png",
+  "title": "Storm Beacon of the Eastern Sea",
+  "prompt": "(masterpiece), best quality, highly detailed Chinese watercolor and ink illustration of a majestic ancient stone lighthouse with a traditional tiered pagoda roof, standing firmly on dramatic, craggy sea cliffs. The environment is dominated by intense stormy weather; massive turquoise waves crash violently against the dark rocks. The 9:16 vertical sky is filled with dark, turbulent indigo storm clouds, dramatically illuminated by brilliant streaks of lightning. Gnarled, windswept Asian pine trees cling to the cliffside. Below the main structure, small traditional wooden buildings glow softly with warm lanterns near the waterline. Donghua Chinese style, detailed ink line work, traditional texture, expressive dramatic lighting.",
+  "negativePrompt": "lowres, worst quality, blurry, inaccurate anatomy, distorted perspective, missing details, ugly, poorly drawn hands, amateur drawing, cartoon, 3D render, signature, watermark",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Lighthouse",
+    "Storm",
+    "Seascape",
+    "Chinese Architecture",
+    "Watercolor",
+    "Ink Wash",
+    "Cliffs",
+    "Lightning",
+    "Donghua",
+    "Traditional Art"
+  ]
+}

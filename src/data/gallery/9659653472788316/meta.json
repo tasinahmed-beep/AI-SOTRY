@@ -1,0 +1,22 @@
+{
+  "id": "9659653472788316",
+  "file": "gemini-9659653472788316.png",
+  "title": "The Culinary Commando: Perfect Preparation",
+  "prompt": "(masterpiece), best quality, highly detailed, expressive, a muscular and determined male chef in a crisp white toque and apron, aggressively chopping colorful vegetables (tomatoes, peppers, onions) on a thick wooden cutting board, dynamic action shot, flying vegetable slices, bold black outlines, Ben-Day dots texture, dramatic speed lines, intense expression, centered action, features the bold comic sound effect text \"CHOP! CHOP! CHOP!\" exploding from the board, \"PERFECTLY PREPARED!\" speech bubble, gritty professional kitchen background, highly stylized illustration, Comic Book style, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad hands, mutated fingers, error, watermark, text, signature, low quality, worst quality, monochrome, blurry, distorted anatomy, poorly drawn face, disfigured, smooth shading, realism",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book",
+    "Chef",
+    "Chopping",
+    "Dynamic Action",
+    "Pop Art",
+    "Sound Effects",
+    "Kitchen",
+    "Muscular",
+    "Food Preparation"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0800930164628143",
+  "file": "gemini-0800930164628143.png",
+  "title": "Solitude of the Dawn Cast",
+  "prompt": "(masterpiece), (best quality), highly detailed, 2D Anime style, 9:16 vertical aspect ratio, a dramatic shot of a solitary fisherman standing on dark rocks at dawn, casting a line forcefully over a still lake. The man is a strong silhouette against a gigantic, vibrant orange rising sun. The water reflects the golden and purple hues of the sky perfectly. Focus on the dynamic motion: a streak of sparkling golden water spray arcs dramatically from the fishing line. Distant layered mountain range and evergreen forests frame the horizon, subtle pastel clouds in the sky.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, grainy, watermark, signature, 3D render, photorealistic, deformed face, tiling",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "2D Anime",
+    "sunrise",
+    "fishing",
+    "silhouette",
+    "water reflection",
+    "dynamic pose",
+    "calm lake",
+    "landscape",
+    "dawn",
+    "9:16 aspect ratio"
+  ]
+}

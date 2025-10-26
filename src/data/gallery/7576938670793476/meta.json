@@ -1,0 +1,23 @@
+{
+  "id": "7576938670793476",
+  "file": "gemini-7576938670793476.png",
+  "title": "The Archivist's Golden Aisle",
+  "prompt": "(masterpiece), (best quality), (detailed illustration), stunning 3D Anime render, 9:16 aspect ratio, a beautiful young anime woman with long, vibrant light blue hair tied in a high ponytail, carefully standing on a rolling wooden library ladder. She is placing a stack of historical books onto a high shelf. She wears a cozy beige cardigan sweater and a brown pleated school skirt. The environment is a grand, gothic library aisle with high vaulted arches and endless bookshelves. Intense, dramatic volumetric lighting (god rays) streams through large, intricate stained-glass windows on the left, illuminating the wooden floor and casting a warm, golden glow across the scene. Dust motes floating in the air, deep depth of field, octane render.",
+  "negativePrompt": "bad anatomy, low quality, worst quality, extra limbs, fewer limbs, missing fingers, blurry, watermark, signature, text, error, cropped, distorted hands, out of focus, monochrome, grayscale",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "3D Anime",
+    "Librarian",
+    "Stained Glass",
+    "Volumetric Lighting",
+    "God Rays",
+    "Bookshelves",
+    "School Uniform",
+    "Blue Hair",
+    "Rolling Ladder",
+    "Golden Hour"
+  ]
+}

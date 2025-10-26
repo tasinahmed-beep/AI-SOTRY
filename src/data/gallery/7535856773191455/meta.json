@@ -1,0 +1,23 @@
+{
+  "id": "7535856773191455",
+  "file": "gemini-7535856773191455.png",
+  "title": "The Keeper of the Golden Aisle",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic 3D render, Pixar style animation, 16:9 aspect ratio. A heartwarming scene of a cheerful, slightly plump, middle-aged female librarian with round glasses and a cozy patterned cardigan, standing on a rolling step stool, reaching up to carefully place an old book on a high wooden shelf. The setting is a majestic, ancient library with towering wooden bookshelves stretching into the background. Dramatic volumetric lighting, with strong, golden sun rays (god rays) streaming through a large, arched Gothic stained-glass window in the far background. A small, adorable striped cat is curled up asleep on a stack of books on a lower shelf. Warm, cozy color palette, depth of field.",
+  "negativePrompt": "deformed, blurry, low resolution, worst quality, noise, grain, text, signature, watermark, extra limbs, bad anatomy, mutated, bad composition, tiling, out of frame",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Librarian",
+    "Pixar Style",
+    "3D Animation",
+    "Volumetric lighting",
+    "Cozy",
+    "Library",
+    "Book Stacks",
+    "Golden Hour",
+    "Sleeping Cat",
+    "Gothic Window"
+  ]
+}

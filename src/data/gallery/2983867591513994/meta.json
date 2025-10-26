@@ -1,0 +1,22 @@
+{
+  "id": "2983867591513994",
+  "title": "Dream Weaver: Mural at Sunrise",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, Pixar Style 3D animation render, 9:16 aspect ratio. A joyful young female street artist, wearing paint-splattered denim overalls and a red tank top, painting a vibrant, colorful abstract cityscape mural on a textured red brick wall at sunrise. A small, cute gray assistant robot stands next to her, looking up. A teal utility cart labeled 'DREAM WEAVER' holds paint supplies. Soft pink and golden dawn light, cobblestone street, charming blurred European background architecture.",
+  "negativePrompt": "deformed, blurry, poorly drawn, bad anatomy, disfigured, low resolution, worst quality, jpeg artifacts, monochrome, multiple limbs, watermark, text, out of frame, error",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Street Art",
+    "Muralist",
+    "Robot Assistant",
+    "Sunrise/Dawn",
+    "3D Animation",
+    "Brick Wall",
+    "Creative",
+    "Urban Scene",
+    "Dream Weaver"
+  ]
+}

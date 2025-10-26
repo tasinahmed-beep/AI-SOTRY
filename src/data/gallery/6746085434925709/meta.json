@@ -1,0 +1,22 @@
+{
+  "id": "6746085434925709",
+  "file": "gemini-6746085434925709.png",
+  "title": "Master of the Mise en Place",
+  "prompt": "(masterpiece), (best quality), high detail, ultra-realistic fur texture, 3D render, Pixar Style animation of a highly focused anthropomorphic rat chef, wearing a crisp white toque and uniform, meticulously slicing colorful vegetables (red peppers, zucchini, carrots) on a large, rustic wooden cutting board in extreme foreground. The scene is a warm, bustling French kitchen, illuminated by soft, cinematic daylight streaming through a tall arched window. In the deep background, several other busy rat chefs are cooking over steaming stoves and preparing ingredients. Shelves stocked with spices, 'Ratatouille & More' sign visible, depth of field, volumetric light, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed hands, missing fingers, bad composition, ugly, tiling, blurry, monochrome, sketch, amateur drawing, watermark, signature, text, out of frame",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chef",
+    "Rat",
+    "Ratatouille",
+    "Kitchen",
+    "Vegetables",
+    "Slicing",
+    "3D Animation",
+    "Cinematic",
+    "16:9"
+  ]
+}

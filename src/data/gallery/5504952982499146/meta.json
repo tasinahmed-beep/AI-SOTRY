@@ -1,0 +1,23 @@
+{
+  "id": "5504952982499146",
+  "file": "gemini-5504952982499146.png",
+  "title": "The Grill Master of the Rainy Night",
+  "prompt": "(masterpiece), (best quality), highly detailed CGI render, 3D Anime style, cinematic volumetric lighting, 16:9 aspect ratio. A close-up view of a cheerful Japanese street food vendor smiling widely, wearing a simple apron and bandana, grilling multiple cobs of golden yakitomorokoshi (grilled corn) over glowing charcoal in a small mobile food stall (yatai). Heavy rain is falling, creating rain streaks and detailed splashes on the wet cobblestone street. The stall is illuminated by a warm, glowing traditional Japanese paper lantern (chōchin) bearing Japanese text. Subtle steam rises from the hot grill. The background features blurred silhouettes of pedestrians holding umbrellas and colorful, neon Japanese signs, enhancing the atmosphere of a bustling rainy urban night.",
+  "negativePrompt": "worst quality, low quality, poor anatomy, deformed, blurry, artifacts, jpeg compression, cropped, monochrome, watermark, text, signature, low contrast, unrealistic hands, ugly, tiling, duplicate, sketch, drawing, painting, cartoon, flat shading.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Vendor",
+    "Yakitomorokoshi",
+    "Rainy Night",
+    "Yatai",
+    "3D Render",
+    "Japanese Culture",
+    "Cinematic Lighting",
+    "Grilling",
+    "Urban Scene",
+    "Warm Lighting"
+  ]
+}

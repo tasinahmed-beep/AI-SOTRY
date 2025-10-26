@@ -1,0 +1,22 @@
+{
+  "id": "6430350765579873",
+  "file": "gemini-6430350765579873.png",
+  "title": "Sunset Gardener's Pride",
+  "prompt": "(masterpiece), (best quality), highly detailed, wide shot of a heroic male gardener, muscular build, wearing denim overalls, an orange plaid shirt, and a straw hat, carefully watering a dense border of multicolored roses (red, yellow, pink) with a metal watering can. The scene is set in an elaborate, ivy-covered stone courtyard featuring high walls, arched doorways, and a tiered stone fountain in the center background. Dramatic sunset lighting casts warm orange and purple hues across the sky and clouds. Bold outlines, vibrant colors, comic book style, Halftone shading, detailed line work, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, blurry, worst quality, deformed, lowres, missing elements, extra limbs, incomplete background, monochrome, amateur drawing, ugly, bad anatomy, text, watermark, signature.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book Style",
+    "Gardener",
+    "Roses",
+    "Stone Courtyard",
+    "Sunset",
+    "Halftone",
+    "Vibrant Colors",
+    "Fountain",
+    "Pulp Art"
+  ]
+}

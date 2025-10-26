@@ -1,0 +1,22 @@
+{
+  "id": "2287897811713856",
+  "title": "The Hearth and the Dough",
+  "prompt": "(masterpiece), (best quality), hyperdetailed photograph of a smiling elderly woman (grandmother) with silver hair, wearing a knitted sweater and a floral apron, intensely focused on kneading fresh bread dough on a worn wooden table covered in flour. A sleepy orange tabby cat rests beside the dough. Freshly baked loaves are cooling on a wire rack. Background features a deeply cozy, rustic farmhouse kitchen, lit primarily by the warm glow of a crackling fire in a brick hearth and soft natural light filtering from a nearby window. Focus on textural detail (wood grain, flour dust, knitted fabric). Cinematic lighting, low-key, depth of field, 9:16 aspect ratio, Photorealistic.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, bad hands, deformed, blurry, missing limbs, jpeg artifacts, monochrome, watermark, text, signature, plastic skin, tiling",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Elderly Woman",
+    "Baking",
+    "Rustic Kitchen",
+    "Kneading Dough",
+    "Cozy Atmosphere",
+    "Fireplace Light",
+    "Tabby Cat",
+    "Domestic Scene",
+    "9:16 Aspect Ratio",
+    "Hyperdetailed"
+  ]
+}

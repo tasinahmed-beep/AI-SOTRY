@@ -1,0 +1,23 @@
+{
+  "id": "1674682546416488",
+  "file": "gemini-1674682546416488.png",
+  "title": "Donghua Serenity: Bonsai and Pavilion View",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, 9:16 aspect ratio, Donghua Chinese style, soft volumetric lighting, warm golden hour setting, a meticulously detailed twisted bonsai tree with stylized cloud-like foliage (Ruyi clouds) perched on a dark traditional carved wooden cabinet, centered perspective, looking out through an open arched Chinese window frame, the background shows a serene traditional Chinese garden, featuring a tranquil reflecting pond with lotus flowers, weeping willow trees, and a classic pagoda or pavilion structure in the middle distance, symmetrical composition, peaceful and ethereal atmosphere.",
+  "negativePrompt": "poorly drawn, low resolution, ugly, blurry, deformed, worst quality, text, watermark, signature, missing limbs, tiling, error, out of frame, cropped, cartoon, sketch",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Bonsai",
+    "Chinese Garden",
+    "Donghua",
+    "CGI",
+    "Traditional Architecture",
+    "Window View",
+    "Golden Hour",
+    "Serene",
+    "Interior",
+    "Pavilion"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9773440462383251",
+  "file": "gemini-9773440462383251.png",
+  "title": "An Ocean Friend Reunion",
+  "prompt": "(masterpiece), (best quality), highly detailed, Pixar style CGI animation, 8k, cinematic volumetric lighting, a wide portrait view (9:16) of a vibrant coral reef teeming with marine life. A cheerful sea turtle floats in the center foreground, surrounded by schools of colorful tropical fish, including clownfish and blue tangs. Above them, a large, friendly gray whale swims peacefully in the mid-water column. Densely packed, brightly colored corals, sea anemones, and sponges dominate the foreground in pink, teal, and orange hues. Sandy ocean floor visible at the bottom with starfish and a pearl in a shell. Clear blue water, strong sun rays penetrating the surface.",
+  "negativePrompt": "disfigured, ugly, cartoon, sketch, watermark, signature, cropped, poor quality, worst quality, low resolution, bad anatomy, bad shading, monochrome, realism, photographic, text, low detail",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Coral Reef",
+    "Underwater Scene",
+    "3D Animation",
+    "Tropical Fish",
+    "Sea Turtle",
+    "Whale",
+    "Vivid Colors",
+    "Volumetric Lighting",
+    "Clownfish"
+  ]
+}

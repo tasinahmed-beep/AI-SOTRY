@@ -1,0 +1,23 @@
+{
+  "id": "2029757123412495",
+  "file": "gemini-2029757123412495.png",
+  "title": "Sustaining Life: The Chrome Gardener",
+  "prompt": "(masterpiece), 8k, photorealistic CGI render of a sleek, chrome humanoid robot (androgynous design) carefully watering a large Monstera plant in a sun-drenched, industrial loft art studio. The robot holds a metallic watering can, with water visibly splashing onto the foliage. The studio features exposed brick walls, large multi-pane industrial windows, wooden easels, scattered painting supplies, and numerous potted green houseplants. Strong volumetric light and dust motes pour through the windows, creating dramatic shadows and reflections on the metallic surface of the robot. Ultra-detailed textures, cinematic composition, natural lighting, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, cartoon, anime, 2D, blurry, worst quality, noise, artifacts, poorly drawn face, disfigured, monochrome, unrealistic shading, missing limbs, deformed hands, signature, watermark",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Robot",
+    "Photorealistic",
+    "CGI",
+    "Studio Loft",
+    "Houseplants",
+    "Monstera",
+    "Chrome",
+    "Volumetric Light",
+    "Sci-Fi",
+    "Interior Design"
+  ]
+}

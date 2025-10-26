@@ -1,0 +1,22 @@
+{
+  "id": "0483811703324519",
+  "title": "The Warmth of Homemade Bread",
+  "prompt": "(masterpiece), best quality, ultra-detailed, photorealistic portrait of a smiling elderly grandmother with neatly tied white hair, wearing a floral apron and brown knitted cardigan, intensely focused on kneading fresh bread dough on a floured wooden countertop. The rustic, cozy kitchen features a warm, glowing wood-fired brick oven in the deep background. Natural light streams from a side window, creating soft, cinematic lighting and a cozy atmosphere. Shallow depth of field. 16:9 aspect ratio.",
+  "negativePrompt": "low quality, poorly drawn, messy, unrealistic colors, deformed, worst quality, extra limbs, blurry, cropped, grain, noise, tiling, bad anatomy, bad lighting, missing fingers, modern kitchen appliances",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "grandmother",
+    "baking",
+    "cozy kitchen",
+    "rustic",
+    "wood-fired oven",
+    "kneading dough",
+    "domestic scene",
+    "soft lighting",
+    "portrait",
+    "16:9"
+  ]
+}

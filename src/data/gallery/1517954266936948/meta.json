@@ -1,0 +1,22 @@
+{
+  "id": "1517954266936948",
+  "file": "gemini-1517954266936948.png",
+  "title": "Misty Bamboo Feast",
+  "prompt": "(masterpiece), (best quality), photorealistic nature photograph, 9:16 aspect ratio, a giant panda sitting upright, highly detailed fur texture, eating a thick bamboo stalk, making direct eye contact with the viewer. The scene is a dense, lush bamboo forest shrouded in heavy mist and fog. Soft, diffused natural lighting. Wet environment, subtle water droplets visible on the panda's fur and bamboo leaves. Sharp focus on the foreground panda, deep atmospheric blur in the background.",
+  "negativePrompt": "low resolution, blurry, watermark, signature, text, cartoon, worst quality, deformed, extra fingers, disfigured, poorly drawn face, drawing, illustration, cropped, low detail",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Bamboo forest",
+    "Misty",
+    "Wildlife photography",
+    "Nature",
+    "Animal portrait",
+    "Wet fur",
+    "Foggy atmosphere",
+    "9:16"
+  ]
+}

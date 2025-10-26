@@ -1,0 +1,22 @@
+{
+  "id": "7569467417420974",
+  "file": "gemini-7569467417420974.png",
+  "title": "Vibrant Coral Kingdom",
+  "prompt": "(masterpiece), (best quality), 3D anime style, 16:9 aspect ratio, a breathtakingly vibrant coral reef ecosystem, teeming with diverse and colorful marine life. Focus on a friendly sea turtle swimming center-right, surrounded by schools of bright fish, including numerous clownfish, blue tangs, and butterflyfish. Include a graceful manta ray swimming in the mid-distance. Brilliant volumetric sunlight streams down through the clear turquoise water, creating dramatic god rays and floating bubbles. Cute, clean rendering, ultra-detailed colorful corals, sandy seabed, high saturation.",
+  "negativePrompt": "low quality, bad anatomy, worst quality, text, error, signature, watermark, blurry, deformed, monochrome, dark, mutated fish, missing limbs, grayscale, boring colors, realistic, painting, drawing",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Coral Reef",
+    "Underwater Scene",
+    "Sea Turtle",
+    "Clownfish",
+    "Manta Ray",
+    "3D Anime",
+    "Vibrant Colors",
+    "Marine Life",
+    "Ocean"
+  ]
+}

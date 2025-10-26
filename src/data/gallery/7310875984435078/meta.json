@@ -1,0 +1,22 @@
+{
+  "id": "7310875984435078",
+  "file": "gemini-7310875984435078.png",
+  "title": "Midnight Rain Racer",
+  "prompt": "(masterpiece), best quality, cinematic shot, 2D Anime style, a determined lone cyclist racing intensely through a narrow street during a heavy night rainstorm, extreme wet street reflections showing vibrant neon signs (kanji, glowing pink and blue), intense water splash effects from the bicycle tires, moody volumetric lighting, deep blue atmosphere, overhead power lines, tall city buildings, glowing crescent moon visible in the dark cloudy sky, dynamic action pose, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, extra limbs, poorly drawn hands, missing fingers, bad anatomy, bad composition, ugly, jpeg artifacts, text, watermark, signature, multiple cyclists, blurry background, sunlight, daytime",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cycling",
+    "Rainy night",
+    "Neon city",
+    "Street reflections",
+    "Anime art",
+    "Urban landscape",
+    "Japan",
+    "Dynamic action",
+    "Vertical composition"
+  ]
+}

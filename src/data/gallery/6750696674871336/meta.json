@@ -1,0 +1,23 @@
+{
+  "id": "6750696674871336",
+  "file": "gemini-6750696674871336.png",
+  "title": "The Immortal Baker's Kitchen of Serenity",
+  "prompt": "(Masterpiece), (best quality), highly detailed cinematic illustration, Fantasy Xianxia style, 16:9 aspect ratio. A benevolent and graceful elderly female immortal (xian) with long silver hair, adorned with intricate jade and lotus hairpins, wearing flowing traditional Hanfu robes. She is centered, gently kneading a large mound of dough on a round wooden table. Swirling golden Qi (cultivation energy/magic glow) radiates powerfully from her hands and the dough. The setting is a cozy, circular, rustic yet ornate Chinese fantasy kitchen/apothecary, featuring dark wooden walls, multiple round windows, and hanging paper lanterns. In the background, a massive, intricately carved stone oven/fireplace blazes warmly. Scrolls/talismans with ancient calligraphy float gently in the air. Shelves are stocked with exotic herbs, glowing ingredients, and vibrant pink lotus flowers bloom around the stone structure. A small, adorable six-tailed fox (huli jing) rests peacefully beside the hearth. Soft, warm volumetric lighting, depth of field, ethereal atmosphere.",
+  "negativePrompt": "low quality, bad anatomy, deformed, worst quality, jpeg artifacts, blurry, text, signature, watermark, extra limbs, simple background, cartoon, drawing, modern elements",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Cultivation",
+    "Magical Cooking",
+    "Elderly Woman",
+    "Huli Jing",
+    "Kitsune",
+    "Traditional Chinese Architecture",
+    "Fantasy Kitchen",
+    "Masterpiece",
+    "Warm Lighting"
+  ]
+}

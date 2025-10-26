@@ -1,0 +1,23 @@
+{
+  "id": "2218376864954015",
+  "file": "gemini-2218376864954015.png",
+  "title": "Winter Spirit Fox under the Crescent Moon",
+  "prompt": "(masterpiece), (best quality), highly detailed Donghua Chinese illustration, 9:16 vertical orientation. A majestic, vibrant orange spirit fox with flowing, fire-like fur and glowing blue eyes, dynamically trotting through a deep snowdrift. The scene features a traditional Chinese winter landscape (Shanshui): snow-covered gnarled pine trees, misty mountains in the distance, and delicate pink plum blossoms (Meihua) in the foreground. Large detailed snowflakes and icy blue magical energy swirl around the fox. Night setting, soft lighting from a bright crescent moon and faint constellations overhead. Clean line art, vibrant colors.",
+  "negativePrompt": "worst quality, low quality, poor anatomy, distorted, ugly, tiling, blurry, text, watermark, signature, jpeg artifacts, monochrome, realism, photographic, 3D",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fox",
+    "Snowscape",
+    "Chinese painting",
+    "Spirit animal",
+    "Plum blossoms",
+    "Crescent moon",
+    "Winter",
+    "Fantasy",
+    "Vibrant colors",
+    "Detailed fur"
+  ]
+}

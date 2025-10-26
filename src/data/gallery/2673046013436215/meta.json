@@ -1,0 +1,22 @@
+{
+  "id": "2673046013436215",
+  "title": "The Pensive Pause: Pixar Character Study (Portrait)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "low quality, blurry, ugly, disfigured, realistic photo, bad anatomy, deformed hands, monochrome, jpeg artifacts, text, watermark, extra limbs",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar style",
+    "3D render",
+    "animated movie quality",
+    "sitting pose",
+    "female character",
+    "contemplative",
+    "stylized portrait",
+    "vibrant colors",
+    "cinematic lighting",
+    "CGI"
+  ]
+}

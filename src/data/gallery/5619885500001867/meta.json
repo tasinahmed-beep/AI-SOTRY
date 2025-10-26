@@ -1,0 +1,23 @@
+{
+  "id": "5619885500001867",
+  "file": "gemini-5619885500001867.png",
+  "title": "Emerald Tube Ride at Sunset",
+  "prompt": "(masterpiece), (best quality), dynamic, full-body portrait of a young athletic male surfer riding inside a massive, curling barrel wave, vibrant emerald and turquoise water colors, highly detailed water spray and foam, cinematic lighting, dramatic sunset background with orange and pink clouds, large setting sun disk reflecting on the ocean surface, tropical island silhouette with palm trees in the distance, sharp focus, 3D Anime style, volumetric lighting, 9:16 vertical composition.",
+  "negativePrompt": "lowres, worst quality, blurry, mutated, disfigured, poor anatomy, missing limbs, extra fingers, bad composition, watermark, signature, cropped, deformed hands, monochrome, jpeg artifacts, flat colors.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Anime",
+    "Ocean Wave",
+    "Sunset",
+    "Emerald Water",
+    "Barrel Riding",
+    "Tropical",
+    "Dynamic Action",
+    "Illustration",
+    "Vertical"
+  ]
+}

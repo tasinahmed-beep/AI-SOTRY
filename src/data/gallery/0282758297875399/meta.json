@@ -1,0 +1,22 @@
+{
+  "id": "0282758297875399",
+  "file": "gemini-0282758297875399.png",
+  "title": "Neon Fog: Cyberpunk Alley Nexus",
+  "prompt": "(masterpiece), a wide-angle cinematic shot of a narrow cyberpunk alleyway at night, highly detailed 3D render, Pixar Style animation rendering. The street is wet cobblestone, shrouded in heavy volumetric steam and fog rising from vents. The buildings are industrial and grimy, covered in exposed pipes and wires. Multiple brightly glowing neon signs dominate the scene in vibrant pink, cyan, blue, and orange, featuring Asian characters and futuristic logos (such as a neon dragon and a 'Noodle Nexus' sign). Tall, dark skyscrapers form a canyon effect in the distance. Low camera angle, deep shadows, dramatic rim lighting, depth of field, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, distorted, disfigured, blurry, noise, grain, monochrome, sketch, painting, signature, watermark, extra limbs",
+  "style": "Cinematic Cyberpunk 3D Render (Pixar Style)",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cyberpunk",
+    "Neon Lights",
+    "Alleyway",
+    "Cityscape",
+    "Volumetric Fog",
+    "3D Render",
+    "Night Scene",
+    "Futuristic",
+    "Pixar Style"
+  ]
+}

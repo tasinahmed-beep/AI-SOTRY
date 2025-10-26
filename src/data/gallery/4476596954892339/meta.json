@@ -1,0 +1,23 @@
+{
+  "id": "4476596954892339",
+  "file": "gemini-4476596954892339.png",
+  "title": "Sweet Morning Bake",
+  "prompt": "A (masterpiece), (high detail:1.3), 3D Anime style render of a cute chibi baker girl with short light purple hair and large sparkling blue eyes, wearing a clean white chef hat and a light beige patterned apron. She is standing in a bright, modern, sunlit kitchen, smiling cheerfully while holding a sifter and dusting a generous pile of golden-brown croissants with powdered sugar. The kitchen features white subway tile walls, wooden countertops, a white toaster oven, and shelves with cooking utensils. Include anthropomorphic kawaii elements, such as smiling faces on the steaming coffee cup in the foreground, a mug holder, and the bread loaves/rolls in the background. Soft volumetric lighting, vibrant colors, 16:9 aspect ratio, depth of field, high quality rendering, Pixar style details.",
+  "negativePrompt": "deformed, blurry, bad anatomy, disfigured, poor lighting, text, watermark, logo, cropped, error, mutation, missing limbs, extra fingers, bad hands, low resolution, worst quality, jpeg artifacts, monochrome, dark background",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "3D Anime",
+    "kawaii",
+    "baker girl",
+    "croissants",
+    "powdered sugar",
+    "kitchen scene",
+    "wholesome",
+    "soft lighting",
+    "light purple hair",
+    "anthropomorphic objects"
+  ]
+}

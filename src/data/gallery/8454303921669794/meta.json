@@ -1,0 +1,22 @@
+{
+  "id": "8454303921669794",
+  "file": "gemini-8454303921669794.png",
+  "title": "Beacon in the Tempest",
+  "prompt": "(masterpiece, best quality, highly detailed:1.3), A dramatic, full-panel Comic Book illustration of a classic red and white striped lighthouse perched atop rugged, dark cliffs. Massive, turbulent ocean waves crash violently below, creating heavy sea spray. The scene is engulfed in a fierce thunderstorm with heavy rain and powerful, stark lightning bolts streaking across the dark, swirling clouds. The lighthouse beam cuts sharply through the downpour. Dynamic composition, thick black outlines, bold colors, comic halftone shading, 9:16 aspect ratio.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, simple background, cartoon, sketch",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book Art",
+    "Lighthouse",
+    "Stormy Sea",
+    "Lightning",
+    "Cliffside",
+    "Dramatic Weather",
+    "Ink and Color",
+    "Heavy Rain",
+    "Coastal Scene"
+  ]
+}

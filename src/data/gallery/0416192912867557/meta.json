@@ -1,0 +1,23 @@
+{
+  "id": "0416192912867557",
+  "file": "gemini-0416192912867557.png",
+  "title": "Solitude and Storm: A Harvest Field in Donghua Style",
+  "prompt": "(masterpiece), best quality, 9:16 vertical aspect ratio, traditional Chinese ink wash painting (Guóhuà aesthetic), dramatic full view of a severe thunderstorm over a vast golden wheat field, heavy rain pouring down, jagged white lightning striking from dark, turbulent, indigo and black clouds. In the center mid-ground, a traditional red and blue Chinese pavilion (gazebo) sits atop a small mound. A solitary figure wearing a white traditional robe and holding a paper umbrella walks along a winding path through the tall, swaying wheat towards the pavilion. Detailed brushstrokes on the wheat stalks, misty mountains in the background rendered with light ink, vibrant mineral pigments and black ink lines, dynamic atmosphere, highly detailed landscape.",
+  "negativePrompt": "disfigured, ugly, morbid, mutated, missing limbs, blurry, out of focus, poor anatomy, signature, watermark, text (unless stylized), low contrast, cropped, noise, 3d rendering, photorealistic, western style painting.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Traditional Chinese Art",
+    "Guohua",
+    "Thunderstorm",
+    "Wheat Field",
+    "Lightning",
+    "Pavilion",
+    "Solitary Figure",
+    "Ink Wash",
+    "Rainy Landscape",
+    "Vertical Composition"
+  ]
+}

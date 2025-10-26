@@ -1,0 +1,23 @@
+{
+  "id": "1710830943500422",
+  "file": "gemini-1710830943500422.png",
+  "title": "The Celestial Alchemist's Study",
+  "prompt": "(Masterpiece), (high detail:1.3), full body, a handsome scholarly figure with long flowing silver hair tied back with a red ribbon, dressed in elegant traditional teal Chinese robes with cloud patterns, intensely peering into an antique brass microscope. The setting is a majestic, quiet circular laboratory blending classical Chinese architecture and advanced study. Large segmented wooden windows overlook a breathtaking misty mountain landscape dotted with traditional pagodas and waterfalls. The desk is cluttered with colorful glowing beakers, conical flasks, and scientific notebooks. Subtle magical sparks illuminate the area around the microscope. The domed ceiling features detailed painted celestial charts and ancient constellations. Soft ambient lighting, Donghua Chinese style, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, mutated, distortion, ugly, blurry, deformed, signature, watermark, text, modern city, bad anatomy, extra limbs, error, monochrome, grayscale.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua Chinese",
+    "Scholar",
+    "Alchemy",
+    "Microscope",
+    "Traditional Chinese Robes",
+    "Misty Landscape",
+    "Pagoda",
+    "Celestial Chart",
+    "Detailed Illustration",
+    "Red Panda"
+  ]
+}

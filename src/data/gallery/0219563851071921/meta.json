@@ -1,0 +1,21 @@
+{
+  "id": "0219563851071921",
+  "title": "Serene Anime Woman in Casual Sitting Pose (Portrait)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "low resolution, blurry, artifacts, noise, jpeg artifacts, distortion, deformed, bad anatomy, missing limbs, extra fingers, malformed hands, cropped, worst quality, low quality, unnatural pose",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "woman",
+    "female character",
+    "sitting",
+    "seated pose",
+    "3D render",
+    "CGI",
+    "anime style",
+    "high detail",
+    "character model"
+  ]
+}

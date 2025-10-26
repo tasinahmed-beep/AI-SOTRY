@@ -1,0 +1,23 @@
+{
+  "id": "0534853842377800",
+  "file": "gemini-0534853842377800.png",
+  "title": "The Dawn Caster",
+  "prompt": "(masterpiece), (best quality), high detail 3D Anime cinematic render, 16:9 aspect ratio. A solitary, stylized fisherman standing on dark coastal rocks at dawn. The character wears a traditional conical straw hat (kasa), a loose blue tunic, and exaggerated brown pants. He is actively casting a fishing rod, the line arcing towards the calm, highly reflective water. The background features a large, intense sunrise with the sun low on the horizon, painting the sky with soft pink, lavender, and gold clouds. Layered mountain silhouettes stretch across the distance. Detailed fishing lure dangling just above the water surface. Smooth shading, volumetric lighting, peaceful atmosphere.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, text, blurry, distorted, signature, artifacts, ugly, deformed, extra limbs, multiple people, grayscale, monochrome, sketch, painting, 2D, photo, realism, poorly drawn fingers",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "3D Anime",
+    "CGI",
+    "Sunrise",
+    "Fisherman",
+    "Casting",
+    "Kasa Hat",
+    "Stylized Character",
+    "Reflection",
+    "Tranquil",
+    "16:9"
+  ]
+}

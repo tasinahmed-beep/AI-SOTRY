@@ -1,0 +1,22 @@
+{
+  "id": "7686532126080656",
+  "file": "gemini-7686532126080656.png",
+  "title": "A Cheerful Winter Trot",
+  "prompt": "(masterpiece), (best quality), extremely detailed cinematic 3D render, Pixar Style, Disney animation movie quality, a highly adorable, cheerful, fluffy red fox trotting happily through deep, sparkling fresh snow. The fox has bright, large expressive eyes and a gentle smile. Soft volumetric winter lighting, snow-covered pine forest background, gentle snowfall, footprints visible in the foreground. Vertical 9:16 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, monochrome, deformed, disfigured, poorly drawn face, mutated, poorly drawn feet, poorly drawn animal",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fox",
+    "Snow",
+    "Winter",
+    "Pixar Style",
+    "3D Animation",
+    "Cute Animal",
+    "Forest",
+    "Vertical",
+    "Fluffy"
+  ]
+}

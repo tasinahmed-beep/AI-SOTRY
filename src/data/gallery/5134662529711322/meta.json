@@ -1,0 +1,23 @@
+{
+  "id": "5134662529711322",
+  "file": "gemini-5134662529711322.png",
+  "title": "The Imperial Caravan of the Vermilion Sands",
+  "prompt": "(masterpiece), best quality, intricate details, high resolution illustration in Donghua Chinese style. A majestic imperial caravan trekking across vast, vibrant red sand dunes at sunset. The foreground features an elaborate, multi-tiered blue and black pagoda-style chariot, pulled by two fierce, armored mythical beasts (Qilin figures). Several riders on dark horses accompany the procession, carrying flags. The sky is a gradient of orange and vermilion, featuring stylized swirling clouds (xīangyún) and two bright crescent moons. Distant mountains and an ancient Chinese temple structure visible on the horizon. Dynamic composition, clean lines, strong contrast, 9:16 vertical aspect ratio.",
+  "negativePrompt": "low quality, worst quality, blurry, jpeg artifacts, bad anatomy, deformed, monochrome, western art style, modern elements, text, signature",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua Chinese",
+    "Caravan",
+    "Red Desert",
+    "Mythical Beasts",
+    "Pagoda Chariot",
+    "Sunset",
+    "Ancient China",
+    "9:16",
+    "Xianxia",
+    "Illustrative"
+  ]
+}

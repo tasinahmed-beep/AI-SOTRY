@@ -1,0 +1,23 @@
+{
+  "id": "8644203890601391",
+  "file": "gemini-8644203890601391.png",
+  "title": "Solitude Symphony: Rehearsal on the Grand Stage",
+  "prompt": "(masterpiece), best quality, highly detailed, 3D Anime style illustration, 9:16 vertical aspect ratio. A young female violinist standing centered on a large, polished wooden stage, playing the violin with closed eyes and a focused expression. She has short brown hair and wears a white blouse with puffed sleeves and a black short skirt. The stage is framed by heavy, rich red velvet curtains. In the background, an immense, empty, classical opera house auditorium fills the frame, featuring rows upon rows of dark red velvet seats and ornate balcony railings. Dramatic spotlighting illuminates the character, casting a strong shadow beneath her. Volumetric lighting, dust motes floating in the air, soft glow, highly detailed interior architecture.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed hands, fewer fingers, missing limbs, text, signature, watermark, blurry, monochrome, noise, tiling, jpeg artifacts, bad perspective, inaccurate instrument, crowded theater.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Empty Theater",
+    "Stage",
+    "Opera House",
+    "Rehearsal",
+    "3D Anime",
+    "Dramatic Lighting",
+    "Classical Music",
+    "Solo Performance",
+    "Vertical Composition"
+  ]
+}

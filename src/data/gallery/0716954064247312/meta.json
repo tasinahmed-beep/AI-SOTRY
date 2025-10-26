@@ -1,0 +1,22 @@
+{
+  "id": "0716954064247312",
+  "title": "Dreamscape Dawn Muralist",
+  "prompt": "(masterpiece), best quality, highly detailed, expressive lines, 9:16 vertical aspect ratio, (2D Anime illustration style), vibrant colors, soft sunrise lighting. A determined young male street artist with spiky blue hair, wearing denim overalls, stands next to a massive red brick wall, actively painting a complex, colorful mural. The mural itself features a whimsical floating island landscape, complete with a fantastical small town, a bright pink cherry blossom tree, and a large, smiling cartoon creature. He holds a paint brush and a wooden palette. In the background, a sprawling urban city skyline is silhouetted against the soft pastel pink and orange dawn sky. A single street lamp provides warm light. Cobblestone street, scattered paint cans and art materials on the pavement, full body shot.",
+  "negativePrompt": "lowres, worst quality, grayscale, monochrome, 3D render, photorealistic, deformed, mutated, bad anatomy, ugly, watermark, logo, disconnected, signature, blurry, extra fingers, poorly drawn hands, boring background, multiple figures.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "Anime Boy",
+    "Sunrise",
+    "Urban",
+    "Graffiti",
+    "Whimsical",
+    "Floating Island",
+    "Brick Wall",
+    "2D Illustration"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1040890939210012",
+  "file": "gemini-1040890939210012.png",
+  "title": "The Celestial Ascent",
+  "prompt": "(masterpiece), best quality, ultra-detailed illustration, Fantasy Xianxia style, 9:16 aspect ratio. A serene male cultivator (Xianxia monk) in flowing white and blue robes sitting cross-legged on a mossy rock, meditating in a clear river pool at the base of a colossal, high waterfall. Soft golden aura surrounds his head and white spirit butterflies float around him. The background features majestic, towering jagged mountains (karst peaks) shrouded in luminous mist, with ancient stone bridges visible. Above the waterfall, an ethereal white spirit dragon soars across a glowing sky, emitting powerful divine light and god rays. Lush ancient trees frame the scene. Highly detailed water spray, smooth reflections, spiritual atmosphere, dramatic volumetric lighting.",
+  "negativePrompt": "deformed, blurry, poorly drawn, worst quality, low quality, cross-eyed, extra fingers, missing limbs, bad anatomy, jpeg artifacts, ugly, signature, watermark, logo, text, cropped, bokeh, multiple figures, wires, modern structures",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Spirit Dragon",
+    "Waterfall",
+    "Meditation",
+    "Mountain Landscape",
+    "Ethereal",
+    "Asian Fantasy",
+    "Vertical Composition"
+  ]
+}

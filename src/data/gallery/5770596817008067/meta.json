@@ -1,0 +1,22 @@
+{
+  "id": "5770596817008067",
+  "file": "gemini-5770596817008067.png",
+  "title": "Chrome Caretaker",
+  "prompt": "(masterpiece), (best quality), highly detailed photorealistic render, 8K ultra HD, cinematic volumetric lighting, a full-body shot of a highly polished chrome humanoid android (robot) with glowing blue eyes, meticulously watering a dense arrangement of vibrant houseplants (monstera, succulents) on a wooden tiered shelf. The robot holds a silver watering can, pouring water into a terracotta pot. The setting is a spacious, sunlit artist's studio loft with huge arched industrial windows, exposed white brick walls, wooden ceiling beams, and a concrete floor. Dramatic natural daylight streaming through the windows, casting sharp shadows and highlighting the metallic surfaces. Depth of field. Vertical composition, 9:16 aspect ratio. Photorealistic style, hyperdetailed texture.",
+  "negativePrompt": "disfigured, low quality, worst quality, blurry, fuzzy, painting, drawing, cartoon, anime, multiple limbs, extra fingers, bad anatomy, deformed face, poorly rendered water, signature, text, watermarks, out of frame.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Android",
+    "Robot",
+    "Houseplants",
+    "Studio loft",
+    "Photorealism",
+    "Sci-fi",
+    "Industrial windows",
+    "3D render",
+    "Vertical (9:16)"
+  ]
+}

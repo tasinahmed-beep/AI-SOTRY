@@ -1,0 +1,23 @@
+{
+  "id": "2989591668028964",
+  "file": "gemini-2989591668028964.png",
+  "title": "Stormy Beacon of the Cyberpunk Coast",
+  "prompt": "(masterpiece), (best quality), highly detailed, detailed line art, Modern Anime style illustration, vertical aspect ratio (9:16), a futuristic lighthouse standing proudly on rugged, dark coastal cliffs during a massive lightning storm, heavy rain falling, powerful ocean waves crashing below, the lighthouse features glowing neon blue strips wrapping around its structure, intense purple lightning strikes illuminate the dark, brooding sky, cinematic dramatic lighting, a small, silhouetted figure standing on the cliff edge looking out at the turbulent sea, distant cyberpunk city skyline visible on the horizon, cool color palette, highly detailed clouds.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, blurry, jpeg artifacts, extra limbs, watermark, text, signature, 3D render, photorealistic, simple background, ugly, cropped.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Lighthouse",
+    "Storm",
+    "Lightning",
+    "Anime",
+    "Neon Lighting",
+    "Sea cliff",
+    "Raging waves",
+    "Rainy night",
+    "Dynamic composition",
+    "Cyberpunk"
+  ]
+}

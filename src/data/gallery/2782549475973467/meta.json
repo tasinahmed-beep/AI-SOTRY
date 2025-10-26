@@ -1,0 +1,23 @@
+{
+  "id": "2782549475973467",
+  "file": "gemini-2782549475973467.png",
+  "title": "Serene Garden Matcha Ritual",
+  "prompt": "(masterpiece), best quality, ultra detailed, a tranquil Japanese matcha tea ceremony setup on a glossy bamboo low table (chabudai). Close-up focus on the detailed tetsubin iron kettle, ceramic matcha chawan, bamboo whisk (chasen), and sakura decorated tea caddy (natsume). The background features a serene Japanese Zen garden with a multi-tiered waterfall cascading over mossy rocks, and blooming pink cherry blossom trees (sakura). Soft volumetric lighting, cozy atmosphere, stylized clean forms, 3D Anime style, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, blurry, bad anatomy, deformed, ugly, disfigured, poorly drawn, out of focus, monochrome, missing items, watermark, signature, jpeg artifacts, realistic textures",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Tea ceremony",
+    "Matcha",
+    "Japanese culture",
+    "Bamboo table",
+    "Zen garden",
+    "Waterfall",
+    "Sakura",
+    "3D render",
+    "Cozy",
+    "Still life"
+  ]
+}

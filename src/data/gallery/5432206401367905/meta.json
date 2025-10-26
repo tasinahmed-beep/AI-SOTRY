@@ -1,0 +1,23 @@
+{
+  "id": "5432206401367905",
+  "file": "gemini-5432206401367905.png",
+  "title": "Neon Rain Drifter",
+  "prompt": "(masterpiece), best quality, highly detailed 2D Anime illustration of a dark, narrow cyberpunk alleyway, cinematic 16:9 aspect ratio. Heavy rain pours down, creating wet reflections on the pavement. The scene is illuminated by numerous glowing neon signs, featuring vibrant cyan, magenta, and orange light. Prominent signs include a glowing blue dragon head and Japanese characters/English text like 'REACTOR'. A lone figure in a black, hooded coat walks away from the viewer down the center of the street, vanishing into the fog and steam rising from the drains. Moody atmosphere, strong black outlines, cel-shaded coloring, deep perspective, vaporwave aesthetic.",
+  "negativePrompt": "lowres, text, worst quality, low quality, watermark, signature, error, blurry, cropped, jpeg artifacts, multiple people, face, extra limbs, poorly drawn hands, grayscale, monochrome, sketch, amateur drawing.",
+  "style": "Cyberpunk Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cyberpunk",
+    "2D Anime",
+    "Neon",
+    "Rain",
+    "Alleyway",
+    "Night",
+    "Lofi",
+    "Steam",
+    "Cityscape",
+    "Vaporwave"
+  ]
+}

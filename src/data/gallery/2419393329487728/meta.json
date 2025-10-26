@@ -1,0 +1,23 @@
+{
+  "id": "2419393329487728",
+  "file": "gemini-2419393329487728.png",
+  "title": "Dragon's Ascent: Planting the Celestial Banner",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, Donghua Chinese animation style illustration. A heroic astronaut, wearing a custom spacesuit inspired by ancient Chinese general armor (white, red, and gold detailing, dragon motif on armor plates, flowing sashes), vigorously plants a large ceremonial flag into the dusty, desolate alien surface. The white banner features a golden imperial dragon emblem and elegant Chinese calligraphy. The backdrop is a dramatic space landscape with towering, stylized mountains, swirling pink and purple cosmic clouds, visible constellations, and a teal planet glowing in the dark sky. Full body shot, dynamic action pose, sense of awe and pioneering spirit.",
+  "negativePrompt": "worst quality, low quality, distorted, blurry, missing limbs, extra limbs, poorly drawn, text, watermark, signature, multiple astronauts, incoherent flag design, jpeg artifacts, bad anatomy, cropped.",
+  "style": "Donghua Chinese Animation",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "astronaut",
+    "space exploration",
+    "Chinese mythology",
+    "dragon",
+    "Donghua",
+    "planting a flag",
+    "lunar landscape",
+    "traditional armor",
+    "cosmic",
+    "stylized"
+  ]
+}

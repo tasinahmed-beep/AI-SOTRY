@@ -1,0 +1,23 @@
+{
+  "id": "4707666709131837",
+  "file": "gemini-4707666709131837.png",
+  "title": "Snowdrift Traveler",
+  "prompt": "(masterpiece), (best quality), 9:16 portrait orientation, a vibrant red fox trotting dynamically through fresh, deep snow, kicking up snow particles and spray. Full body shot, focused and sharp. Highly detailed fur texture rendered in 3D Anime cel-shading style, strong outlines. Serene winter forest background, snow-covered pine trees, large stylized snowflakes falling, soft light from a pale blue and pink winter sky, dynamic pose, high resolution.",
+  "negativePrompt": "lowres, worst quality, low quality, jpeg artifacts, blurry, deformed, bad anatomy, extra limbs, cropped, watermark, signature, missing tail, distorted features, poorly drawn face, monochrome",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Red Fox",
+    "Winter Scene",
+    "Snow",
+    "Cel Shading",
+    "3D Anime",
+    "Wildlife",
+    "Dynamic Pose",
+    "Snowdrift",
+    "Forest",
+    "Vulpine"
+  ]
+}

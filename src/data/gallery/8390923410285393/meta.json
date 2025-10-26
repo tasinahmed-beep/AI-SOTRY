@@ -1,0 +1,23 @@
+{
+  "id": "8390923410285393",
+  "file": "gemini-8390923410285393.png",
+  "title": "Warm Elotes on a Stormy Night",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k photograph of a smiling street vendor, an older woman wearing a clear plastic raincoat and a wide hat, grilling rows of hot elotes (corn on the cob) over glowing charcoal in heavy, continuous rain at night. The vendor operates a weathered metal street cart protected by a large red umbrella. The cart features a prominent sign reading \"ELOTES ASADOS CALIENTES!\". Intense atmospheric lighting, dramatic steam rising from the hot grill contrasting with the cold rain. Blurred background shows an urban street with neon store signs reflecting vibrantly (orange and red tones) on the wet black asphalt. High contrast, cinematic lighting, deep depth of field, 16:9 aspect ratio, Photorealistic.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, watermark, signature, error, lowres, text on image, bad anatomy, bad hands, mutated, deformed, poorly lit faces, cartoon, sketch, painting, unnatural colors.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street photography",
+    "Night scene",
+    "Heavy rain",
+    "Street vendor",
+    "Grilling",
+    "Elotes",
+    "Atmosphere",
+    "Urban",
+    "Neon lights",
+    "Cinematic"
+  ]
+}

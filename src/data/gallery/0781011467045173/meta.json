@@ -1,0 +1,23 @@
+{
+  "id": "0781011467045173",
+  "file": "gemini-0781011467045173.png",
+  "title": "Grandma's Wood-Fired Oven and Loving Kneading",
+  "prompt": "(masterpiece), best quality, highly detailed, comic book illustration style, 16:9 aspect ratio. A cheerful, smiling elderly woman (grandmother) with spectacles and a bun, wearing a pink floral sweater and a white apron, happily kneading a large lump of bread dough on a rustic wooden table. Full-body shot, eye-level angle. The background is a spacious, cozy, old-fashioned kitchen featuring a prominent large brick wood-fired oven containing loaves of baking bread. Sunlight streams through the window. The room includes charming details: deep wooden shelving stocked with jars, two tall antique grandfather clocks, a wooden rocking chair, and two tabby cats sleeping peacefully nearby. Warm, inviting color palette, strong black outlines, expressive cross-hatching, vintage comic texture, panel layout.",
+  "negativePrompt": "poor quality, low resolution, blurry, deformed, mutated, extra fingers, bad anatomy, grayscale, monochrome, text clutter, watermark, signature, modern kitchen appliances, mismatched clocks.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "grandmother",
+    "baking",
+    "cozy kitchen",
+    "comic book art",
+    "rustic interior",
+    "wood oven",
+    "cats",
+    "domestic scene",
+    "kneading dough",
+    "vintage aesthetics"
+  ]
+}

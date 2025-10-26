@@ -1,0 +1,23 @@
+{
+  "id": "1651763747389677",
+  "file": "gemini-1651763747389677.png",
+  "title": "Dawn Cast on the Reflective Lake",
+  "prompt": "(masterpiece), best quality, cinematic composition, 2D Anime style illustration, a solitary fisherman silhouetted against the bright sunrise, standing on a dark rocky outcrop, casting a fishing line over a still lake, huge red-orange sun reflecting perfectly on the water, dramatic golden and purple dawn sky with scattered clouds, distant layered mountains and forested shoreline, dynamic action, glittering water splash arc from the lure, minimalist vector art details, 16:9 aspect ratio, vibrant colors.",
+  "negativePrompt": "deformed, bad art, ugly, worst quality, low quality, cropped, worst composition, blurry, mutated limbs, realistic shading, 3D, complex details, multiple figures, shadows.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "fishing",
+    "sunrise",
+    "dawn",
+    "silhouette",
+    "anime landscape",
+    "lake",
+    "casting",
+    "nature",
+    "tranquil",
+    "16:9"
+  ]
+}

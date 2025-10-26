@@ -1,0 +1,21 @@
+{
+  "id": "9327512054523923",
+  "title": "Quiet Contemplation: 3D Anime Seated Figure (Landscape)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, poorly drawn face, malformed limbs, deformed",
+  "style": "3D Anime / Cel-shaded",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "3D render",
+    "anime style",
+    "female character",
+    "sitting pose",
+    "seated",
+    "character illustration",
+    "digital art",
+    "full body",
+    "portrait"
+  ]
+}

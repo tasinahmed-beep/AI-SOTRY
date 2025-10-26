@@ -1,0 +1,23 @@
+{
+  "id": "6499286940203606",
+  "file": "gemini-6499286940203606.png",
+  "title": "The Scientist's Focus",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, photorealistic portrait shot (9:16), cinematic lighting, a focused blonde female scientist in a pristine white lab coat and blue gloves, sitting at a wooden workbench. She is intently peering through a modern microscope. The laboratory is dimly lit, illuminated primarily by a bright, adjustable desk lamp focused on the work area. On the desk, there are Petri dishes and a rack of blood sample test tubes, next to a computer monitor displaying data. In the background, dark metal shelves hold various chemical glassware and a whiteboard with mathematical formulas. Visible dust motes float in the beam of light, deep concentration, moody atmosphere.",
+  "negativePrompt": "low resolution, poorly drawn, blurry, grainy, amateur, deformed, mutated, worst quality, noise, text, watermark, signature, cartoon, 3d render, illustration, bad anatomy, extra limbs, ugly, cropped, out of frame",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Laboratory",
+    "Scientist",
+    "Research",
+    "Microscope",
+    "Medical",
+    "Photorealism",
+    "Cinematic Lighting",
+    "Portrait",
+    "Chiaroscuro",
+    "Experiment"
+  ]
+}

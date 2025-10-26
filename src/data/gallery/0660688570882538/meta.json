@@ -1,0 +1,22 @@
+{
+  "id": "0660688570882538",
+  "title": "Morning Mural: Boom!",
+  "prompt": "(masterpiece), best quality, highly detailed, comic book page panel, graphic novel style, bold black outlines, halftone shading, A lone street artist wearing a hoodie and a baseball cap, viewed from behind, spray painting a vibrant, dynamic abstract graffiti mural on a textured brick wall. The mural features bright, contrasting colors (purple, orange, yellow) and a stylized burst with the word 'BOOM!'. Low angle perspective, strong orange and magenta sunrise light, dramatic radial sunbeams filling the upper sky. Scattered empty spray paint cans on the dark concrete ground. Speech bubbles included. 9:16 aspect ratio.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book",
+    "Graffiti",
+    "Street Art",
+    "Mural",
+    "Dawn",
+    "Urban",
+    "Spray Paint",
+    "Brick Wall",
+    "Pop Art",
+    "Vertical Panel"
+  ]
+}

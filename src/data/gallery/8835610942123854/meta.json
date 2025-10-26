@@ -1,0 +1,23 @@
+{
+  "id": "8835610942123854",
+  "file": "gemini-8835610942123854.png",
+  "title": "Whispers of the Immortal Cherry Blossom Pond",
+  "prompt": "(masterpiece), 8k, hyperdetailed, photorealistic fantasy illustration of a vibrant Xianxia landscape, vertical 9:16 aspect ratio. A serene koi pond in the foreground, featuring several large red and white koi fish swimming beneath the surface. Abundant pink cherry blossom petals float on the water and fall from dense sakura trees framing the scene overhead. Detailed water ripples and splashes created by the fish. In the middle ground, an ancient stone arch bridge adorned with subtle dragon carvings spans the water. Traditional Chinese pavilions and pagodas are nestled among lush, rocky terrain and illuminated by soft glowing lanterns. In the background, majestic, misty mountains and floating islands with cascading waterfalls rise into a clear, bright sky. Cinematic volumetric lighting, ultra quality render.",
+  "negativePrompt": "worst quality, low quality, distortion, blurry, deformed, malformed, poorly drawn, extra limbs, signature, watermark, amateur, ugly, tiling, cropped, noise, grainy, monochrome, realistic photo",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Koi Pond",
+    "Cherry Blossoms",
+    "Fantasy Landscape",
+    "Arch Bridge",
+    "Floating Islands",
+    "Water Ripples",
+    "Pagoda",
+    "Misty Mountains",
+    "Sakura"
+  ]
+}

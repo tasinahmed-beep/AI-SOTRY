@@ -1,0 +1,23 @@
+{
+  "id": "0390540369149252",
+  "file": "gemini-0390540369149252.png",
+  "title": "Bamboo Lunch in the Misty Anime Grove",
+  "prompt": "(masterpiece), best quality, highly detailed, (Modern Anime style:1.2), a charming Giant Panda sitting upright and centered, peacefully eating a thick stalk of fresh green bamboo. The panda is fluffy and expressive. Set in a dense, magical bamboo forest environment. The atmosphere is highly volumetric with thick, soft mist and ethereal sunbeams (god rays) filtering vertically through the tall bamboo stalks. Soft, diffused lighting, emerald and jade color palette, subtle falling pink petals, lush mossy ground details. Full body shot, detailed fur texture, vertical composition (9:16), smooth digital illustration, Studio Ghibli inspired background art.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, noise, ugly, tiling, poorly drawn face, mutated, distorted body, bad anatomy, missing limbs, extra limbs, watermark, signature, text, monochrome, grayscale, low contrast",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Bamboo Forest",
+    "Misty",
+    "Modern Anime",
+    "Kawaii",
+    "Wildlife",
+    "Vertical Composition",
+    "Lush Vegetation",
+    "Cute",
+    "Digital Art"
+  ]
+}

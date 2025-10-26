@@ -1,0 +1,23 @@
+{
+  "id": "5489152087196175",
+  "file": "gemini-5489152087196175.png",
+  "title": "The Heroic Dash",
+  "prompt": "(masterpiece), (best quality), highly detailed, 3D animation render, volumetric lighting, dynamic pose, low angle shot, cinematic atmosphere, a determined male firefighter character in bright yellow turnout gear and helmet (number 8) running forward, carrying a large coiled red fire hose over his shoulder, gripping the silver nozzle. Intense background scene of a building engulfed in orange flames and thick, swirling, reddish-brown smoke. A fire truck with flashing red and blue emergency lights is partially visible in the middle ground. Pixar style, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, blurry, bokeh, watermark, signature, mutated, bad hands, extra limbs, extra fingers, missing fingers, deformed, disfigured, poorly drawn.",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Firefighter",
+    "Pixar Style",
+    "3D Animation",
+    "Emergency Services",
+    "Heroic",
+    "Fire Scene",
+    "Volumetric Lighting",
+    "Cartoon Character",
+    "Action Pose",
+    "16:9"
+  ]
+}

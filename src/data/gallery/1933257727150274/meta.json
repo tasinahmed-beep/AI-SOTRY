@@ -1,0 +1,22 @@
+{
+  "id": "1933257727150274",
+  "title": "Grandma's Cozy Hearth Bakery",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k resolution, cinematic lighting, volumetric light, depth of field, A kind, smiling grandmother with gray hair in a bun and glasses, happily kneading fresh bread dough on a rustic wooden table covered in flour. She wears a checkered apron. The setting is a cozy, warm, traditional cottage kitchen filled with wooden shelves, terracotta pottery, and rustic details. A large stone fireplace oven is prominent in the background, containing a baking loaf of bread and glowing wood fire below. A small, sleeping ginger cat rests comfortably on a circular rug near the fire, enjoying the warmth. Sunlight streams brightly through a large arched window on the left, casting soft illumination and highlighting dust motes. Warm color palette, **3D Anime style, 16:9 aspect ratio.**",
+  "negativePrompt": "(low quality), (worst quality), (bad anatomy), blurry, undeveloped, poorly drawn, out of frame, deformed, ugly, extra limbs, signature, watermark, text, monochrome, sketch, painting, oil painting, grayscale, poorly rendered hands",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "grandmother",
+    "baking",
+    "cozy kitchen",
+    "3D anime",
+    "wholesome",
+    "kneading dough",
+    "stone oven",
+    "cat",
+    "warm lighting",
+    "rustic"
+  ]
+}

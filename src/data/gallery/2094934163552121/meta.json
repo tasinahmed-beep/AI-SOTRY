@@ -1,0 +1,22 @@
+{
+  "id": "2094934163552121",
+  "title": "Heroine's Brief Repose (Landscape)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "Deformed, blurry, low resolution, cropped, watermark, extra limbs, bad anatomy, mutated hands, missing fingers, text, artifacts, grayscale, monochrome, sketch, lack of detail, amateur drawing",
+  "style": "Comic Book Art",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Woman",
+    "female character",
+    "sitting",
+    "comic book art",
+    "graphic novel",
+    "sequential art",
+    "repose",
+    "ink line art",
+    "vibrant colors",
+    "dynamic perspective"
+  ]
+}

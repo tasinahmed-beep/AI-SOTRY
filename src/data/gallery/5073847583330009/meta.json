@@ -1,0 +1,22 @@
+{
+  "id": "5073847583330009",
+  "file": "gemini-5073847583330009.png",
+  "title": "Desert Journey to the Sunset Citadel",
+  "prompt": "(masterpiece), (best quality), highly detailed CGI render, Pixar Style animation, wide 16:9 aspect ratio. An epic desert caravan journey across massive, undulating crimson red sand dunes at sunset. The caravan includes stylized travelers riding expressive camels adorned with colorful textiles, and pulling wooden carts filled with goods. Intense volumetric lighting from a large setting sun casts long, dramatic shadows. Stylized swirling clouds above. In the far distance, a silhouette of an ornate Arabian citadel is visible. Foreground elements include unique, twisted rock formations.",
+  "negativePrompt": "low resolution, poor quality, worst quality, monochrome, ugly, deformed, blurry, artifacts, jpeg compression, bad anatomy, error, 2d, sketch, watermark, text",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Desert",
+    "Caravan",
+    "Pixar Style",
+    "3D Render",
+    "Sunset",
+    "Red Dunes",
+    "Adventure",
+    "Camel",
+    "Stylized"
+  ]
+}

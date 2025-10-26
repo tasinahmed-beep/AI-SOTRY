@@ -1,0 +1,22 @@
+{
+  "id": "7604026389995504",
+  "file": "gemini-7604026389995504.png",
+  "title": "The Sunset Surfer's Emerald Tube",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic 3D render, A young male surfer carving a massive, perfect emerald green barrel wave at a dramatic sunset. Intense sun rays burst across the orange, pink, and purple sky, illuminating the water spray and the inside of the tube. Sunlight reflecting intensely on the ocean surface. Small tropical island with rocky formations and palm trees in the distant background. Dynamic action pose, volumetric lighting, deep depth of field. Pixar Style, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, poorly drawn, monochrome, blurry, deformed, watermark, text, signature, bad anatomy, flat lighting, unrealistic water, messy background, oversaturated",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "surfing",
+    "Pixar style",
+    "3D animation",
+    "sunset",
+    "barrel wave",
+    "emerald wave",
+    "ocean action",
+    "tropical setting",
+    "cinematic lighting"
+  ]
+}

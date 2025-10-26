@@ -1,0 +1,22 @@
+{
+  "id": "7904836328041860",
+  "title": "Joyful Stroll in the Alleyway",
+  "prompt": "(masterpiece), best quality, 4k, hyperdetailed, 3D animation render, Pixar style character portrait. A cheerful, adorable young woman with a round face, freckles, rosy cheeks, and auburn hair in a voluminous high ponytail. She is wearing a textured teal knit sweater and a thick orange and white striped scarf, smiling brightly with a wide open mouth. She is accompanied by a happy, smiling golden retriever dog looking up at her. They are walking on a cobblestone path in a cozy European town alleyway with pastel-colored buildings. Soft golden hour lighting, warm volumetric light, shallow depth of field, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, blurry, jpeg artifacts, ugly, signature, watermark, extra limbs, bad eyes, monochrome, grayscale, low resolution, poorly drawn face, disfigured hands",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar Style",
+    "3D Animation",
+    "Character Design",
+    "Golden Retriever",
+    "Cute",
+    "Knitted Sweater",
+    "Golden Hour",
+    "European Town",
+    "Cobblestone Street",
+    "Smiling"
+  ]
+}

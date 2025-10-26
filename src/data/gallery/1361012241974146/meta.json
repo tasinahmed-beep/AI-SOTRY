@@ -1,0 +1,23 @@
+{
+  "id": "1361012241974146",
+  "file": "gemini-1361012241974146.png",
+  "title": "The Immortal Biker's Descent",
+  "prompt": "(masterpiece), best quality, highly detailed, 4K, cinematic lighting, full body shot of an intense male cultivator warrior (Wuxia/Xianxia aesthetic) with flowing long hair, wearing ornate red and blue cultivation robes and engraved fantasy armor, fiercely racing down a winding dirt trail on a modern downhill mountain bike. He holds a glowing azure spear/staff horizontally across the handlebars. The scene is set in an epic, magical Xianxia forest landscape: massive ancient gnarled trees with glowing lanterns, a turquoise spiritual river, small blue mystical dragons hiding in the foliage, and a white deer observing. In the background, majestic misty karst mountains topped with intricate floating pagodas and bridges stretch into the sky. Dynamic action pose, dust kicking up, epic fantasy illustration, 16:9 aspect ratio.",
+  "negativePrompt": "low resolution, blurry, text, watermark, worst quality, deformed, mutilated, extra limbs, misplaced limbs, multiple heads, ugly, malformed hands, missing fingers, error, lowres, poor composition, boring, monochrome",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Mountain Biking",
+    "Fantasy Warrior",
+    "Epic Landscape",
+    "Digital Painting",
+    "Cultivation",
+    "Mystical Forest",
+    "Karst Mountains",
+    "Hybrid Genre",
+    "Action"
+  ]
+}

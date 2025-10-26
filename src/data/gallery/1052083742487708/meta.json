@@ -1,0 +1,23 @@
+{
+  "id": "1052083742487708",
+  "file": "gemini-1052083742487708.png",
+  "title": "The Silent Score: Solitude on Stage",
+  "prompt": "(masterpiece), best quality, highly detailed, dramatic graphic novel illustration, a fierce, determined female violinist with long dark hair, wearing an elegant long black evening dress, standing center stage and playing a glowing violin intensely. Swirling, glowing musical notes and staves emanate dynamically from the instrument. She is alone under a harsh spotlight on a vast, empty, vintage opera house stage. Ornate theater boxes and dark, empty red velvet seats fill the background. Fallen wooden chair and scattered sheet music on the stage floor. Strong black ink outlines, cinematic composition, deep shadows, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, text, speech bubble, blurry, ugly, deformed, extra fingers, missing limbs, bad anatomy, grayscale, watermark, low contrast, unrealistic proportions, poorly drawn violin",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Violinist",
+    "Comic Book Style",
+    "Graphic Novel",
+    "Empty Theater",
+    "Spotlight",
+    "Dramatic Lighting",
+    "Musical Performance",
+    "Solitude",
+    "Ornate Architecture",
+    "16:9"
+  ]
+}

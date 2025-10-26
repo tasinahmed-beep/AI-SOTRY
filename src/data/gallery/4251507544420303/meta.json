@@ -1,0 +1,23 @@
+{
+  "id": "4251507544420303",
+  "file": "gemini-4251507544420303.png",
+  "title": "Sunset Barrel Rider Comic Panel",
+  "prompt": "(masterpiece), best quality, highly detailed comic book illustration, vertical panel (9:16), a muscular male surfer perfectly riding the inside of a massive, swirling emerald green barrel wave. The scene is set during a dramatic, vibrant sunset, featuring a glowing orange and crimson sky fading into deep purple. Dynamic splash effects, thick black linework, bold colors, and strong contrast. Include stylized comic text effects \"CRASH!\" and \"SURF'S UP!\". Dynamic action pose, extreme foreground perspective, classic retro comic art aesthetic, cel shading.",
+  "negativePrompt": "low quality, cartoon, worst quality, monochrome, distorted, blurry, bad anatomy, deformed hands, missing limbs, text overlay (unless specifically requested), signature, watermark, blurry background, photorealism, low contrast",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Comic Art",
+    "Barrel Wave",
+    "Sunset",
+    "Action",
+    "Emerald Wave",
+    "Linework",
+    "Dynamic Pose",
+    "Retro Comic",
+    "9:16"
+  ]
+}

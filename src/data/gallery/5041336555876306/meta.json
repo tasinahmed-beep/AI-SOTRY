@@ -1,0 +1,23 @@
+{
+  "id": "5041336555876306",
+  "file": "gemini-5041336555876306.png",
+  "title": "Serenity of the Dragon's Bamboo Tea Garden",
+  "prompt": "(masterpiece), best quality, highly detailed cinematic photorealistic render, A close-up shot of a traditional Chinese tea ceremony set on a rustic bamboo table, 16:9 aspect ratio. Featuring a deep red Yixing clay teapot, six celadon porcelain cups on a dark wood tray, and a bowl of dried tea leaves. Gentle steam rises from the cups. The scene is set in a semi-outdoor pavilion with soft diffused sunlight filtering through white sheer curtains and bamboo lattice walls. In the background, a large traditional ink wash scroll painting of an ancient Chinese dragon amidst misty mountains is visible. Potted white and purple orchids adorn the ledge. Donghua Chinese environmental aesthetic, soft volumetric lighting, extreme depth of field, bokeh.",
+  "negativePrompt": "low resolution, blurry, distorted, sketch, cartoon, anime, ugly, poorly drawn, extra limbs, watermark, text, signature, worst quality, tiling, artifacts, amateur, cropped, mismatched cups, plastic.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Tea Ceremony",
+    "Bamboo",
+    "Chinese Culture",
+    "Still Life",
+    "Traditional",
+    "Orchid",
+    "Yixing Teapot",
+    "Cinematic Lighting",
+    "Dragon Scroll",
+    "Celadon"
+  ]
+}

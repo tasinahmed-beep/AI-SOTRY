@@ -1,0 +1,23 @@
+{
+  "id": "6569423053425733",
+  "file": "gemini-6569423053425733.png",
+  "title": "Guardian of the Eastern Sea",
+  "prompt": "(masterpiece), (best quality), highly detailed traditional Donghua Chinese ink painting illustration, 16:9 aspect ratio. A dramatic scene featuring a towering lighthouse built with traditional Chinese pagoda architecture, standing on rugged, steep, dark sea cliffs. Turbulent, crashing waves and foamy surf below. A stormy atmosphere with heavy, dark teal and grey clouds covering the sky. The lighthouse lantern emits a warm, guiding light. Include stylized ancient pine trees clinging to the cliffs. A small traditional Chinese junk boat navigates the rough sea in the mid-distance. Traditional Chinese art aesthetic, subtle color washes, detailed line work, calligraphic elements, scroll border.",
+  "negativePrompt": "lowres, text, signature, watermark, amateur, blurry, deformed, worst quality, cropped, sketch, grayscale, modern structure, simple colors, 3D render",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Lighthouse",
+    "Donghua",
+    "Chinese Ink Painting",
+    "Stormy Sea",
+    "Pagoda Architecture",
+    "Cliffs",
+    "Traditional Art",
+    "Seascape",
+    "Turbulence",
+    "Ancient Pine"
+  ]
+}

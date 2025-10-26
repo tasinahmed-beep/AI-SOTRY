@@ -1,0 +1,22 @@
+{
+  "id": "5934305875626917",
+  "title": "Blossoming Cheer: Schoolgirl in the Sakura Park",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D Anime illustration, 1girl, young student, adorable facial expression, pink wavy hair, bangs, bright blue eyes, radiant open-mouthed smile, blushing cheeks, looking at viewer, hands clasped together, upper body shot, traditional Japanese sailor uniform (seifuku), white shirt, blue sailor collar with white stripes, red necktie, pleated blue skirt, background of a bright sunny cherry blossom (sakura) park, falling pink petals, detailed outdoor path, volumetric lighting, dynamic pose, vertical composition (9:16).",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, mutated, extra limbs, missing limbs, poorly drawn hands, blurry, low resolution, bad composition, watermark, signature, text, monochrome.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "anime",
+    "schoolgirl",
+    "sakura",
+    "cherry blossoms",
+    "sailor uniform",
+    "pink hair",
+    "portrait",
+    "smiling",
+    "cheerful",
+    "spring"
+  ]
+}

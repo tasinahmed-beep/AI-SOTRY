@@ -1,0 +1,93 @@
+import Header from "@/components/Header";
+import Seo from "@/components/Seo";
+
+const Terms = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <Seo title="Terms of Service – PromptVerse" description="Read PromptVerse’s Terms of Service covering acceptable use, intellectual property, and limitations of liability." />
+      <Header />
+      
+      <main className="container mx-auto px-4 py-12 max-w-4xl">
+        <div className="glass-panel space-y-8 bg-background/40 backdrop-blur-sm border border-white/10 rounded-2xl p-8 shadow-sm">
+          <div className="space-y-4">
+            <h1 className="text-4xl font-bold">Terms of Service</h1>
+            <p className="text-muted-foreground">Last updated: October 26, 2025</p>
+          </div>
+
+          <div className="prose prose-lg max-w-none space-y-6">
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">1. Acceptance of Terms</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                By accessing and using PromptVerse, you accept and agree to be bound by the terms 
+                and provision of this agreement. If you do not agree to these terms, please do not 
+                use our service.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">2. Use of Service</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse provides a collection of AI image generation prompts for educational 
+                and creative purposes. You may use the prompts for personal or commercial projects, 
+                but you may not resell or redistribute the prompts as a standalone product.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">3. Intellectual Property</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                The prompts, images, and content on PromptVerse are provided for reference and 
+                inspiration. When you generate images using these prompts with AI tools, you own 
+                the rights to those generated images according to the terms of the AI service you use.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">4. User Conduct</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                You agree not to use PromptVerse for any unlawful purpose or in any way that could 
+                damage, disable, overburden, or impair the service. You must not attempt to gain 
+                unauthorized access to any part of the service.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">5. Disclaimer</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse is provided "as is" without warranties of any kind. We do not guarantee 
+                that the service will be uninterrupted or error-free. Results from using our prompts 
+                may vary depending on the AI service and settings used.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">6. Limitation of Liability</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                PromptVerse shall not be liable for any indirect, incidental, special, consequential, 
+                or punitive damages resulting from your use of or inability to use the service.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">7. Changes to Terms</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                We reserve the right to modify these terms at any time. We will notify users of any 
+                significant changes by posting the new terms on this page with an updated revision date.
+              </p>
+            </section>
+
+            <section className="space-y-4">
+              <h2 className="text-2xl font-semibold">8. Contact</h2>
+              <p className="text-muted-foreground leading-relaxed">
+                If you have any questions about these Terms of Service, please contact us through 
+                our website.
+              </p>
+            </section>
+          </div>
+        </div>
+      </main>
+    </div>
+  );
+};
+
+export default Terms;

@@ -1,0 +1,23 @@
+{
+  "id": "8108439730969121",
+  "file": "gemini-8108439730969121.png",
+  "title": "Bonsai Serenity in the Urban Comic",
+  "prompt": "(masterpiece), best quality, hyper detailed comic book illustration, full panel shot, a magnificent gnarled bonsai tree in a dark, textured ceramic pot resting on a weathered wooden shelf. The shelf is centered within a large, arched window frame. Through the window, a stylized urban cityscape silhouette is visible against a vibrant, high-contrast sunset sky featuring radiating sun rays (sunburst effect). The walls surrounding the window are fully plastered with faded, torn vintage comic book panels and pages. Bold inking, thick lines, highly saturated primary colors, visible Ben-Day dots texture, dynamic comic book sound effects like 'WHIZZ!' and 'SHHH!', thought bubble above the bonsai displaying a sun and rain icon. 16:9 aspect ratio, retro comic aesthetic.",
+  "negativePrompt": "low quality, bad anatomy, deformed, missing limbs, watermark, signature, text error, blurry, jpeg artifacts, amateur drawing, cartoon, 3d render, worst quality, monochrome",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Bonsai",
+    "Comic Book",
+    "Cityscape",
+    "Sunset",
+    "Vintage Comics",
+    "Ben-Day Dots",
+    "Pop Art",
+    "Sound Effects",
+    "Window",
+    "Urban"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4375144590435436",
+  "file": "gemini-4375144590435436.png",
+  "title": "The Botanical Automaton's Morning Routine",
+  "prompt": "(masterpiece), ultra detailed, cinematic lighting, 3D Anime style, a helpful futuristic anthropomorphic robot (white and cyan chassis, sleek design) gently watering a lush collection of houseplants in a modern, sunlit studio apartment greenhouse. The robot holds a metallic watering can. The room features large arched windows showcasing a distant city skyline at sunrise. Wooden shelves are filled with various vibrant plants, including pink and white orchids, Monstera, and hanging ivy. In the background, a large monitor displays holographic plant health data and vital signs. Soft volumetric sunlight streams through the windows, creating warm atmosphere and subtle shadows. Detailed environment, 16:9 aspect ratio.",
+  "negativePrompt": "ugly, disfigured, low resolution, bad hands, blurred, worst quality, noise, grain, lowres, poorly drawn, signature, text, watermark, mutated, abstract, deformed, sketch, oil painting, traditional art, artifacts",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "robot",
+    "houseplants",
+    "greenhouse",
+    "3D Anime",
+    "sci-fi",
+    "futuristic",
+    "watering can",
+    "studio apartment",
+    "detailed environment",
+    "morning light"
+  ]
+}

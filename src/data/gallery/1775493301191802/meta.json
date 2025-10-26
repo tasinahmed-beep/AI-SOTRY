@@ -1,0 +1,23 @@
+{
+  "id": "1775493301191802",
+  "file": "gemini-1775493301191802.png",
+  "title": "Sky Citadel of the Floating Valley",
+  "prompt": "(masterpiece), best quality, detailed illustration, (Modern Anime style:1.2), cinematic fantasy landscape, a colossal medieval fortress castle atop a jagged, massive mountain peak, floating above a vast, dense cloud sea, subtle glowing cyan arcane energy cracks running along the stone walls, vibrant sunset lighting, pink and orange gradient sky, wide-angle establishing shot, below the clouds reveals a lush, green valley with a winding river and ancient ruins, several black raptors flying near the cliffs, highly detailed background, vertical orientation, 9:16 aspect ratio.",
+  "negativePrompt": "worst quality, low resolution, poorly drawn, blurry, artifacts, text, watermark, signature, ugly, distorted, disconnected limbs, cropped, simple background, 3D render, photorealistic, bad anatomy, deformed hands, missing details.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Castle",
+    "Fantasy Landscape",
+    "Modern Anime",
+    "Cloud Sea",
+    "Fortress",
+    "Sunset",
+    "Arcane",
+    "Vertical",
+    "Medieval Architecture",
+    "Establishing Shot"
+  ]
+}

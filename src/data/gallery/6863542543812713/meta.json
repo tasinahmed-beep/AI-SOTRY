@@ -1,0 +1,23 @@
+{
+  "id": "6863542543812713",
+  "file": "gemini-6863542543812713.png",
+  "title": "Caring Companion Bot",
+  "prompt": "(masterpiece), best quality, highly detailed, 3D Anime style, full body shot, (9:16 aspect ratio), a cute and friendly humanoid robot (android) with smooth white armor and glowing blue screen face, holding a silver watering can. The robot is carefully watering a large potted Monstera plant. The scene is set in a bright, clean art studio interior, filled with lush green houseplants (pothos, snake plants) on wooden shelves and wooden furniture. Dramatic natural sunlight streams through a large arched window, casting long, defined shadows on the floor. Minimalist decor, soft volumetric lighting, clean line art.",
+  "negativePrompt": "low quality, bad anatomy, deformed, worst quality, blurry, extra limbs, ugly, poorly drawn face, watermark, text, signature, cartoon, realism, photo",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Robot",
+    "Android",
+    "Houseplants",
+    "Studio",
+    "Anime style",
+    "Gardening",
+    "Monstera",
+    "Clean lines",
+    "Interior design",
+    "Bright lighting"
+  ]
+}

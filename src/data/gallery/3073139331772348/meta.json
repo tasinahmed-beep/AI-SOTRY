@@ -1,0 +1,21 @@
+{
+  "id": "3073139331772348",
+  "title": "The Sunset Tube: Emerald Wave Action Comic",
+  "prompt": "(masterpiece), (best quality), professional comic book panel illustration, a dynamic action shot of a muscular male surfer carving inside a massive emerald green tube wave, vibrant tropical sunset background featuring intense red, orange, and purple clouds, large setting sun on the horizon, rocky shoreline with palm trees visible, bold black outlines, high contrast shading using halftone dot patterns, dramatic speed lines radiating from the sky, visible sound effects like 'CRASH!' and 'WHOOSH!', full body shot, detailed water spray and foam, 9:16 vertical composition, Comic Book style.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, extra limbs, bad anatomy, grayscale, ugly, watermark, signature, cropped badly, inconsistent lines.",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Comic Panel",
+    "Sunset",
+    "Action",
+    "Tropical",
+    "Wave Riding",
+    "Emerald Wave",
+    "Halftone Shading",
+    "9:16"
+  ]
+}

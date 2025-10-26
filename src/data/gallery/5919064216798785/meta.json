@@ -1,0 +1,23 @@
+{
+  "id": "5919064216798785",
+  "file": "gemini-5919064216798785.png",
+  "title": "The Cultivator's Heavenly Mural at Dawn",
+  "prompt": "(Masterpiece), (best quality), extremely detailed fantasy digital painting, 16:9 aspect ratio. A powerful Xianxia realm cultivator, dressed in flowing purple robes and a wide bamboo hat, stands on precarious bamboo scaffolding, magically painting a monumental mural on an ancient, weathered brick courtyard wall at soft dawn. The cultivator wields a glowing spirit brush, infusing the artwork with turquoise and golden Qi energy. The mural depicts an epic Xianxia landscape: towering floating mountains, massive waterfalls, intricate ancient tiered pagodas suspended in the clouds, blooming pink lotus flowers in a mystic lake, and a serpentine golden energy spirit winding through the peaks. Soft volumetric dawn light illuminates the courtyard and the glowing mural. Several onlookers are gathered below, observing the magical creation process. High contrast lighting, ethereal atmosphere, concept art, cinematic composition.",
+  "negativePrompt": "ugly, deformed, noise, blurry, low resolution, bad anatomy, worst quality, simplistic, modern structures, western style, incoherent, signature, watermark, extra limbs.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Mural",
+    "Magical Painting",
+    "Dawn Light",
+    "Floating Mountains",
+    "Pagoda",
+    "Ancient Architecture",
+    "Digital Art",
+    "Fantasy Landscape"
+  ]
+}

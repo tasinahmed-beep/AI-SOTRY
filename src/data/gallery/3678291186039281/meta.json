@@ -1,0 +1,23 @@
+{
+  "id": "3678291186039281",
+  "file": "gemini-3678291186039281.png",
+  "title": "The Speedy Singletrack Adventure",
+  "prompt": "(masterpiece, best quality, ultra detailed, cinematic lighting), A dynamic medium shot of a cheerful young mountain biker (wearing a red jersey, blue shorts, protective gear, helmet, and goggles) smiling broadly while aggressively riding a full-suspension bicycle down a dusty, winding forest singletrack trail. The environment is lush with stylized, moss-covered trees and large roots framing the path. Motion blur on the foreground and background elements emphasizes high speed. Bright, volumetric sunlight streams down through the canopy, creating strong highlights and shadows. Distant mountains visible beneath a vibrant blue sky. Pixar style, 3D rendering, octane render, detailed environment, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, deformation, poorly drawn, extra limbs, signature, watermark, text, out of frame, monochrome, grayscale, dark, gloomy, disconnected wheels, unrealistic anatomy",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Mountain Biking",
+    "Pixar Style",
+    "3D Animation",
+    "Forest Trail",
+    "Adventure",
+    "Dynamic Action",
+    "Cartoon Character",
+    "Downhill Riding",
+    "Volumetric Lighting",
+    "Singletrack"
+  ]
+}

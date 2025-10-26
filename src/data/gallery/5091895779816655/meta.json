@@ -1,0 +1,22 @@
+{
+  "id": "5091895779816655",
+  "title": "Phoenix Maiden in the Misty Valley",
+  "prompt": "(masterpiece), (best quality), ultra detailed, cinematic lighting, 16:9 aspect ratio. A stunning beautiful young Chinese woman, smiling elegantly, dressed in elaborate majestic red Hanfu robes embroidered with golden phoenix motifs, highly detailed hair ornaments and jewelry, long flowing black hair, holding a delicate silk fan. Full body portrait. Standing in a gorgeous traditional Chinese fantasy landscape, misty high mountains, flowing river with floating lanterns, ancient pagodas and pavilions in the background. Framed by delicate pink cherry blossom (sakura) branches and vibrant pink lotus flowers. Donghua Chinese style, intricate illustration, vibrant colors.",
+  "negativePrompt": "(worst quality), (low quality), watermark, text, signature, bad anatomy, deformed hands, fewer fingers, missing limbs, blurry, out of focus, distorted, cropped, mutated, easynegative, monochrome, grayscale.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chinese Fantasy",
+    "Hanfu",
+    "Donghua Style",
+    "Misty Landscape",
+    "Cherry Blossom",
+    "Phoenix",
+    "Elegant Woman",
+    "Traditional Architecture",
+    "Lotus Flowers",
+    "Regal"
+  ]
+}

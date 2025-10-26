@@ -1,0 +1,23 @@
+{
+  "id": "3663822431900839",
+  "file": "gemini-3663822431900839.png",
+  "title": "The Sunset Spin Comic Panel",
+  "prompt": "(masterpiece), best quality, highly detailed full comic book panel illustration, wide angle view (16:9), a vibrant female dancer with flowing dark hair wearing a deep red dress, captured mid-spin (pirouette) on a gritty urban rooftop. Dramatic sunset background over a vast cityscape (New York style), with bright orange sunburst rays emanating from the sun. Kinetic motion lines emphasizing the rotation of the skirt and arms. Strong black inks, classic vintage comic book coloring with halftone dot shading. Include two inset square panels in the top right corner showing closer views of the dancer's expression and featuring the sound effects 'WHOSH!' and 'TWIRL!' in bold lettering. Comic Book style, action pose, dynamic lighting.",
+  "negativePrompt": "bad anatomy, poor quality, worst quality, low resolution, watermark, signature, blurry, deformed, extra fingers, malformed limbs, monochrome, faded colors, text errors, mismatched panel border",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Art",
+    "Sequential Art",
+    "Sunset",
+    "Dancer",
+    "Rooftop",
+    "Cityscape",
+    "Motion Lines",
+    "Red Dress",
+    "Halftone",
+    "Dynamic Pose"
+  ]
+}

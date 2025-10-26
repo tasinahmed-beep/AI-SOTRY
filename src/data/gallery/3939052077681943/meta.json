@@ -1,0 +1,23 @@
+{
+  "id": "3939052077681943",
+  "file": "gemini-3939052077681943.png",
+  "title": "Azure Stream Against the Crimson Inferno",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, cinematic lighting, Donghua Chinese style, professional illustration. A heroic firefighter clad in futuristic, samurai-inspired protective armor (red and black), featuring a glowing blue visor. He stands powerfully amidst massive, chaotic clouds of grey smoke and fierce crimson and orange flames. He is gripping a large fire hose, releasing dynamic, luminous blue streams of water that swirl and arc dramatically in the foreground. In the background, a majestic traditional East Asian multi-tiered pagoda is intensely engulfed in fire. Epic composition, low angle shot, dynamic action, rich textures.",
+  "negativePrompt": "lowres, worst quality, low quality, illustration, 3D, blurry, deformed, disfigured, bad anatomy, missing limbs, watermark, text, signature, cropped, jpeg artifacts, sketches, monochrome.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Firefighter",
+    "Donghua",
+    "Samurai Armor",
+    "Pagoda",
+    "Inferno",
+    "Heroic",
+    "Dynamic Lighting",
+    "Water Effects",
+    "Epic",
+    "Concept Art"
+  ]
+}

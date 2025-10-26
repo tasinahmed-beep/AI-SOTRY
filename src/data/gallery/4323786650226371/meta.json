@@ -1,0 +1,23 @@
+{
+  "id": "4323786650226371",
+  "file": "gemini-4323786650226371.png",
+  "title": "The Guardian of the Inferno",
+  "prompt": "(masterpiece), (best quality), highly detailed 8k cinematic render, Disney Pixar animation style, 9:16 aspect ratio. A dynamic, strong, heroic male firefighter, determined expression, wearing a vibrant yellow protective suit and helmet. He is braced in a powerful stance, tightly gripping a high-pressure fire hose nozzle, aiming a bright spray of water and sparks forward. Intense scene, heavy dark smoke billowing into the twilight sky. An engulfed building glowing bright orange in the background provides dramatic backlighting and environmental illumination. Focus on high-detail texture of the gear and dynamic smoke/fire effects, professional 3D rendering.",
+  "negativePrompt": "low quality, worst quality, poor composition, blurry, pixelated, noise, bad anatomy, deformed hands, monochrome, sketch, amateur drawing, ugly face",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "firefighter",
+    "Pixar style",
+    "3D render",
+    "heroic",
+    "fire and smoke",
+    "dramatic lighting",
+    "action pose",
+    "emergency",
+    "yellow protective gear",
+    "vertical composition"
+  ]
+}

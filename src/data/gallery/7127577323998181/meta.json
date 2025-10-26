@@ -1,0 +1,22 @@
+{
+  "id": "7127577323998181",
+  "title": "Grandma's Hearthside Bakery",
+  "prompt": "(masterpiece), (best quality), highly detailed comic book illustration of a cheerful, smiling grandmother kneading bread dough on a rustic wooden table in a cozy, sunlit bakery kitchen, 9:16 aspect ratio. The grandmother wears a white apron over a red polka dot dress. The kitchen features a large stone fireplace with a glowing fire, hanging copper pots, and shelves stocked with jars and ingredients. A large arched window casts warm natural light. Two sleeping orange tabby cats rest on a rug near the hearth. A sign reading 'GRANDMA'S BAKERY' hangs above the window. The scene has a warm atmosphere and detailed line art, traditional comic book coloring, thick black outlines.",
+  "negativePrompt": "deformed, blurry, low resolution, bad hands, missing fingers, extra limbs, ugly, worst quality, noise, text, watermark, signature, cropped, tiling, distorted, faded, disfigured, monochrome",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Baking",
+    "Grandma",
+    "Cozy Kitchen",
+    "Comic Book Style",
+    "Hearth",
+    "Bread",
+    "Rustic",
+    "Cats",
+    "Domestic",
+    "Vertical"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9387937708613401",
+  "file": "gemini-9387937708613401.png",
+  "title": "Lightning Rider in the Neon Storm",
+  "prompt": "(masterpiece), (best quality), highly detailed, Comic Book Art Style, 9:16 aspect ratio. A lone cyclist wearing a dark, aerodynamic suit aggressively rides a road bike down a wet, rainy street at night. Dynamic low-angle perspective, emphasizing the high speed and water splashing from the wheels. The scene is set in a sprawling Asian metropolis (like Tokyo or Neo-Kyoto), flanked by towering skyscrapers illuminated by vibrant neon signs and complex Japanese characters (kanji/kana). Intense thunderstorm, powerful lightning bolt visible splitting the dark sky. Strong reflections of colored neon on the flooded asphalt. Include classic comic elements: dramatic lighting, action lines, speed lines, a sound effect 'WHOOOSH!', and a speech bubble with dialogue: 'The downpour won't stop me!'. Detailed line work, bold ink, color halftone printing effect.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed hands, missing limbs, signature, watermark, blurry, cartoon, 3d render, text errors, mismatched panel, tiling, disfigured, smooth skin",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book Art",
+    "Night Scene",
+    "Rainy City",
+    "Lightning",
+    "Cycling",
+    "Metropolis",
+    "Neon Lights",
+    "Dynamic Action",
+    "Vigilante",
+    "Japanese Cityscape"
+  ]
+}

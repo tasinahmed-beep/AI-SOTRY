@@ -1,0 +1,23 @@
+{
+  "id": "9031589631523831",
+  "file": "gemini-9031589631523831.png",
+  "title": "Zenith of the Courtyard Rose Keeper",
+  "prompt": "(masterpiece), (best quality), hyperdetailed 3D cinematic render, ultra-photorealistic textures, A serene young male gardener wearing elegant sage green traditional Chinese robes (Hanfu) tending to large potted roses (red, cream, pink) in a weathered stone courtyard. The setting features moss-covered stone walls, lattice windows, a traditional tiled roof, and a circular Moon Gate entrance leading to lush greenery. Strong afternoon volumetric sunlight casting sharp shadows. Traditional Chinese rockery waterfall feature visible. Donghua Chinese aesthetic influence, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, extra limbs, bad anatomy, missing fingers, jpeg artifacts, monochrome, watermark, signature, modern clothing, ugly",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chinese courtyard",
+    "Hanfu",
+    "gardening",
+    "potted roses",
+    "moon gate",
+    "rockery waterfall",
+    "traditional architecture",
+    "cinematic lighting",
+    "high detail",
+    "photorealistic"
+  ]
+}

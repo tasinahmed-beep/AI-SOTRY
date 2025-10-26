@@ -1,0 +1,23 @@
+{
+  "id": "1372569073469525",
+  "file": "gemini-1372569073469525.png",
+  "title": "The Archway of Roses and the Distant Castle",
+  "prompt": "(masterpiece), (best quality), highly detailed anime illustration, 8k, vertical orientation (9:16), a beautiful young anime girl gardener with long flowing purple hair, wearing a practical utility uniform (khaki pants, green jacket), kneeling down, gently watering vibrant rose bushes (detailed red, white, and pink roses) in an overgrown ancient stone courtyard. Gothic stone arches covered in ivy frame the view. Ethereal morning sunlight streams down, casting volumetric light rays and soft shadows. Highly detailed background featuring a majestic fantasy castle city skyline in the distance, soft focus, bokeh effects, cinematic lighting.",
+  "negativePrompt": "low quality, worst quality, distorted, bad anatomy, deformed, extra limbs, missing limbs, blurry, jpeg artifacts, watermark, signature, poorly drawn hands, monochrome, grayscale, unrealistic shading, asymmetrical eyes, cropped.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime Illustration",
+    "Gardener",
+    "Roses",
+    "Fantasy Castle",
+    "Stone Courtyard",
+    "Ethereal Lighting",
+    "Gothic Architecture",
+    "Purple Hair",
+    "Outdoor Scene",
+    "Detailed Background"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7232054460869051",
+  "file": "gemini-7232054460869051.png",
+  "title": "Cybernetic Microscopy",
+  "prompt": "(masterpiece), best quality, ultra detailed, modern anime style, 16:9 aspect ratio, a focused young male scientist with dark blue hair and round glasses, wearing a white lab coat over a green hoodie, sitting at a desk and intensely peering into a microscope. High-tech futuristic laboratory environment. Neon-lit background, large window revealing a stunning cyberpunk city skyline at night, flying vehicles in the distance. Glowing holographic displays showing complex molecular structures, intricate chemical apparatus, vibrant blue and green liquid chemicals in beakers, dramatic blue ambient lighting, detailed environment.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, out of focus, poor composition, boring",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "scientist",
+    "anime boy",
+    "laboratory",
+    "cyberpunk",
+    "microscope",
+    "futuristic",
+    "night",
+    "cityscape",
+    "holographic display",
+    "research"
+  ]
+}

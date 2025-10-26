@@ -1,0 +1,23 @@
+{
+  "id": "4635310532562952",
+  "file": "gemini-4635310532562952.png",
+  "title": "Night Market Ember Glow in the Rain",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, a vertical 9:16 portrait of a smiling young female Chinese street vendor, mid-shot, grilling corn cobs on a glowing charcoal cart. Rainy night setting. She is sheltered by a massive red traditional oil-paper umbrella. Warm light radiating intensely from the grill fire and hanging red Chinese lanterns. Heavy raindrops falling, visible rain effect, wet cobblestone street reflecting neon signs and lights. Traditional Chinese architecture and pagoda rooftops visible in the blurred background. Donghua Chinese style, vibrant colors, atmospheric, detailed character art, high contrast.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, bad hands, missing fingers, extra digit, mutated, deformed, poorly drawn face, blurry, text, watermark, signature, ugly, tiling, cropped, poorly rendered",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua",
+    "Chinese night market",
+    "street vendor",
+    "rainy night",
+    "grilling corn",
+    "red lantern",
+    "traditional architecture",
+    "atmospheric lighting",
+    "wet streets",
+    "portrait 9:16"
+  ]
+}

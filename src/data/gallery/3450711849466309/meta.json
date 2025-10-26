@@ -1,0 +1,22 @@
+{
+  "id": "3450711849466309",
+  "file": "gemini-3450711849466309.png",
+  "title": "Sakura Peak Jump",
+  "prompt": "(masterpiece), best quality, detailed, (highly detailed 3D anime style), a dynamic vertical shot (9:16 aspect ratio), an athletic snowboarder wearing a bright orange and blue jacket executing a massive air jump off a towering snowy cliff edge. The snowboarder is mid-air against a vibrant pastel sky with a bright sun, leaving a trail of powder snow. In the background, epic snow-capped mountain ranges and a deep valley filled with soft clouds. Striking detail: vivid pink cherry blossom (sakura) trees are blooming dramatically on the rocky cliff edges, contrasting the white snow. Dynamic composition, clean sharp lines, volumetric lighting, bright pastel colors, vibrant contrast.",
+  "negativePrompt": "lowres, bad anatomy, worst quality, low quality, jpeg artifacts, blurry, text, watermark, signature, missing limbs, extra fingers, distorted, messy, ugly, frame, realistic, photorealistic, monochrome.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Snowboarding",
+    "Anime Style",
+    "Extreme Sports",
+    "Mountain Landscape",
+    "Sakura",
+    "Cliff Jump",
+    "Winter Sports",
+    "Dynamic Action",
+    "Pastel Colors"
+  ]
+}

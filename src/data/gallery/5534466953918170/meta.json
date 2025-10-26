@@ -1,0 +1,22 @@
+{
+  "id": "5534466953918170",
+  "title": "Seated Woman in Contemplation (Portrait)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, worst quality, bad anatomy, deformed hands, extra fingers, blurry, noise, artifact, watermark, text, signature, cartoon, illustration, sketch, painting, 3d render",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "woman",
+    "sitting",
+    "portrait",
+    "photorealistic",
+    "high detail",
+    "female model",
+    "realism",
+    "8k",
+    "ultra detailed",
+    "sharp focus"
+  ]
+}

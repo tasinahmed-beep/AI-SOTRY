@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build:ssg"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
+  # Optional: audit after build; comment out if not desired
+  [plugins.inputs]
+    # only run on production deploys
+    output_path = "./lighthouse"

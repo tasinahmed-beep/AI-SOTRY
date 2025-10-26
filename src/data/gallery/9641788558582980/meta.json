@@ -1,0 +1,22 @@
+{
+  "id": "9641788558582980",
+  "file": "gemini-9641788558582980.png",
+  "title": "Serenity in the Bamboo Mist",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D anime illustration, 16:9 aspect ratio. A cute, smiling giant panda sitting calmly on a mossy stream bank, joyfully eating a large bunch of fresh bamboo leaves. The setting is a dense, mystical bamboo forest shrouded in thick, beautiful mist and ethereal volumetric light. Tall, vibrant green bamboo stalks dominate the foreground and sides. Ancient, moss-covered trees fade into the background fog. Subtle glowing particles (fireflies or magic dust) drift through the air. Serene atmosphere, smooth shading, cinematic lighting, lush environment.",
+  "negativePrompt": "low quality, worst quality, ugly, blurry, deformed, poorly drawn face, bad hands, low resolution, multiple pandas, noise, artifacts, extra limbs",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Panda",
+    "Bamboo Forest",
+    "Misty",
+    "Anime Illustration",
+    "Cute",
+    "Serene",
+    "Wildlife",
+    "Stream",
+    "Volumetric Lighting"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7689770664930590",
+  "file": "gemini-7689770664930590.png",
+  "title": "The Last Book on the Top Shelf",
+  "prompt": "(masterpiece), best quality, detailed comic book illustration, full panel view, (16:9 aspect ratio), a beautiful female librarian wearing a tailored suit, reaching up high on a wooden step ladder to shelve the last book in a towering aisle of a classic library. Dramatic golden hour sunlight streams through large arched windows, illuminating the scene and a view of a city skyline. Overstuffed bookshelves line the deep perspective aisle. Detailed thick black outlines, halftone dot shading, vibrant color palette. Include a speech bubble with dialogue, small child reading on a beanbag in the background.",
+  "negativePrompt": "blurry, jpeg artifacts, low resolution, inaccurate anatomy, poorly drawn hands, missing fingers, text, watermark, signature, ugly, distorted, extra limbs, monochrome, simple background, grayscale",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Librarian",
+    "Comic Book",
+    "Sunlit",
+    "Bookshelves",
+    "Golden Hour",
+    "Library Aisle",
+    "Step Ladder",
+    "Graphic Novel Style",
+    "Interior",
+    "Reading"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3256918013389942",
+  "file": "gemini-3256918013389942.png",
+  "title": "Celestial Brew Master",
+  "prompt": "(masterpiece), best quality, highly detailed, 9:16 vertical aspect ratio, Donghua Chinese illustration style, an elegant young man (bishonen) with long dark hair tied in a traditional bun, wearing flowing turquoise and cloud-patterned Hanfu robes over deep red undergarments. He is standing indoors in a traditional Chinese tea house setting, surrounded by intricate carved wooden lattice screens and soft hanging paper lanterns. He holds a white porcelain cup decorated with blue lotus flowers and delicately pours steamed milk from a copper pitcher into the beverage. Magical, glowing ethereal latte art forms instantly: a shimmering white phoenix and a lotus flower rising from the steaming drink. Soft, warm ambient lighting, delicate pink cherry blossom branches framing the upper corners, misty mountains visible through the window/screen.",
+  "negativePrompt": "worst quality, low resolution, blurry, distorted hands, mutated fingers, missing limbs, jpeg artifacts, monochrome, western clothing, modern setting, ugly, tiling, poorly drawn eyes, signature, watermark.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua Chinese",
+    "Bishonen",
+    "Hanfu",
+    "Latte Art",
+    "Magical Realism",
+    "Phoenix",
+    "Cherry Blossoms",
+    "Traditional Chinese Interior",
+    "Illustration",
+    "Barista"
+  ]
+}

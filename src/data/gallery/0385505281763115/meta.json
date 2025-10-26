@@ -1,0 +1,22 @@
+{
+  "id": "0385505281763115",
+  "file": "gemini-0385505281763115.png",
+  "title": "Vertical Velocity: Cliff Drop Comic Panel",
+  "prompt": "(masterpiece), (best quality), highly detailed, dynamic action shot, a fearless male snowboarder mid-air jump off a towering snowy cliff face, extreme wide-angle perspective, Comic Book style, Pop Art aesthetics, bold thick black outlines, strong shading using halftone dots and flat colors, he wears a vibrant patchwork camouflage jacket and goggles, purple snowboard, massive snow spray visible off the cliff edge, the background is an intense orange and yellow sunburst radial pattern, dramatic speed lines emphasizing vertical motion, comic sound effect 'WOOSH!' and speech bubble integrated into the scene, vertical composition (9:16 aspect ratio)",
+  "negativePrompt": "worst quality, low resolution, bad anatomy, deformed, missing limbs, text errors, watermark, signature, blurry, dull colors, photorealistic, 3d render, low contrast",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Snowboarding",
+    "Extreme Sports",
+    "Comic Book Style",
+    "Pop Art",
+    "Action Shot",
+    "Cliff Jumping",
+    "Halftone Shading",
+    "Speed Lines",
+    "Winter Sports"
+  ]
+}

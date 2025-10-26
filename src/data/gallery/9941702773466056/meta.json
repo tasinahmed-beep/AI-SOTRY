@@ -1,0 +1,23 @@
+{
+  "id": "9941702773466056",
+  "file": "gemini-9941702773466056.png",
+  "title": "The Joyful Chef Prepares",
+  "prompt": "(masterpiece), 8k, highly detailed 3D render in Pixar animation style, cinematic volumetric lighting, 9:16 vertical aspect ratio. A cheerful, portly male chef with a thick brown mustache, wearing a crisp white toque and red neckerchief, is enthusiastically slicing colorful fresh vegetables (zucchini, red onion, bell peppers) on a thick wooden cutting board. Dynamic motion capture of the action, with chopped vegetables flying into a metal bowl. Focus on the chef's joyful expression and large hands. Rustic kitchen background with exposed brick walls, hanging cookware, and strong natural daylight streaming through a large arched window revealing an Italian village outside. Sharp focus, depth of field.",
+  "negativePrompt": "lowres, deformed, bad anatomy, worst quality, low quality, distortion, blurry, watermark, signature, text, error, mutated, extra fingers, missing limbs, poorly drawn hands, boring background, grayscale, realism",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chef",
+    "Pixar Style",
+    "3D Animation",
+    "Cooking",
+    "Vegetables",
+    "Kitchen",
+    "Food Preparation",
+    "Toque",
+    "Joyful",
+    "Cinematic Lighting"
+  ]
+}

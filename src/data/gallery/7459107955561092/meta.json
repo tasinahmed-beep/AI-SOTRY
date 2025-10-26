@@ -1,0 +1,23 @@
+{
+  "id": "7459107955561092",
+  "file": "gemini-7459107955561092.png",
+  "title": "Moonlit Sakura Tea Ceremony",
+  "prompt": "(masterpiece), (best quality), high detail, 2D anime illustration, traditional Japanese art style, full body view, vertical aspect ratio (9:16). A serene couple performing a traditional Japanese tea ceremony (Chanoyu) indoors. The scene features a detailed bamboo table (take-dai) holding a complete tea set: steaming black tetsubin kettle, matcha whisk, chawan with vibrant green matcha, and wagashi sweets. The woman sits on the left, wearing a detailed pink kimono, opposite the man in a dark indigo kimono, both kneeling (seiza). The setting is a traditional tatami room with open shoji screens revealing a view of the night outside. The background is framed by blooming cherry blossom (sakura) trees, a view of rolling mountains, and a large, luminous full moon in the dark blue sky. Falling sakura petals (Hana Fubuki) drift gently in the air. Soft light, aesthetic illustration.",
+  "negativePrompt": "worst quality, low quality, cropped, blurry, text, signature, watermark, bad anatomy, deformed, mutated hands, multiple limbs, missing fingers, poorly drawn face, disfigured, poorly rendered details, grayscale, monochrome, 3d, CGI",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "JapaneseCulture",
+    "TeaCeremony",
+    "Chanoyu",
+    "Kimono",
+    "Tatami",
+    "Sakura",
+    "FullMoon",
+    "2DAnime",
+    "TraditionalArt",
+    "Matcha"
+  ]
+}

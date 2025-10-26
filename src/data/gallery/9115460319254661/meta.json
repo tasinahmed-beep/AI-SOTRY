@@ -1,0 +1,23 @@
+{
+  "id": "9115460319254661",
+  "file": "gemini-9115460319254661.png",
+  "title": "Grandma's Cozy Kitchen Bakery",
+  "prompt": "(masterpiece), (best quality), high detail, 3D Anime Style, heartwarming cinematic render, an adorable elderly grandmother with soft silver hair bun and rosy cheeks, wearing a floral apron, happily kneading fresh bread dough on a wooden countertop. The setting is a rustic, cozy kitchen flooded with bright, warm volumetric morning light streaming through a large arched window. In the background, a traditional brick wood-fired oven glows with a warm fire. Include a small, fluffy ginger kitten sitting on a stool observing the process. Freshly baked bread cooling on a wire rack. Domestic scene, detailed textures, soft shading. 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, distortion, blurry, deformed, text, signature, watermark, bad anatomy, mutated, ugly hands, missing limbs, poorly drawn face, disfigured, monochrome.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Kneading Dough",
+    "Cozy Kitchen",
+    "3D Render",
+    "Cute",
+    "Kitten",
+    "Wood Fired Oven",
+    "Volumetric Lighting",
+    "Domestic Scene"
+  ]
+}

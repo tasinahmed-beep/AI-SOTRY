@@ -1,0 +1,22 @@
+{
+  "id": "1846169680413594",
+  "title": "Rooftop Muralist: Dawn Graffiti Session",
+  "prompt": "(masterpiece), (best quality), ultra detailed, official art, a vibrant 3D anime style portrait of a young female street artist, blue spiky hair, wearing pilot goggles, standing on metal scaffolding. She is actively spray painting a neon-colored, abstract floral mural onto a textured red brick wall. Urban rooftop setting at dawn, warm orange and purple gradient sky, silhouette of a large city skyline, blimp floating in the distance. Dynamic volumetric lighting, detailed spray paint cans and a vintage boombox on the concrete ground. (vertical composition: 9:16), cinematic lighting, high saturation.",
+  "negativePrompt": "low quality, worst quality, error, bad anatomy, deformed, blurry, text, watermark, signature, ugly, tiling, cropped, missing limbs, grayscale, monochrome",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street Art",
+    "Graffiti",
+    "3D Anime",
+    "Urban",
+    "Dawn",
+    "Muralist",
+    "Scaffolding",
+    "Brick Wall",
+    "Cityscape",
+    "Blimp"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9520958848510114",
+  "file": "gemini-9520958848510114.png",
+  "title": "Green Thumb Bot in the Artist's Light",
+  "prompt": "(masterpiece), best quality, detailed illustration, 2D anime style, cinematic lighting, 16:9 aspect ratio. A friendly, modern white humanoid robot with a rounded head and a smiling blue digital screen face stands in a sunlit art studio. The robot is gently holding a futuristic watering can, watering a lush collection of potted houseplants, including large Monstera leaves and ferns. Bright, dramatic sunlight streams through a large grid window on the left, casting sharp shadows and dust motes. On the wall, a glowing circular neon sign reads \"GREEN THUMB BOTS\" in vibrant green and blue light. An orange tabby cat sleeps peacefully on a small rug near the robot's feet. The studio is cluttered with an easel holding an abstract painting, scattered art supplies, and a bookshelf in the background. High detail, cozy atmosphere.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, signature, username, abstract, deformed, realistic, 3D render.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Robot",
+    "Houseplants",
+    "Art Studio",
+    "Cozy",
+    "Lofi Aesthetic",
+    "Neon Sign",
+    "Sunlight",
+    "Cat",
+    "Watering",
+    "Detailed Illustration"
+  ]
+}

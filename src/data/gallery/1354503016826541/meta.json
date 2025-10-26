@@ -1,0 +1,23 @@
+{
+  "id": "1354503016826541",
+  "file": "gemini-1354503016826541.png",
+  "title": "City Gardener's Solace",
+  "prompt": "(masterpiece), best quality, high resolution, highly detailed, 9:16 aspect ratio, dramatic comic book panel illustration, a magnificent twisted bonsai tree in a cracked stone pot resting on a simple wooden shelf, interior scene, strong dramatic diagonal sunlight casting intense shadows across a textured reddish brick wall, dust motes floating in the light beam, through the large window is a view of a futuristic cyberpunk metropolis skyline with tall spires and flying vehicles in a bright blue sky, thick black outlines, bold colors, halftone dots texture, cell shading, high contrast, inclusion of a speech bubble reading \"GROW, LITTLE FRIEND!\"",
+  "negativePrompt": "lowres, worst quality, blurry, watermark, signature, text error, deformed, bad composition, missing details, realistic shading, photography, 3D render, crosshatching",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Bonsai",
+    "Comic Book",
+    "Cyberpunk",
+    "Dramatic Lighting",
+    "9:16",
+    "Halftone Texture",
+    "Interior Scene",
+    "Brick Wall",
+    "Sci-Fi City",
+    "Speech Bubble"
+  ]
+}

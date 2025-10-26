@@ -1,0 +1,22 @@
+{
+  "id": "3455556350161400",
+  "title": "Dawn of the Urban Muralist",
+  "prompt": "(masterpiece), (best quality), stunning comic book panel illustration, highly detailed, dynamic composition, 16:9 aspect ratio. A lone street artist, wearing a hoodie and a baseball cap, stands on a portable hydraulic scissor lift, actively spray painting a massive, abstract, psychedelic, vibrant graffiti mural on a rugged brick wall in a dark urban alley. The scene is dramatically lit by a brilliant sunrise exploding on the horizon between tall, dark buildings, casting intense orange and yellow light down the street, contrasting sharply with the deep purple and blue shadows on the wall and the alley pavement. Bold, thick black outlines, halftone shading effects, saturated colors, speech bubbles included ('ART UP!'). Cinematic lighting, wide shot, extreme detail in the brick texture and paint application.",
+  "negativePrompt": "low quality, bad anatomy, deformed hands, missing limbs, blurry, out of focus, worst quality, monochrome, grayscale, watermark, text errors, signature, easynegative, painting, sketch, 3D render",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book Style",
+    "Street Art",
+    "Graffiti Artist",
+    "Mural Painting",
+    "Sunrise",
+    "Urban Alley",
+    "Vibrant Colors",
+    "Widescreen",
+    "Brick Wall",
+    "Graphic Novel"
+  ]
+}

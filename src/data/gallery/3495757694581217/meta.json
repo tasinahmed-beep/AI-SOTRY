@@ -1,0 +1,22 @@
+{
+  "id": "3495757694581217",
+  "title": "Crimson Silk and Celestial Blossoms",
+  "prompt": "(masterpiece), best quality, (ultra detailed CG illustration:1.3), 9:16 aspect ratio, a stunningly beautiful young woman, graceful pose, full body shot, wearing an elaborate, flowing deep crimson and royal blue Hanfu dress, intricately embroidered with a golden phoenix and delicate cherry blossoms, shimmering sheer white sleeves. Elegant traditional Chinese hair ornaments, long black hair, soft smile, huadian on forehead. Standing on a bridge in a Chinese palace courtyard at golden hour sunset, soft orange and pink sky. Pink lotus flowers on the water, floating cherry blossom petals, subtle celestial glowing halo of white flowers. Donghua Chinese style, Xianxia aesthetic, vibrant colors, soft volumetric lighting.",
+  "negativePrompt": "disfigured, ugly, morbid, mutated, mutilated, malformed, poorly drawn, poorly rendered, missing limbs, extra fingers, cartoon, 3d render, watermark, text, signature, low resolution, inaccurate anatomy",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Hanfu",
+    "Donghua",
+    "Chinese traditional clothing",
+    "Phoenix embroidery",
+    "Sunset lighting",
+    "Palace architecture",
+    "Lotus flowers",
+    "Elegant woman",
+    "Xianxia",
+    "masterpiece"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "0544241674401789",
+  "file": "gemini-0544241674401789.png",
+  "title": "Serenity of the Spring Tea Ceremony",
+  "prompt": "(masterpiece), best quality, detailed illustration, 2D Anime style, a serene Japanese tea ceremony (Chanoyu) featuring two young women, full body view, seated kneeling (seiza) on tatami mats, facing each other across a polished bamboo table. One woman wears a traditional mint green kimono, the other wears a soft pink kimono. They are carefully preparing matcha green tea using traditional bowls and bamboo whisks. The table holds a black iron kettle (tetsubin), steaming utensils, and colorful wagashi sweets (dango). The setting is a traditional Japanese room (washitsu) with large sliding windows overlooking a lush spring garden, featuring a tranquil pond, river stones, and vibrant pink cherry blossoms (sakura) blooming. Soft daylight lighting, peaceful atmosphere, 16:9 aspect ratio.",
+  "negativePrompt": "(worst quality), (low quality), watermark, signature, text, blurry, distorted, sketch, cropped, monochrome, ugly, deformed hands, extra limbs, bad anatomy, jpeg artifacts, modern clothing, western style.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Tea Ceremony",
+    "Chanoyu",
+    "Kimono",
+    "Matcha",
+    "Japanese Garden",
+    "Sakura",
+    "Bamboo Table",
+    "Anime Illustration",
+    "Seiza"
+  ]
+}

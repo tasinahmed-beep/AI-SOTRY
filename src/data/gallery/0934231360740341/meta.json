@@ -1,0 +1,22 @@
+{
+  "id": "0934231360740341",
+  "file": "gemini-0934231360740341.png",
+  "title": "Crimson Fox in the Winter Sun",
+  "prompt": "(masterpiece), best quality, detailed illustration, (Modern Anime style), 16:9 aspect ratio, a majestic red fox trotting dynamically through deep, pristine fresh snow, highly detailed fur, crisp outlines, steam breath visible, in a dense winter coniferous forest, heavy snow on pine trees, dramatic backlighting from a low, bright winter sun, volumetric light rays, large stylized snowflakes falling, vibrant cool colors, cinematic composition.",
+  "negativePrompt": "(worst quality, low quality, normal quality), easynegative, lowres, blurry, watermark, signature, text, jpeg artifacts, extra limbs, deformed, merged fingers, distorted face, monochrome, grayscale, multiple tails, bad anatomy, missing paws, bad shadow.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fox",
+    "Winter",
+    "Snowscape",
+    "Modern Anime",
+    "Wildlife Illustration",
+    "Forest",
+    "Trotting",
+    "Stylized Snowflakes",
+    "Sunlight"
+  ]
+}

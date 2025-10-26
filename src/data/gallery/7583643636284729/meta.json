@@ -1,0 +1,23 @@
+{
+  "id": "7583643636284729",
+  "file": "gemini-7583643636284729.png",
+  "title": "Celestial Fortress of the Jade Dragon",
+  "prompt": "(masterpiece), (best quality), highly detailed digital painting, a majestic Xianxia-style fortress castle perched atop a colossal, craggy floating mountain peak, surrounded by massive waterfalls cascading into a sea of dense volumetric fog and clouds, a giant white jade dragon statue coiled majestically around the main tower, traditional Chinese castle architecture with green tiled roofs and grey stone walls, highly detailed, several flying wooden junks (airships) navigating the misty sky, dramatic sunrise lighting, warm golden and blue sky gradient, towering karst landscape in the background, epic fantasy atmosphere, 9:16 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, worst resolution, blurry, distorted, sketch, amateur drawing, ugly, tiling, poorly drawn hands, extra limbs, extra fingers, missing fingers, watermark, signature, medieval European castle, Western architecture, text.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Floating Castle",
+    "Jade Dragon",
+    "Chinese Architecture",
+    "Cloud Sea",
+    "Waterfall",
+    "Karst Landscape",
+    "Airship",
+    "Fantasy",
+    "Epic"
+  ]
+}

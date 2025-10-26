@@ -1,0 +1,23 @@
+{
+  "id": "3288017036094154",
+  "file": "gemini-3288017036094154.png",
+  "title": "Urban Serenity: Bonsai Sunset",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, an establishing shot of a detailed Japanese bonsai tree with rich green foliage, centered in a deep blue rectangular pot. The bonsai sits on a natural wooden window shelf. Through the large window, a soft pastel sunset illuminates a vast modern city skyline, featuring towering skyscrapers and glowing pink and cyan neon signs. Subtle cherry blossom petals (sakura) are drifting outside. Include a white tea mug and a small tablet/e-reader on the shelf. Modern Anime style, clean line art, soft shadows, 9:16 vertical aspect ratio, lofi aesthetic.",
+  "negativePrompt": "deformed, blurry, ugly, low resolution, bad hands, sketch, grayscale, worst quality, jpeg artifacts, monochrome, watermark, text, out of frame, extra limbs, multiple trees, distorted pot",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Bonsai",
+    "Anime style",
+    "Cityscape",
+    "Sunset",
+    "Lofi aesthetic",
+    "Window view",
+    "Sakura",
+    "Still life",
+    "Interior design",
+    "9:16"
+  ]
+}

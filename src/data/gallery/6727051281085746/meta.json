@@ -1,0 +1,23 @@
+{
+  "id": "6727051281085746",
+  "file": "gemini-6727051281085746.png",
+  "title": "Golden Barrel Ride at Sunset",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, photorealistic professional sports photography, dramatic action shot of a lone surfer riding a massive, curling emerald green ocean wave (barrel/tube ride) during a vibrant golden hour sunset, the surfer is silhouetted against the bright orange sky, intense light and shadow contrast, atmospheric water spray erupting from the lip of the wave, highly reflective gold and orange ocean surface, tropical coastline with palm trees visible on the distant horizon, deep depth of field, 16:9 aspect ratio, cinematic lighting, hyper detailed texture.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, distorted, sketch, cartoon, illustration, watermark, text, signature, low resolution, bad anatomy, deformed, mutated hands, missing limbs, tiling",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Photorealistic",
+    "Sunset",
+    "Golden Hour",
+    "Barrel wave",
+    "Ocean",
+    "Tropical",
+    "Action shot",
+    "Emerald water",
+    "Extreme sports"
+  ]
+}

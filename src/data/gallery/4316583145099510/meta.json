@@ -1,0 +1,22 @@
+{
+  "id": "4316583145099510",
+  "title": "Azure Peak Immortal Mistress",
+  "prompt": "(masterpiece), best quality, highly detailed, stunning digital painting, Fantasy Xianxia style, 16:9 aspect ratio, a beautiful smiling young Asian immortal cultivator, elegant pose, extremely detailed turquoise and deep blue hanfu robes with ornate gold phoenix embroidery, flowing dark hair, intricate jade and floral hairpin ornaments, holding a glowing crescent magical staff, standing majestically above ethereal clouds. Panoramic background featuring majestic misty karst mountains, a sprawling ancient Chinese sect city nestled among the peaks, golden sunrise lighting, flying mythical beasts in the distance, dramatic atmosphere, ultra-detailed face and hands, depth of field.",
+  "negativePrompt": "lowres, bad anatomy, deformed, worst quality, grayscale, monochrome, sketch, watermark, signature, jpeg artifacts, blurry, text, mutated hands and fingers, cropped, poorly drawn, extra limbs.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Chinese Fantasy",
+    "Immortal",
+    "Misty Mountains",
+    "Intricate Robes",
+    "Digital Art",
+    "Jade Ornaments",
+    "Sunrise",
+    "Panoramic"
+  ]
+}

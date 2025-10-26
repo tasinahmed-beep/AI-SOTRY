@@ -1,0 +1,23 @@
+{
+  "id": "4265076458574334",
+  "file": "gemini-4265076458574334.png",
+  "title": "Neon Alley Stalker",
+  "prompt": "(masterpiece), best quality, detailed comic book illustration, a lone figure wearing a long black hooded trench coat walks away down a narrow, wet cyberpunk alleyway, strong reflections on the ground, vertical composition (9:16 aspect ratio), dense urban environment with towering buildings, heavy atmospheric steam rising from pipes, multiple prominent neon signs glowing in cyan and magenta (e.g., 'RAMEN 2077', 'NIGHT MARKET', 'CYBERNETICS'), grime, industrial details, dark shadows, cross-hatching and dot-screen texture, dark colors with high contrast neon light, retrofuturism, comic book style.",
+  "negativePrompt": "(low quality), (worst quality), blurry, poorly drawn, deformed, missing limbs, extra fingers, malformed, photorealistic, 3D render, signature, watermark, text error, cropped, cinematic lighting.",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyberpunk",
+    "Comic Book Style",
+    "Neon Noir",
+    "Alleyway",
+    "Urban Landscape",
+    "Lone Figure",
+    "Steam",
+    "Sci-Fi",
+    "Gritty",
+    "Vertical Composition"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7446244903627024",
+  "file": "gemini-7446244903627024.png",
+  "title": "Celestial Automaton Gardener",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, 9:16 aspect ratio, full body shot of a majestic celestial automaton (or highly advanced robot) in ornate bronze and jade armor, standing in a grand Xianxia-style conservatory. The automaton has glowing teal accents and a stylized helmet, with an ethereal cyan energy halo encircling its head. It holds a glowing jade watering can, gently pouring luminous blue water onto a delicate, blooming white bonsai tree. The studio is filled with exotic houseplants, glowing lotus flowers, dark wooden stands, and intricate terrariums. Large arched windows show a misty, traditional Chinese mountain landscape. Volumetric lighting, spiritual energy flow, rich textures, Wuxia aesthetic.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, unfinished, deformed",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Automaton",
+    "Xianxia",
+    "Bonsai Tree",
+    "Jade Armor",
+    "Ethereal Lighting",
+    "Conservatory",
+    "Mecha Fantasy",
+    "Oriental Architecture",
+    "High Detail"
+  ]
+}

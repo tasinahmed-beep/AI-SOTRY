@@ -1,0 +1,23 @@
+{
+  "id": "7663711472399170",
+  "file": "gemini-7663711472399170.png",
+  "title": "Golden Hour Rooftop Dance",
+  "prompt": "(masterpiece), best quality, extremely detailed 2D anime illustration, a beautiful young female dancer performing a joyful spin on a dark metallic rooftop, flowing layered skirt (vibrant orange and purple), arms outstretched, happy closed eyes expression. Dramatic wide shot of a vast cityscape beneath her, mixing traditional Japanese roofs and distant modern skyscrapers. Cinematic golden hour sunset, massive bright sun centered, intense crepuscular rays (sun rays) piercing the vibrant orange and yellow clouds, strong backlighting, glowing particles and magical energy streaks surrounding the dancer's feet, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "dancer",
+    "sunset",
+    "rooftop",
+    "cityscape",
+    "crepuscular rays",
+    "golden hour",
+    "flowing skirt",
+    "anime girl",
+    "cinematic lighting",
+    "wide view"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9803913221303750",
+  "file": "gemini-9803913221303750.png",
+  "title": "Neon Dynasty Alley",
+  "prompt": "(masterpiece), (best quality), ultra detailed, 8k concept art, cinematic lighting, wide-angle shot (16:9), a densely packed, multi-tiered urban alleyway at night, merging Fantasy Xianxia traditional architecture (tiled roofs, wooden frames) with gritty Cyberpunk infrastructure. Intense atmosphere dominated by vibrant neon signs in Chinese characters (blue, purple, cyan, magenta, yellow). Thick plumes of white steam rising from the wet, reflective pavement and metal pipes. Several figures wearing futuristic armored robes (Xianxia heroes/cultivators) stand in the foreground and on elevated walkways. A sleek, futuristic flying vehicle hovers in the mid-air above a bridge. Detailed environment, grunge, reflection on wet surfaces, dramatic volumetric fog. Fantasy Xianxia Style, Dark Urban Setting.",
+  "negativePrompt": "low resolution, deformed, blurry, worst quality, monochrome, grayscale, watermark, text, signature, bad anatomy, bad hands, mutated, tiling, poorly drawn face, out of frame",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cyberpunk",
+    "Xianxia",
+    "Neon",
+    "Futuristic city",
+    "Urban landscape",
+    "Steampunk",
+    "Armored robes",
+    "Digital painting",
+    "Grime",
+    "Multi-tiered street"
+  ]
+}

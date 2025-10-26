@@ -1,0 +1,22 @@
+{
+  "id": "8601516540171709",
+  "title": "Grandma's Hearth and Home",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render, Pixar Style animation, wide shot (16:9), a joyful, plump grandmother with grey hair and glasses smiling brightly, kneading bread dough on a rustic wooden counter. Cozy farmhouse kitchen interior. In the background, a large traditional brick oven with glowing fire. Warm volumetric lighting, detailed wooden textures, an adorable, sleepy orange tabby cat resting on a stool beside the counter, freshly baked bread rolls cooling on a wire rack, bowls of fresh berries. Sunlight streaming through a rustic window revealing a bright green garden.",
+  "negativePrompt": "low resolution, watermark, text, signature, worst quality, poor anatomy, distorted, ugly, tiling, blurry, low contrast, monochrome, sketch, painting, 2D, mismatched eyes, extra limbs, bad hands",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "Pixar Style",
+    "3D Animation",
+    "Cat",
+    "Rustic",
+    "Oven",
+    "Bread Dough",
+    "Warm Lighting"
+  ]
+}

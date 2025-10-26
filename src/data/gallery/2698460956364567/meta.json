@@ -1,0 +1,23 @@
+{
+  "id": "2698460956364567",
+  "file": "gemini-2698460956364567.png",
+  "title": "Robo-Horticulturist: Hydration Protocol",
+  "prompt": "(masterpiece), best quality, highly detailed, a full-body vertical composition (9:16) of a clunky, friendly, retro-style blue metal robot with a large red circular eye, meticulously watering two lush potted houseplants with a silver watering can, high contrast, thick black outlines, flat colors with visible halftone texture (Ben-Day dots), inside a cluttered artist's studio, the walls are covered with vibrant vintage superhero comic book posters and artwork, an easel holds a dynamic superhero painting, art supplies scattered in the foreground, dramatic lighting, humorous speech bubbles included, Comic Book style.",
+  "negativePrompt": "(worst quality), (low quality), watermark, signature, blurry, deformed, text artifacts, bad anatomy, missing limbs, realistic shading, photography, 3d render",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Robot",
+    "Comic Book Art",
+    "Retro Robot",
+    "Art Studio",
+    "Houseplants",
+    "Pop Art",
+    "Superhero Posters",
+    "Halftone Texture",
+    "9:16",
+    "Vintage"
+  ]
+}

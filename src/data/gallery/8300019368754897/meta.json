@@ -1,0 +1,23 @@
+{
+  "id": "8300019368754897",
+  "file": "gemini-8300019368754897.png",
+  "title": "Charming Bonsai on a Sunny Windowsill",
+  "prompt": "(masterpiece), best quality, highly detailed 3D render, Pixar Style illustration, (9:16 aspect ratio): A charming, whimsical bonsai tree with plump, spherical green foliage and a thick, twisted brown trunk, centered in a deep blue glossy ceramic pot. The pot rests on a warm, textured wooden shelf underneath a large, arched window frame. Intense backlighting from the window creates volumetric light shafts and soft lens flares, highlighting visible dust motes. Outside, a bright, stylized landscape of rolling green and autumnal hills and distant snow-capped mountains under a clear blue sky. Cozy interior lighting, miniature watering can and small gardening tools resting next to the pot.",
+  "negativePrompt": "nsfw, worst quality, low quality, cropped, poorly drawn, deformed, missing limbs, blur, noisy, text, signature, watermark, multiple subjects, broken glass, ugly colors, flat lighting",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Bonsai",
+    "Pixar Style",
+    "3D Rendering",
+    "Windowsill",
+    "Volumetric Light",
+    "Cartoon",
+    "Cozy Interior",
+    "Still Life",
+    "Whimsical",
+    "Miniature Garden"
+  ]
+}

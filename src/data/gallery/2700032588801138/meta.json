@@ -1,0 +1,22 @@
+{
+  "id": "2700032588801138",
+  "title": "Emerald Tube Ride at Sunset",
+  "prompt": "(masterpiece), best quality, detailed digital illustration, a highly dynamic shot of a young surfer riding a large, perfect emerald green barreling wave during a dramatic sunset, (3D Anime cinematic style:1.2), surfer wearing a dark wetsuit, brilliant golden reflections across the water, intense sunlight, dramatic crepuscular rays, colorful pink and purple clouds, distant rocky islands, high contrast, perfect water splash details, 16:9 aspect ratio, volumetric lighting, epic scene.",
+  "negativePrompt": "ugly, deformed, noisy, blurry, low resolution, worst quality, mutation, missing limbs, extra fingers, poorly drawn face, disfigured, monochrome, jpeg artifacts, text, watermark, CGI, cartoon, low detail wave",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Big wave",
+    "Sunset",
+    "Ocean",
+    "Anime style",
+    "Golden hour",
+    "Emerald water",
+    "Barrel riding",
+    "Cinematic lighting",
+    "Digital painting"
+  ]
+}

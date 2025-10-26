@@ -1,0 +1,23 @@
+{
+  "id": "6408866131102594",
+  "file": "gemini-6408866131102594.png",
+  "title": "Crimson Desert Caravan at Sunset",
+  "prompt": "(masterpiece), best quality, highly detailed, 16:9 aspect ratio. A magnificent desert caravan crossing vast, rolling crimson red sand dunes at sunset. Ornate traditional Chinese wooden carriages pulled by magical horned deer (resembling mythical stags), guided by robed figures in wuxia attire. In the distance, a grand, multi-tiered Chinese pagoda citadel sits atop the highest dune, surrounded by ethereal golden mist. Dramatic dusk lighting, detailed traditional architecture, soft shadows, vibrant pink and orange sky with stylized clouds. Donghua Chinese style, clean vector illustration, adventurous journey, epic scale.",
+  "negativePrompt": "low quality, worst quality, poor composition, blurry, mutated, deformed, watermark, signature, text, out of frame, grayscale, monochrome, broken limbs, extra limbs, bad anatomy, jpeg artifacts, ugly, realistic, photo, 3d render",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua",
+    "Chinese Fantasy",
+    "Wuxia",
+    "Desert Caravan",
+    "Crimson Dunes",
+    "Sunset",
+    "Pagoda",
+    "Traditional Architecture",
+    "Mythical Creatures",
+    "Widescreen"
+  ]
+}

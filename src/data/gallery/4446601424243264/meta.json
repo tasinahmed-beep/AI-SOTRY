@@ -1,0 +1,22 @@
+{
+  "id": "4446601424243264",
+  "file": "gemini-4446601424243264.png",
+  "title": "The Red Fox's Snowy Sprint",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D Anime illustration of a vibrant red fox trotting quickly through deep, fresh snow. The fox has a bushy white-tipped tail and expressive orange eyes. Crisp lines, smooth cel shading, and clear outlines. The background features a gentle snowfall, snow-covered pine trees, and a soft pastel sunset gradient in the sky (light blue and pink/orange). Dynamic pose, snow powder kicking up around the paws. Vertical format (9:16).",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, bad hands, blurry, ugly, watermark, text, signature, depth of field, realistic photo, 3d rendering",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fox",
+    "Winter",
+    "Snow",
+    "Anime",
+    "Cartoon",
+    "2D Illustration",
+    "Cute Animal",
+    "Snowfall",
+    "Vertical Composition"
+  ]
+}

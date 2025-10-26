@@ -1,0 +1,23 @@
+{
+  "id": "5256088679057427",
+  "file": "gemini-5256088679057427.png",
+  "title": "Tea Masters: Zen Comic Splash",
+  "prompt": "(masterpiece), (best quality), highly detailed, vibrant retro comic book art style, strong thick black outlines, bold colors, Ben-Day dots coloring texture, dynamic splash page composition, close-up view of a traditional Japanese matcha tea ceremony set, centered on a rustic bamboo raft table surface, thick white steam swirling dramatically from the wooden chawan (matcha bowl), chasen (bamboo whisk) and traditional metal tea utensils visible, background features a serene Japanese garden landscape, pink cherry blossom trees, a gray stone lantern (toro), and a calm pond under a bright blue sky, inclusion of large, stylized comic book sound effects text bubbles 'WHOOOSH' and 'SIP!', large red and yellow title banner reading 'TEA MASTERS' in an explosive burst shape at the top, full vertical frame, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, deformed, blurry, missing details, extra fingers, deformed hands, worst quality, tiling, realism, photography, signature, watermark, complex framing, text errors, monochrome.",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Tea ceremony",
+    "Matcha",
+    "Comic Book",
+    "Japanese garden",
+    "Bamboo table",
+    "Splash page",
+    "Pop art",
+    "Ben-Day dots",
+    "Cherry blossoms",
+    "Utensils"
+  ]
+}

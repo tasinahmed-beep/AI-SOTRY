@@ -1,0 +1,23 @@
+{
+  "id": "5197582652507132",
+  "file": "gemini-5197582652507132.png",
+  "title": "Full Send Downhill Rush",
+  "prompt": "(masterpiece), (best quality), highly detailed, 4k, Modern Anime style illustration, action shot, a professional mountain biker wearing full protective armor and a blue full-face helmet, dynamically riding a high-performance blue downhill bicycle down a winding forest trail. Extreme speed lines and motion blur conveying intense movement. A large dust cloud is billowing behind the rear tire. Strong volumetric lighting, dramatic golden hour sun rays piercing through the forest canopy. Majestic snow-capped mountains visible in the far distance under a vibrant sunset sky. Energetic, dynamic composition, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, missing hands, blurry, sketch, drawing, watermark, signature, speech bubble",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Modern Anime",
+    "Mountain Biking",
+    "Downhill Racing",
+    "Extreme Sports",
+    "Forest Trail",
+    "Action Shot",
+    "Speed Lines",
+    "Golden Hour",
+    "Adventure",
+    "Dynamic Lighting"
+  ]
+}

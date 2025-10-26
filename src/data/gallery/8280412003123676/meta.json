@@ -1,0 +1,23 @@
+{
+  "id": "8280412003123676",
+  "file": "gemini-8280412003123676.png",
+  "title": "Street Corn Under the Orange Glow",
+  "prompt": "(masterpiece), best quality, highly detailed, dramatic atmospheric lighting, Modern Anime style, 9:16 vertical orientation. A moody scene of a determined young male street vendor standing under a large, glowing orange umbrella during a heavy downpour at night. He is wearing a grey hoodie and a dark apron, grilling four ears of sweet corn (yakitomorokoshi) on a sizzling charcoal grill. Warm light illuminates the steam and rain. Reflective wet street, blurry background pedestrians with umbrellas, neon signs for 'Ramen' and 'Takoyaki' visible in the distance. Rain streaks, cinematic composition, depth of field.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, blurry, text, logo, signature, extra fingers, malformed hands, missing limbs, watermark, error, cropped, simplistic colors, out of frame.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Modern Anime",
+    "Street Food",
+    "Night Scene",
+    "Rainy Day",
+    "Japanese City",
+    "Grilling",
+    "Atmospheric",
+    "Neon Lights",
+    "Umbrella",
+    "Solo Character"
+  ]
+}

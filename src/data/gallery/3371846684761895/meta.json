@@ -1,0 +1,23 @@
+{
+  "id": "3371846684761895",
+  "file": "gemini-3371846684761895.png",
+  "title": "Floating City Culinary Master",
+  "prompt": "(masterpiece), best quality, cinematic lighting, detailed character design, a handsome young male chef in a pristine white uniform, black apron, and red headband, intensely focused on slicing fresh vegetables (cucumber, red bell pepper, carrots) on a wooden cutting board, close-up on hands and knife, professional kitchen interior, wide window overlooking a breathtaking fantasy cityscape, traditional East Asian architecture, pink cherry blossom trees, floating island structures in the sky, bright sunny weather, vibrant colors, 3D Anime style, ultra detailed, (9:16 aspect ratio)",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, blurry, text, watermark, error, missing fingers, extra limbs, poorly drawn face, mutated, tiling, poorly lit, ugly, distorted perspective",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chef",
+    "Anime",
+    "Cooking",
+    "Vegetables",
+    "Kitchen",
+    "Fantasy Landscape",
+    "Sakura",
+    "9:16",
+    "Character Art",
+    "Slicing"
+  ]
+}

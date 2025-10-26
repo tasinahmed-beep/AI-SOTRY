@@ -1,0 +1,23 @@
+{
+  "id": "7867053420501570",
+  "file": "gemini-7867053420501570.png",
+  "title": "Celestial Baker of the Floating Peaks",
+  "prompt": "(Masterpiece), best quality, high detail, intricate, cinematic lighting, A graceful young Chinese immortal baker (Xianxia style) with elaborate traditional hairstyle and golden jewelry, wearing flowing emerald green and gold embroidered robes, standing in a traditional wooden bakery interior. She is delicately sifting shimmering powdered sugar onto a stack of perfectly golden croissants placed on a jade green platter. The background features a glowing fireplace/oven and a stunning circular painting of a vibrant golden Fenghuang (Chinese Phoenix). A large open window reveals a breathtaking, majestic Xianxia landscape featuring massive cascading waterfalls, ethereal mist, and towering floating mountain peaks. Mystical glowing ingredients, colorful crystals, and vials of potion are arranged on rustic wooden shelves. Soft atmospheric glow, fantasy art, digital illustration. Aspect Ratio 16:9.",
+  "negativePrompt": "low resolution, blurry, distorted features, bad anatomy, deformed hands, monochrome, grayscale, modern setting, Western clothing, poorly drawn food, text, watermark, signature",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Fantasy Baker",
+    "Digital Painting",
+    "Chinese Phoenix",
+    "Floating Islands",
+    "Croissant",
+    "Intricate Robes",
+    "Ethereal",
+    "Food Art",
+    "Mythological"
+  ]
+}

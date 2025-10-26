@@ -1,0 +1,22 @@
+{
+  "id": "5022315725824103",
+  "file": "gemini-5022315725824103.png",
+  "title": "Solitary Sonata: Empty Stage Rehearsal",
+  "prompt": "(masterpiece), best quality, stunning 2D Anime illustration, 16:9 aspect ratio. A solitary young female violinist with long flowing orange hair, wearing a high school uniform (grey sweater, dark skirt), performing on a vast, aged wooden theater stage. She is playing the violin intensely, eyes closed. The grand auditorium is completely empty, filled with deep red velvet seats stretching into the darkness. Dramatic, centralized lighting from a single hanging bare bulb (ghost light effect) creates deep shadows and illuminates floating dust motes. Detailed ornamental theater architecture, rich red curtains framing the stage. Full body view, musical score on the stand, open violin case nearby.",
+  "negativePrompt": "worst quality, low quality, censored, text, signature, watermark, blurry, extra limbs, deformed, bad anatomy, ugly, 3D render, cartoon, poorly drawn face, disfigured hands, large breast.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Solitude",
+    "Violinist",
+    "Anime Girl",
+    "Concert Stage",
+    "Empty Theater",
+    "Dramatic Lighting",
+    "Music Performance",
+    "School Uniform",
+    "Detailed Background"
+  ]
+}

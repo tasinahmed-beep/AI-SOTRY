@@ -1,0 +1,23 @@
+{
+  "id": "2843620479467535",
+  "file": "gemini-2843620479467535.png",
+  "title": "Graffiti Phoenix at Dawn",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D Anime render, full body portrait, a stylized young male street artist with vibrant blue spiky hair and goggles, wearing a grey hoodie and dark cargo pants, actively spray painting a massive, luminous, winged creature mural (a fusion of phoenix and griffin) on a dark brown brick wall. The mural glows with electric blue, purple, and vibrant orange graffiti colors. Early morning light, soft dawn glow illuminating the scene from the left, cinematic dramatic lighting, vertical 9:16 aspect ratio, scattered colorful spray paint cans on the wet cobblestone ground, detailed textures, volumetric light, deep focus.",
+  "negativePrompt": "(low quality, blurry, worst quality, noise, signature, watermark, multiple limbs, deformed hands, poorly drawn face, disfigured, missing limbs, monochrome, simple background, ugly, abstract, drawing, sketch, flat colors)",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "3D Anime",
+    "Street Art",
+    "Mural",
+    "Graffiti",
+    "Dawn",
+    "Spray Paint",
+    "Urban Setting",
+    "Winged Creature",
+    "Character Portrait",
+    "High Quality CGI"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2869056491264296",
+  "file": "gemini-2869056491264296.png",
+  "title": "Neon Night Rider",
+  "prompt": "(masterpiece), best quality, highly detailed, 8k resolution, cinematic lighting, a dynamic low-angle shot of a determined young male cyclist wearing a bright yellow rain jacket and yellow helmet, aggressively racing a bicycle directly toward the viewer on a dark, wet cobblestone city street at night. Heavy rain is falling, splashing water from the tires. The background features tall skyscrapers and colorful, reflective neon signage (pink, blue, yellow). High detail 3D render, Pixar animation movie style, volumetric light, depth of field, 9:16 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, deformed, blurry, cropped, poorly drawn, extra limbs, mutated hands, multiple figures, monochrome, sketch, painting, signature, watermark, disfigured, inaccurate anatomy, text.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cycling",
+    "Night",
+    "Rain",
+    "Cityscape",
+    "Pixar Style",
+    "3D Render",
+    "Neon Lights",
+    "Dynamic Angle",
+    "Urban Adventure",
+    "Motion"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7465911070764490",
+  "file": "gemini-7465911070764490.png",
+  "title": "Reef Guardians: Manta Rays and Sea Turtle in a Tropical Habitat",
+  "prompt": "(masterpiece), best quality, ultra-detailed, 8k professional underwater photography, photorealistic, (9:16 vertical aspect ratio). A breathtaking scene of marine biodiversity on a healthy tropical coral reef. In the foreground, a detailed green sea turtle rests calmly on vibrant hard and soft corals, including purple and orange hues. The reef is teeming with schools of colorful tropical fish: electric blue tangs, striped sergeant majors, vibrant yellow butterflyfish, and orange clownfish. Above the reef, two massive manta rays glide gracefully near the bright, rippled water surface. Crystal clear turquoise water, natural sunlight beams penetrating the depth, deep focus, realistic texture and lighting.",
+  "negativePrompt": "low quality, worst quality, blurry, fuzzy, painting, drawing, cartoon, illustration, distorted fish, mutated animals, bad anatomy, unnatural colors, noise, grain, low resolution, cropped, tiling",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Underwater",
+    "Coral Reef",
+    "Sea Turtle",
+    "Manta Ray",
+    "Tropical Fish",
+    "Marine Life",
+    "Biodiversity",
+    "Photorealism",
+    "Ocean Depth",
+    "Vertical"
+  ]
+}

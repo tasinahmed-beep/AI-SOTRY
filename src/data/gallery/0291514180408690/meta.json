@@ -1,0 +1,23 @@
+{
+  "id": "0291514180408690",
+  "file": "gemini-0291514180408690.png",
+  "title": "Sunlight Serenity: Photorealistic Bonsai on a Window Shelf",
+  "prompt": "(Masterpiece), hyperdetailed, highly realistic 8k photorealism render of a majestic, ancient bonsai tree with a twisted trunk, centered on a rustic, weathered wooden shelf. The scene is set indoors next to a large wooden window frame, against a textured white painted brick wall. Bright, soft natural sunlight streams in, casting sharp shadows and highlighting the texture of the brick and wood. A view of a lush green park or garden and a partly cloudy sky is visible outside. Include subtle elements like a small glass cup of amber tea, a closed leather-bound book, and scattered black smooth pebbles near the bonsai pot. Cinematic volumetric lighting, depth of field, 9:16 vertical orientation.",
+  "negativePrompt": "worst quality, low quality, cartoon, sketch, drawing, painting, blurry, distorted, missing limbs, deformed, disfigured, watermark, signature, cropped, ugly, unnatural, CGI artifacts, extra fingers, poor anatomy.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Bonsai",
+    "Photorealism",
+    "Still Life",
+    "Interior",
+    "Zen",
+    "Window View",
+    "Natural Light",
+    "Rustic Wood",
+    "White Brick",
+    "Botanical"
+  ]
+}

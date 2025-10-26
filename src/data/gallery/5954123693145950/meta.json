@@ -1,0 +1,22 @@
+{
+  "id": "5954123693145950",
+  "file": "gemini-5954123693145950.png",
+  "title": "Rainy Night Maíz Asado",
+  "prompt": "(masterpiece), best quality, an intricate full-panel illustration in detailed Comic Book style, 9:16 aspect ratio. A muscular street vendor wearing a straw hat and apron stands under a small canopy, intensely grilling ears of corn (Maíz Asado) on a smoking charcoal barbecue grill. It is a heavy rainstorm at night on a dark, wet cobblestone street. Strong chiaroscuro lighting: warm orange glow from the grill illuminates the vendor and the food, contrasting sharply with the cold, moody blue ambient light and streaking rain. Dynamic action, bold line art, vibrant colors, comic book sound effects like 'SIZZLE!' and 'DRIP DRIP' visible. Urban background with neon signage and silhouettes of pedestrians holding umbrellas.",
+  "negativePrompt": "lowres, error, worst quality, cropped, distorted hands, bad anatomy, deformed, signature, watermark, blurry, extra limbs, ugly, sketch, monochrome, text error",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book",
+    "Street Vendor",
+    "Night Scene",
+    "Rain",
+    "Grilling",
+    "Maíz Asado",
+    "Urban",
+    "Chiaroscuro",
+    "Illustration"
+  ]
+}

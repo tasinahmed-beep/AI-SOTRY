@@ -1,0 +1,22 @@
+{
+  "id": "1066946247476450",
+  "title": "Radiant Smile Under the Cherry Blossoms",
+  "prompt": "(masterpiece), best quality, highly detailed, 2D Anime style, a beautiful young woman (1girl) with long, flowing brown wavy hair, looking directly at the viewer, bright smile, open mouth, rosy cheeks, bust portrait, wearing a delicate cream blouse with a ruffled Peter Pan collar, light blue ribbon hair accessory. Background of a scenic park path lined with vibrant pink cherry blossom trees (sakura), lush green grass, soft sunlight, bright blue sky with subtle clouds, depth of field, 16:9 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, bad hands, blurry, ugly, sketch, watermark, signature, error, out of frame, monochrome, grayscale, multiple people, deformed, text",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "anime girl",
+    "sakura",
+    "cherry blossoms",
+    "smiling",
+    "brown hair",
+    "frilled blouse",
+    "spring",
+    "visual novel art",
+    "park scene",
+    "1girl"
+  ]
+}

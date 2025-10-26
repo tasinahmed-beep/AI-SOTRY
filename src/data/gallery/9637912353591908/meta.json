@@ -1,0 +1,22 @@
+{
+  "id": "9637912353591908",
+  "title": "Quiet Contemplation (Landscape)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, watermark, signature, poorly drawn, out of frame",
+  "style": "2D Anime Illustration",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "anime",
+    "female character",
+    "woman",
+    "sitting pose",
+    "seated",
+    "character design",
+    "digital painting",
+    "manga",
+    "portrait",
+    "relaxed"
+  ]
+}

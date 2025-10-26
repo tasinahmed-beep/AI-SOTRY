@@ -1,0 +1,22 @@
+{
+  "id": "3142311499188791",
+  "file": "gemini-3142311499188791.png",
+  "title": "Bamboo Forest Serenity",
+  "prompt": "(masterpiece), (best quality), highly detailed, 2D anime illustration, 9:16 aspect ratio, a cute chibi giant panda bear sitting on mossy ground, happily eating a thick stalk of green bamboo, smiling, surrounded by a dense grove of towering green bamboo stalks, sunbeams piercing the canopy, atmospheric perspective, heavy mist and ethereal fog swirling around, falling pink sakura petals, distant purple mountains, soft cell shading, vibrant colors, kawaii.",
+  "negativePrompt": "nsfw, blurry, low resolution, bad hands, mutated, deformed, extra limbs, abstract, disfigured, worst quality, grayscale, cropped, ugly, error, jpeg artifacts, realistic photo, 3d render, watermark, text",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Bamboo Forest",
+    "Anime Illustration",
+    "Kawaii",
+    "Misty",
+    "Cherry Blossoms",
+    "Sunbeams",
+    "Cute Animal",
+    "Vertical Composition"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4674309486747290",
+  "file": "gemini-4674309486747290.png",
+  "title": "Crimson Sunset Siren",
+  "prompt": "(masterpiece), best quality, ultra detailed, official Comic Book art style, dynamic framing, 9:16 aspect ratio. A powerful female dancer dramatically leaping and spinning on a crumbling city rooftop. She is generating swirling magical fiery orange energy trails and ribbons around her body and hands. Intense backlight from a massive, vibrant crimson and orange sunset dominating the background. Silhouetted city skyline below the horizon. Full body shot, dynamic pose, strong thick linework, bold flat colors, halftone shading texture. Include the bold yellow comic sound effect 'WHOOSH!' above her. Dramatic lighting, action scene.",
+  "negativePrompt": "lowres, blurry, worst quality, deformed, error, cropped, signature, watermark, jpeg artifacts, monochrome, grayscale, text errors, poor anatomy, multiple limbs, extra fingers, photorealism, simple background.",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book Art",
+    "Superhero",
+    "Dynamic Pose",
+    "Sunset",
+    "Rooftop",
+    "Energy Effects",
+    "Dancing",
+    "Action Scene",
+    "Cityscape",
+    "9:16"
+  ]
+}

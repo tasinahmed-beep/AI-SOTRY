@@ -1,0 +1,23 @@
+{
+  "id": "1546907637761079",
+  "file": "gemini-1546907637761079.png",
+  "title": "Neon Rain in the Cyber Dynasty",
+  "prompt": "(masterpiece), best quality, highly detailed, volumetric light, cinematic composition, Donghua Chinese style, full shot of a wet cyberpunk alleyway at night. The scene is dominated by dense, towering Asian buildings plastered with extremely bright, contrasting neon signs in magenta, cyan, and emerald green (detailed Chinese characters, glowing dragon motif, outline figures). Heavy rain falls, creating reflective puddles on the street. Steam and fog rise from illuminated street food stalls with traditional pagoda roofs on both sides. A solitary elegant woman wearing a flowing red Qipao and holding a black umbrella walks down the center of the slick, reflective street. Moody atmosphere, focused depth of field, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, blurry, jpeg artifacts, low contrast, unrealistic, daytime, cropped, poorly drawn hands, watermark, text, signature, cartoon, 3D rendering errors",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cyberpunk",
+    "Neon",
+    "Rain",
+    "Donghua",
+    "Chinese",
+    "Alleyway",
+    "Reflections",
+    "Street Food",
+    "Qipao",
+    "Volumetric Lighting"
+  ]
+}

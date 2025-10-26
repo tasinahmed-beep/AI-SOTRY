@@ -1,0 +1,23 @@
+{
+  "id": "0972058102705326",
+  "file": "gemini-0972058102705326.png",
+  "title": "Spotlight Solitude: Rehearsal on the Grand Stage",
+  "prompt": "A cinematic, 16:9 aspect ratio image rendered in the distinct Pixar animation style, (masterpiece), (best quality), volumetric lighting. A young, expressive girl with curly brown hair, wearing a grey hoodie, stands alone on the wooden stage of a vast, ornate classical theater. She is playing the violin with intense concentration, eyes gently closed. A single, dramatic, bright spotlight illuminates only her, contrasting sharply with the dark, empty rows of red velvet seats and the heavy red stage curtains behind her. Detailed environment, cinematic atmosphere, 3D render, emotional depth.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, poorly drawn hands, blurry, out of frame, watermark, signature, text, jpeg artifacts, ugly, noise, monochrome, double image",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Violinist",
+    "Pixar Style",
+    "Empty Theater",
+    "Spotlight",
+    "Rehearsal",
+    "CGI",
+    "Music",
+    "Animated Character",
+    "Ornate",
+    "Solitude"
+  ]
+}

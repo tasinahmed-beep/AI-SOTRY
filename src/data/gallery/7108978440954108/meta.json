@@ -1,0 +1,23 @@
+{
+  "id": "7108978440954108",
+  "file": "gemini-7108978440954108.png",
+  "title": "The Studio Gardener Robot",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k, cinematic lighting, volumetric light, 3D render, Pixar Style, hyperdetailed textures, full vertical shot (9:16). A cute, friendly, slightly retro-futuristic white service robot with large expressive blue eyes, standing on a polished wooden floor. The robot is using a small metallic watering can to water a lush potted Monstera plant. The water stream glows soft blue. A tiny colorful songbird is perched carefully on the robot's head. The setting is a cozy, sun-drenched artist's loft studio, featuring exposed red brick walls and a large arched window in the background, casting strong backlighting and visible dust motes. The room is densely populated with various healthy houseplants, including pink orchids, ferns, and succulents. Artistic materials, canvases, and a comfortable armchair are visible in the background.",
+  "negativePrompt": "(worst quality), (low quality), lowres, blurry, distorted, tiling, monochrome, grayscale, text, watermark, signature, poorly drawn face, mutated hands and fingers, bad anatomy, deformed, extra limbs, ugly, messy.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Robot",
+    "Houseplants",
+    "Loft studio",
+    "3D Render",
+    "Pixar Style",
+    "Daylight",
+    "Cozy",
+    "Caretaker",
+    "Monstera",
+    "Anthropomorphic machine"
+  ]
+}

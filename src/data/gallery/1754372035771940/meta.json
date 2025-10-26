@@ -1,0 +1,23 @@
+{
+  "id": "1754372035771940",
+  "file": "gemini-1754372035771940.png",
+  "title": "Rainy Night Yakitomorokoshi Vendor",
+  "prompt": "(masterpiece), (best quality), a hyper-detailed modern anime illustration of a focused young male street food vendor grilling multiple ears of yakitomorokoshi (corn) on a mobile charcoal grill cart during a heavy downpour at night. He stands under a large umbrella. Intense, warm steam rises from the grill. The scene is set in a cyberpunk-influenced Japanese city alleyway filled with vibrant, reflective neon signage (pink and cyan). Wet pavement reflects the colorful lights. Dynamic lighting, depth of field, pedestrians with umbrellas in the background, 16:9 aspect ratio, dramatic atmosphere.",
+  "negativePrompt": "worst quality, low quality, jpeg artifacts, blurry, ugly, deformed, extra limbs, poorly drawn hands, missing fingers, watermark, signature, error, out of frame, monochrome, childish style, text, poorly lit.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street food",
+    "Rainy night",
+    "Neon lights",
+    "Anime illustration",
+    "Urban setting",
+    "Vendor",
+    "Grilling",
+    "Japan",
+    "Reflections",
+    "Cyberpunk"
+  ]
+}

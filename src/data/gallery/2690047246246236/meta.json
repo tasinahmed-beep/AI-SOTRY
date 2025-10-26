@@ -1,0 +1,22 @@
+{
+  "id": "2690047246246236",
+  "title": "Neon Tide: The Emerald Sunset Surfer",
+  "prompt": "(masterpiece), (best quality), ultra-detailed anime illustration, dynamic perspective, action shot, full body, an athletic male surfer riding deep inside a massive, curling emerald green wave, tube ride, vibrant colors. The surfer wears a dark, modern wetsuit with bright neon blue glowing accents. Futuristic surfboard design. Epic sunset background with a fiery orange and magenta sky, radiant sunbeams, and dramatic rocky islands on the horizon. High saturation, volumetric lighting, smooth cell shading, 16:9 aspect ratio, Modern Anime style.",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, grayscale, monochrome, distortion, ugly, mutated",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Modern Anime",
+    "Sunset",
+    "Ocean Wave",
+    "Tube Ride",
+    "Neon",
+    "Vibrant Colors",
+    "Illustration",
+    "Action",
+    "Emerald"
+  ]
+}

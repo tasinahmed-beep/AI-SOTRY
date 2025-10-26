@@ -1,0 +1,22 @@
+{
+  "id": "2256741919263066",
+  "file": "gemini-2256741919263066.png",
+  "title": "Kinetic Forest Rush",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16k resolution, an aggressive mountain biker in a dynamic pose, full body shot, racing down a narrow dirt trail in a mystical, lush jungle. The biker wears futuristic blue and orange armor with neon light traces. High-speed motion blur, dust flying, kinetic energy. Volumetric lighting, dramatic god rays piercing the dense green canopy. Glowing blue bioluminescent water flowing in a river beside the path. 3D Anime style, rendered, cinematic action shot, octane render, 16:9 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, bad anatomy, deformed, poorly drawn, extra limbs, blurry, grayscale, monochrome, sketch, noise, bad hands, mutated, tiling, poorly rendered face, watermark, text",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Mountain Biking",
+    "Dynamic Action",
+    "3D Anime",
+    "Lush Jungle",
+    "Futuristic Gear",
+    "Bioluminescence",
+    "Volumetric Lighting",
+    "Concept Art",
+    "16:9"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1060561482899295",
+  "file": "gemini-1060561482899295.png",
+  "title": "Street Corn Serenade on a Rainy Night",
+  "prompt": "(masterpiece), highly detailed 3D render, cinematic lighting, a cheerful, chubby street vendor wearing a yellow apron grilling several cobs of corn on a small wheeled charcoal cart. The scene is set on a wet, cobblestone city street during a heavy rainstorm at night. The vendor is sheltered by a massive red umbrella strung with warm fairy lights. Several adorable, round-faced customers stand nearby under their own umbrellas, watching the steaming grill intently. Volumetric steam and rain effects, strong reflections on the wet ground. Pixar Style animation, 16:9 aspect ratio.",
+  "negativePrompt": "poorly drawn, blurry, low resolution, multiple limbs, deformed, extra fingers, malformed hands, watermark, signature, text, monochrome, sketch, ugly, distorted faces, amateur",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Food",
+    "Rainy Night",
+    "Pixar Animation",
+    "3D Render",
+    "Corn Grill",
+    "Vendor",
+    "Cinematic Lighting",
+    "Cozy Scene",
+    "Umbrella",
+    "City Street"
+  ]
+}

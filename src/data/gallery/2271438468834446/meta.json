@@ -1,0 +1,22 @@
+{
+  "id": "2271438468834446",
+  "file": "gemini-2271438468834446.png",
+  "title": "Bamboo Forest Bliss",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render, Pixar style animation, Disney quality, a cute and happy giant panda sitting upright, joyfully eating a thick stalk of vibrant green bamboo. Centered composition, low angle view emphasizing the subject. Lush, dense bamboo forest background with towering stalks. Atmospheric environment, dense mist and fog wrapping around the forest floor. Strong volumetric light rays (god rays) filtering through the canopy from above, creating a magical, cinematic mood. Mossy rocks and damp foliage on the forest floor. 16:9 aspect ratio.",
+  "negativePrompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, underdeveloped, distorted, cartoon, sketch, painting, drawing, ugly, tiling",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "panda",
+    "bamboo forest",
+    "3D render",
+    "Pixar animation",
+    "cute animal",
+    "misty environment",
+    "volumetric lighting",
+    "god rays",
+    "cinematic"
+  ]
+}

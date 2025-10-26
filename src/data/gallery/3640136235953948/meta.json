@@ -1,0 +1,23 @@
+{
+  "id": "3640136235953948",
+  "file": "gemini-3640136235953948.png",
+  "title": "Misty Bamboo Banquet",
+  "prompt": "(masterpiece), (photorealistic detail:1.3), a majestic giant panda sitting comfortably on a large moss-covered rock, intently eating a thick bamboo stalk. The setting is a hyper-realistic, dense bamboo forest shrouded in heavy atmospheric mist and fog. A small, rocky stream flows in the foreground. Lush green ferns and foliage cover the wet ground. Volumetric lighting piercing through the fog, cinematic composition, highly detailed fur texture, wet surfaces, dramatic mood. 16:9 aspect ratio, UHD, 8k.",
+  "negativePrompt": "low quality, deformed, worst quality, blurry, amateur, sketch, cartoon, illustration, painting, grayscale, cropped, watermark, signature, missing limbs, extra fingers, ugly face",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "panda",
+    "bamboo forest",
+    "misty",
+    "photorealistic",
+    "wildlife",
+    "nature",
+    "stream",
+    "volumetric light",
+    "wet environment",
+    "animal portrait"
+  ]
+}

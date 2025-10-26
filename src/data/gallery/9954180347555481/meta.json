@@ -1,0 +1,22 @@
+{
+  "id": "9954180347555481",
+  "title": "Genuine Laughter: Sunlight and Sweater",
+  "prompt": "(masterpiece), (best quality), photorealistic close-up portrait, 16:9 aspect ratio, a beautiful young woman in her 20s, laughing heartily, wide genuine smile showing perfect white teeth, joyous expression, subtle freckles, sun-kissed skin tone, long wavy brown hair with golden highlights, wearing a cozy cream knit sweater, subtle silver pendant necklace, shallow depth of field, soft natural daylight, bokeh background of a modern living room with a bookshelf and green potted plants, cinematic lighting, ultra-detailed skin texture, looking slightly away from the camera.",
+  "negativePrompt": "lowres, deformed, blurry, worst quality, noise, monochrome, grayscale, watermark, text, signature, bad anatomy, extra fingers, mutated hands, disfigured, poorly drawn face, closed mouth, frown, sad, out of frame, cropped head",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "portrait",
+    "smiling woman",
+    "genuine laughter",
+    "photorealistic",
+    "knitwear",
+    "indoor",
+    "bokeh",
+    "natural light",
+    "joyful",
+    "16:9"
+  ]
+}

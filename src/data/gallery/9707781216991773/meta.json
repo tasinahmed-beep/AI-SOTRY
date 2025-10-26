@@ -1,0 +1,22 @@
+{
+  "id": "9707781216991773",
+  "file": "gemini-9707781216991773.png",
+  "title": "The Barista's Masterpiece",
+  "prompt": "(masterpiece), (best quality), detailed digital illustration, Modern Anime style, (16:9 aspect ratio). A beautiful young female barista wearing a crisp white shirt and black apron, with reddish-brown hair tied in a bun. She is focused intently while expertly pouring a delicate, glowing swan latte art design into a white ceramic cup from a stainless steel pitcher. Warm, soft natural light streams through the large, tall café windows in the background, illuminating potted greenery and a wooden counter. Blurred cityscape visible outside (bokeh), highly detailed environment, volumetric light.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, poorly drawn hands, blurry, extra limbs, jpeg artifacts, watermark, signature, text, monochrome, ugly",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Barista",
+    "Latte Art",
+    "Modern Anime",
+    "Café Interior",
+    "Swan Design",
+    "Detailed Illustration",
+    "Coffee Culture",
+    "Warm Lighting",
+    "16:9"
+  ]
+}

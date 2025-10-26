@@ -1,0 +1,23 @@
+{
+  "id": "7085643859530245",
+  "file": "gemini-7085643859530245.png",
+  "title": "Quiet Stacks in Golden Sunlight",
+  "prompt": "(masterpiece), (best quality), highly detailed 2D Anime illustration, vertical composition (9:16), a young female librarian with long brown hair tied in a high ponytail, wearing a modest blue dress and a light grey cardigan, standing on a small wooden step stool in a grand library aisle. She is carefully placing a stack of books onto a high wooden shelf. Intense, warm, volumetric sunlight streams through tall arched windows on the left, casting golden light and visible dust motes (shafts of light). The interior features tall wooden bookshelves filled with books, potted green plants on the windowsill, and a small black cat sleeping curled up peacefully on a stack of books near her feet. Soft shading, bright atmosphere, tranquil scene, full body shot.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, bad hands, missing limbs, blurry, out of focus, distorted, morbid, text, watermark, signature, error, abstract, deformed eyes.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Anime Illustration",
+    "Library",
+    "Librarian",
+    "Sunlight",
+    "Volumetric lighting",
+    "Bookshelves",
+    "Tranquil",
+    "Black Cat",
+    "Ponytail",
+    "Golden Hour"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1222826369677576",
+  "file": "gemini-1222826369677576.png",
+  "title": "Dawn Chronicles: The Muralist's Manifestation",
+  "prompt": "(masterpiece), (best quality), high detail, official comic book panel layout, vertical composition (9:16), a solitary street artist in a blue hoodie spray painting a massive, highly detailed mural on a weathered red brick wall. The mural depicts a tall, shadow creature or superhero figure emitting glowing golden energy lines. Dramatic sunrise lighting, intense sunburst effect from the right, purple and orange clouds, linear light rays. Large text 'DAWN CHRONICLES' painted above the figure. Includes inset comic panels showing close-ups of the artist's focused, determined face and hand holding a spray can. Thick black outlines, dynamic action lines, sound effects ('SWISH!'). Comic Book Style.",
+  "negativePrompt": "worst quality, low quality, blurry, deformation, poorly drawn, extra limbs, bad anatomy, grayscale, watermark, signature, text artifacts, unfinished, abstract, missing speech bubbles",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Comic Book Art",
+    "Street Art",
+    "Mural",
+    "Graffiti",
+    "Sunrise",
+    "Dawn",
+    "Sequential Art",
+    "Urban Setting",
+    "Dynamic Lighting",
+    "Brick Wall"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0937784465830039",
+  "file": "gemini-0937784465830039.png",
+  "title": "Melody Under the Elevated Train",
+  "prompt": "(Masterpiece), (best quality), high detail, an iconic vertical comic book panel (9:16 aspect ratio), a beautiful young woman with long flowing red hair, wearing a stylish trench coat and black boots, standing centered under a massive, rusty industrial steel bridge arch. She is passionately playing a violin in the pouring rain. Overhead, a commuter train races past on the elevated track. In the background, visible through the bridge arch, is a detailed city skyline during a dramatic twilight/dusk. Strong noir lighting, heavy black outlines, detailed cross-hatching and shading, graphic novel composition, with a bold speech bubble showing 'MELODY!'.",
+  "negativePrompt": "low quality, worst quality, text error, signature, watermark, blurry, deformed hands, extra limbs, simple sketch, grayscale, cropped, disfigured instrument, cartoon, 3d render.",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Comic Panel",
+    "Rainy City",
+    "Graphic Novel",
+    "Industrial Bridge",
+    "Trench Coat",
+    "Dusk",
+    "Vertical Composition",
+    "Cityscape",
+    "Dramatic"
+  ]
+}

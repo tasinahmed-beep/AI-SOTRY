@@ -1,0 +1,23 @@
+{
+  "id": "0896885028706685",
+  "file": "gemini-0896885028706685.png",
+  "title": "Starlight Banner on the Red Dust",
+  "prompt": "(Masterpiece), (high-quality illustration), 9:16 portrait orientation, a lone astronaut kneeling on a vast red alien planetary surface, planting a futuristic flag. The astronaut wears a detailed, white and cyan advanced sci-fi suit. The flag is dark blue, emblazoned with a bright cosmic star and galaxy pattern, fluttering dynamically. Dust and red particulate matter swirl near the ground. In the dark background, a massive, cratered brown-orange planet or moon looms, with shooting stars streaking across the deep black sky. Modern Anime style, cinematic lighting, strong contrast, volumetric atmosphere, detailed spacesuit armor.",
+  "negativePrompt": "low resolution, poorly drawn, blurry, worst quality, deformed, messy, poorly structured, bad anatomy, missing limbs, watermark, text, out of frame, multiple flags, boring sky",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Astronaut",
+    "Space Exploration",
+    "Modern Anime",
+    "Sci-Fi",
+    "Red Planet",
+    "Flag Planting",
+    "Cosmic",
+    "Vertical Composition",
+    "Future Tech",
+    "Illustration"
+  ]
+}

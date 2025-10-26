@@ -1,0 +1,23 @@
+{
+  "id": "2697343199740364",
+  "file": "gemini-2697343199740364.png",
+  "title": "Maíz Caliente: Rainy Night Vendor",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D rendering, cinematic volumetric lighting, a robust, smiling street vendor character with a large mustache and apron, grilling several ears of \"Maíz Caliente\" (hot corn) on a small wooden pushcart. The scene is set on a wet urban street at night during heavy rain. The vendor is protected by a colorful red and yellow umbrella canopy and clear plastic rain shielding. Warm light emanates from the grill, contrasting sharply with the cool blue and purple reflections of distant neon signs on the wet cobblestone pavement. Dramatic steam rises from the hot corn. Pixar Style, vertical image, 9:16 aspect ratio.",
+  "negativePrompt": "(low quality, worst quality, deformed, messy, blurry, monochrome, text error, watermark, signature, bad anatomy, mutated hands, multiple vendors, cartoon, sketch)",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar style",
+    "3D rendering",
+    "Street food",
+    "Night scene",
+    "Rain",
+    "Street vendor",
+    "Cinematic lighting",
+    "Maíz Caliente",
+    "Urban",
+    "Character design"
+  ]
+}

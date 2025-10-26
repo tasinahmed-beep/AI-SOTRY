@@ -1,0 +1,23 @@
+{
+  "id": "3216172322178100",
+  "file": "gemini-3216172322178100.png",
+  "title": "Fortress of the Mist-Shrouded Peak",
+  "prompt": "(masterpiece), (best quality), highly detailed, absurdly detailed fantasy landscape, epic wide shot, 16:9 aspect ratio, Modern Anime style. A colossal, intricate castle combining medieval and Eastern architectural elements, resting on a towering, rocky mountain peak, overlooking an infinite sea of glowing, thick fog and clouds. The castle structure features subtle blue magical lighting accents and highly detailed turrets. Below the fog, a small village is visible, connected by a winding, luminous blue river or path of light. Dramatic sky at the moment of dusk or dawn, featuring a massive bright sun on the horizon and a clear crescent moon simultaneously visible. Several white birds are soaring gracefully around the misty peak. Soft volumetric lighting, ethereal atmosphere, cinematic composition, pastel colors.",
+  "negativePrompt": "low quality, worst quality, ugly, blurry, deformed, disfigured, poorly drawn, extra limbs, extra fingers, missing limbs, watermark, text, signature, error, jpeg artifacts, monochrome, realism, photographic",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fantasy Landscape",
+    "Modern Anime",
+    "Castle",
+    "Cloudscape",
+    "Misty Valley",
+    "Sunrise/Sunset",
+    "Floating Castle",
+    "Epic View",
+    "Atmospheric",
+    "Detailed Architecture"
+  ]
+}

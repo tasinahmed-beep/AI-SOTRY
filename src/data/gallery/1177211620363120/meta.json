@@ -1,0 +1,23 @@
+{
+  "id": "1177211620363120",
+  "file": "gemini-1177211620363120.png",
+  "title": "Zen Serenity: The Traditional Matcha Ceremony",
+  "prompt": "(masterpiece), 8k, photorealistic rendering of a traditional Japanese tea ceremony (Chanoyu) setup. A low, intricately woven bamboo table holds the implements. Center focus on a textured black cast iron tetsubin kettle resting on a glowing stone brazier. Beside it, two handcrafted ceramic matcha bowls (chawan) with green and white glaze, a bamboo chasen whisk, a red lacquer box containing bright green matcha powder, and a single delicate pink camellia flower. The scene is set on tatami mats in a minimalist Japanese room with blurred shoji screens and an ikebana arrangement in the background. Soft, diffused natural light illuminates the scene, sharp focus, detailed textures, cinematic lighting, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, bad anatomy, deformed, worst quality, jpeg artifacts, blurry, missing limbs, extra fingers, poor composition, cartoon, sketch, messy, harsh shadows, watermark, signature",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Japanese culture",
+    "Tea ceremony",
+    "Matcha",
+    "Still life",
+    "Photorealism",
+    "Tetsubin",
+    "Tatami",
+    "Zen",
+    "Chawan",
+    "Bamboo table"
+  ]
+}

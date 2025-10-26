@@ -1,0 +1,23 @@
+{
+  "id": "8271484979649623",
+  "file": "gemini-8271484979649623.png",
+  "title": "Culinary Precision: Slicing Vegetables in a Commercial Kitchen",
+  "prompt": "(masterpiece), best quality, ultra-detailed professional food photography (9:16), photorealistic close-up shot of a chef's hands wearing a white jacket and black apron, meticulously slicing a vibrant red bell pepper on a rustic wooden cutting board with a sharp Santoku knife. Focus is razor-sharp on the hands and knife blade. The cutting board also features sliced red onions, carrots, and zucchini. Shallow depth of field, with scattered sea salt, colorful peppercorns, and rosemary sprigs in the blurred foreground. Bright, clean, professional commercial kitchen background with stainless steel surfaces and blurred assisting chefs.",
+  "negativePrompt": "worst quality, low quality, distortion, blurry, deformed hands, missing fingers, extra limbs, watermark, signature, text, amateur, oversaturated, unrealistic lighting, dark background, bad anatomy, jpeg artifacts",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chef",
+    "Food Photography",
+    "Slicing",
+    "Photorealistic",
+    "Mise en place",
+    "Vegetables",
+    "Commercial Kitchen",
+    "Close-up",
+    "Knife Skills",
+    "Professional"
+  ]
+}

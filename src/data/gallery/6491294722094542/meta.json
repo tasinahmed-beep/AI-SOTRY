@@ -1,0 +1,23 @@
+{
+  "id": "6491294722094542",
+  "file": "gemini-6491294722094542.png",
+  "title": "Stage Light Serenade",
+  "prompt": "(masterpiece), (best quality), highly detailed, 3D Anime illustration, 16:9 aspect ratio, a beautiful young violinist standing center stage, performing solo, closed eyes, long flowing brown hair, wearing an elegant navy blue dress, playing a wooden violin, dramatic spotlight illumination, dark and empty classical theater setting, red velvet curtains and empty balcony seating visible on the sides, detailed wooden stage floor, backdrop painted with a serene forest and lake scene, floating glowing musical notes and sound waves surrounding the figure, cinematic lighting, volumetric light, orchestral rehearsal.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, poorly drawn hands, missing limbs, extra fingers, blurry, noise, text, watermark, signature, ugly, distorted stage, monochrome, multiple people, microphone, modern clothing.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Violinist",
+    "Anime girl",
+    "Empty stage",
+    "Spotlight",
+    "Classical music",
+    "Long dress",
+    "Theater",
+    "Musical notes",
+    "Rehearsal",
+    "16:9"
+  ]
+}

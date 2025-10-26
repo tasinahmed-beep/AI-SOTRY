@@ -1,0 +1,23 @@
+{
+  "id": "9527227133030507",
+  "file": "gemini-9527227133030507.png",
+  "title": "Eastern Dawn Croissant Dusting",
+  "prompt": "(masterpiece), (best quality), high detail, 9:16 vertical aspect ratio. A stunning, serene portrait of a young Chinese woman baker, wearing an elegant light blue and white Hanfu robe, standing in a traditional Chinese kitchen setting. She is delicately dusting a tray of freshly baked, golden croissants with powdered sugar using a fine mesh sifter. The falling powdered sugar creates a sparkling, magical effect. In the background, a large circular Moon Gate window frames a breathtaking view of classical Chinese pavilions and temples bathed in warm golden hour sunlight. Details include cherry blossoms (sakura) branches, stacked bamboo steamers on shelves, soft pastel colors, and detailed linework. Donghua Chinese Illustration style.",
+  "negativePrompt": "(worst quality), (low quality), watermark, text, signature, bad anatomy, deformed hands, missing fingers, lowres, blurry, mutated, cartoon, 3d render, poor composition, extra limbs, ugly, European setting, modern kitchen, western clothing.",
+  "style": "Donghua Chinese Illustration",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua",
+    "Chinese Art",
+    "Hanfu",
+    "Baker",
+    "Croissant",
+    "Golden Hour",
+    "Moon Gate",
+    "Traditional Kitchen",
+    "Pastel Colors",
+    "Serene"
+  ]
+}

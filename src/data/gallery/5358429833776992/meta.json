@@ -1,0 +1,23 @@
+{
+  "id": "5358429833776992",
+  "file": "gemini-5358429833776992.png",
+  "title": "Urban Velocity",
+  "prompt": "(masterpiece), (best quality), high detail, Modern Anime style, 16:9 aspect ratio. A determined young female cyclist wearing blue and black athletic cycling gear and a helmet races through a rainy city street at night. The scene is set in a dense Japanese metropolis (Shinjuku/Tokyo aesthetic) with towering skyscrapers and elevated train tracks overhead. The wet asphalt reflects vibrant neon lights (magenta, cyan, yellow) creating strong, colorful puddles and atmospheric reflections. Heavy rain streaks down, cinematic lighting, dynamic pose, low-angle perspective emphasizing speed and motion blur on traffic.",
+  "negativePrompt": "blurry, poor quality, worst quality, low resolution, bad anatomy, deformed, extra limbs, watermark, text, signature, cartoon, 3d render, low detail, monochrome, disfigured face",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cycling",
+    "Anime",
+    "Night",
+    "Rain",
+    "Neon",
+    "Tokyo",
+    "Metropolis",
+    "Wet Reflections",
+    "Speed",
+    "Cyberpunk"
+  ]
+}

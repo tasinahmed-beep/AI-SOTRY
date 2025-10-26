@@ -1,0 +1,23 @@
+{
+  "id": "1525605161797142",
+  "file": "gemini-1525605161797142.png",
+  "title": "Emerald Sunset Barrel",
+  "prompt": "(masterpiece), (best quality), highly detailed, retro comic book illustration of a professional male surfer wearing a black wetsuit, deeply riding inside a massive, curling emerald green wave (barrel), dynamic action shot, dramatic sunset background, intense orange and purple sky, sun glowing brightly on the horizon, powerful ocean, strong black outlines, thick linework, halftone shading effects, bold flat colors, high contrast, 16:9 aspect ratio, classic comic art style",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, out of frame, disfigured, deformed, body out of frame, blurry, bad anatomy, watermark, grainy, signature, cut off, easynegative, low quality, worst quality, text, error",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Surfing",
+    "Comic Book Art",
+    "Sunset",
+    "Barrel Wave",
+    "Emerald Water",
+    "Action Sports",
+    "High Contrast",
+    "Dynamic",
+    "Graphic Novel",
+    "Ocean"
+  ]
+}

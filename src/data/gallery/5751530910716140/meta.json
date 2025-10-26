@@ -1,0 +1,22 @@
+{
+  "id": "5751530910716140",
+  "file": "gemini-5751530910716140.png",
+  "title": "The Smoldering Advance",
+  "prompt": "(masterpiece), (best quality), highly detailed, full panel comic book illustration, dynamic angle, a determined firefighter in detailed yellow turnout gear and helmet, walking forward through an inferno, holding a large coiled fire hose over their shoulder, low-angle perspective, obscured face, dramatic backlighting from intense orange and red smoke and flames, burning industrial buildings visible faintly in the background, strong black linework, vibrant colors, comic book texture, includes graphic sound effects like 'WHOOSH' and 'ROAR', 9:16 aspect ratio.",
+  "negativePrompt": "disfigured, poorly drawn, extra limbs, mutated, bad anatomy, deformed, blurry, grainy, watermark, text, signature, low quality, duplicate, cartoon, 3d render, photograph",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Firefighter",
+    "Comic Art",
+    "Heroic",
+    "Fire",
+    "Smoke",
+    "Hose",
+    "Emergency Services",
+    "Onomatopoeia",
+    "Sequential Art"
+  ]
+}

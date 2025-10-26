@@ -1,0 +1,23 @@
+{
+  "id": "4965111636885782",
+  "file": "gemini-4965111636885782.png",
+  "title": "Golden Hour Stacks",
+  "prompt": "(masterpiece), best quality, highly detailed, 16:9 aspect ratio. A serene and cute anime girl librarian wearing a light beige cardigan and round glasses, with her brown hair tied up in a messy bun. She is carefully reaching up to place a book on a tightly packed wooden bookshelf in a wide library aisle. Strong volumetric golden hour sunlight streams through a large arched window in the background, illuminating dust motes (bokeh, sparkles). Cozy library interior, warm lighting, depth of field. Potted plants on the windowsill and wooden study tables with open books in the foreground. Modern Anime style, lofi aesthetic.",
+  "negativePrompt": "(low quality, worst quality), bad anatomy, extra fingers, blurry, distorted, sketch, monochrome, grayscale, watermark, text, signature, lowres, mutations, multiple windows",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "anime girl",
+    "librarian",
+    "golden hour",
+    "cozy",
+    "library interior",
+    "volumetric light",
+    "glasses",
+    "moe",
+    "bookshelf",
+    "16:9"
+  ]
+}

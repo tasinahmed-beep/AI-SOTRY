@@ -1,0 +1,23 @@
+{
+  "id": "6825213335854436",
+  "file": "gemini-6825213335854436.png",
+  "title": "Neon Drip: Solitude in the Cyberpunk Alley",
+  "prompt": "(masterpiece), (best quality), photorealistic render, ultra-detailed 16:9 cinematic shot of a dark, rainy cyberpunk alleyway in Neo-Tokyo. Towering, dilapidated high-rise buildings covered in intricate piping and exposed wiring. Intense atmospheric lighting from dozens of brightly glowing neon signs in magenta, cyan, and electric blue, featuring Asian text. Heavy rain streaks, volumetric steam rising from vents and manholes, creating thick fog effects. Wet, highly reflective asphalt ground. A solitary hooded figure stands near a small street stall. Two futuristic motorcycles parked on the right side. Deep shadows, high contrast, cinematic atmosphere, octane render, film grain.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, low resolution, bad anatomy, bad text, watermark, signature, cartoon, illustration, drawing, painting, unrealistic, noise, simple background, extra limbs, cropped, monochrome",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cyberpunk",
+    "Neon Noir",
+    "Rainy Day",
+    "Steam",
+    "Urban Landscape",
+    "Sci-Fi",
+    "Volumetric Lighting",
+    "Motorcycle",
+    "Gritty",
+    "Alleyway"
+  ]
+}

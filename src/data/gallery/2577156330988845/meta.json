@@ -1,0 +1,22 @@
+{
+  "id": "2577156330988845",
+  "file": "gemini-2577156330988845.png",
+  "title": "Bamboo Bliss in the Misty Glade",
+  "prompt": "(masterpiece), best quality, high detail CGI render, an extremely adorable and chubby Giant Panda sitting in the center, happily holding and eating a thick bamboo stalk. The panda has huge expressive brown eyes, perfect fluffy fur texture. Background: A mystical, dense bamboo forest, deep teal and mint green tones, strong volumetric light filtering through a soft blue mist. Falling pink sakura petals and sparkling particles scattered in the air, mossy ground cover, cinematic lighting, 3D Anime style, ultra detailed, 16:9 aspect ratio.",
+  "negativePrompt": "low resolution, blurry, distorted, worst quality, poor anatomy, extra limbs, watermark, signature, text, monochrome, ugly, tiling, bad perspective, deformed face.",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Panda",
+    "Bamboo Forest",
+    "Chibi",
+    "Cute Animal",
+    "Misty",
+    "3D Anime",
+    "Sakura Petals",
+    "Volumetric Lighting",
+    "CGI Render"
+  ]
+}

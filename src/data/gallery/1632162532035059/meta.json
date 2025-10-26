@@ -1,0 +1,22 @@
+{
+  "id": "1632162532035059",
+  "title": "Serene Moment: Anime Girl Resting (Portrait)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, bad hands, missing fingers, extra limbs, deformed, blurry, artifacts, watermark, logo, jpeg artifacts, noise, monochrome, worst quality, extra head",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "woman",
+    "sitting",
+    "anime girl",
+    "solo",
+    "modern anime",
+    "digital illustration",
+    "casual pose",
+    "character art",
+    "detailed eyes",
+    "full body"
+  ]
+}

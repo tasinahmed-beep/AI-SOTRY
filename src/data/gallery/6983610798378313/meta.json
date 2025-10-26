@@ -1,0 +1,23 @@
+{
+  "id": "6983610798378313",
+  "file": "gemini-6983610798378313.png",
+  "title": "Serene Bonsai in Sunlight",
+  "prompt": "(masterpiece), high-quality detailed 2D Anime illustration, cozy interior scene, a majestic, twisted bonsai tree centered on a rustic wooden wooden shelf, placed directly in front of a large arched, multi-pane window. The window frames a breathtaking panoramic view of lush green rolling hills, distant blue mountains, and a tranquil river. Strong dramatic volumetric lighting, beautiful sun rays streaming through the window, highlighting shimmering dust motes (bokeh). Soft pastel color palette, slice of life, soft cell shading. Vertical 9:16 composition.",
+  "negativePrompt": "(low quality, worst quality, low resolution, bad hands, bad anatomy, deformed, blurry, missing limbs, jpeg artifacts, monochrome, watermark, text, signature, exposed skin)",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Bonsai",
+    "2D Anime",
+    "Slice of Life",
+    "Ghibli Style",
+    "Cozy",
+    "Window view",
+    "Sunlight",
+    "God rays",
+    "Interior",
+    "Landscape"
+  ]
+}

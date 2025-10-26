@@ -1,0 +1,23 @@
+{
+  "id": "1177658216232799",
+  "file": "gemini-1177658216232799.png",
+  "title": "Neon Pedals of Wuxia: Rainborne Cultivator",
+  "prompt": "(masterpiece), (best quality), highly detailed, ultra-realistic rendering, cinematic lighting, full body shot, 9:16 aspect ratio. A dynamic scene of a handsome young Xianxia cultivator, wearing traditional white robes and light bronze armor, aggressively riding a futuristic bicycle through a rainy city street at night. The bicycle wheels are vibrant, glowing neon energy rings (cyan and magenta aura), leaving intense energy trails on the wet cobblestone pavement. Small, ethereal cyan spirit wisps float alongside the rider. The background features traditional Chinese tiered architecture with dark teal roofs and warm glowing paper lanterns. Heavy rain is falling, reflecting dramatically on the street. In the distance, majestic, mist-shrouded karst mountains loom under dark stormy clouds. Fantasy Xianxia style, dynamic motion blur, high contrast, vaporwave elements integrated.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed hands, missing limbs, blurry, grayscale, ugly, watermark, signature, jpeg artifacts, easynegative, cropped, lowres, text, modern city elements, cars, inappropriate clothes",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Cultivator",
+    "Neon",
+    "Rainy Night",
+    "Cyberpunk Fantasy",
+    "Chinese Architecture",
+    "Karst Mountains",
+    "Dynamic Lighting",
+    "Bicycle",
+    "Spiritual Energy"
+  ]
+}

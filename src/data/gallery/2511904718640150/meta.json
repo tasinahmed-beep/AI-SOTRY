@@ -1,0 +1,23 @@
+{
+  "id": "2511904718640150",
+  "file": "gemini-2511904718640150.png",
+  "title": "CLINK! WHOOSH! The Matcha Ritual",
+  "prompt": "(masterpiece), high-resolution, detailed Comic Book style illustration of a traditional matcha tea ceremony set. A rustic bamboo table holds a ceramic teapot, a chasen (matcha whisk), and several matcha bowls filled with green tea. The scene is set in a vibrant Japanese garden during spring, surrounded by blooming pink sakura cherry trees, a calm pond, and a stone lantern (toro) in the background. Include prominent comic book onomatopoeia and stylized speech bubbles (such as 'WHOOSH!', 'CLINK!', 'SIP & SAVOR!', 'BREW!') floating around the steaming tea. Thick black ink outlines, bold colors, vintage halftone dot texture. Comic Book style. 16:9 aspect ratio.",
+  "negativePrompt": "disfigured, ugly, cartoon, 3d, extra limbs, bad anatomy, deformed, worst quality, low quality, jpeg artifacts, blurry, watermark, signature, missing objects",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Comic Book Art",
+    "Japanese Tea Ceremony",
+    "Matcha",
+    "Sakura",
+    "Bamboo Table",
+    "Onomatopoeia",
+    "Japanese Garden",
+    "Teapot",
+    "Vibrant Color",
+    "Traditional"
+  ]
+}

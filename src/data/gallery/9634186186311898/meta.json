@@ -1,0 +1,23 @@
+{
+  "id": "9634186186311898",
+  "file": "gemini-9634186186311898.png",
+  "title": "Celestial Dragon's Gaze",
+  "prompt": "(masterpiece), (best quality), highly detailed, absurd resolution, full body shot of a youthful Chinese astronaut floating weightlessly inside a futuristic space station module. The astronaut's spacesuit features intricate red and gold traditional Chinese cloud (Chiyun) and dragon patterns. They look out a gigantic circular porthole window. The view outside is a fantastical cosmic landscape: a swirling turquoise and teal galaxy vortex, subtle silhouette of a celestial dragon swimming in the nebula, floating Chinese temples and pagodas suspended in space, and the curvature of Earth below decorated with serene, stylized Chinese mountainous landscapes and architecture. Soft ambient lighting, dynamic composition, vertical orientation (9:16), Donghua Chinese style, watercolor illustration, smooth linework.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, lowres, monochrome, grayscale, watermark, text, signature, 3D render, ugly, deformed, mutated, disfigured, poor lighting, jpeg artifacts",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "astronaut",
+    "Donghua",
+    "sci-fi fantasy",
+    "celestial dragon",
+    "Chinese architecture",
+    "space station",
+    "cosmic",
+    "watercolor illustration",
+    "Chiyun",
+    "9:16"
+  ]
+}

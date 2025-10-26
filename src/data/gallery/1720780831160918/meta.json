@@ -1,0 +1,23 @@
+{
+  "id": "1720780831160918",
+  "file": "gemini-1720780831160918.png",
+  "title": "Serenity of the Sakura Tea Ceremony",
+  "prompt": "(masterpiece), best quality, extremely detailed CG artwork, Modern Anime style, 16:9 aspect ratio. A serene, tranquil atmosphere inside a traditional Japanese room (washitsu). Full body shot of a beautiful young woman with long brown hair, wearing an elegant light-colored kimono with floral patterns, sitting seiza style on a tatami floor. She is holding a matcha bowl (chawan). A low, polished wooden table is set with traditional tea ceremony items: a dark iron tetsubin teapot, two bowls of vibrant green matcha, a bamboo whisk (chasen), and a small decorated box. Bright natural light streams through the opened shoji screens, illuminating the scene. Outside, a picturesque Japanese garden is visible, featuring a huge, fully bloomed cherry blossom tree (sakura). Gentle pink petals fall through the air. Soft focus background, volumetric lighting, atmospheric details.",
+  "negativePrompt": "low quality, worst quality, mutated hands, multiple limbs, cropped, watermark, signature, blurry, jpeg artifacts, bad anatomy, deformed face, poorly drawn, out of frame, error, extra fingers, noisy, sketch, ugly, grayscale",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime Girl",
+    "Tea Ceremony",
+    "Kimono",
+    "Sakura",
+    "Japanese Garden",
+    "Tatami Room",
+    "Matcha",
+    "Serene",
+    "Washitsu",
+    "Seiza"
+  ]
+}

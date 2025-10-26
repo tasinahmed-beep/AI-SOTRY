@@ -1,0 +1,23 @@
+{
+  "id": "8388657273570704",
+  "file": "gemini-8388657273570704.png",
+  "title": "Midnight Microcosm Discovery",
+  "prompt": "(masterpiece), (best quality), highly detailed CGI render, Pixar animation style, professional 3D, ultra-detailed textures, cinematic lighting. A charming young scientist character with round glasses and short brown hair, wearing a white lab coat, enthusiastically peering into a bright teal microscope. She is standing at a wooden lab bench. The background features shelves filled with brightly colored, glowing chemical flasks and scientific equipment. Potted plants are on the desk. A large window overlooks a beautiful night cityscape with a prominent full moon. Soft volumetric lighting, depth of field. 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, mutated, blur, deformed, text, watermark, bad anatomy, missing limbs, poorly drawn face, disfigured, monochrome, 2D drawing, sketch, abstract",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Scientist",
+    "Pixar Style",
+    "3D Animation",
+    "Laboratory",
+    "Microscope",
+    "Night Scene",
+    "Chemical Flasks",
+    "Full Moon",
+    "CGI Render",
+    "Discovery"
+  ]
+}

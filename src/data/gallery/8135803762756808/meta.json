@@ -1,0 +1,23 @@
+{
+  "id": "8135803762756808",
+  "file": "gemini-8135803762756808.png",
+  "title": "The Tiny Knight's Ascent to the Cloud Castle",
+  "prompt": "(masterpiece), best quality, high resolution, stunning 3D render, Pixar style cinematic animation, (9:16 aspect ratio), a majestic medieval castle standing dramatically on a tall, rugged cliffside, enveloped by a dense, soft sea of swirling fog or clouds below. The castle features grey stone towers, red roofs, and flying banners. In the immediate foreground, a cobblestone path leads forward, bordered by lush grass, vibrant wildflowers, and rocks. Two small, cute characters stand on the path: a tiny chibi knight in polished silver armor and his small, friendly dragon companion. Golden hour lighting (sunrise or sunset), warm pastel colors, ultra detailed environment, depth of field.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, bad composition, ugly, blur, grayscale, text, watermark, cropped, deformed, missing limbs, jpeg artifacts, messy, poorly drawn hands, boring background, mutated",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Medieval Castle",
+    "Foggy Valley",
+    "3D Animation",
+    "Tiny Knight",
+    "Dragon Companion",
+    "Fantasy",
+    "Sunrise",
+    "Vertical Composition",
+    "Chibi"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "3636419044348772",
+  "file": "gemini-3636419044348772.png",
+  "title": "Zen Bonsai View in Spring",
+  "prompt": "(masterpiece), best quality, (detailed anime background art), A highly detailed shot of a magnificent, ancient bonsai tree with a thick, twisted trunk, sitting on a natural rustic wooden table. The scene is set inside a traditional Japanese room (wa-shitsu) featuring a shoji screen door, tatami flooring, and walls with subtle cherry blossom patterns. The bonsai is perfectly centered beneath a large, arched window which offers a breathtaking view of a vibrant spring landscape: rolling green hills dotted with lush pink cherry blossom trees (sakura), distant mountains, and a bright blue sky with fluffy white clouds. Soft sunlight streams through the window. 3D Anime style, cel-shading, expressive lighting, 16:9 aspect ratio.",
+  "negativePrompt": "bad anatomy, lowres, worst quality, monochrome, ugly, poorly drawn, extra limbs, signature, watermark, blurry, deformed, disfigured, out of frame",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Bonsai",
+    "Anime Background",
+    "Japanese Interior",
+    "Shoji Screen",
+    "Cherry Blossoms",
+    "Spring Landscape",
+    "Zen",
+    "Arched Window",
+    "Wa-shitsu"
+  ]
+}

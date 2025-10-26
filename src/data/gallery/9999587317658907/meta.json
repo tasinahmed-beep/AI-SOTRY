@@ -1,0 +1,22 @@
+{
+  "id": "9999587317658907",
+  "title": "Serene Anime Girl Sitting Pose (Portrait)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, error, worst quality, bad quality, jpeg artifacts, signature, watermarks, deformed, blurry, extra limbs, missing fingers, poor anatomy, bad composition, tiling, out of frame, monochrome, grayscale, multiple heads",
+  "style": "Anime Digital Illustration",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "anime girl",
+    "sitting pose",
+    "female character",
+    "character art",
+    "2D illustration",
+    "digital painting",
+    "relaxed",
+    "simple",
+    "full body",
+    "cute"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1525694484387269",
+  "file": "gemini-1525694484387269.png",
+  "title": "Dawn's Golden Graffiti",
+  "prompt": "(masterpiece), (best quality), (detailed illustration), 2D Anime style, a cinematic vertical composition (9:16) of a determined young male street artist with short blue hair, wearing a denim jacket and paint-splattered clothes. He stands high on metal scaffolding, diligently using a paint roller to finalize a huge, magnificent mural on a textured red brick wall. The mural depicts a golden, winged serpentine dragon or phoenix figure against a bright blue wash background, radiating power. Scene set in a gritty city alleyway at early dawn, bathed in warm, soft golden sunlight coming from the low, visible sun. Street lamp post visible on the side, concrete ground, scattered paint cans and tools. Thick line art, comic book quality, clean shading, vibrant colors, stunning volumetric lighting.",
+  "negativePrompt": "low quality, blurry, worst quality, deformed, jpeg artifacts, ugly, signature, watermark, cropped, distorted hands, poorly drawn anatomy, unrealistic lighting, 3D render, photorealism, multiple heads.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "Anime Boy",
+    "Golden Dragon",
+    "Scaffolding",
+    "Dawn",
+    "Urban Alleyway",
+    "Line Art",
+    "Graffiti",
+    "Vertical Composition"
+  ]
+}

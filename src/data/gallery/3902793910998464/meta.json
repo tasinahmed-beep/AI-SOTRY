@@ -1,0 +1,22 @@
+{
+  "id": "3902793910998464",
+  "file": "gemini-3902793910998464.png",
+  "title": "Dragon Rider Descent: The Jade Warrior's Race",
+  "prompt": "(masterpiece), (best quality), high detail, an epic full-shot illustration of a fearless mountain biker racing intensely down a dark, root-covered forest trail. The biker wears highly detailed, stylized green and gold armor reminiscent of a Chinese warrior (Wuxia), complete with a horned helmet and a long, flowing jade sash. The trail is shrouded in deep mossy growth and giant ancient trees forming a canopy tunnel. In the background, a brilliant sun flares behind a cascading waterfall where a majestic, serpentine Chinese dragon spirit emerges from the mist. Dynamic motion blur on the wheels and dust trails, vibrant colors, dramatic lighting, falling red petals. Donghua Chinese style, 16:9 aspect ratio, intense action scene.",
+  "negativePrompt": "bad art, low quality, worst quality, blurry, poor anatomy, deformed, sketch, monochrome, grayscale, watermark, text, signature, lowres, missing limbs, extra fingers, malformed face, mutated hands, multiple heads",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Donghua Chinese",
+    "Mountain Biking",
+    "Fantasy",
+    "Dragon",
+    "Wuxia",
+    "Forest Trail",
+    "Epic Scene",
+    "Action",
+    "Vibrant"
+  ]
+}

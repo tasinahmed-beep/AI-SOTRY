@@ -1,0 +1,23 @@
+{
+  "id": "1427473664529664",
+  "file": "gemini-1427473664529664.png",
+  "title": "Gentle Feast in the Mystic Bamboo Forest",
+  "prompt": "(Masterpiece), (best quality), ultra-detailed, cinematic lighting, A centered, plump, and highly detailed baby panda sitting down and joyfully eating a thick green stalk of bamboo. The scene is set in a vibrant, mystical bamboo forest with tall, lush green stalks and ancient mossy trees in the background. Soft sun rays penetrate the dense canopy, creating dramatic volumetric light shafts. Heavy, swirling, magical mist and fog hug the forest floor, accented by small white mushrooms and delicate glowing white butterflies fluttering around. Hyper-cute aesthetics, large expressive anime eyes, soft shading, Modern Anime illustration style, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, distortion, blurry, ugly, sketch, monochrome, grayscale, missing limbs, extra fingers, malformed, poorly drawn hands, text, signature, watermark, bad anatomy, deformed eyes, cropped.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Panda",
+    "Cute animal",
+    "Bamboo forest",
+    "Modern Anime",
+    "Fantasy setting",
+    "Misty",
+    "Digital illustration",
+    "Kawaii",
+    "Volumetric lighting",
+    "Wildlife"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "8232747742213644",
+  "file": "gemini-8232747742213644.png",
+  "title": "Emerald Barrel at Sunset",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D rendering, a charismatic young male surfer catching a massive, perfect barreling wave during a tropical sunset, extreme close-up view from inside the tube, huge emerald and teal wave with crystal clear water texture and foam spray, vibrant golden hour light reflecting intensely off the water's surface and the interior of the wave. The background features a tropical island with volcanic mountains and palm trees silhouetted against a pastel pink and lavender sky. Dynamic pose, cinematic volumetric lighting, authentic Pixar animation style, 9:16 aspect ratio.",
+  "negativePrompt": "ugly, deformed, noisy, blurry, low resolution, worst quality, low quality, grayscale, monochrome, sketch, painting, signature, watermark, extra limbs, poorly drawn face, disfigured, inaccurate anatomy, flat background, two surfboards.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Pixar Style",
+    "3D Animation",
+    "Sunset",
+    "Tropical",
+    "Barrel Wave",
+    "Emerald Water",
+    "CGI",
+    "Golden Hour",
+    "Volcano Island"
+  ]
+}

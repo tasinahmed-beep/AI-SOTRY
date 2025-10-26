@@ -1,0 +1,23 @@
+{
+  "id": "8264777355803369",
+  "file": "gemini-8264777355803369.png",
+  "title": "Zen Mechanic: Watering the Immortal Flora",
+  "prompt": "(masterpiece), best quality, ultra detailed, a cute anthropomorphic service robot with a smooth white shell and ornate gold trim, adorned with traditional Chinese cloud patterns, glowing blue eyes, happily watering lush houseplants (bamboo stalks, flowering orchids, succulents) with a small green watering can. The scene is set inside a luxurious traditional Chinese scholar's studio (tea room), rich wooden paneling, soft atmospheric lighting. Two large circular moon gate windows frame a breathtaking fantasy landscape of floating islands, misty mountains, high waterfalls, and ancient pagodas in the distance. Ethereal, flowing ribbons of water/Qi energy surround the plants and the robot. Donghua Chinese animation style, cinematic light, volumetric rendering, 16:9 aspect ratio.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, blurry, bad anatomy, blurred, watermark, grainy, signature, cut off, draft, low quality, worst quality, monochrome, simplistic",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Robot",
+    "Donghua",
+    "Chinese Fantasy",
+    "Floating Islands",
+    "Houseplants",
+    "Traditional Studio",
+    "Sci-Fi Fantasy",
+    "Cyborg",
+    "Serene",
+    "Circular Window"
+  ]
+}

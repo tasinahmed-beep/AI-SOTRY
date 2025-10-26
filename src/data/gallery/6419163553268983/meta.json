@@ -1,0 +1,23 @@
+{
+  "id": "6419163553268983",
+  "file": "gemini-6419163553268983.png",
+  "title": "The Botanical Caretaker",
+  "prompt": "(masterpiece), (best quality), high detail 3D render, Pixar style animation still, a cheerful, rusty bronze-colored anthropomorphic robot centered in a bright, sun-drenched artist's studio. The robot is carefully watering a large potted Monstera plant with glowing blue water from a silver watering can. The studio features large arched windows looking out onto a blurred city skyline. The room is filled with lush, healthy houseplants, including orchids and hanging baskets. Two wooden easels with abstract paintings flank the robot. A small, flying companion drone-robot hovers to the side. Warm volumetric lighting, soft shadows, 16:9 aspect ratio.",
+  "negativePrompt": "(worst quality, low quality, normal quality), bad anatomy, deformed, blurry, missing limbs, text, watermark, signature, jpeg artifacts, monochrome, ugly, tiling, wires, cables.",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Robot",
+    "3D Animation",
+    "Houseplants",
+    "Studio",
+    "Gardening",
+    "Cityscape",
+    "CGI",
+    "Cinematic Lighting",
+    "Monstera",
+    "Friendly Character"
+  ]
+}

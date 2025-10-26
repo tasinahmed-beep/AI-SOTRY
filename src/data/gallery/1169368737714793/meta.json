@@ -1,0 +1,23 @@
+{
+  "id": "1169368737714793",
+  "file": "gemini-1169368737714793.png",
+  "title": "Sentinel of the Storm",
+  "prompt": "(masterpiece), best quality, highly detailed 3D Anime illustration of a majestic, red and white lighthouse firmly perched on sheer, rugged dark cliffs. The scene is dominated by a fierce thunderstorm, with heavy rain pouring down and dramatic lightning illuminating the turbulent, swirling clouds. Massive, churning blue waves crash violently against the base of the cliffs. The lighthouse emits a powerful, focused beam cutting through the storm. Include the small keeper's house nearby. Dynamic composition, intense atmosphere, strong contrast, 9:16 aspect ratio, cinematic lighting, stylized water effects.",
+  "negativePrompt": "low quality, bad anatomy, worst quality, distorted, blurry, missing limbs, jpeg artifacts, dull colors, signature, watermark, extra fingers, cartoon, sketch, monochrome, lack of detail, simplified shapes",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Lighthouse",
+    "Stormy Sea",
+    "Cliffs",
+    "Thunderstorm",
+    "Massive Waves",
+    "Anime Illustration",
+    "Dramatic Lighting",
+    "Vertical Format",
+    "Seascape",
+    "Rain"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9596952145258001",
+  "file": "gemini-9596952145258001.png",
+  "title": "Azure Rhapsody of the Immortal Bridge",
+  "prompt": "(masterpiece), (best quality), cinematic light, highly detailed digital painting, Fantasy Xianxia atmosphere, a beautiful young immortal woman playing a violin, wearing flowing azure and teal Hanfu robes, standing on an ornate circular stone platform. Magical light and ethereal white butterflies swirl from the violin bow, forming musical notes. In the background, a massive ancient stone arched bridge connects two towering, mist-shrouded peaks with cascading waterfalls. Floating sky lanterns illuminate the river valley below. Distant golden palace architecture atop the mountains. Lush green foliage, 16:9 aspect ratio.",
+  "negativePrompt": "mutated, deformed, blurry, worst quality, low quality, distortion, text, watermark, signature, cropped, bad hands, missing limbs, extra fingers, poorly drawn, mismatched clothes, modern city",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Fantasy",
+    "Digital Painting",
+    "Violinist",
+    "Hanfu",
+    "Misty Landscape",
+    "Sky Lanterns",
+    "Chinese Architecture",
+    "Waterfalls",
+    "Arched Bridge"
+  ]
+}

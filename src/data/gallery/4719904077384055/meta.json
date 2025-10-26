@@ -1,0 +1,22 @@
+{
+  "id": "4719904077384055",
+  "title": "Panel of Contemplation: Seated Woman in Classic Comic Style (Portrait)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "blurry, deformed, bad anatomy, missing limbs, extra fingers, poor quality, low contrast, text artifacts, bad shading, sketch, poorly drawn face",
+  "style": "American Comic Book Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "comic book art",
+    "sequential art",
+    "female figure",
+    "sitting pose",
+    "bold outlines",
+    "cel shading",
+    "graphic novel style",
+    "inked drawing",
+    "full body shot",
+    "contemplation"
+  ]
+}

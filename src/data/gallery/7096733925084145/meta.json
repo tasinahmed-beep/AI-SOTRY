@@ -1,0 +1,23 @@
+{
+  "id": "7096733925084145",
+  "file": "gemini-7096733925084145.png",
+  "title": "Neon Alley Drifters",
+  "prompt": "(masterpiece), (best quality), highly detailed, ultra-detailed, 16:9 aspect ratio, a wide shot of a dark, moody cyberpunk alleyway, dramatic lighting from vibrant neon signs (blue, magenta, green), heavy comic book art style, thick black outlines, bold colors, deep perspective, wet cobblestone street reflecting the neon light sources, heavy steam and haze rising from grates and pipes, dystopian urban environment, detailed pipes and industrial texture on the walls, several anonymous cloaked figures walking through the smoke, detailed hovercraft visible above, dense Japanese kanji and English typography on the neon signs, gritty linework, high contrast.",
+  "negativePrompt": "(worst quality, low quality, normal quality), blurry, text, signature, watermark, cropped, out of frame, photo, realism, 3d render, low contrast, washed out colors, unrealistic shadows, gross, disgusting, amateur drawing.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Cyberpunk",
+    "Comic Book Style",
+    "Neon",
+    "Alleyway",
+    "Steam",
+    "Dystopian",
+    "Gritty",
+    "Urban Night",
+    "Reflection",
+    "Japanese Text"
+  ]
+}

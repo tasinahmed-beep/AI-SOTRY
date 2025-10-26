@@ -1,0 +1,23 @@
+{
+  "id": "1493312319262143",
+  "file": "gemini-1493312319262143.png",
+  "title": "The Flying Dough of Napoli",
+  "prompt": "(masterpiece), (best quality), highly detailed 3D render, Pixar Style animation, a joyful, portly Italian pizza chef with a big smile, wearing a pristine white uniform, tall chef hat, and red neckerchief/apron, expertly tossing a large, flat pizza dough high in the air. The setting is a cozy, rustic Italian wood-fired pizzeria kitchen at twilight. A massive, glowing red brick oven dominates the background, radiating warm, cinematic orange light. Detailed surroundings include wooden counters dusted with flour, stacks of tomato cans, flour sacks, fresh basil plants, and pizza peels. Soft volumetric lighting highlights the action. 16:9 aspect ratio.",
+  "negativePrompt": "low quality, blurry, worst quality, deformed, monochrome, extra limbs, bad anatomy, mutated, malformed hands, missing ingredients, oversaturated, grayscale, text, signature, watermark, bad shadow",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar Style",
+    "3D Animation",
+    "Chef",
+    "Pizza",
+    "Brick Oven",
+    "Italian Kitchen",
+    "Food Preparation",
+    "Wood Fired",
+    "Cartoon",
+    "Twilight"
+  ]
+}

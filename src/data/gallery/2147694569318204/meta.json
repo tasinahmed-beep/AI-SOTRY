@@ -1,0 +1,23 @@
+{
+  "id": "2147694569318204",
+  "file": "gemini-2147694569318204.png",
+  "title": "Scientific Serenade in the Skylight Lab",
+  "prompt": "(masterpiece), (best quality), ultra detailed vertical portrait, 9:16 aspect ratio, Modern Anime style, a focused young female scientist with short purple hair and large round glasses, wearing a white lab coat over a blue turtleneck, intently looking through a sophisticated laboratory microscope. She is wearing blue examination gloves. The setting is a clean, sleek, futuristic science lab with metallic surfaces and chemical apparatus on shelves. A large panoramic window in the background reveals a peaceful, detailed cityscape under a soft pastel pink and blue sunset sky. Glowing blue holographic displays showing molecular diagrams and ethereal musical notes float around the workspace. Clean linework, soft diffused cinematic lighting, volumetric shadows, lofi aesthetic.",
+  "negativePrompt": "(worst quality), (low quality), bad anatomy, extra limbs, deformed, blurry, missing fingers, disconnected limbs, mutation, gross, jpeg artifacts, ugly, signature, watermark, multiple people, tiling, poorly drawn hands",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Scientist",
+    "Anime Girl",
+    "Microscope",
+    "Futuristic Lab",
+    "Purple Hair",
+    "Lab Coat",
+    "Holographic Display",
+    "Cityscape",
+    "9:16",
+    "Lofi Aesthetic"
+  ]
+}

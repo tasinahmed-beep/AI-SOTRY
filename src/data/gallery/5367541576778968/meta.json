@@ -1,0 +1,22 @@
+{
+  "id": "5367541576778968",
+  "file": "gemini-5367541576778968.png",
+  "title": "Advance into the Inferno",
+  "prompt": "(masterpiece), (photorealistic), full-body portrait of a brave firefighter walking directly towards the viewer through thick grey smoke and intense orange flames, surrounded by falling embers and debris. The firefighter is fully equipped in heavy-duty turnout gear, a helmet, and a respiratory mask, carrying a coiled hose while simultaneously spraying a powerful stream of water. Low angle, extremely detailed, dramatic cinematic lighting, wet and ruined ground reflects the firelight, destroyed industrial background, 9:16 aspect ratio, volumetric smoke.",
+  "negativePrompt": "low quality, blurry, worst quality, deformed, mutilated, extra limbs, abstract, disfigured, cartoon, sketch, painting, illustration, drawing, watermark, signature, jpeg artifacts, monochrome, cropped head, too bright, fake fire.",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Firefighter",
+    "Emergency",
+    "Smoke",
+    "Action",
+    "Grit",
+    "Disaster",
+    "Photorealistic",
+    "Heroism",
+    "Cinematic Lighting"
+  ]
+}

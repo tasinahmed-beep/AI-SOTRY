@@ -1,0 +1,22 @@
+{
+  "id": "8004101483282972",
+  "file": "gemini-8004101483282972.png",
+  "title": "EVA View from the Cupola",
+  "prompt": "(masterpiece), best quality, ultra-detailed 8k, photorealistic, cinematic lighting. A lone astronaut in a highly detailed white EVA suit, floating just outside the primary polygonal viewing window of a modern space station. The astronaut is centered and looking directly at the viewer. Stunning view of the curved Earth, clouds, and oceans below. Interior perspective shot, framed by the dark metallic structure of the station's cabin. Two secondary astronauts are visible operating illuminated control panels inside the station in the background. Deep space and stars outside. Volumetric lighting, high contrast, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, missing limbs, blur, noisy, amateur, deformed, low resolution, artifacts, watermark, logo, text, CGI, painting, sketch, drawing, extra fingers",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Space",
+    "Astronaut",
+    "EVA",
+    "Space Station",
+    "Earth orbit",
+    "Photorealistic",
+    "Cinematic lighting",
+    "Sci-fi",
+    "Window view"
+  ]
+}

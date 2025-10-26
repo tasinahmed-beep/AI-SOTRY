@@ -1,0 +1,22 @@
+{
+  "id": "1268137416620210",
+  "title": "The Artisan of the Morning Mist: Painting the Azure Dragon Mural",
+  "prompt": "(masterpiece), best quality, professional digital illustration, ultra detailed, cinematic volumetric lighting, 9:16 aspect ratio. A talented young Chinese woman in flowing white Hanfu attire, standing on a sturdy bamboo scaffold, delicately painting a magnificent blue and gold oriental dragon mural intertwined with vibrant pink cherry blossoms (sakura) on a traditional white brick wall. Soft dawn light casts a warm glow on the foggy, wet cobblestone street lined with glowing Chinese lanterns and classical curved-roof architecture receding into the background mist. Dynamic pose, intricate scale patterns on the dragon. Donghua Chinese style, depth of field, art by Zhaohuan.",
+  "negativePrompt": "deformed, worst quality, low quality, poorly drawn, bad anatomy, missing limbs, blurry, grayscale, watermark, text, signature, lowres, abstract, mutated, western painting style",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chinese dragon",
+    "Mural painting",
+    "Hanfu",
+    "Dawn",
+    "Traditional street",
+    "Cherry blossoms",
+    "Asian architecture",
+    "Street artist",
+    "Bamboo scaffold",
+    "Cinematic lighting"
+  ]
+}

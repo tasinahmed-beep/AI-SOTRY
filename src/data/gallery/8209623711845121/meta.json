@@ -1,0 +1,22 @@
+{
+  "id": "8209623711845121",
+  "title": "Dragon Mural at Sunrise",
+  "prompt": "(masterpiece), best quality, highly detailed 2D Anime illustration, official art style, a young female street artist seen from behind, painting a massive fantasy mural on a textured red brick wall during golden hour dawn, ultra-wide shot (16:9). The artist wears a paint-splattered white hoodie and dark pants, hair tied in a messy bun. The mural depicts a majestic silver oriental dragon soaring through a pastel pink and purple sky above serene floating islands adorned with vibrant pink cherry blossom trees, overlooking a calm ocean horizon. Cinematic lighting, soft shadows, visible god rays streaming from the rising sun behind the distant city skyline. Scattered art supplies, paint cans, brushes, an open sketchbook, and a steaming coffee mug on a side table on the concrete sidewalk. Detailed urban environment, lo-fi aesthetic.",
+  "negativePrompt": "nsfw, worst quality, low quality, bad anatomy, bad hands, blurry, low resolution, error, cropped, mutated, missing limb, extra fingers, poorly drawn face, cartoon, 3d render, watermark, signature, text on wall (unless sound effects)",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "Mural Painting",
+    "Oriental Dragon",
+    "Cherry Blossoms",
+    "Floating Islands",
+    "Anime Girl",
+    "Urban Setting",
+    "Dawn",
+    "Golden Hour",
+    "Lofi"
+  ]
+}

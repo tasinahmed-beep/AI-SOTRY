@@ -1,0 +1,23 @@
+{
+  "id": "6060787571586198",
+  "file": "gemini-6060787571586198.png",
+  "title": "Trail of the Celestial Dragon",
+  "prompt": "(masterpiece), best quality, highly detailed, dramatic composition, an epic scene of a determined mountain biker racing aggressively down a dynamic dirt forest trail, framed by ancient, gnarled tree roots forming a natural archway. In the background, majestic, towering Chinese Karst mountains rise into the misty sky, topped with traditional Chinese temples (pagodas). A huge, majestic golden celestial Chinese dragon flies dynamically alongside the peaks, generating wind and mist. Falling cherry blossom petals swirl around the biker. Cinematic lighting, vibrant colors, 9:16 vertical orientation, distinct Donghua Chinese animation illustration style, dynamic action.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, bad hands, blurry, ugly, watermark, signature, cropped, deformed, extra limbs, missing parts, grayscale, realistic photo, 3D rendering",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua",
+    "Chinese Fantasy",
+    "Mountain Biking",
+    "Celestial Dragon",
+    "Karst Mountains",
+    "Epic Landscape",
+    "Action",
+    "Adventure",
+    "Vertical Art",
+    "Vibrant Colors"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0068167250972734",
+  "file": "gemini-0068167250972734.png",
+  "title": "The Focused Chef's Precision Cut",
+  "prompt": "(masterpiece), best quality, detailed illustration, a dynamic vertical shot (9:16) of a handsome young male chef with black hair and a serious, focused expression, wearing a traditional white chef coat and a tall toque. He is expertly slicing fresh vegetables (carrots, cucumber, red bell pepper) on a large wooden cutting board. The knife blade is gleaming with a slight sparkle. Busy professional kitchen background, stainless steel counters, steaming pots, blurred figures of other chefs working. Detailed manga style, strong clean line art, subtle cell shading, dynamic lighting.",
+  "negativePrompt": "low resolution, bad anatomy, deformed, worst quality, blurry, text, watermark, signature, extra limbs, abstract, photo, realistic, 3d render, low detail background.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Chef",
+    "Anime",
+    "Manga Art",
+    "Cooking",
+    "Kitchen",
+    "Vegetable Prep",
+    "Professional",
+    "Cutting Board",
+    "Serious Expression",
+    "Vertical Composition"
+  ]
+}

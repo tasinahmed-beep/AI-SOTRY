@@ -1,0 +1,23 @@
+{
+  "id": "0097998018189276",
+  "file": "gemini-0097998018189276.png",
+  "title": "Sunlight and Homemade Bread: A Cozy Anime Kitchen",
+  "prompt": "(masterpiece), best quality, detailed illustration, 2D anime style, slice of life, Ghibli aesthetic, 16:9 aspect ratio, a heartwarming scene of a smiling elderly woman (grandmother/obasan) with neat gray hair, wearing a floral apron, happily kneading a large mound of fresh bread dough on a rustic wooden countertop. The cozy, traditional kitchen is bathed in soft morning sunlight streaming through the large window with orange checkered curtains. Detailed interior, wooden cabinets, hanging utensils, two black cast iron wood-burning stoves with visible glowing fires. Freshly baked loaves of bread and a steaming cup of tea are visible on the counter. An orange tabby cat sleeps peacefully on a cushion next to the oven. Full scene view, warm colors, inviting atmosphere.",
+  "negativePrompt": "(worst quality), (low quality), lowres, artifacts, distortion, bad anatomy, deformed hands, missing fingers, extra limbs, jpeg artifacts, blurry, noise, harsh shading, monochrome, text, watermark, signature",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "grandmother",
+    "baking",
+    "cozy kitchen",
+    "2D anime",
+    "slice of life",
+    "rustic",
+    "bread making",
+    "warm lighting",
+    "sleeping cat",
+    "Studio Ghibli aesthetic"
+  ]
+}

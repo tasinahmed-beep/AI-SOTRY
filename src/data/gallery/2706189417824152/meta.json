@@ -1,0 +1,23 @@
+{
+  "id": "2706189417824152",
+  "file": "gemini-2706189417824152.png",
+  "title": "Golden Hour Librarian",
+  "prompt": "(masterpiece), best quality, highly detailed, 2D Anime style, a beautiful young librarian (1girl) standing centered in a magnificent sunlit library aisle, she has brown hair tied in a ponytail, wearing a beige cardigan, long blue skirt, and white gloves, gently holding a tall stack of heavy books. The setting is a classic library with towering wooden bookshelves lining both sides. Dramatic golden hour lighting, strong backlight pouring through a large arched window in the background, volumetric light, god rays, visible dust motes floating in the air. Cozy atmosphere, a wooden library ladder leans on the right shelf. 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, jpeg artifacts, blurry, watermark, signature, text, missing fingers, extra limbs, bad anatomy, deformed, monochrome, low contrast, unrealistic shading",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "librarian",
+    "anime girl",
+    "library",
+    "golden hour",
+    "book stacks",
+    "detailed background",
+    "ponytail",
+    "cardigan",
+    "volumetric lighting",
+    "cozy"
+  ]
+}

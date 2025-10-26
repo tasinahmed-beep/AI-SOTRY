@@ -1,0 +1,23 @@
+{
+  "id": "6949035214279472",
+  "file": "gemini-6949035214279472.png",
+  "title": "Sakura Serenity: Matcha Ceremony on a Bamboo Table",
+  "prompt": "(masterpiece), best quality, high definition 3D render, tranquil Japanese tea ceremony setup on a bright green bamboo slatted table. Close-up, focusing on the details of the cast iron kettle (tetsubin) on a burner, a white matcha bowl (chawan) with a bamboo whisk (chasen), and a cherry blossom tea caddy. The scene is illuminated by soft natural light filtering through a traditional shoji screen on the right. In the background, visible through the opening, is a serene Japanese Zen garden featuring large grey rocks, a flowing waterfall, a blue stream, and a vibrant pink blooming cherry blossom (sakura) tree. Studio Ghibli style, volumetric lighting, shallow depth of field, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, distortion, blurry, deformed, cartoon, sketch, painting, artifacts, noisy, watermark, text, signature, poorly drawn, mismatched elements, western style",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Tea Ceremony",
+    "Matcha",
+    "Japanese Garden",
+    "Sakura",
+    "Bamboo Table",
+    "Zen",
+    "Still Life",
+    "3D Render",
+    "Chasen",
+    "Tranquil"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3723539086268476",
+  "file": "gemini-3723539086268476.png",
+  "title": "Celestial Pond of Falling Blossoms",
+  "prompt": "(masterpiece), best quality, ultra-detailed, intricate environment design, (16:9 cinematic aspect ratio), a breathtaking Fantasy Xianxia view of a sacred koi pond, (volumetric lighting), surrounded by gigantic moss-covered ancient cherry blossom trees (sakura). Hundreds of pink petals gently fall, creating subtle ripples. The water is clear, showing vibrant Koi fish (kohaku and platinum ogon) swimming peacefully. The focus is on several magical glowing pink lotus flowers floating on the surface, emitting ethereal light beams that generate perfect concentric water ripples. In the background, majestic waterfalls cascade down misty cliffs, hosting traditional Chinese/Japanese pagodas and pavilions. Ethereal atmosphere, soft glowing sunlight, highly detailed digital painting.",
+  "negativePrompt": "low quality, worst quality, jpeg artifacts, blurry, text, signature, watermark, deformed, missing limbs, poorly drawn fish, cropped, asymmetric, ugly, error",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fantasy",
+    "Xianxia",
+    "Koi Pond",
+    "Cherry Blossoms",
+    "Waterfall",
+    "Pagoda",
+    "Ethereal",
+    "Digital Painting",
+    "Ancient Garden",
+    "Sakura"
+  ]
+}

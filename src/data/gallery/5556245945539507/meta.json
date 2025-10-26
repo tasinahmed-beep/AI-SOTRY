@@ -1,0 +1,23 @@
+{
+  "id": "5556245945539507",
+  "file": "gemini-5556245945539507.png",
+  "title": "Future Lab Analysis: The Cybernetic Scholar",
+  "prompt": "(masterpiece), (best quality), highly detailed CG anime, 3D render, a beautiful young female scientist with short blue hair and bright blue eyes, intense concentration, wearing a futuristic white lab coat with glowing teal and cyan accents, peering closely into a high-tech laboratory microscope. The scene is a modern science lab interior, clean dark gray table, illuminated by holographic screens displaying floating molecular structures and data. Large windows overlook a detailed futuristic city skyline at golden hour sunset. Glowing cyan liquid in beakers and flasks, volumetric light, cinematic composition, focused depth of field, 9:16 aspect ratio.",
+  "negativePrompt": "lowres, worst quality, low quality, bad anatomy, deformed, mutated, extra fingers, blurry, out of focus, poorly drawn, mismatched eyes, text, watermark, signature, easynegative, monochrome, grayscale, missing parts, bad lighting, cropped, jpeg artifacts.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Scientist",
+    "Anime Girl",
+    "Laboratory",
+    "Microscope",
+    "Sci-Fi",
+    "Holographic Display",
+    "Blue Hair",
+    "Research",
+    "Futuristic",
+    "9:16"
+  ]
+}

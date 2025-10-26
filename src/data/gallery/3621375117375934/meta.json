@@ -1,0 +1,23 @@
+{
+  "id": "3621375117375934",
+  "file": "gemini-3621375117375934.png",
+  "title": "Spring Serenity: Koi Pond under Sakura Blossoms",
+  "prompt": "(masterpiece), (best quality), ultra-detailed photorealistic render of a tranquil Japanese koi pond in early spring, 16:9 aspect ratio. The clear, dark water is covered densely with scattered pink cherry blossom petals. Multiple large, vibrant red, white, and orange koi fish swim beneath the surface. The water surface displays several concentric ripples and splashes from falling water droplets. The pond is bordered by mossy river rocks and lush Japanese greenery. In the background, fully blooming pink sakura trees frame a small, white arched stone bridge. To the left, a traditional stone lantern (Toro) sits near the bank. Soft golden hour lighting illuminates the scene with atmospheric haze and a subtle sun flare, hyper-realistic textures, volumetric light, cinematic composition, professional 8K photography.",
+  "negativePrompt": "low quality, poorly drawn, cartoon, sketch, watermark, signature, cropped, blurry, distorted fish, bad anatomy, deformed, inaccurate shadows, dull colors, mutation, monochrome, grayscale",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Photorealistic",
+    "Japanese Garden",
+    "Koi Pond",
+    "Sakura",
+    "Cherry Blossoms",
+    "Water Ripples",
+    "Stone Lantern",
+    "Golden Hour",
+    "Serene",
+    "High Detail"
+  ]
+}

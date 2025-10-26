@@ -1,0 +1,23 @@
+{
+  "id": "6710645101831568",
+  "file": "gemini-6710645101831568.png",
+  "title": "Red Planet Mecha Caravan: Sunset Crossing",
+  "prompt": "(Masterpiece), highly detailed illustration, 16:9 aspect ratio, full view, Modern Anime style. A futuristic caravan of nomadic adventurers traversing vast red sand dunes on an alien planet during a dramatic sunset. The vehicles are large, quadrupedal mecha-beasts resembling robotic rhinoceroses or dogs, with glowing blue eyes and weathered metal bodies. The lead mech carries two riders, one with vibrant blue hair holding a staff topped with a glowing blue orb. Smaller mecha-vehicles follow in a line, kicking up dust. The sky displays vibrant hues of orange, red, and purple, dominated by a massive, ringed planet in the upper right background. Crisp clean line art, studio quality, cinematic lighting, epic scale.",
+  "negativePrompt": "(low quality, poor quality, worst quality:1.4), blurry, bokeh, low detail, 3D render, text, signature, watermark, extra limbs, missing fingers, deformed, unrealistic anatomy, simple background, grayscale.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Mecha",
+    "Sci-fi",
+    "Desert",
+    "Modern Anime",
+    "Red Dunes",
+    "Planetary Landscape",
+    "Sunset",
+    "Caravan",
+    "Robotic Animals",
+    "Detailed Illustration"
+  ]
+}

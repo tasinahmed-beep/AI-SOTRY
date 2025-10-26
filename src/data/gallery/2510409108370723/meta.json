@@ -1,0 +1,22 @@
+{
+  "id": "2510409108370723",
+  "title": "Sunrise Canvas: The Blue-Haired Artist",
+  "prompt": "(masterpiece), (best quality), cinematic lighting, high detail 3D Anime rendering, 16:9 aspect ratio. A young street artist with bright blue spiked hair and protective goggles, dressed in casual layered clothes, standing on a metal scaffold. The artist is focused on spray painting the final details onto a massive, complex graffiti mural covering a weathered red brick wall. The mural depicts a vibrant futuristic cityscape silhouette and stylized flying machines against a fiery sunrise gradient (purple, orange, blue). The scene is set in a narrow, misty European alleyway at dawn. Soft, golden volumetric lighting casts long shadows across the historic cobblestone street. Scattered empty spray cans lie around the base of the scaffold and on the pavement. Detailed textures, sharp focus.",
+  "negativePrompt": "ugly, tiling, poorly drawn hands, poorly drawn face, out of frame, extra limbs, extra fingers, deformed, disfigured, blurry, low resolution, worst quality, low quality, jpeg artifacts, signature, watermark, monochrome, cartoon",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "3D Anime",
+    "Graffiti",
+    "Sunrise",
+    "Dawn",
+    "Urban Landscape",
+    "Brick Wall",
+    "Cobblestones",
+    "Spray Paint",
+    "Character Art"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "9967041835048625",
+  "file": "gemini-9967041835048625.png",
+  "title": "Golden Hour Barrel Ride",
+  "prompt": "(masterpiece), (best quality), (ultra-detailed), 9:16 vertical aspect ratio. Photorealistic high-speed photograph of a surfer riding deep inside a huge, translucent emerald green barrel wave at golden hour sunset. Dramatic, fiery orange and magenta sky reflecting intensely on the choppy ocean surface. Sun low on the horizon, creating a powerful silhouette of the surfer. Shot from a low water-level perspective. High dynamic range, vibrant colors, fine water texture, cinematic lighting.",
+  "negativePrompt": "poorly drawn, low quality, worst quality, mutated, deformed, extra limbs, jpeg artifacts, blurry, text, signature, unnatural lighting, monochrome, grayscale, watermark, distorted perspective",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Surfing",
+    "Barrel Wave",
+    "Sunset",
+    "Golden Hour",
+    "Photorealistic",
+    "Ocean",
+    "Water Sport",
+    "Silhouette",
+    "Emerald"
+  ]
+}

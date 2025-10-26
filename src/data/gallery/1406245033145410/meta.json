@@ -1,0 +1,22 @@
+{
+  "id": "1406245033145410",
+  "file": "gemini-1406245033145410.png",
+  "title": "Celestial Beacon of the Dragon Tempest",
+  "prompt": "(masterpiece), (best quality), (hyperdetailed), epic vertical concept art, Fantasy Xianxia style, A towering ancient lighthouse made of white stone, standing atop a massive floating island of gnarled, glowing teal roots and giant cyan crystals. The scene is engulfed in a severe, dramatic lightning storm over a turbulent, dark ocean. Heavy rain and intense lightning streaks illuminate the scene. A solitary cultivator figure stands at the apex, emitting a brilliant, swirling heavenly vortex of light. Ethereal white Chinese dragons (Lung) circle amongst the dark, spiraling storm clouds. Glowing runes (Chinese script) etched into the base. Dynamic composition, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, blurry, worst quality, text, signature, watermark, amateur, deformed, ugly, disfigured, inaccurate anatomy, simple background, grayscale, monochrome, sketch, painting strokes, human hands, extra limbs",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Lighthouse",
+    "Storm",
+    "Dragon",
+    "Cultivator",
+    "Magical Crystals",
+    "Concept Art",
+    "Lightning",
+    "Turbulent Ocean"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5598096239400451",
+  "title": "Grandma's Golden Loaves in the Hearth Kitchen",
+  "prompt": "(masterpiece), best quality, highly detailed 3D rendering, Pixar style character illustration, cinematic volumetric lighting, 9:16 aspect ratio. A joyful grandmother with rosy cheeks, round glasses, and neatly tied grey hair, wearing a patterned floral apron, intensely focused on kneading soft bread dough on a rustic wooden countertop dusted with flour. In the background, a large traditional wood-fired oven glowing with visible flames, casting a warm orange glow. Cozy, detailed kitchen interior featuring wooden beams, ceramic pottery on wooden shelves, and bright sunlight streaming through a lace-curtained window revealing a blooming garden outside. Freshly baked braided loaves and a bowl of fresh berries are on the table. An adorable, plump orange tabby cat is curled up sleeping peacefully on a small wooden stool nearby. Warm, inviting, and nostalgic atmosphere.",
+  "negativePrompt": "low quality, text, error, blurry, deformed, poorly drawn, extra limbs, bad anatomy, ugly, tiling, signature, watermark, blender render, low detail, monochrome, worst quality",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Pixar Style",
+    "Grandmother",
+    "Baking",
+    "Cozy Kitchen",
+    "3D Animation",
+    "Rustic",
+    "Cat",
+    "Wood-fired Oven",
+    "Kneading Dough",
+    "Homely"
+  ]
+}

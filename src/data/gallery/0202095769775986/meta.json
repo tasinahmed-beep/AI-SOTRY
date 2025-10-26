@@ -1,0 +1,23 @@
+{
+  "id": "0202095769775986",
+  "file": "gemini-0202095769775986.png",
+  "title": "Celestial Tea Ritual Under the Full Moon",
+  "prompt": "(masterpiece), (best quality), highly detailed cinematic lighting, intricate fantasy painting, 16:9 aspect ratio, a sublime Xianxia tea ceremony setting on an ornate bamboo table overlooking a sea of clouds. Focus on the elaborate setup: a carved wooden teapot with a jade dragon spout, glowing steam rising, delicate porcelain teacups resting on mossy stones in a carved water basin on the table, a small waterfall flowing off the edge. Center focus on a glowing ethereal cultivation sphere floating above an ancient wooden wheel. Detailed vials of colorful spiritual elixirs and an unrolled scroll with ancient text beside the cups. Background features towering misty karst mountains, ancient tiered pagodas built into the cliffs, a massive, radiant full moon visible through scattered clouds. Ethereal glow, soft volumetric lighting, mystical atmosphere, concept art, ultra detailed environment.",
+  "negativePrompt": "worst quality, low resolution, error, cropped, blurry, text, signature, low detail, bad anatomy, deformed, mutated, ugly, poorly drawn hands, missing limbs, artifacts, human, person, noise, sketch, drawing, monochrome",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Tea Ceremony",
+    "Mystical Landscape",
+    "Cultivation",
+    "Full Moon",
+    "Bamboo Table",
+    "Pagoda Architecture",
+    "Still Life",
+    "Karst Mountains",
+    "Fantasy Art"
+  ]
+}

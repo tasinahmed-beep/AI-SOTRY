@@ -1,0 +1,23 @@
+{
+  "id": "1381281734581723",
+  "file": "gemini-1381281734581723.png",
+  "title": "City Canvas at Sunrise",
+  "prompt": "(masterpiece), best quality, ultra detailed, (modern anime style:1.2), a vibrant and immersive wide shot (16:9), a young street artist, wearing an oversized dark hoodie, cargo pants, and a baseball cap, painting a massive mural on a textured brick wall at dawn. The mural depicts a surreal, beautiful pastel cityscape, filled with tall, stylized skyscrapers, blooming pink sakura cherry blossom trees, and a small, white winged dragon soaring in the sky. The mural appears like a portal. A small black cat with bright eyes sits perched on the artist's shoulder, observing the work. Soft, warm volumetric sunrise lighting casting pink and orange hues across the scene and the external sky. Spray paint cans and brushes scattered on the sidewalk.",
+  "negativePrompt": "lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, inaccurate anatomy, poorly drawn, monochrome, grayscale, watermark",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Street Art",
+    "Mural",
+    "Anime",
+    "Sunrise",
+    "Sakura",
+    "Fantasy",
+    "Dragon",
+    "Cityscape",
+    "Cat",
+    "Detailed Illustration"
+  ]
+}

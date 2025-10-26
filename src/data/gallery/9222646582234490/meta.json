@@ -1,0 +1,23 @@
+{
+  "id": "9222646582234490",
+  "file": "gemini-9222646582234490.png",
+  "title": "City Twilight Melody",
+  "prompt": "(masterpiece), best quality, ultra-detailed, high resolution, 3D Anime style, CG art, A beautiful, elegant anime girl, (solo), full body, playing a violin, centered, standing under the massive concrete arches of an elevated bridge structure, She is wearing a detailed dark blue gothic lolita style dress, long socks, and lace-up boots, long flowing reddish-brown hair, Symmetrical composition, framed view of a modern metropolitan cityscape across a wide river in the background, Dramatic backlighting, twilight setting, soft ethereal glow illuminating the character and the water, floating cherry blossom petals, subtle graffiti on the bridge supports, 16:9 aspect ratio.",
+  "negativePrompt": "(worst quality, low quality, normal quality), lowres, blurry, error, missing fingers, extra limbs, bad anatomy, deformed, mutation, malformed, poorly drawn face, signature, text, watermark, monochrome, sketches",
+  "style": "3D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Anime girl",
+    "Violinist",
+    "Urban setting",
+    "Bridge structure",
+    "Cityscape",
+    "Gothic fashion",
+    "Twilight",
+    "Symmetrical composition",
+    "Cherry blossoms",
+    "Music performance"
+  ]
+}

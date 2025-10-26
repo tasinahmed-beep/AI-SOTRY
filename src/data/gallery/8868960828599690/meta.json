@@ -1,0 +1,23 @@
+{
+  "id": "8868960828599690",
+  "file": "gemini-8868960828599690.png",
+  "title": "Ethereal Dancer on the Heavenly Eaves",
+  "prompt": "(masterpiece), (best quality), highly detailed digital painting, 9:16 aspect ratio, a breathtaking cinematic shot of a young beautiful Xianxia female cultivator performing a celestial dance atop the curved tiled ridge of a traditional ancient Chinese temple rooftop. She wears flowing teal and emerald green robes, dramatically billowing in the wind, showcasing intricate embroidery. Barefoot, balanced perfectly. Ethereal glowing Qi energy trails and wisps of magic dust emanate from her outstretched hands, forming delicate glowing arcs. Dynamic full-body shot from a low angle. The background features a dramatic sunset sky painted in fiery orange, pink, and purple hues, overlooking a vast, misty mountain valley filled with ancient pagodas, arching stone bridges, and cascading waterfalls. Epic lighting, atmospheric perspective, wuxia setting.",
+  "negativePrompt": "(low quality, worst quality, poor quality, bad anatomy, deformed, mutated, error, text, signature, watermark, blurry, extra limbs, poorly drawn hands, missing fingers, jpeg artifacts, monochrome, modern elements)",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Celestial Dancer",
+    "Sunset",
+    "Traditional Chinese Architecture",
+    "Flowing Robes",
+    "Qi Energy",
+    "Digital Painting",
+    "Mountain Landscape",
+    "Wuxia",
+    "Vertical Composition"
+  ]
+}

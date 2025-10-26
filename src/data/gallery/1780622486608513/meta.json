@@ -1,0 +1,23 @@
+{
+  "id": "1780622486608513",
+  "file": "gemini-1780622486608513.png",
+  "title": "The Cultivator's Corn Grill under the Thunder",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, full body portrait of an ancient, wise, bearded street vendor, wearing dark, ornate traditional Xianxia robes and carrying a sheathed sword, grilling several glowing corn cobs on a small charcoal brazier. He holds a large black umbrella over the stall. The scene is set on a dark, wet, stone-paved street in an ancient Chinese/Xianxia city during a heavy, dramatic rainstorm at night. Intense lightning illuminates the sky and the towering multi-tiered pagodas in the background. Warm light emanating from the corn grill contrasts strongly with the cool, blue tones of the rain and wet cobblestones. Visible steam, rain streaks, and specular reflections on the ground. 9:16 aspect ratio, dramatic atmosphere, concept art.",
+  "negativePrompt": "(worst quality), (low quality), lowres, blurry, simple background, distorted, poor anatomy, bad hands, modern clothes, text, watermark, signature, ugly, cartoon, sketch",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fantasy Xianxia",
+    "rainy night",
+    "street vendor",
+    "lightning storm",
+    "ancient city",
+    "cultivator",
+    "grilling corn",
+    "dramatic lighting",
+    "Asian architecture",
+    "vertical composition"
+  ]
+}

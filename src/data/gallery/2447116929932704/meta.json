@@ -1,0 +1,23 @@
+{
+  "id": "2447116929932704",
+  "file": "gemini-2447116929932704.png",
+  "title": "The Botanist Bot: Hydration Initiated",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 cinematic panel, vintage silver metallic robot diligently watering numerous lush houseplants in terracotta pots, tiered wooden shelf display, bright studio apartment interior, large arched windows overlooking a sunny cityscape skyline, architectural blueprints on the desk, bold black line art, heavy Ben-Day dot shading, vibrant colors (blue, silver, green), clean vector style, retro 1950s comic book aesthetic, action lettering, speech bubble saying 'HYDRATION INITIATED!', Pop Art illustration.",
+  "negativePrompt": "deformed, bad anatomy, disfigured, poor quality, low contrast, monochrome, worst quality, jpeg artifacts, blurry, watermark, signature, text error, missing limbs, extra fingers, multiple heads, blurry background",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Retrofuturism",
+    "Vintage Robot",
+    "Houseplants",
+    "Studio Apartment",
+    "Cityscape",
+    "Comic Panel",
+    "Ben-Day Dots",
+    "Horticulture",
+    "Pop Art",
+    "Mid-Century Modern"
+  ]
+}

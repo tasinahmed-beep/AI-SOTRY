@@ -1,0 +1,22 @@
+{
+  "id": "2899906883788111",
+  "file": "gemini-2899906883788111.png",
+  "title": "Spotlight Solitude: Rehearsal in the Grand Theatre",
+  "prompt": "(masterpiece), best quality, ultra-detailed, 8k professional photography, photorealistic, cinematic shot, a full-body portrait of a beautiful young female violinist standing center stage, intensely focused on playing her violin. She wears a simple black dress. The scene is set in a vast, empty, classical European opera house or grand theatre with ornate gold and red velvet balconies. Dramatic, dusty overhead spotlight illuminates the violinist, casting sharp shadows on the dark stage floor. A simple wooden chair and music stand are visible nearby. Deep contrast, volumetric lighting, rich textures, 9:16 aspect ratio.",
+  "negativePrompt": "low resolution, poorly drawn hands, missing fingers, deformed, blurry, worst quality, noise, watermark, signature, cartoon, 4 fingers, extra limbs, bad anatomy, grayscale, poorly lit background",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Violinist",
+    "Empty Theatre",
+    "Spotlight",
+    "Classical Music",
+    "Rehearsal",
+    "Dramatic Lighting",
+    "Ornate Architecture",
+    "Photorealism",
+    "Vertical"
+  ]
+}

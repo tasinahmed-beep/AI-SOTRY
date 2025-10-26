@@ -1,0 +1,22 @@
+{
+  "id": "1423339394365662",
+  "file": "gemini-1423339394365662.png",
+  "title": "The Impossible Stack",
+  "prompt": "(masterpiece), detailed 3D render, Pixar Style animation, Cinematic Lighting, 9:16 aspect ratio. A cheerful, kind, middle-aged female librarian with round glasses and a patterned cardigan struggles to carry an impossibly tall, leaning tower of vintage books in a grand, historic library aisle. Intense, warm golden hour sunbeams stream through huge arched stained glass windows on the left, filling the air with volumetric light and illuminating dust motes. Rich wood textures, highly detailed bookshelves, deep shadows, cozy interior.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed, mutated, bad hands, blurry, grayscale, monochrome, sketch, painting, drawing, text, watermark, missing limbs, extra limbs, ugly, artifacts, disfigured face",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Librarian",
+    "CGI Animation",
+    "Book Stack",
+    "Stained Glass",
+    "Golden Hour",
+    "Volumetric Lighting",
+    "Library Aisle",
+    "Character Design",
+    "Cozy"
+  ]
+}

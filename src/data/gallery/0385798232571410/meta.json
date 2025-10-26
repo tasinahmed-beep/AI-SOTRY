@@ -1,0 +1,23 @@
+{
+  "id": "0385798232571410",
+  "file": "gemini-0385798232571410.png",
+  "title": "Neon Night Chronicles",
+  "prompt": "(masterpiece), (best quality), highly detailed, modern anime style illustration of a dense cyberpunk city street or alleyway at night, 9:16 vertical aspect ratio, heavy rain falling, intense reflections on the wet street pavement, deep perspective view towards towering, shadowed buildings, numerous vibrant neon signs in pink, cyan, and orange displaying Japanese text and stylized English (Robot Ramen, Cybernetic Chronicles), dense atmospheric steam rising from vents and grates, silhouetted figures of people walking under clear umbrellas, high-altitude holographic billboard featuring a smiling woman's face glowing blue, moody atmosphere, cinematic lighting, volumetric fog.",
+  "negativePrompt": "low quality, worst quality, monochrome, blurry, deformed, watermark, signature, poorly drawn face, poorly drawn hands, extra limbs, simple background, grayscale, cartoon, 3D render, daytime",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyberpunk",
+    "Modern Anime",
+    "Neon Lights",
+    "Rainy City",
+    "Night Scene",
+    "Reflections",
+    "Urban",
+    "Steam",
+    "Japanese Aesthetic",
+    "Street Photography"
+  ]
+}

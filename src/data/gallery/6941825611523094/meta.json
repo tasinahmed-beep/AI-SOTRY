@@ -1,0 +1,23 @@
+{
+  "id": "6941825611523094",
+  "file": "gemini-6941825611523094.png",
+  "title": "Mamma Mia! The Super Chef's Perfect Toss",
+  "prompt": "(masterpiece), (best quality), highly detailed, dynamic angle, a muscular Italian chef in a traditional white toque and apron, mid-action, dramatically tossing a massive pizza dough high above his head. Intense fire blazes from the rustic wood-fired brick oven behind him, casting warm, dramatic light. Kitchen scene packed with details: crates of fresh tomatoes, flour sacks, hanging copper pots, wooden counter with a partially topped pizza. Thick black ink outlines, halftone shading, bold colors, speech bubbles, dynamic panel composition, Comic Book Art style, 16:9 aspect ratio.",
+  "negativePrompt": "deformed, blurry, low resolution, bad anatomy, poorly drawn face, missing limbs, grayscale, signature, watermark, extra fingers, low contrast, 3d render, text artifact",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chef",
+    "Pizza",
+    "Wood-Fired Oven",
+    "Dynamic Action",
+    "Comic Book Art",
+    "Rustic Kitchen",
+    "Italian",
+    "Tossing Dough",
+    "Exaggerated",
+    "Brick Wall"
+  ]
+}

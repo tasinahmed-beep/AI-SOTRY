@@ -1,0 +1,22 @@
+{
+  "id": "3455820621078962",
+  "title": "A Quiet Moment of Reflection (Landscape)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "low quality, worst quality, missing fingers, extra limbs, bad anatomy, malformed, blurry, realistic, photograph, jpeg artifacts, depth of field, noisy, monochrome, text, watermark",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar style",
+    "3D animation",
+    "CGI",
+    "woman",
+    "sitting",
+    "character design",
+    "vibrant colors",
+    "cinematic",
+    "animated movie",
+    "solo"
+  ]
+}

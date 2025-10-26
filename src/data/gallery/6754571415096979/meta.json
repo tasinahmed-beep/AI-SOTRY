@@ -1,0 +1,23 @@
+{
+  "id": "6754571415096979",
+  "file": "gemini-6754571415096979.png",
+  "title": "Sunrise Cast over Tranquil Waters",
+  "prompt": "(masterpiece, best quality, ultra detailed), cinematic lighting, 16:9 aspect ratio, Modern Anime style, highly detailed background (Makoto Shinkai style:1.2). A handsome young man with dark blue hair and a modern white hoodie stands dynamically on a mossy rock outcrop, casting a fishing rod high over a tranquil mountain lake at sunrise. The fishing line forms a smooth, glowing arc, with subtle sparkling particles. The background features distant snow-capped mountains reflected perfectly in the smooth, mirror-like water. Pastel pink and orange clouds fill the dawn sky. Traditional Japanese minka houses are nestled near the water's edge. Detailed environmental shading, vibrant colors, volumetric light.",
+  "negativePrompt": "low quality, worst quality, inaccurate hands, blurry, mutated, gross, text, logo, watermark, signature, missing limbs, deformed anatomy, poorly drawn face, cropped, lowres, dark scene, midday sun.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "AnimeLandscape",
+    "Sunrise",
+    "Fishing",
+    "CastingLine",
+    "TranquilLake",
+    "MakotoShinkaiStyle",
+    "Reflection",
+    "Minka",
+    "MountainView",
+    "16x9"
+  ]
+}

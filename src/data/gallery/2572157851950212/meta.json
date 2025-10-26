@@ -1,0 +1,22 @@
+{
+  "id": "2572157851950212",
+  "title": "Serene Moment: A Woman Sitting (Landscape)",
+  "prompt": "A woman sititng",
+  "negativePrompt": "lowres, blurry, worst quality, jpeg artifacts, deformed, disfigured, mutation, bad anatomy, extra fingers, missing limbs, watermark, signature, poorly drawn face, closed eyes",
+  "style": "Photorealism",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "woman",
+    "sitting",
+    "photorealism",
+    "realistic",
+    "high detail",
+    "sharp focus",
+    "portrait",
+    "female model",
+    "seated",
+    "8k"
+  ]
+}

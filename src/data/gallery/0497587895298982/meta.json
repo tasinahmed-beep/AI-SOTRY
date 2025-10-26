@@ -1,0 +1,23 @@
+{
+  "id": "0497587895298982",
+  "file": "gemini-0497587895298982.png",
+  "title": "The Celestial Scholar of the Floating Library",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, an elegant young female scholar/librarian in flowing white and blue Hanfu robes, standing in a magnificent Xianxia library aisle. She is carefully placing a stack of ancient books onto a massive, carved wooden bookshelf. Volumetric light from the golden hour sunset streams through huge arched windows, revealing a breathtaking view of floating mountain peaks, traditional Chinese architecture, and a misty valley below. The high ceiling is painted with a celestial constellation motif. Epic fantasy setting, 16:9 aspect ratio, digital painting, soft focus, serene atmosphere.",
+  "negativePrompt": "low quality, worst quality, bad anatomy, deformed, poorly drawn, extra limbs, blurry, cropped, watermark, text, signature, modern clothing, ugly, noise, tiling.",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Xianxia",
+    "Library",
+    "Scholar",
+    "Hanfu",
+    "Floating islands",
+    "Celestial",
+    "Golden Hour",
+    "Detailed architecture",
+    "Traditional Chinese Fantasy",
+    "Epic Landscape"
+  ]
+}

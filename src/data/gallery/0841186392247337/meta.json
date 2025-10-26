@@ -1,0 +1,23 @@
+{
+  "id": "0841186392247337",
+  "file": "gemini-0841186392247337.png",
+  "title": "Morning Bliss: The Enthusiastic Barista",
+  "prompt": "(masterpiece), best quality, cinematic volumetric lighting, 16:9 aspect ratio, A highly detailed 3D render in the style of Pixar and Disney animation. A cheerful, plump young male barista with curly brown hair and large round glasses, wearing a green apron, meticulously pouring intricate latte art (rosetta pattern) from a metal steaming pitcher into a white ceramic coffee cup. The setting is a cozy, rustic cafe interior, featuring wooden counters, potted plants, and large burlap coffee bags labeled \"Coffee Bliss\". A bright, arched window in the background reveals a blurred, sunlit city skyline during the golden hour. Close-up shot, happy and focused expression, soft rim lighting.",
+  "negativePrompt": "low detail, ugly, deformed, blurry, worst quality, jpeg artifacts, low resolution, multiple hands, extra limbs, bad anatomy, grayscale, monochrome, sketch, anime, text, watermark",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Barista",
+    "Latte Art",
+    "Pixar Style",
+    "3D Render",
+    "Cafe",
+    "Coffee",
+    "Golden Hour",
+    "Character Portrait",
+    "City View",
+    "Cheerful"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1029042596064065",
+  "file": "gemini-1029042596064065.png",
+  "title": "Beacon in the Tempest",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning 3D render, Pixar Style animation, a solitary red and white striped lighthouse standing resiliently on jagged, dark coastal cliffs during a fierce ocean storm. Massive, exaggerated turquoise waves crash violently against the rocks, spraying white foam high into the air. The sky is filled with ominous, dark storm clouds, illuminated by dramatic flashes of lightning. Heavy rain is visible across the scene. A small, lone sailboat struggles in the turbulent waters in the distance. Dramatic cinematic lighting, 16:9 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, blurry, deformation, jpeg artifacts, monochrome, (watermark), text, signature, lowres, ugly, mutated, disconnected elements",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Lighthouse",
+    "Storm",
+    "Pixar Style",
+    "Ocean waves",
+    "Lightning",
+    "CGI",
+    "Animated",
+    "Seascape",
+    "Cliffs",
+    "Dramatic"
+  ]
+}

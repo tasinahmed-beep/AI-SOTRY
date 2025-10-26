@@ -1,0 +1,23 @@
+{
+  "id": "8141570943126681",
+  "file": "gemini-8141570943126681.png",
+  "title": "Spirit Fox of the Jade Mountains",
+  "prompt": "(masterpiece), (best quality), highly detailed, stunning visual art, a majestic, vibrant red fox with amber eyes trotting confidently through pristine fresh snow. Dynamic pose, motion blur on the snow dust. Background features epic, stylized jade green karst mountains, characteristic of Chinese landscape art, under a brilliant, glowing winter sunset or sunrise. Snow-covered ancient bonsai trees and swirling magical ice crystals border the scene. Include glowing gold lines and floating sky lanterns in the distance. Donghua Chinese animation style, 16:9 aspect ratio, cinematic lighting, vibrant colors.",
+  "negativePrompt": "poorly drawn, low quality, worst quality, mutated, disorganized, blurry, cropped, deformed, missing limbs, jpeg artifacts, ugly, monochrome, grayscale, watermark, signature, text, multiple heads, multiple tails, extra fingers, plain background, low saturation.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Fox",
+    "Kitsune",
+    "Snowscape",
+    "Donghua",
+    "Chinese Art",
+    "Fantasy",
+    "Winter",
+    "Karst Mountains",
+    "Sunset",
+    "Magical"
+  ]
+}

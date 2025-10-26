@@ -1,0 +1,22 @@
+{
+  "id": "6898028480747809",
+  "title": "Retro Pop Art Heroine Laughing",
+  "prompt": "(masterpiece), a dynamic comic book illustration in 16:9 aspect ratio, retro pop art style, featuring a vibrant, smiling female superhero, full bust shot, vibrant red wavy hair, wearing blue cat-eye glasses, blue spandex suit with a yellow lightning bolt emblem, red gloves, and a utility belt. She is laughing joyously, mouth open. Background features an explosive red, yellow, and blue radial burst pattern with Ben-Day dots texture. Include sharp speech bubbles with text 'HA HA HA!' and 'KA-POW!'. Heavy black outline, high contrast, vintage aesthetic, classic superhero design.",
+  "negativePrompt": "worst quality, low quality, low detail, signature, watermark, logo, text error, blurry, deformed, mutated hands, multiple limbs, grayscale, realistic photo, 3D render, CGI, muted colors, messy lines, missing hands.",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Superheroine",
+    "Pop Art",
+    "Vintage Comic Book",
+    "Ben-Day Dots",
+    "Redhead",
+    "Laughing",
+    "Dynamic Background",
+    "Lightning Bolt",
+    "Speech Bubble",
+    "16:9"
+  ]
+}

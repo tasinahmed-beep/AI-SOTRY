@@ -1,0 +1,23 @@
+{
+  "id": "4375780105409000",
+  "file": "gemini-4375780105409000.png",
+  "title": "The Urban Oasis Gardener at Sunset",
+  "prompt": "(masterpiece), (best quality), highly detailed, cinematic lighting, Modern Anime style, 16:9 aspect ratio. A serene young woman with long, flowing pastel purple hair, wearing a wide straw sun hat, a collared shirt, and practical dark trousers, standing in a meticulously detailed stone courtyard garden. She is gently watering large ornate pots filled with vibrant red, white, and pink roses using a grey metal watering can. In the center is an old stone fountain with a small cherub statue. The courtyard walls are covered in ivy and feature stone arches. The background showcases a breathtaking sunset casting soft golden hour light, contrasting sharply with the distant massive modern cityscape skyline visible above the garden wall. Floating white butterflies, peaceful atmosphere, high contrast between foreground and background.",
+  "negativePrompt": "worst quality, low quality, lowres, blurry, multiple limbs, extra fingers, deformed hands, missing fingers, jpeg artifacts, bad anatomy, grayscale, monochrome, sketch, text, signature, watermark, disfigured, poorly drawn face",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Modern Anime",
+    "Gardener",
+    "Rose Garden",
+    "Stone Courtyard",
+    "Cityscape",
+    "Golden Hour",
+    "Fountain",
+    "Pastel Hair",
+    "Romantic",
+    "Butterflies"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3519518534237358",
+  "file": "gemini-3519518534237358.png",
+  "title": "Idyllic Anime Gardener in the Sunlit Stone Courtyard",
+  "prompt": "(masterpiece), (best quality), highly detailed CG illustration, 3D Anime style, a charming anime girl with long vibrant green hair, wearing a straw hat and an ornate patterned long coat, holding a metal watering can. She stands beside a detailed tiered stone fountain adorned with cherubs in a sunlit, idyllic stone courtyard. A massive climbing wall covered entirely with vibrant red and pink roses serves as the backdrop. Purple wisteria flowers hang from a wooden pergola overhead. Soft volumetric lighting, detailed Gothic architecture elements, stone tiled floor, portrait composition, 9:16 vertical orientation.",
+  "negativePrompt": "lowres, worst quality, blurry, low quality, cropped, deformed, text, watermark, signature, missing limbs, extra fingers, malformed hands, fused objects, bad anatomy, jpeg artifacts, monochrome, multiple people",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "3D Anime",
+    "Gardener",
+    "Courtyard",
+    "Climbing Roses",
+    "Wisteria",
+    "Stone Fountain",
+    "Cottagecore",
+    "Green Hair",
+    "Gothic Architecture",
+    "Sunlight"
+  ]
+}

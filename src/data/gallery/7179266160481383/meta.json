@@ -1,0 +1,22 @@
+{
+  "id": "7179266160481383",
+  "file": "gemini-7179266160481383.png",
+  "title": "Perfect Pour: Anime Barista",
+  "prompt": "(masterpiece), (best quality), highly detailed, 8k resolution, 3D anime style rendering of a handsome young male barista with spiky brown hair. He is wearing a crisp white shirt and a black apron, expertly pouring steamed milk from a reflective stainless steel pitcher into a white ceramic cup to create intricate rosetta latte art. Focused expression, soft volumetric lighting. The background features a professional stainless steel espresso machine, wooden counter, and shelves stocked with craft coffee bean bags. Vertical orientation (9:16).",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, mutated, deformed, extra limbs, bad anatomy, missing fingers, jpeg artifacts, signature, watermark, multiple people, tiling, poor composition",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Barista",
+    "Latte Art",
+    "3D Anime",
+    "Coffee Shop",
+    "Cute Boy",
+    "Rosetta Pattern",
+    "Chibi Style",
+    "Stainless Steel",
+    "Service Industry"
+  ]
+}

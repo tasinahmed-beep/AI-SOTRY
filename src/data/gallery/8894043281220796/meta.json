@@ -1,0 +1,23 @@
+{
+  "id": "8894043281220796",
+  "file": "gemini-8894043281220796.png",
+  "title": "The Immortal Brushstroke",
+  "prompt": "(masterpiece), (best quality), highly detailed digital painting, Fantasy Xianxia style, full vertical shot (9:16). A heroic street artist, clad in flowing dark robes and a wide straw hat, standing on wooden scaffolding. The artist is painting a massive, living mural onto a weathered red brick wall. The mural depicts a dynamic Xianxia scene: fierce, detailed Eastern dragons swirling in azure clouds, battling winged celestial warriors. Cascading waterfalls and mist elements seamlessly transition the mural into the background. A small orange fox is perched on the artist's shoulder. Background shows a vast ancient Chinese city with pagodas and temples, shrouded in soft mist under a beautiful rosy dawn sky. Dramatic perspective, intricate details, cinematic lighting.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed, text, signature, watermark, blurry, cropped, poorly drawn face, mutated, bad hands, low resolution",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Xianxia",
+    "Mural",
+    "Dragon",
+    "Celestial Warrior",
+    "Street Artist",
+    "Pagoda",
+    "Eastern Fantasy",
+    "Dawn",
+    "Detailed Illustration",
+    "9:16"
+  ]
+}

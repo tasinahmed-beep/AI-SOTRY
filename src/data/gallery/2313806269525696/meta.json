@@ -1,0 +1,23 @@
+{
+  "id": "2313806269525696",
+  "file": "gemini-2313806269525696.png",
+  "title": "Sunset Ballet on the Concrete Sky",
+  "prompt": "(masterpiece), (best quality), photorealistic, cinematic shot, an elegant female dancer spinning en pointe on a vast, weathered concrete city rooftop at dramatic sunset, full body view, dancer silhouetted by the blazing orange and gold sky, wearing a sheer, flowing dress (gradient pink and purple) billowing outward, industrial urban skyline backdrop, strong rim lighting, sun flare, volumetric light, high resolution, 16:9.",
+  "negativePrompt": "low resolution, blurry, distorted, poorly drawn, extra limbs, mutated, watermark, signature, ugly, tiling, mismatched eyes, jpeg artifacts, bad anatomy, deformed hands, missing fingers, text, bright face, midday light, indoor, gloves, tutu.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Dancer",
+    "Sunset",
+    "Rooftop",
+    "Photorealistic",
+    "Golden Hour",
+    "Silhouette",
+    "Ballet",
+    "Urban Landscape",
+    "Motion",
+    "High Contrast"
+  ]
+}

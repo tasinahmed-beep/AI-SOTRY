@@ -1,0 +1,23 @@
+{
+  "id": "5690510168463047",
+  "file": "gemini-5690510168463047.png",
+  "title": "The Keeper of Sunlight Stacks",
+  "prompt": "(masterpiece), (photorealistic), 8k, ultra-detailed, full body portrait of a middle-aged female librarian with glasses, wearing a cardigan, carefully placing an antique leather-bound book onto a high wooden shelf. The scene is set inside a vast, historic university library aisle with towering mahogany bookshelves. Dramatic volumetric lighting, intense golden sunbeams stream through tall arched windows on the left, casting stark geometric shadows on the polished wooden floor and illuminating fine dust motes (god rays). Deep depth of field, warm atmosphere, vertical composition (9:16).",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, noise, distortion, signature, watermark, text, cropped, bad anatomy, missing limbs, deformed hands, ugly, error, out of frame",
+  "style": "Photorealistic",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "library",
+    "librarian",
+    "volumetric lighting",
+    "god rays",
+    "antique books",
+    "mahogany shelves",
+    "photorealism",
+    "sunlit",
+    "academic",
+    "historic architecture"
+  ]
+}

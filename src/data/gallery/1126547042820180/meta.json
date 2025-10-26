@@ -1,0 +1,23 @@
+{
+  "id": "1126547042820180",
+  "file": "gemini-1126547042820180.png",
+  "title": "The Warmth of Grandmother's Kitchen",
+  "prompt": "(masterpiece), (best quality), highly detailed, an intimate portrait of a kindly elderly Chinese woman (grandmother/pópo) with white hair, wearing a traditional blue tunic and white apron, happily kneading dough on a rustic wooden table. The scene is set inside a cozy, traditional Chinese farmhouse kitchen, illuminated by warm volumetric sunlight streaming through paper-lattice windows. Features a large, glowing brick oven in the background, steam rising, and a small white cat sitting beside a bowl of rising dough. Overhead, bundles of dried red chili peppers and garlic hang from wooden beams. Baskets of freshly baked golden bread are visible in the foreground. Detailed textures, nostalgic atmosphere. Donghua Chinese illustration style. 9:16 vertical aspect ratio.",
+  "negativePrompt": "low resolution, worst quality, blurry, mutated limbs, missing fingers, extra hands, ugly, deformed face, poorly drawn, signature, watermark, monochrome, dark, modern appliances, plastic",
+  "style": "Donghua Chinese",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Donghua Chinese",
+    "Grandmother",
+    "Baking",
+    "Traditional Kitchen",
+    "Cozy",
+    "Rustic",
+    "Chinese Culture",
+    "Warm Lighting",
+    "Bread",
+    "Domestic Scene"
+  ]
+}

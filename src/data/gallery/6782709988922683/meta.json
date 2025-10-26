@@ -1,0 +1,22 @@
+{
+  "id": "6782709988922683",
+  "file": "gemini-6782709988922683.png",
+  "title": "The Baker's Morning Croissants",
+  "prompt": "(masterpiece), best quality, detailed 2D anime illustration, high resolution, 9:16 aspect ratio. A cheerful, young female baker (1girl) with a happy expression and soft blush, wearing a clean white apron and an orange polka-dot bandanna, standing in a warm, professional bakery kitchen. She is holding a metal sieve and gently dusting trays of perfectly golden-brown, freshly baked croissants with a visible cloud of powdered sugar (icing sugar). Warm morning light streaming from the window, illuminating the scene. In the background, a large commercial oven is glowing, and shelves are stocked high with various breads and pastries. Cozy atmosphere, focus on food detail.",
+  "negativePrompt": "lowres, worst quality, low quality, jpeg artifacts, blurry, text, watermark, signature, error, extra limbs, bad anatomy, deformed, mutated, tiling, poorly drawn hands, poorly drawn face, disfigured, monochrome, out of frame.",
+  "style": "2D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Baker",
+    "Croissant",
+    "Powdered Sugar",
+    "Anime Girl",
+    "Bakery",
+    "Kitchen",
+    "Apron",
+    "Food Illustration",
+    "Vertical"
+  ]
+}

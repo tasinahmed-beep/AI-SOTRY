@@ -1,0 +1,23 @@
+{
+  "id": "5123203997458766",
+  "file": "gemini-5123203997458766.png",
+  "title": "Neon Rain Descent: A Cyberpunk Alley",
+  "prompt": "(masterpiece), (best quality), cinematic lighting, ultra-detailed, an atmospheric vertical (9:16) shot of a rainy cyberpunk alley at night. Towering, dense urban canyon view, wet cobblestone ground reflecting vibrant multi-colored neon signs (pink, cyan, yellow, Japanese characters, 'Ramen Republic' sign). Thick plumes of white steam rising dramatically from industrial pipes and vents. Two figures walking away holding umbrellas. High contrast, volumetric fog, extreme depth of field, detailed Pixar style rendering, realistic textures.",
+  "negativePrompt": "blurry, low quality, noise, artifacts, ugly, deformed, out of frame, monochrome, grayscale, worst quality, text, signature, watermark, cartoon, low detail",
+  "style": "Cyberpunk",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Cyberpunk",
+    "Neon lighting",
+    "Rainy night",
+    "Urban alley",
+    "9:16 aspect ratio",
+    "High detail",
+    "Dystopian",
+    "Steam",
+    "Wet cobblestone",
+    "Japanese signage"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1058259306316810",
+  "file": "gemini-1058259306316810.png",
+  "title": "The Curious Chemist's Discovery",
+  "prompt": "(masterpiece), (best quality), highly detailed 8k 3D render, Pixar style, Disney animation aesthetic, wide shot (16:9). A focused young female scientist with bright red hair tied in a messy bun, wearing round spectacles and a pristine white lab coat, intently looks into a silver microscope. The setting is a vibrant, detailed chemistry laboratory bathed in warm, cinematic volumetric lighting streaming from a large window on the left. The lab bench is filled with colorful chemistry glassware, including flasks with glowing blue and green liquids, and small magical blue bubbles floating in the air. The background features cluttered bookshelves and a whiteboard covered in complex chemical formulas and diagrams. Scientific exploration, joy of discovery, clean studio setup.",
+  "negativePrompt": "deformed, blurry, low resolution, worst quality, bad anatomy, bad hands, mutated, cartoon, painting, sketch, grayscale, signature, watermark, text, multiple heads, poorly drawn face, disfigured, monochrome",
+  "style": "Pixar Style",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Pixar Style",
+    "3D Animation",
+    "Scientist",
+    "Laboratory",
+    "Microscope",
+    "Chemistry",
+    "Volumetric Lighting",
+    "Redhead",
+    "Scientific Discovery"
+  ]
+}

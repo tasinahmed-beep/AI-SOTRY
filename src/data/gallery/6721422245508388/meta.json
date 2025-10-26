@@ -1,0 +1,23 @@
+{
+  "id": "6721422245508388",
+  "file": "gemini-6721422245508388.png",
+  "title": "Arctic Runner: Crunch, Crunch",
+  "prompt": "(masterpiece), high quality, detailed comic book panel illustration, (vintage pop art style:1.2), a sly red fox trotting dynamically through deep, fresh snow in a dense winter pine forest. Heavy black linework, thick outlines, limited primary color palette (vibrant orange, crisp white, cold blue), visible Ben-Day dots texture, distressed retro paper background, strong contrast, snow falling, dramatic pose, full body. Include comic book sound effect text 'CRUNCH, CRUNCH' in bold typography. 9:16 aspect ratio.",
+  "negativePrompt": "blurry, low resolution, bad anatomy, deformed, worst quality, noise, signature, watermark, text error, modern art, photorealistic, 3D render, grayscale, simple background, extra limbs, ugly.",
+  "style": "Comic Book",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fox",
+    "Comic Book",
+    "Vintage Art",
+    "Winter",
+    "Snow",
+    "Ben-Day Dots",
+    "Pop Art",
+    "Sound Effect",
+    "Retro Illustration",
+    "9:16"
+  ]
+}

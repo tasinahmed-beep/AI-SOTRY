@@ -1,0 +1,23 @@
+{
+  "id": "0053953387820637",
+  "file": "gemini-0053953387820637.png",
+  "title": "The Firefighter's Advance",
+  "prompt": "(masterpiece), (best quality), (detailed illustration), 3D Anime style, a dramatic full-body portrait of a brave male firefighter, centered, walking forward through heavy gray smoke and glowing embers. He wears a red helmet with '150' visible, a gas mask/respirator, and thick protective bunker gear with yellow reflective stripes. He is actively holding a hose nozzle, spraying a powerful, high-pressure stream of bright blue water. The background features the dark silhouette of a ruined industrial structure against a fiery orange and red, smoky twilight sky. Dramatic lighting, high contrast, intense atmosphere, 9:16 aspect ratio.",
+  "negativePrompt": "worst quality, low quality, cropped, normal quality, blurry, watermark, signature, text, error, missing limbs, deformed hands, extra fingers, cartoonish, messy, inaccurate anatomy, poorly drawn.",
+  "style": "3D Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Firefighter",
+    "Action Shot",
+    "Anime",
+    "Rescue",
+    "Smoke",
+    "Emergency",
+    "Full Gear",
+    "Heroic",
+    "Disaster Scene",
+    "Portrait"
+  ]
+}

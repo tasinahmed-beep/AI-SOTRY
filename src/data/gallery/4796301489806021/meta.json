@@ -1,0 +1,23 @@
+{
+  "id": "4796301489806021",
+  "file": "gemini-4796301489806021.png",
+  "title": "Sunrise Cast on the Mountain Lake",
+  "prompt": "(masterpiece), best quality, high detail, 9:16 aspect ratio, a heartwarming, stylized scene in clear Pixar Style 3D animation. An elderly, friendly fisherman with a bushy white beard, wearing a patched blue jacket, stands on a mossy rock outcrop in a calm mountain lake. He is captured mid-action, powerfully casting his fishing rod. Dramatic sunrise light, the huge golden sun is visible between two majestic, forested mountain peaks, casting a brilliant sun pillar reflection across the water surface. The sky is a soft blend of pastel orange, pink, and blue. The foreground includes a small wooden dock, a moored rowboat, and two stylized fish jumping near the lure. Smooth rendering, soft volumetric lighting, cinematic atmosphere.",
+  "negativePrompt": "(worst quality:1.4), (low quality:1.4), text, watermark, signature, blurry, deformed, mutated, error, missing fingers, extra limbs, bad anatomy, disconnected, dark, gloomy, monochrome.",
+  "style": "Pixar Style",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Fisherman",
+    "Sunrise",
+    "Mountain Lake",
+    "Pixar Style",
+    "Casting a line",
+    "Elderly man",
+    "3D Animation",
+    "Tranquil",
+    "Adventure",
+    "Vertical Wallpaper"
+  ]
+}

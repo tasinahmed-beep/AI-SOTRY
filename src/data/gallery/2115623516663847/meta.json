@@ -1,0 +1,23 @@
+{
+  "id": "2115623516663847",
+  "file": "gemini-2115623516663847.png",
+  "title": "Emerald Barrel Ride",
+  "prompt": "(masterpiece), best quality, highly detailed Modern Anime illustration of a dynamic male surfer carving deep inside a massive, perfectly tubular, luminous emerald green barrel wave. The scene captures a dramatic sunset, featuring a vibrant orange and purple sky with a bright, radiating sunburst. Rugged sea stacks and rock formations loom sharply on the distant horizon. High contrast, clean cel-shaded line art, energetic action shot, dynamic composition, volumetric lighting, 9:16 aspect ratio.",
+  "negativePrompt": "low quality, worst quality, deformed, blurry, ugly, bad anatomy, bad hands, watermark, signature, text, monochrome, grayscale, jpeg artifacts, low resolution, 3D render, poorly drawn face, mutated.",
+  "style": "Modern Anime",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "surfing",
+    "anime",
+    "ocean",
+    "sunset",
+    "emerald wave",
+    "barrel riding",
+    "seascape",
+    "action shot",
+    "vibrant colors",
+    "sea stacks"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "8052722877271510",
+  "file": "gemini-8052722877271510.png",
+  "title": "Alpine Cyber Rider",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, Modern Anime style, 16:9 aspect ratio, dynamic action shot of a futuristic snowboarder performing a huge jump off a snowy mountain cliff, the rider wears a high-tech orange and white snowsuit with glowing cyan electric accents, bright blue hair, futuristic mirrored goggles, black and green patterned snowboard, extreme speed and motion, massive explosion of kicked-up snow powder, detailed winter mountain range background with snow-capped peaks, pine forests, valley resort town below, cinematic lighting, golden hour sunlight catching the clouds and snow.",
+  "negativePrompt": "low quality, worst quality, poor anatomy, deformed limbs, blurry, out of frame, signature, watermark, multiple people, messy snow, flat color, traditional art, oil painting, pencil sketch.",
+  "style": "Modern Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "snowboarding",
+    "extreme sports",
+    "anime style",
+    "winter landscape",
+    "mountain range",
+    "dynamic pose",
+    "cyberpunk elements",
+    "snow jump",
+    "golden hour"
+  ]
+}

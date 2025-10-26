@@ -1,0 +1,23 @@
+{
+  "id": "1304138012964384",
+  "file": "gemini-1304138012964384.png",
+  "title": "Culinary Precision in the City Kitchen",
+  "prompt": "(masterpiece), (best quality), highly detailed, 16:9 aspect ratio, 2D Anime style, dynamic angle, an intense young male chef with spiky brown hair, wearing a clean white chef uniform with blue trim, centered in a professional commercial kitchen. He is focused on rapidly slicing colorful vegetables (red bell pepper, cabbage, red onion, carrot, lettuce) on a large wooden cutting board with a massive, gleaming stainless steel kitchen knife. Dynamic action lines and comic book sound effects like 'SHING!' and 'CHOP!' are visible above the knife. The background features large windows revealing a sunny, detailed modern city skyline. Other junior chefs are busy working in the mid-ground. Dramatic lighting, high saturation colors, food preparation scene.",
+  "negativePrompt": "(deformed), blurry, poorly drawn, low quality, worst quality, monochrome, grayscale, watermark, text over face, out of frame, extra limbs, ugly, disfigured, inaccurate proportions, mutated hands, low resolution, multiple heads, signature.",
+  "style": "2D Anime",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chef",
+    "Anime",
+    "Cooking",
+    "Kitchen",
+    "Manga Style",
+    "Vegetables",
+    "Action Shot",
+    "Dynamic Pose",
+    "Culinary",
+    "16:9"
+  ]
+}

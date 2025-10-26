@@ -1,0 +1,23 @@
+{
+  "id": "7643528660478886",
+  "file": "gemini-7643528660478886.png",
+  "title": "Xianxia Spirit Panda of the Mystic Waterfall",
+  "prompt": "(masterpiece), (best quality), ultra-detailed fantasy illustration, full body view of a majestic and peaceful giant panda, centered, sitting comfortably while happily eating a glowing bamboo stalk, eyes closed in serene contentment. Swirling golden spiritual energy (Qi) encircles the panda's torso. The scene is set in a highly luminous and ethereal Xianxia bamboo forest, framed by tall bamboo shoots. Below the panda, a small, crystal-clear waterfall cascades over spirit-infused rocks. Glowing blue crystals, luminous fog, and ethereal blue flowers adorn the mossy banks. In the distant, misty background, a traditional Chinese tiered pagoda/temple floats among thick white clouds. Neon glowing talismans and lanterns hang from the branches. Dramatic cinematic lighting, painterly details, vertical aspect ratio 9:16.",
+  "negativePrompt": "lowres, text, watermark, bad anatomy, deformed, mutated, error, extra limbs, blurry, worst quality, jpeg artifacts, signature, cropped, sketch, grayscale, boring, low detail",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "9:16",
+  "size": "576 x 1024",
+  "orientation": "portrait",
+  "tags": [
+    "Panda",
+    "Xianxia",
+    "Bamboo Forest",
+    "Spirit Animal",
+    "Mystic",
+    "Waterfall",
+    "Pagoda",
+    "Spiritual Qi",
+    "Digital Painting",
+    "Ethereal"
+  ]
+}

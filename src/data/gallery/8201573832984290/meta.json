@@ -1,0 +1,23 @@
+{
+  "id": "8201573832984290",
+  "file": "gemini-8201573832984290.png",
+  "title": "Starry Rendezvous at the Celestial Pavilion",
+  "prompt": "(masterpiece), (best quality), ultra detailed, 8k wallpaper, Donghua Chinese animation style, a stunning cinematic scene, 16:9 aspect ratio. An astronaut floating in zero gravity outside a hybrid space station. The astronaut wears a custom white and gold space suit overlaid with a majestic, flowing robe adorned with traditional Chinese Ruyi cloud patterns, facing the viewer. The space station module is architecturally designed like an ancient Chinese pavilion with a tiled roof and a large panoramic window. Inside the brightly lit window, five people dressed in elaborate traditional Hanfu robes look outward, smiling. The background is deep space filled with nebulae, distant planets, and a dense field of stars. Numerous glowing orange Chinese sky lanterns float dramatically across the void. Dynamic composition, vibrant colors, celestial atmosphere, fantasy sci-fi fusion.",
+  "negativePrompt": "(low quality), (worst quality), deformed, disfigured, text, signature, watermark, blurry, extra limbs, bad anatomy, mutated, monochrome, greyscale, ugly, tiling, multiple space stations, simple background.",
+  "style": "Donghua Chinese",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Astronaut",
+    "Donghua",
+    "Chinese architecture",
+    "Hanfu",
+    "Space station",
+    "Celestial",
+    "Floating lanterns",
+    "Sci-Fi Fantasy",
+    "Ruyi clouds",
+    "Interstellar"
+  ]
+}

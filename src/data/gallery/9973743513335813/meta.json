@@ -1,0 +1,23 @@
+{
+  "id": "9973743513335813",
+  "file": "gemini-9973743513335813.png",
+  "title": "A View from the Void: Spacewalker at the Cupola",
+  "prompt": "(masterpiece), (best quality), ultra-detailed, photorealistic, 8k cinematic render, a dramatic view from inside the International Space Station (ISS) cupola, looking out. A solo astronaut in a pristine white EVA suit is floating directly outside the large hexagonal window, centered in the frame, illuminated by harsh sunlight. Detailed texture on the spacesuit and the metallic frame of the window. The Earth's curve fills the background with brilliant blue oceans and white clouds, visible through the window. Deep space with stars surrounds the scene. Strong sun glare and lens flare effect visible in the upper corner. The structure of the space station and solar panels are partially visible. Two crew members in green flight suits are partially visible inside the station looking out. 16:9 aspect ratio.",
+  "negativePrompt": "Deformed, blurry, low resolution, bad anatomy, worst quality, noise, grain, cartoon, painting, sketch, drawing, watermark, signature, multiple limbs, poor lighting, unnatural colors, text",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Astronaut",
+    "ISS",
+    "EVA",
+    "Spacewalk",
+    "Earth",
+    "Photorealistic",
+    "Space Station",
+    "Cupola",
+    "Cinematic Lighting",
+    "Sci-fi"
+  ]
+}

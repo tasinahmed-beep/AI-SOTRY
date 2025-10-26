@@ -1,0 +1,22 @@
+{
+  "id": "6308512092188261",
+  "file": "gemini-6308512092188261.png",
+  "title": "Immortal Beacon Amidst the Dragon Tempest",
+  "prompt": "(masterpiece), best quality, cinematic lighting, ultra detailed, 16:9 aspect ratio. An epic Fantasy Xianxia scene featuring a towering ancient lighthouse built upon a rugged, isolated cliff surrounded by massive, violent turquoise waves. The lighthouse structure is reinforced with glowing cyan crystals and emanates a powerful azure light. Above, a furious dark storm swirls, illuminated by intense, jagged lightning strikes, some manifesting as serpentine lightning dragons soaring through the tempestuous sky. Floating golden and cerulean ancient Xianxia runes/sigils descend like rain around the tower. A solitary Xianxia cultivator with long white hair and flowing robes stands on a nearby precipice, holding a glowing staff, observing the chaotic power. Dramatic atmosphere, high contrast, deep ocean colors, epic scale.",
+  "negativePrompt": "worst quality, low quality, normal quality, blurry, watermark, signature, cropped, poor composition, deformed, extra limbs, bad anatomy, ugly, tiling, boring, text, simple background",
+  "style": "Fantasy Xianxia",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Lighthouse",
+    "Xianxia",
+    "Stormy Sea",
+    "Lightning Dragon",
+    "Epic Fantasy",
+    "Glowing Crystal",
+    "Cultivator",
+    "Crashing Waves",
+    "Magical Runes"
+  ]
+}

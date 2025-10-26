@@ -1,0 +1,23 @@
+{
+  "id": "3898870120621897",
+  "file": "gemini-3898870120621897.png",
+  "title": "Latte Kung Fu Master",
+  "prompt": "(masterpiece), high quality, detailed comic book panel, classic Pop Art style, 16:9 aspect ratio, dramatic composition. A dynamic close-up of an intense, handsome male barista in a blue shirt pouring steamed milk from a metal pitcher into a white ceramic cup, flawlessly creating a complex heart design in the latte art. The scene features thick black outlines, vibrant primary colors, and noticeable halftone (Ben-Day) dot shading throughout. Exaggerated speed lines and action rays burst from the center of the frame. Speech bubbles overlaying the image read 'FOAM POWER!' and 'LATTE KUNG FU!' in bold, yellow typography. Background shows shelves stocked with colorful coffee bags and a coffee machine.",
+  "negativePrompt": "worst quality, low quality, bad anatomy, deformed hands, blurry, mutated, missing text, signature, watermark, logo, photo, photorealistic, 3d render, greyscale, monochrome, multiple cups, messy background, distorted perspective",
+  "style": "Comic Book",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Barista",
+    "Latte Art",
+    "Pop Art",
+    "Comic Book Panel",
+    "Ben-Day Dots",
+    "Heart Design",
+    "Dynamic Action",
+    "Coffee Shop",
+    "Speech Bubble",
+    "Bold Lines"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7077604833249382",
+  "file": "gemini-7077604833249382.png",
+  "title": "Artisan's Perfect Toss",
+  "prompt": "(masterpiece), (best quality), ultra-photorealistic studio photograph, cinematic lighting, full shot of a handsome male chef in a clean white uniform and tall toque, dynamically tossing a large circle of raw pizza dough high into the air. The chef stands centered in front of a massive, rustic red brick oven with intense glowing flames visible inside. The foreground features a stainless steel prep table dusted with flour, fresh ingredients like basil, tomatoes, and dough balls. Warm, dramatic low-key lighting from overhead industrial lamps and the oven fire creates deep shadows and highlights. Detailed industrial kitchen setting, pizza peels leaning against the brickwork, 16:9 aspect ratio, highly detailed texture.",
+  "negativePrompt": "worst quality, low resolution, poorly drawn hands, deformed, grainy, blurry, artifacts, amateur, illustration, cartoon, fake, oversaturated, text, watermark, cropped, ugly.",
+  "style": "Photorealistic",
+  "aspectRatio": "16:9",
+  "size": "1024 x 576",
+  "orientation": "landscape",
+  "tags": [
+    "Chef",
+    "Pizza",
+    "Wood Fired Oven",
+    "Food Photography",
+    "Brick Wall",
+    "Dough Toss",
+    "Professional Kitchen",
+    "Cinematic Lighting",
+    "Rustic",
+    "High Detail"
+  ]
+}
