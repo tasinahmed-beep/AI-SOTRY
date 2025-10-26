@@ -2,7 +2,7 @@
 
 [build]
   # Match this to your package.json (use your existing "build:ssg" if you have it)
-  command = "npm run build"
+  command = "npm run build:ssg"
   # Directory that contains your built site (adjust if different)
   publish = "dist"
 
