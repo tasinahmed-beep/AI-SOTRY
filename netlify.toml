@@ -1,13 +1,70 @@
+# netlify.toml — opinionated defaults for SPA/static sites
+
 [build]
-  command = "npm run build:ssg"
+  # Match this to your package.json (use your existing "build:ssg" if you have it)
+  command = "npm run build"
+  # Directory that contains your built site (adjust if different)
   publish = "dist"
 
-[build.environment]
-  NODE_VERSION = "20"
+  # Build-time env vars (non-secrets only; keep secrets in the Netlify UI)
+  [build.environment]
+    NODE_VERSION = "20"
 
+# Optional: Lighthouse report on each deploy (disable if you don't want it)
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
-  # Optional: audit after build; comment out if not desired
   [plugins.inputs]
-    # only run on production deploys
-    output_path = "./lighthouse"
+    output_path = "lighthouse"
+
+# ---------- Context overrides ----------
+# These apply to specific deploy contexts (see Netlify docs).
+
+[context.production]
+  # Example: extra env for prod (keep secrets in UI)
+  [context.production.environment]
+    NODE_ENV = "production"
+
+[context.deploy-preview]
+  # Example: preview-specific vars
+  [context.deploy-preview.environment]
+    NODE_ENV = "development"
+
+# Local dev overrides for `netlify dev` (optional; tweak ports for your toolchain)
+[dev]
+  command = "npm run dev"
+  port = 8888
+  # If your dev server runs elsewhere (e.g., Vite at 5173), forward to it:
+  targetPort = 5173
+  publish = "dist"
+
+# ---------- Routing ----------
+# SPA fallback so direct links/bookmarks work (client-side routing)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# ---------- Headers ----------
+# Security headers for all pages (tune CSP for your app as needed)
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    X-Content-Type-Options    = "nosniff"
+    X-Frame-Options           = "DENY"
+    Referrer-Policy           = "strict-origin-when-cross-origin"
+    Permissions-Policy        = "camera=(), microphone=(), geolocation=()"
+    # Start with a conservative CSP and relax as necessary for your app
+    Content-Security-Policy   = "default-src 'self'; img-src 'self' data: blob: https:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; connect-src 'self' https:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
+
+# Long-cache immutable assets (adjust the path mask to match your build)
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Prevent caching of HTML (so users always get fresh pages)
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "max-age=0, no-cache, no-store, must-revalidate"
